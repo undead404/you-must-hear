@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T10:03:46.631Z
+date: 2025-12-06T02:10:46.044Z
 permalink: tags/russian-rap
 title: russian rap
 ---
 
 ## russian rap
 
-Last updated: <time datetime="2025-12-03T10:03:46.631Z">Wed Dec 03 2025 12:03:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T02:10:46.044Z">Sat Dec 06 2025 04:10:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
   </thead>
   <tbody>
     <tr>
-      <td>33</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/ILPeRenDxRWm52ypj9fvAdi0MnqCP38SMsYhS-i6-f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzAx/NC0xNDQ2ODk3NjE4/LTk0MDMuanBlZw.jpeg" alt="Cover for Весёлый Ритм-У" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/37D3AOmAGhYAnkZO1O0ZIWBWMy4ImMKO6b-xsPzLGdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTI0/MzktMTU2NjExNTE3/MS0zMDU5LmpwZWc.jpeg" alt="Cover for Каменный Лес" style="max-width:120px; height:auto;" />
       </td>
@@ -71,7 +71,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>14</td>
       <td>
       </td>
       <td>2002-11</td>
@@ -90,32 +90,13 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/rY3_dBxIUNe8_ArDZ0_39hJp_pAAl6mtQyL83tvNL8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTMx/Mi0xNDkxMzg4NjY3/LTU3OTQuanBlZw.jpeg" alt="Cover for Трехмерные рифмы (переиздание)" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/tF-UKI3K-5JrScZiPPK6LDv70CYHyLCs5UJMlRoLn48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTg4/NzUtMTQ0MzEwMDA4/Ny00MjUyLmpwZWc.jpeg" alt="Cover for Выход" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
-      <td>Каста</td>
-      <td>Трехмерные рифмы (переиздание)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>
-      </td>
-      <td>2003</td>
-      <td>Карандаш</td>
-      <td>Уценка 99%</td>
+      <td>NTL</td>
+      <td>Выход</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
@@ -127,7 +108,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
       </td>
       <td>2003</td>
@@ -147,13 +128,12 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/tF-UKI3K-5JrScZiPPK6LDv70CYHyLCs5UJMlRoLn48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTg4/NzUtMTQ0MzEwMDA4/Ny00MjUyLmpwZWc.jpeg" alt="Cover for Выход" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
-      <td>NTL</td>
-      <td>Выход</td>
+      <td>Карандаш</td>
+      <td>Уценка 99%</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
@@ -165,7 +145,27 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/rY3_dBxIUNe8_ArDZ0_39hJp_pAAl6mtQyL83tvNL8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTMx/Mi0xNDkxMzg4NjY3/LTU3OTQuanBlZw.jpeg" alt="Cover for Трехмерные рифмы (переиздание)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Каста</td>
+      <td>Трехмерные рифмы (переиздание)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/8OYMoBLa2eblcwYdhvmAS14LdEVSNFhoJLynycGDNCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTQw/OC0xNDI3NTc3MDMw/LTc1NDcuanBlZw.jpeg" alt="Cover for Нет волшебства" style="max-width:120px; height:auto;" />
       </td>
@@ -184,7 +184,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f99d83d060e4f9594001b6682ff1b5c.png" alt="Cover for Феникс" style="max-width:120px; height:auto;" />
       </td>
@@ -204,7 +204,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/X3ZTuci-VxsnjUTiEdN2BCVTO5klKJ4ztNTw7LyuP_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTM1/OC0xMTIzMzM0NDM3/LmpwZw.jpeg" alt="Cover for I&#39;ll Meet You There" style="max-width:120px; height:auto;" />
       </td>
@@ -222,7 +222,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/FwOIrlGOVsgRZ2rEiQ_A73NkWRLDUnmUVFeEXVxKjH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM5/NjUzLTE1NDQ5NTg3/MTgtOTcyMS5qcGVn.jpeg" alt="Cover for Салам Маслам" style="max-width:120px; height:auto;" />
       </td>
@@ -240,7 +240,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/2z5e_-FxutEUFhAzxDcU6LNy_jwnYssunI7jav7d2kc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODQ3/MzQtMTI1Njc0Mjcz/MS5qcGVn.jpeg" alt="Cover for Планета 46" style="max-width:120px; height:auto;" />
       </td>
@@ -256,22 +256,19 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 63</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/oTW1yVnTl9d5N-AstU6PPtMCN9e_Hy8IbINEObETPBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ2/NTctMTQ5MTI0MzMw/NS03OTQzLmpwZWc.jpeg" alt="Cover for Караван Теней" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
-      <td>Антанта</td>
-      <td>Караван Теней</td>
+      <td>Карандаш</td>
+      <td>Американщина</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
         </ul>
       </td>
@@ -281,7 +278,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/7ADjWwwPNCNM-4hkFrEPJrGgoY7uChGe3Ip0xAIu21Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzI4/NjQtMTQzNDUyMTc4/Mi00NjI1LmpwZWc.jpeg" alt="Cover for Точка опоры. Белый Том" style="max-width:120px; height:auto;" />
       </td>
@@ -301,14 +298,17 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>92</td>
       <td>
+          <img src="https://i.discogs.com/oTW1yVnTl9d5N-AstU6PPtMCN9e_Hy8IbINEObETPBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ2/NTctMTQ5MTI0MzMw/NS03OTQzLmpwZWc.jpeg" alt="Cover for Караван Теней" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
-      <td>Карандаш</td>
-      <td>Американщина</td>
+      <td>Антанта</td>
+      <td>Караван Теней</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
         </ul>
       </td>
@@ -318,7 +318,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/x3f495GQmweOUvYwy2LfrYMQdtazbn7nPy03ZLjy67M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjIy/ODEtMTM4NTEwNTYy/Ny01MjA5LmpwZWc.jpeg" alt="Cover for Этажи" style="max-width:120px; height:auto;" />
       </td>
@@ -335,7 +335,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/S67zqX9-JCwnSxbb8v0wmbXK-Yk1nC6Sbw7m2s9U1jM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODI5/MjQtMTM5MjAwMzIx/MS0xMTUxLmpwZWc.jpeg" alt="Cover for Мишкин 1988-1488" style="max-width:120px; height:auto;" />
       </td>
@@ -356,7 +356,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
       </td>
       <td>2007-04-03</td>
@@ -374,7 +374,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>4</td>
       <td>
       </td>
       <td>2007-10-23</td>
@@ -391,7 +391,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/xpi6FIQPCoziNgCFdv5ct9d1tUtjfBkixPbN0YiYCb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjM1/NjgtMTU4MzA0NzEx/MS0yODkxLmpwZWc.jpeg" alt="Cover for Fragments" style="max-width:120px; height:auto;" />
       </td>
@@ -410,7 +410,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/NRwYFvuOcf1GcaWz3shetlfdVh-JLtuBH8owKCEjGeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjE0/MTktMTI0ODQ2NzIz/Ny5qcGVn.jpeg" alt="Cover for Не Сегодня" style="max-width:120px; height:auto;" />
       </td>
@@ -426,18 +426,18 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 5</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/zLIk57nq4aFiKFlAyJ6T4jbH2LaHoMsUDkc7fHAgQiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjA4/MjUtMTI1ODk5MTU2/MC5qcGVn.jpeg" alt="Cover for Пена" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e40bef396a6b4ac2ca37b1b3c5daeca3.png" alt="Cover for Фаталист" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
-      <td>пражектор</td>
-      <td>Пена</td>
+      <td>Ассаи</td>
+      <td>Фаталист</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
@@ -449,17 +449,34 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/hWpI6z8Ha_f98ZfLyzukaef_rozO9Yky4nhuc4K6Af0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzMz/MjctMTQ0NDI4MDc0/NS0yMDAyLmpwZWc.jpeg" alt="Cover for Весы" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/9vQ4Jpf2Ud1cWbV8uhI7gZC7wvz4PiAJBigq4uS0Lis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjM0/NDUtMTM5MDU1MzAy/MS0zMTYzLmpwZWc.jpeg" alt="Cover for Бедные тоже смеются" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
-      <td>Стриж</td>
-      <td>Весы</td>
+      <td>Карандаш</td>
+      <td>Бедные тоже смеются</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6d4733e8a6347b3b8538a5e56fef359.png" alt="Cover for Достучаться до небес" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>St1m</td>
+      <td>Достучаться до небес</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
         </ul>
       </td>
@@ -469,48 +486,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>40</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/939f546b089d43248948ced57eacf579.png" alt="Cover for Ясно!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Каста</td>
-      <td>Ясно!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67646e93a1104410c4ed68de25631b23.png" alt="Cover for Mic On Mars" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Marselle</td>
-      <td>Mic On Mars</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/csZ13tQf7_WknY8AA_5tEKcbKif3D9gnkTACSZsGbM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzcy/MDktMTYzMjg1NzUw/Ni02ODEyLmpwZWc.jpeg" alt="Cover for Сто Из Ста" style="max-width:120px; height:auto;" />
       </td>
@@ -531,16 +507,18 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>46</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6d4733e8a6347b3b8538a5e56fef359.png" alt="Cover for Достучаться до небес" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67646e93a1104410c4ed68de25631b23.png" alt="Cover for Mic On Mars" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
-      <td>St1m</td>
-      <td>Достучаться до небес</td>
+      <td>Marselle</td>
+      <td>Mic On Mars</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
         </ul>
       </td>
@@ -550,15 +528,17 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/9vQ4Jpf2Ud1cWbV8uhI7gZC7wvz4PiAJBigq4uS0Lis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjM0/NDUtMTM5MDU1MzAy/MS0zMTYzLmpwZWc.jpeg" alt="Cover for Бедные тоже смеются" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/939f546b089d43248948ced57eacf579.png" alt="Cover for Ясно!" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
-      <td>Карандаш</td>
-      <td>Бедные тоже смеются</td>
+      <td>Каста</td>
+      <td>Ясно!</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
         </ul>
       </td>
@@ -568,13 +548,33 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>63</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e40bef396a6b4ac2ca37b1b3c5daeca3.png" alt="Cover for Фаталист" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/hWpI6z8Ha_f98ZfLyzukaef_rozO9Yky4nhuc4K6Af0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzMz/MjctMTQ0NDI4MDc0/NS0yMDAyLmpwZWc.jpeg" alt="Cover for Весы" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
-      <td>Ассаи</td>
-      <td>Фаталист</td>
+      <td>Стриж</td>
+      <td>Весы</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/zLIk57nq4aFiKFlAyJ6T4jbH2LaHoMsUDkc7fHAgQiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjA4/MjUtMTI1ODk5MTU2/MC5qcGVn.jpeg" alt="Cover for Пена" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>пражектор</td>
+      <td>Пена</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
@@ -586,7 +586,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73c08fa789a1e779445e97f740fa7778.png" alt="Cover for Эфир в норме" style="max-width:120px; height:auto;" />
       </td>
@@ -606,70 +606,12 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>
-          <img src="https://i.discogs.com/FQ5n-pwmInqhvVevEWxsyL1CcU653v01S2_qcdWGi8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzI5/MDEtMTQ0MDA3NTgx/Mi0xMTA2LmpwZWc.jpeg" alt="Cover for Маршруты" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Dи&#39;аспора</td>
-      <td>Маршруты</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dce05404067b170078c9935d52642b2e.png" alt="Cover for Ещё" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Guf</td>
-      <td>Ещё</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/RuWwCYXxvMmhBPg2LFGADQl7Db1OyPW8Qd8jPZnvTBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzAw/OTAtMTQyOTE3Nzc5/MC0xMzIyLmpwZWc.jpeg" alt="Cover for Периметр" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Рем Дигга</td>
-      <td>Периметр</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/3Tua1SSzuBU1il-26aOFkG7Wt2tgaPl118CK8sdaU7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzcy/MjUtMTQ2MDQxMzU3/OC03ODE5LmpwZWc.jpeg" alt="Cover for На городской карте" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
-      <td>25&#x2F;17</td>
-      <td>На городской карте</td>
+      <td>Птаха</td>
+      <td>Ни О Чём</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
@@ -681,7 +623,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d97df711e61e4988b5d794314b7f93cb.png" alt="Cover for The Most Dangerous LP" style="max-width:120px; height:auto;" />
       </td>
@@ -701,12 +643,13 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
+          <img src="https://i.discogs.com/3Tua1SSzuBU1il-26aOFkG7Wt2tgaPl118CK8sdaU7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzcy/MjUtMTQ2MDQxMzU3/OC03ODE5LmpwZWc.jpeg" alt="Cover for На городской карте" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
-      <td>Птаха</td>
-      <td>Ни О Чём</td>
+      <td>25&#x2F;17</td>
+      <td>На городской карте</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
@@ -718,7 +661,64 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/RuWwCYXxvMmhBPg2LFGADQl7Db1OyPW8Qd8jPZnvTBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzAw/OTAtMTQyOTE3Nzc5/MC0xMzIyLmpwZWc.jpeg" alt="Cover for Периметр" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Рем Дигга</td>
+      <td>Периметр</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dce05404067b170078c9935d52642b2e.png" alt="Cover for Ещё" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Guf</td>
+      <td>Ещё</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/FQ5n-pwmInqhvVevEWxsyL1CcU653v01S2_qcdWGi8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzI5/MDEtMTQ0MDA3NTgx/Mi0xMTA2LmpwZWc.jpeg" alt="Cover for Маршруты" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Dи&#39;аспора</td>
+      <td>Маршруты</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/eh8nhbu8Gn3wh6CObwIxp4B3sTYqklVdfCg3sgM20n0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NjE1/MjctMTQwNDc1NjY2/OC05OTczLmpwZWc.jpeg" alt="Cover for Никто, Кроме Нас" style="max-width:120px; height:auto;" />
       </td>
@@ -735,7 +735,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/TuNdGGZqdrhOEEwf6HEkAVWA24vq4cMRXgpMwGsaci0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjM1/NTctMTYxNjM5MTQ4/My05NTMzLmpwZWc.jpeg" alt="Cover for Только для своих" style="max-width:120px; height:auto;" />
       </td>
@@ -754,53 +754,12 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-          <img src="https://i.discogs.com/qogLYV8FQYV8mEHJEbEnTpms0of2_Izrc1oYUGBxdbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTIw/NTgwLTE1NTExMjIy/ODYtNDU0My5qcGVn.jpeg" alt="Cover for Вне Грима EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Ar-SiDE</td>
-      <td>Вне Грима EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>7</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0919a03ec0d74b6cb81210e277aabf42.png" alt="Cover for Паранойя 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
-      <td>Loc-Dog</td>
-      <td>Паранойя 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-          <img src="https://i.discogs.com/HvEzdxPZPi7_U_eqBGSj3fu7E7UW7hLt9auMLY-vKx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDY2/OTctMTQxOTQzMjQz/MC0zMTkwLmpwZWc.jpeg" alt="Cover for XXXIII" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Варчун</td>
-      <td>XXXIII</td>
+      <td>БАСТА</td>
+      <td>Баста 3</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
@@ -812,61 +771,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-          <img src="https://i.discogs.com/tKkUTfTbNXXxsGWL1NG87us8_YF1BXtUHu29F658_ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTcz/MTM5LTE1MTg3MzQ2/MzktNTMxNi5wbmc.jpeg" alt="Cover for Львиное Сердце" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Лион</td>
-      <td>Львиное Сердце</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-      </td>
-      <td>2010</td>
-      <td>АК-47</td>
-      <td>МегаPOLICE</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf2df8daa9434b68a1965cc0f47278f2.png" alt="Cover for Папиросы" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Зануда</td>
-      <td>Папиросы</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7b2ee8abf4a428d815216b24d94a583.png" alt="Cover for Вечерний Челябинск" style="max-width:120px; height:auto;" />
       </td>
@@ -887,12 +792,13 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf2df8daa9434b68a1965cc0f47278f2.png" alt="Cover for Папиросы" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
-      <td>БАСТА</td>
-      <td>Баста 3</td>
+      <td>Зануда</td>
+      <td>Папиросы</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
@@ -904,7 +810,101 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
+      <td>
+      </td>
+      <td>2010</td>
+      <td>АК-47</td>
+      <td>МегаPOLICE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/tKkUTfTbNXXxsGWL1NG87us8_YF1BXtUHu29F658_ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTcz/MTM5LTE1MTg3MzQ2/MzktNTMxNi5wbmc.jpeg" alt="Cover for Львиное Сердце" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Лион</td>
+      <td>Львиное Сердце</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/HvEzdxPZPi7_U_eqBGSj3fu7E7UW7hLt9auMLY-vKx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDY2/OTctMTQxOTQzMjQz/MC0zMTkwLmpwZWc.jpeg" alt="Cover for XXXIII" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Варчун</td>
+      <td>XXXIII</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0919a03ec0d74b6cb81210e277aabf42.png" alt="Cover for Паранойя 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Loc-Dog</td>
+      <td>Паранойя 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/qogLYV8FQYV8mEHJEbEnTpms0of2_Izrc1oYUGBxdbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTIw/NTgwLTE1NTExMjIy/ODYtNDU0My5qcGVn.jpeg" alt="Cover for Вне Грима EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Ar-SiDE</td>
+      <td>Вне Грима EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
       <td>
       </td>
       <td>2010-04-10</td>
@@ -921,7 +921,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/611f146dcae04481ac485f3fe220aca5.png" alt="Cover for Глубина" style="max-width:120px; height:auto;" />
       </td>
@@ -938,12 +938,124 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 43</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/gnqwjvN4OTWfcC8dsJQ-IerjRZPS94H8dD7jUq4aThE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NjE1/MzMtMTQwNDc1NTAy/OS01ODA3LmpwZWc.jpeg" alt="Cover for О Пути По Встречной" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Грот</td>
+      <td>О Пути По Встречной</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/Xpjy2QoKnRmNcJfHgYt6lrQBnKDJjkC0nU_Km9PMWQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjQ4/NTMtMTMwNzU3MDQz/Ni5qcGVn.jpeg" alt="Cover for Время Тигра" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Смоки Мо</td>
+      <td>Время Тигра</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/76kpqU3xYQQzwE90GEN4ddD4HJwS3I-FcYgdxRKnuxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI0/ODk4LTE1NzIyNjAy/MzctMjgzNS5qcGVn.jpeg" alt="Cover for Амальгама" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Идефикс</td>
+      <td>Амальгама</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17cadded8ea140a7980ffd20c559d7fe.png" alt="Cover for Живым" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Артем Татищевский</td>
+      <td>Живым</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bec162a0c634b29cb2b166f43a8d597.png" alt="Cover for Граната" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Рем Дигга</td>
+      <td>Граната</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/2oN4_aj37cNIud8VL5-hwD5Kw6_Vdl2uWiIH_YtwCAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQz/NjUxLTE1NzI2MjQ1/NTUtMjE1Ni5qcGVn.jpeg" alt="Cover for Соблюдай Спокойствие" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>D-Man 55</td>
+      <td>Соблюдай Спокойствие</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/oJRkSHYNZJKSIv9brvUYP7pRW-w8LO2VBdvlMLcfI7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzcx/NzUtMTUyMzc5NjQ2/Ni0xNDI0LmpwZWc.jpeg" alt="Cover for MARS FM (Mixtape)" style="max-width:120px; height:auto;" />
       </td>
@@ -964,119 +1076,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>20</td>
-      <td>
-          <img src="https://i.discogs.com/2oN4_aj37cNIud8VL5-hwD5Kw6_Vdl2uWiIH_YtwCAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQz/NjUxLTE1NzI2MjQ1/NTUtMjE1Ni5qcGVn.jpeg" alt="Cover for Соблюдай Спокойствие" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>D-Man 55</td>
-      <td>Соблюдай Спокойствие</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bec162a0c634b29cb2b166f43a8d597.png" alt="Cover for Граната" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Рем Дигга</td>
-      <td>Граната</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17cadded8ea140a7980ffd20c559d7fe.png" alt="Cover for Живым" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Артем Татищевский</td>
-      <td>Живым</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>68</td>
-      <td>
-          <img src="https://i.discogs.com/76kpqU3xYQQzwE90GEN4ddD4HJwS3I-FcYgdxRKnuxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI0/ODk4LTE1NzIyNjAy/MzctMjgzNS5qcGVn.jpeg" alt="Cover for Амальгама" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Идефикс</td>
-      <td>Амальгама</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
-      <td>
-          <img src="https://i.discogs.com/Xpjy2QoKnRmNcJfHgYt6lrQBnKDJjkC0nU_Km9PMWQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjQ4/NTMtMTMwNzU3MDQz/Ni5qcGVn.jpeg" alt="Cover for Время Тигра" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Смоки Мо</td>
-      <td>Время Тигра</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
-      <td>
-          <img src="https://i.discogs.com/gnqwjvN4OTWfcC8dsJQ-IerjRZPS94H8dD7jUq4aThE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NjE1/MzMtMTQwNDc1NTAy/OS01ODA3LmpwZWc.jpeg" alt="Cover for О Пути По Встречной" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Грот</td>
-      <td>О Пути По Встречной</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18c42bc955c74934af855ad95c613ec3.png" alt="Cover for Зеркала" style="max-width:120px; height:auto;" />
       </td>
@@ -1096,18 +1096,17 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>18</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0e22962315b3fb426098778d4e37ee8.png" alt="Cover for Сам и..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/613f57028f5ead66c1a068c9cce0d9ea.png" alt="Cover for HOTSHOT" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
-      <td>Guf</td>
-      <td>Сам и...</td>
+      <td>Toxi$</td>
+      <td>HOTSHOT</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
@@ -1116,27 +1115,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>57</td>
-      <td>
-          <img src="https://i.discogs.com/MJCWD0q50rH-LuKCwPrMtPPa4DBCorxTThPPeoB_Sqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjA1/MDAtMTQ1NjMyODAw/Ny0yMjkxLmpwZWc.jpeg" alt="Cover for Сок" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Типси Тип</td>
-      <td>Сок</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/dAymAeTpJlUFqUFUOabOXlKsTFCgvugyoNeHj-5vrW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjA1/MzctMTYxMzc5ODUx/Ni01OTk4LmpwZWc.jpeg" alt="Cover for Мои глаза открыты" style="max-width:120px; height:auto;" />
       </td>
@@ -1156,17 +1135,18 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>42</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/613f57028f5ead66c1a068c9cce0d9ea.png" alt="Cover for HOTSHOT" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/MJCWD0q50rH-LuKCwPrMtPPa4DBCorxTThPPeoB_Sqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjA1/MDAtMTQ1NjMyODAw/Ny0yMjkxLmpwZWc.jpeg" alt="Cover for Сок" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
-      <td>Toxi$</td>
-      <td>HOTSHOT</td>
+      <td>Типси Тип</td>
+      <td>Сок</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
@@ -1175,7 +1155,27 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0e22962315b3fb426098778d4e37ee8.png" alt="Cover for Сам и..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Guf</td>
+      <td>Сам и...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/cyCp7k1w3UI2w92F4mTGN1wqniKw3fqS68EtF5WfliM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NjE1/MzQtMTQwNDc1NTU1/NS0xNjkwLmpwZWc.jpeg" alt="Cover for Больше, чем живы" style="max-width:120px; height:auto;" />
       </td>
@@ -1192,7 +1192,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8052955d13d4278b2bec5ff9de2c245.png" alt="Cover for Катарсис" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,7 +1212,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c3b890080a200be85299d4a167ec329.png" alt="Cover for WUDU" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,13 +1234,50 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>16</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b21765b71e46420d8f873cad84d35447.png" alt="Cover for Дни Ядерной Стабильности" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d95029c8313c4888826870a5e7d0cd81.png" alt="Cover for Задеть за Мёртвое" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
-      <td>4SGM</td>
-      <td>Дни Ядерной Стабильности</td>
+      <td>Ассаи</td>
+      <td>Задеть за Мёртвое</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af49b1aa4b8e497cae1a92085f18c30a.png" alt="Cover for Выпуск 1: Inferno" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Кажэ Обойма</td>
+      <td>Выпуск 1: Inferno</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50d3de7bfdf7418a8149efea46a55541.png" alt="Cover for Неизбежен" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Оу74</td>
+      <td>Неизбежен</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
@@ -1254,69 +1291,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcae646c28b5ef8b02fcbe159029960a.png" alt="Cover for SEKTA" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>XIII</td>
-      <td>SEKTA</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2eb306f9d20a62f320479e5aad8b9769.png" alt="Cover for Reibu" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>XIII</td>
-      <td>Reibu</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e684194f7c74fdab55b268b22c8c362.png" alt="Cover for Electrodog 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>Loc-Dog</td>
-      <td>Electrodog 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/onCEpr5Yb__DyxqC6qYMygKbr_GhA33xUwsR3wCXZXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDk2/NDAtMTU5MDc2NTIw/OS01OTg2LmpwZWc.jpeg" alt="Cover for Ешь" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,13 +1313,34 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50d3de7bfdf7418a8149efea46a55541.png" alt="Cover for Неизбежен" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e684194f7c74fdab55b268b22c8c362.png" alt="Cover for Electrodog 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
-      <td>Оу74</td>
-      <td>Неизбежен</td>
+      <td>Loc-Dog</td>
+      <td>Electrodog 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2eb306f9d20a62f320479e5aad8b9769.png" alt="Cover for Reibu" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>XIII</td>
+      <td>Reibu</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
@@ -1358,16 +1354,18 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>77</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af49b1aa4b8e497cae1a92085f18c30a.png" alt="Cover for Выпуск 1: Inferno" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcae646c28b5ef8b02fcbe159029960a.png" alt="Cover for SEKTA" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
-      <td>Кажэ Обойма</td>
-      <td>Выпуск 1: Inferno</td>
+      <td>XIII</td>
+      <td>SEKTA</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
         </ul>
       </td>
@@ -1377,15 +1375,17 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>96</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d95029c8313c4888826870a5e7d0cd81.png" alt="Cover for Задеть за Мёртвое" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b21765b71e46420d8f873cad84d35447.png" alt="Cover for Дни Ядерной Стабильности" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
-      <td>Ассаи</td>
-      <td>Задеть за Мёртвое</td>
+      <td>4SGM</td>
+      <td>Дни Ядерной Стабильности</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
         </ul>
       </td>
@@ -1395,7 +1395,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/gAV89Y5xj4B53YxxMJ7u0N1Uif_dlxn1i_i6pqR15r0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjY3/NDUtMTM5ODM0ODkw/NS00OTU1LmpwZWc.jpeg" alt="Cover for Пыльный" style="max-width:120px; height:auto;" />
       </td>
@@ -1415,7 +1415,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/273fb08730b44fdecfa384ec16bce477.png" alt="Cover for Людоед" style="max-width:120px; height:auto;" />
       </td>
@@ -1437,7 +1437,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b55d8bfc91794862c804181452df3032.png" alt="Cover for Русский подорожник" style="max-width:120px; height:auto;" />
       </td>
@@ -1450,11 +1450,12 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbcbf6c4799e9e6cee8de02e89636dd8.png" alt="Cover for Дом тысячи сквозняков" style="max-width:120px; height:auto;" />
       </td>
@@ -1473,7 +1474,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/KhXa41OTQPxnAQP7Bc0Qc8GF0ojGUrvPoiG00zIycIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzM3/NjctMTQ1NjEyMTYw/MC03Mjc5LmpwZWc.jpeg" alt="Cover for Черника и Циклоп" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,7 +1494,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/8tJVylXDQDVKjslHhYJTGVykWaoGXSC1PnJXujW_igE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/NjcxLTE1MTAxMzg2/NTgtOTQwMS5qcGVn.jpeg" alt="Cover for Мементо мори" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,7 +1513,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/ZcRd0dYc6U-t4myDiiM2byyFEE5KKCgDAlSoSPJgdzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTg1/OTEtMTQ4OTc5MTE4/NC0xODA5LmpwZWc.jpeg" alt="Cover for Радость встреч и расставаний" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,7 +1532,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6dca0caff6797def82df6fb6d7f1303.png" alt="Cover for Любимые песни (воображаемых) людей" style="max-width:120px; height:auto;" />
       </td>
@@ -1548,12 +1549,12 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 78</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f571d88a8bf0d95ff949243b4d9587e.png" alt="Cover for Pink Phloyd" style="max-width:120px; height:auto;" />
       </td>
@@ -1571,13 +1572,13 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 19</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 94</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 7</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/DkGQoWKf6JuSgOH9iiQr15obeci1PWWqtjDB1heqI3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzEw/ODY0LTE1MTU0ODQ5/MDctNTA5OS5qcGVn.jpeg" alt="Cover for Откуда мне знать тебя" style="max-width:120px; height:auto;" />
       </td>
@@ -1596,7 +1597,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c07e965dc750cf42078df63f73d0cda.png" alt="Cover for Король Изумрудного Города" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1617,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/Fa9gZyhnIbZMi55xlkQMh1FlMMcYL3aGlhk3ghbVYMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg1/OTQ5LTE1MzgxMDI3/NjYtNjQ4NS5qcGVn.jpeg" alt="Cover for Grand Theft Auto IV: Vladivostok FM" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,7 +1635,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/42d340c326f2b672a91d7eec3820c5f3.png" alt="Cover for Я Тебя Никогда" style="max-width:120px; height:auto;" />
       </td>
@@ -1651,7 +1652,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2693f46463254e53c3759b7f58d4fa4c.png" alt="Cover for Бутер Бродский" style="max-width:120px; height:auto;" />
       </td>
@@ -1671,7 +1672,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3db09a6b473c06226af97d74387e102e.png" alt="Cover for Солнце мёртвых" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,7 +1693,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa5f48f6746fa57b712b2c1657a123e6.png" alt="Cover for Ярмарка" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,7 +1713,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/7zqOXVPoKeWIiuPXc61nf_l6U1iA2kobQnR_J-FuDVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQz/NTU4LTE2MDc3ODU4/ODYtMTc3NC5qcGVn.jpeg" alt="Cover for The Music Of Grand Theft Auto IV" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,7 +1731,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>88</td>
       <td>
       </td>
       <td></td>
@@ -1745,39 +1746,22 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 55</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b55372653ba47b6aa6b0866dc6b7846d.png" alt="Cover for Шляпа (2008) LP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>VBT Вектор Beat</td>
-      <td>Самопал</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Чекист</td>
-      <td>All I Know (Street Album) (2007)</td>
+      <td>Черная Экономика</td>
+      <td>Шляпа (2008) LP</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
       <td>
@@ -1786,54 +1770,16 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
-      <td>Корейские LЁDчики</td>
-      <td>Синглы</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Супец</td>
-      <td>Перемен не ждём</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba5cd0b28096e7d66ed5049daae2f9c0.png" alt="Cover for Ещё" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Гуф</td>
-      <td>Ещё</td>
+      <td>КРП a.k.a. Купэ</td>
+      <td>Мой Магнитофон</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
         </ul>
       </td>
       <td>
@@ -1842,60 +1788,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>
-      </td>
-      <td></td>
-      <td>aka СаДист</td>
-      <td>День Несбывшихся Надежд</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Гуф</td>
-      <td>Город Дорог</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Eldzhey</td>
-      <td>Sayonara Boy Oраl</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa6605c14bc25ebc1c1ca585010c0756.png" alt="Cover for NARRATIVE" style="max-width:120px; height:auto;" />
       </td>
@@ -1915,15 +1808,14 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>59</td>
       <td>
       </td>
       <td></td>
-      <td>КРП a.k.a. Купэ</td>
-      <td>Мой Магнитофон</td>
+      <td>Eldzhey</td>
+      <td>Sayonara Boy Oраl</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
         </ul>
       </td>
@@ -1933,17 +1825,126 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b55372653ba47b6aa6b0866dc6b7846d.png" alt="Cover for Шляпа (2008) LP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Черная Экономика</td>
-      <td>Шляпа (2008) LP</td>
+      <td>Гуф</td>
+      <td>Город Дорог</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td></td>
+      <td>aka СаДист</td>
+      <td>День Несбывшихся Надежд</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba5cd0b28096e7d66ed5049daae2f9c0.png" alt="Cover for Ещё" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Гуф</td>
+      <td>Ещё</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Супец</td>
+      <td>Перемен не ждём</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Корейские LЁDчики</td>
+      <td>Синглы</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Чекист</td>
+      <td>All I Know (Street Album) (2007)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td></td>
+      <td>VBT Вектор Beat</td>
+      <td>Самопал</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
         </ul>
       </td>
       <td>

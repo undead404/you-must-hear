@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T10:36:33.749Z
+date: 2025-12-06T02:14:46.132Z
 permalink: tags/funk-rock
 title: funk rock
 ---
 
 ## funk rock
 
-Last updated: <time datetime="2025-12-03T10:36:33.749Z">Wed Dec 03 2025 12:36:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T02:14:46.132Z">Sat Dec 06 2025 04:14:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0910b63aedae637924509fdb132c8c55.png" alt="Cover for Maggot Brain" style="max-width:120px; height:auto;" />
       </td>
@@ -43,12 +43,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 93</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fca3270e458dfc1dec4058488ab80f46.png" alt="Cover for Greetings From L.A." style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05ae461be8daa0736bf6ef49a3637d2c.png" alt="Cover for Greetings From L.A" style="max-width:120px; height:auto;" />
       </td>
@@ -91,7 +91,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b548ca89d3fb077fe2805f4e17f2ac9b.png" alt="Cover for Station to Station" style="max-width:120px; height:auto;" />
       </td>
@@ -104,12 +104,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 45</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6155534dd9254005a874e56420374f1a.png" alt="Cover for All &#39;N All" style="max-width:120px; height:auto;" />
       </td>
@@ -122,12 +122,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 30</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/kX1IO9A1O60gu5cXu_phTiFHF7bSF8Sf7_Yz6J0Ghck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTM5/ODQtMTYwODIwNDQ4/MS03MTA3LmpwZWc.jpeg" alt="Cover for The Black-Man&#39;s Burdon" style="max-width:120px; height:auto;" />
       </td>
@@ -148,7 +148,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab3cce7dfeb7630e8430ad8e4d332145.png" alt="Cover for Go to Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -161,12 +161,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 81</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a783d64b0ea6d133eb7f6258ec1b6b0.png" alt="Cover for Purple Rain" style="max-width:120px; height:auto;" />
       </td>
@@ -181,12 +181,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 91</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa5ebfa15ad24b2bcbeedb0b42ef5762.png" alt="Cover for PLECTRUMELECTRUM" style="max-width:120px; height:auto;" />
       </td>
@@ -205,7 +205,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/450808fc214ea97692810f5c603bb54a.png" alt="Cover for The Red Hot Chili Peppers" style="max-width:120px; height:auto;" />
       </td>
@@ -223,7 +223,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef3cb45a924ef4383f4ee2a3989f2d6a.png" alt="Cover for Freaky Styley" style="max-width:120px; height:auto;" />
       </td>
@@ -238,12 +238,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 20</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/308c0c61eab29b2d9a80efea4655399e.png" alt="Cover for The Uplift Mofo Party Plan" style="max-width:120px; height:auto;" />
       </td>
@@ -257,12 +257,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 57</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5d40fbfdc8d757dbc12ef696f2f9856.png" alt="Cover for Truth And Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -280,7 +280,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f9a1a6ca94449b88e3127414e3bd5dd.png" alt="Cover for Never Look Back" style="max-width:120px; height:auto;" />
       </td>
@@ -297,12 +297,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 41</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/ycDQtb9bLeeuCX1zxkIF70YX0pIkV1On6oiPShvllI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDE2/Ni0xNjYxNTEzODEy/LTM0NDMuanBlZw.jpeg" alt="Cover for SIX" style="max-width:120px; height:auto;" />
       </td>
@@ -322,7 +322,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48d9829c817d481bc89cbe3f52cb5eb1.png" alt="Cover for Let Love Rule" style="max-width:120px; height:auto;" />
       </td>
@@ -340,7 +340,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36c53e9197366baed82c8cbcb29fb578.png" alt="Cover for Mother&#39;s Milk" style="max-width:120px; height:auto;" />
       </td>
@@ -355,12 +355,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 66</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b80376f949dd47bec7c6d7e9e042c799.png" alt="Cover for Blood Sugar Sex Magik (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -378,12 +378,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 17</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f541718ee94a5b915c7eb337c642549a.png" alt="Cover for Frizzle Fry (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -403,7 +403,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43c2dd06a6854cd34cb4a147e9f75895.png" alt="Cover for Return of the Dream Canteen" style="max-width:120px; height:auto;" />
       </td>
@@ -420,7 +420,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31f6a2761b26cd4f2b15944c03e7cebc.png" alt="Cover for Extreme II: Pornograffitti" style="max-width:120px; height:auto;" />
       </td>
@@ -434,12 +434,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 32</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
       </td>
       <td>1991-05-14</td>
@@ -453,13 +453,13 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 2</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 90</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
       </td>
       <td>1991-08-20</td>
@@ -478,7 +478,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/866a975e024d45e2ad50e3e0399dd45d.png" alt="Cover for Blood Sugar Sex Magik" style="max-width:120px; height:auto;" />
       </td>
@@ -497,7 +497,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>1992</td>
@@ -513,32 +513,13 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/live-show" | relative_url }}">live show</a> # 23</li>
             <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 42</li>
-            <li> <a href="{{ "/tags/live-show" | relative_url }}">live show</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-          <img src="https://i.discogs.com/N9bI3qK9dwZ9E6Its7UZV1Rdr_8omf8YBqLs6EaQ9cE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUw/NzMtMTI5OTMzNzM1/MS5qcGVn.jpeg" alt="Cover for Two Princes - The Best Of" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Spin Doctors</td>
-      <td>Two Princes - The Best Of</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/pdZXys-zBOYa6U5nDN3kCwtncdfLcSIVa2Kwu2rqKes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Njkx/MTgtMTQ1MDU1MzAw/Ny0xODY2LmpwZWc.jpeg" alt="Cover for What Hits?" style="max-width:120px; height:auto;" />
       </td>
@@ -559,7 +540,26 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/N9bI3qK9dwZ9E6Its7UZV1Rdr_8omf8YBqLs6EaQ9cE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUw/NzMtMTI5OTMzNzM1/MS5qcGVn.jpeg" alt="Cover for Two Princes - The Best Of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Spin Doctors</td>
+      <td>Two Princes - The Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80296bbd1fec4801ae67ef3a4b70fd5f.png" alt="Cover for Miscellaneous Debris" style="max-width:120px; height:auto;" />
       </td>
@@ -573,12 +573,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 21</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12785e2810fc4036c0590a6b45f97eeb.png" alt="Cover for III Sides To Every Story" style="max-width:120px; height:auto;" />
       </td>
@@ -595,7 +595,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb411d55badaa56e6196046aa2a71f6d.png" alt="Cover for What Hits!?" style="max-width:120px; height:auto;" />
       </td>
@@ -609,12 +609,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 31</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
       </td>
       <td>1992-11-24</td>
@@ -629,54 +629,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 57</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f16c09c6f7a30f28a8bd009ed0f0f1f0.png" alt="Cover for Give A Monkey A Brain And He&#39;ll Swear He&#39;s The Center Of The Universe" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Fishbone</td>
-      <td>Give A Monkey A Brain And He&#39;ll Swear He&#39;s The Center Of The Universe</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-      </td>
-      <td>1993</td>
-      <td>Can</td>
-      <td>Radio Waves</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/942db8adb13faec9cc28c9d77b6d793d.png" alt="Cover for Travelling Without Moving (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -698,7 +656,49 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>76</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Can</td>
+      <td>Radio Waves</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f16c09c6f7a30f28a8bd009ed0f0f1f0.png" alt="Cover for Give A Monkey A Brain And He&#39;ll Swear He&#39;s The Center Of The Universe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Fishbone</td>
+      <td>Give A Monkey A Brain And He&#39;ll Swear He&#39;s The Center Of The Universe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/ocY2GPJmuGXscSRU6WL_RfoXtv2Dm6N4sEuPzG-1XPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTkz/MS0xMzQwNDM4MDEw/LTgyNjUuanBlZw.jpeg" alt="Cover for Are You Gonna Go My Way?" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +718,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e2b2943c55d4c4fa468f7014c584ba3.png" alt="Cover for Potatoes For Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -736,13 +736,13 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 42</li>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 95</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 6</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/260c36b4facc2f7e695a8cd47601fead.png" alt="Cover for Kick (Remastered 2011)" style="max-width:120px; height:auto;" />
       </td>
@@ -759,7 +759,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>1994-06-27</td>
@@ -776,7 +776,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1913a93235434545a3db322b4ac79ca6.png" alt="Cover for Out in L.A." style="max-width:120px; height:auto;" />
       </td>
@@ -795,7 +795,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/NQ_obwhlXnJYmSNxcERJHMvLsobomNPcjBm6fNjq9DY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODA3/NjctMTI2ODM2MjAy/NC5qcGVn.jpeg" alt="Cover for Jota Quest" style="max-width:120px; height:auto;" />
       </td>
@@ -814,7 +814,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6bd20b397764794c7d5c74a2ede5c66.png" alt="Cover for Waiting For The Punchline" style="max-width:120px; height:auto;" />
       </td>
@@ -832,7 +832,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/318a8943455039ebe1ca9ec0da6ade3b.png" alt="Cover for La Espada &amp; la Pared" style="max-width:120px; height:auto;" />
       </td>
@@ -849,12 +849,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 84</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee14a6fd83804bfdb8c9c2a1c91c9ec2.png" alt="Cover for One Hot Minute" style="max-width:120px; height:auto;" />
       </td>
@@ -869,12 +869,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 81</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>64</td>
       <td>
       </td>
       <td>1996</td>
@@ -887,13 +887,13 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 49</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 59</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 41</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25f5622a960e42297bc30ada10d4aba1.png" alt="Cover for Hard Rock Caca" style="max-width:120px; height:auto;" />
       </td>
@@ -916,7 +916,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>59</td>
       <td>
       </td>
       <td>1996-08-21</td>
@@ -941,33 +941,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 63</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
-      <td>
-      </td>
-      <td>1997</td>
-      <td>Charlie Brown JR.</td>
-      <td>Transpiração Contínua Prolongada</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 59</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 59</li>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 76</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/AmApp3lZtdHvSUUrilgxNM_2Gwih2XQqg2LTdoqAfa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTky/My0xMTc4NjE2ODYx/LmpwZWc.jpeg" alt="Cover for Undergrowth" style="max-width:120px; height:auto;" />
       </td>
@@ -986,13 +965,34 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 28</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 48</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 54</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>57</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Charlie Brown JR.</td>
+      <td>Transpiração Contínua Prolongada</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 25</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 42</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3178b5958f3c20f5d8a312161b085f00.png" alt="Cover for 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,12 +1007,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 80</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/zUnuTqpxQjbEAueTP0RUXm25TUVwLpKflj1V8lTy0LM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDcx/OC0xMTM4NDA4MTQw/LmpwZWc.jpeg" alt="Cover for B-Sides" style="max-width:120px; height:auto;" />
       </td>
@@ -1030,7 +1030,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1469e23c2f2b476b9ca68f87cb29bcd1.png" alt="Cover for Californication" style="max-width:120px; height:auto;" />
       </td>
@@ -1045,13 +1045,13 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 88</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 91</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 10</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/eKcDeEIV7xvi9UUjrsc-rPIG1hxEkOCBanKB3YHQ-nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg1/NzEtMTMyNzI0MDgy/MC5qcGVn.jpeg" alt="Cover for O&#39;Funk&#39;Illo" style="max-width:120px; height:auto;" />
       </td>
@@ -1075,14 +1075,14 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 30</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 73</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 76</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 25</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 28</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>48</td>
       <td>
       </td>
       <td>2000-10-24</td>
@@ -1102,7 +1102,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54162225b7b19f419770befbb90a39d0.png" alt="Cover for Lenny" style="max-width:120px; height:auto;" />
       </td>
@@ -1120,7 +1120,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td>2001-10</td>
@@ -1134,12 +1134,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 48</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cf21de2eafd4326c3400f761cace533.png" alt="Cover for By The Way (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1157,12 +1157,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 33</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>2002</td>
@@ -1180,7 +1180,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f95067353057a3c59fe6ba90469e56c6.png" alt="Cover for By the Way" style="max-width:120px; height:auto;" />
       </td>
@@ -1197,7 +1197,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4dc4c4fad098c1898ccadb4fdf1728d.png" alt="Cover for 耳噛じる" style="max-width:120px; height:auto;" />
       </td>
@@ -1221,31 +1221,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 51</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-          <img src="https://i.discogs.com/gDchTqNWdV2ek_ju6rWqlR7dnrJIZBHpSc7rPRoVnaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg0/NC0xMzcyNzg5NDUz/LTU5MzIuanBlZw.jpeg" alt="Cover for In the Search of..." style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>N*E*R*D</td>
-      <td>In the Search of...</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2ccf37819ec49e3a700dafb889d3b7b.png" alt="Cover for In Search of" style="max-width:120px; height:auto;" />
       </td>
@@ -1264,7 +1245,26 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/gDchTqNWdV2ek_ju6rWqlR7dnrJIZBHpSc7rPRoVnaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg0/NC0xMzcyNzg5NDUz/LTU5MzIuanBlZw.jpeg" alt="Cover for In the Search of..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>N*E*R*D</td>
+      <td>In the Search of...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
       <td>
       </td>
       <td>2004-01-19</td>
@@ -1282,7 +1282,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
       </td>
       <td>2004-01-21</td>
@@ -1300,7 +1300,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
       </td>
       <td>2004-06-02</td>
@@ -1316,7 +1316,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d2b191c5560033ab067ed96f9baf699.png" alt="Cover for No Te Cabe Na&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1343,12 +1343,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 29</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 47</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/703fb367d4f2f5139b294cd36af81e1c.png" alt="Cover for Até Onde Vai" style="max-width:120px; height:auto;" />
       </td>
@@ -1367,7 +1367,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/B05i4vhwKB58jwhBACotztZmqr5XiZBUCjR0YQchMXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTg0/ODUtMTQ1NzM1OTM4/Ni00NjgzLmpwZWc.jpeg" alt="Cover for Sex &amp; Honey" style="max-width:120px; height:auto;" />
       </td>
@@ -1391,12 +1391,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       <td>
         <ul>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 22</li>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 71</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c65460d86d454f3388988c3acf876936.png" alt="Cover for Stadium Arcadium" style="max-width:120px; height:auto;" />
       </td>
@@ -1413,7 +1413,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df27954a78474015b4bf9e8a4eb2649f.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,14 +1428,14 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 7</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 41</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 47</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 61</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf5a178a4591fb458533ffc8d1b907ba.png" alt="Cover for It Is Time for a Love Revolution" style="max-width:120px; height:auto;" />
       </td>
@@ -1453,7 +1453,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1d8537b867d30e2fd4d7862836aec04.png" alt="Cover for Saudades De Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -1470,7 +1470,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f8e46e38decdaf02088b967c64361b3.png" alt="Cover for Orange" style="max-width:120px; height:auto;" />
       </td>
@@ -1508,13 +1508,13 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 18</li>
             <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 18</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>45</td>
       <td>
       </td>
       <td>2009-05-25</td>
@@ -1533,7 +1533,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/iL6Bws79IGGADwIXzSjar1SFbvSp8av--GPKMObed3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDk4/ODEtMTI0NzY5MjM5/Mi5qcGVn.jpeg" alt="Cover for The Budos Band EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1553,7 +1553,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dde563abdc7e4e56b2020ce328b27d36.png" alt="Cover for Who I Am" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,7 +1570,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96202fab905bd274ab9177d2c95954e2.png" alt="Cover for Hands All Over" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1588,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d40ef05e0604f759b73a3567268ae63.png" alt="Cover for Phase 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,13 +1605,13 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 51</li>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 59</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 42</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbce3c0393fe47cda25d0e629489accf.png" alt="Cover for Projeto Paralelo" style="max-width:120px; height:auto;" />
       </td>
@@ -1632,7 +1632,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9fc4edb16c940858581d4507f8ee523.png" alt="Cover for I&#39;m With You" style="max-width:120px; height:auto;" />
       </td>
@@ -1652,7 +1652,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a77748a373f242e2b2a74c3c51365fcc.png" alt="Cover for Hampton&#x2F;Winston-Salem &#39;97" style="max-width:120px; height:auto;" />
       </td>
@@ -1669,13 +1669,13 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/live-show" | relative_url }}">live show</a> # 21</li>
             <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 39</li>
-            <li> <a href="{{ "/tags/live-show" | relative_url }}">live show</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4acf30d32087ad05b08588db33c49ac6.png" alt="Cover for Cão" style="max-width:120px; height:auto;" />
       </td>
@@ -1693,7 +1693,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdf07221a04e7fe1031f305f9eb99ac0.png" alt="Cover for Hands All Over (Revised International Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,7 +1712,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0c2c98a6a2e3e3ca2ca647e70fbf5b7.png" alt="Cover for Flowers" style="max-width:120px; height:auto;" />
       </td>
@@ -1725,15 +1725,15 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 5</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 9</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 17</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 65</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 92</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 96</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d63e04a577b4145c162201d08c7133f.png" alt="Cover for Strut" style="max-width:120px; height:auto;" />
       </td>
@@ -1751,7 +1751,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/fTOC6mHSZjipublMKgwJDfORP8CzZZqSROiGr0X2re8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDcz/MzktMTQxMjI1ODc5/My04MDY0LmpwZWc.jpeg" alt="Cover for Pocket Full Of Kryptonite (Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1771,7 +1771,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/969722da3b56f03f8aaf996464336460.png" alt="Cover for Christmas Time Is Here" style="max-width:120px; height:auto;" />
       </td>
@@ -1792,7 +1792,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/6yYOjuY93IgNbQH1o8Cmshhjj8x6-V68zJMoWQF9olk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDM5/NzUtMTQ2OTExMTgw/NC01MjUxLnBuZw.jpeg" alt="Cover for Prophets Of Rage" style="max-width:120px; height:auto;" />
       </td>
@@ -1810,14 +1810,14 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 5</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 9</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 89</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 96</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fb435a4deb6e3cb5016b9283e9401ec.png" alt="Cover for Station To Station (2016 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1830,13 +1830,13 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 25</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 27</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 74</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6007e5d822cc18a81cf40203ecd91983.png" alt="Cover for The Fearless Flyers" style="max-width:120px; height:auto;" />
       </td>
@@ -1852,13 +1852,13 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 5</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 68</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 32</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/745EF-FSG7w9ODD7vMyd-7DroF_R3NzQWg0APE32Hp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODgw/MzQ2LTE2NzYxOTUx/MDgtNzc4NC5qcGVn.jpeg" alt="Cover for Inter-Fusion" style="max-width:120px; height:auto;" />
       </td>
@@ -1878,7 +1878,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8335628b753932a797c70c7571f5a991.png" alt="Cover for The Fearless Flyers II" style="max-width:120px; height:auto;" />
       </td>
@@ -1897,7 +1897,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/GiYsFEePI3lAbSPowuYFh1d6_NXVX2PdSfU2Pgx3xwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU3/MjQyLTE1ODQ3MTkw/NjktNzc3Ny5qcGVn.jpeg" alt="Cover for Banana Skin Shoes" style="max-width:120px; height:auto;" />
       </td>
@@ -1917,7 +1917,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/467c01dfde3165f97c61d3d95a1af82b.png" alt="Cover for Live at Stubb&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -1938,7 +1938,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1abd41b69b5f00d7030c97ef5d2803fb.png" alt="Cover for Texas Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1954,12 +1954,12 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 51</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07f19170333eb7221e6486b32d39da49.png" alt="Cover for Unlimited Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1976,7 +1976,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d0c3b4c8dcd6c44be1db803dc9417f1.png" alt="Cover for The Crucible of Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1996,7 +1996,7 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2366c5e3f7db56dafbbce76dca7cf703.png" alt="Cover for As Grande As" style="max-width:120px; height:auto;" />
       </td>
@@ -2016,7 +2016,27 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7aa4584f650e61b5052da08e6596f375.png" alt="Cover for Pocket Full of Kryptonite" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Spin Doctors</td>
+      <td>Pocket Full of Kryptonite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fdaf334480302da820e1228bed3fde6.png" alt="Cover for Joy in the Wild Unknown" style="max-width:120px; height:auto;" />
       </td>
@@ -2034,26 +2054,6 @@ Funk rock is a subgenre of rock music that combines elements of funk music, such
       <td>
         <ul>
             <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 12</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7aa4584f650e61b5052da08e6596f375.png" alt="Cover for Pocket Full of Kryptonite" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Spin Doctors</td>
-      <td>Pocket Full of Kryptonite</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 86</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T10:36:51.390Z
+date: 2025-12-06T02:16:45.901Z
 permalink: tags/drumstep
 title: drumstep
 ---
 
 ## drumstep
 
-Last updated: <time datetime="2025-12-03T10:36:51.390Z">Wed Dec 03 2025 12:36:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T02:16:45.901Z">Sat Dec 06 2025 04:16:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
   </thead>
   <tbody>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/h0W40wIE3RIMYgqLneh_7FBlscim4FlTlMgFfHXPhHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQz/OTcyLTE1MzMzNDMx/NTMtNjY1NC5qcGVn.jpeg" alt="Cover for In Praise of Darkness" style="max-width:120px; height:auto;" />
       </td>
@@ -47,12 +47,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-dubstep" | relative_url }}">deep dubstep</a> # 94</li>
+            <li> <a href="{{ "/tags/deep-dubstep" | relative_url }}">deep dubstep</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22b5692e771d3d826c8786c3232b9f9a.png" alt="Cover for Dogma Resistance" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg" alt="Cover for The Second Biggest Remix Competition Of All Time" style="max-width:120px; height:auto;" />
       </td>
@@ -88,12 +88,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 72</li>
+            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
       </td>
       <td>2006-02-27</td>
@@ -107,12 +107,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 43</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/hTsCLLuGrkGGwx7TB8jzyTdGAlH_8a2JXWClmBEKIvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjYy/MDYtMTQwNjQ5OTA0/OS02Njk4LmpwZWc.jpeg" alt="Cover for Na Hearn Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -132,7 +132,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/kY6NhXp2449bX8gNd4Ha8i3lHJDCT8muU1IwpnrbqKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM5/NzUtMTIwOTg1Mjc3/OS5qcGVn.jpeg" alt="Cover for Turn Up The Sun &#x2F; Blinking With Fists" style="max-width:120px; height:auto;" />
       </td>
@@ -151,7 +151,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/dzNjwmFS0nVDSrK8kLL-pBAeayviZx6Ih8FIPqbb-Bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTY1/ODctMTI3MjcxODMw/OS5qcGVn.jpeg" alt="Cover for Sonic Boom Shiva" style="max-width:120px; height:auto;" />
       </td>
@@ -171,7 +171,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/uJrgI47zbQJcOYK8RNjB5AArGxADVGHIEZ9S75rNiTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQ1/MjYyLTE0OTYxNzU2/NTMtOTYyOS5qcGVn.jpeg" alt="Cover for come back" style="max-width:120px; height:auto;" />
       </td>
@@ -190,7 +190,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2689a58ba3c3e3bdf86584c9176ce00.png" alt="Cover for We Could Be Kings" style="max-width:120px; height:auto;" />
       </td>
@@ -209,7 +209,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>2011-06-30</td>
@@ -230,12 +230,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 51</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/VIiBmNneA9FedljEvdslumkun09YLd7h1DuyTCdBKX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODEx/MDUtMTMxNDgxMTQ0/MS5qcGVn.jpeg" alt="Cover for Drum &#39;N&#39; Vodka" style="max-width:120px; height:auto;" />
       </td>
@@ -255,7 +255,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/VEpO1NIQh5Qum2Gs5EJ6inSouJXlqL1iXnghCLdUVBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/NTQtMTMxMzE2Mjg2/Ni5qcGVn.jpeg" alt="Cover for Crusie Control EP" style="max-width:120px; height:auto;" />
       </td>
@@ -273,7 +273,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/lF2fma6palq-4MVoGonalnwMyXxE9OAFEbio_NTgHXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMy/MDgxLTE1MTYyMTc1/MzQtODQ1MS5qcGVn.jpeg" alt="Cover for Solar - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -293,7 +293,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/OjwIRysG8Linr9B84X03yfVbe-ubnvbO_jiNbhS1WUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Njg4/NjktMTM2NTczNzYz/MC02MTkwLmpwZWc.jpeg" alt="Cover for Hashtag ft. Egoraptor" style="max-width:120px; height:auto;" />
       </td>
@@ -313,7 +313,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>2011-10-06</td>
@@ -331,7 +331,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/1lIb1ezHpO_gBJ3zdmTNhbJTqNQbDv6Xi1QRLxk0SLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDEy/NTAxLTE1NjYwNjA5/MDctNzg3Mi5qcGVn.jpeg" alt="Cover for 10 K" style="max-width:120px; height:auto;" />
       </td>
@@ -351,7 +351,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/PhNS_-zgoPyxRfzC95r_JH3FhCzoKwihnzZ_YOrW7bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE3/NTI2LTE1NTk2NTcw/MzctOTkzMC5qcGVn.jpeg" alt="Cover for Natural High" style="max-width:120px; height:auto;" />
       </td>
@@ -367,12 +367,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 29</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f214e0af76904450933af1c50cbeee2c.png" alt="Cover for Rage Valley EP" style="max-width:120px; height:auto;" />
       </td>
@@ -388,13 +388,13 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 68</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 93</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 8</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/0wmOsYO6_YzIlxKSSMfwtmBWEt8_deI3UmMyklBy1XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTM0/NjUtMTM4OTEyMDk2/Mi02OTY2LmpwZWc.jpeg" alt="Cover for Gunslinga" style="max-width:120px; height:auto;" />
       </td>
@@ -412,7 +412,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2616b45897448d986c2b2e060093548.png" alt="Cover for Wish Upon A Blackstar" style="max-width:120px; height:auto;" />
       </td>
@@ -430,7 +430,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/Fkjr7bxRdNSCYbfNTFRhBLjdUc4pLjxs9gTvWkmKIOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTUw/NDgtMTY2NjU0NDY5/My0yMTIxLmpwZWc.jpeg" alt="Cover for The Agenda" style="max-width:120px; height:auto;" />
       </td>
@@ -450,7 +450,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/LlLrfcmStboLyvlH1BYPLQS_H03tQGLWWxrsO4FQ_xM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Njg5/NTUtMTM0NzQ5NTk0/MC02NTQxLmpwZWc.jpeg" alt="Cover for Inception" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +469,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/twmkHbtqttfX6WvWNbMsOuyDzIFplfwhEQ_h6Fqan5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjAy/MzUtMTM1Mzg5NTUz/OS01MDUyLmpwZWc.jpeg" alt="Cover for Play Station EP" style="max-width:120px; height:auto;" />
       </td>
@@ -489,7 +489,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/S7TPqQOFQIYE6Ewv5E7oDAgtfnxUmiUkbe8eFfOgBIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA1/NTYtMTQwODIzMzA3/Mi0zNjEyLmpwZWc.jpeg" alt="Cover for Crystal Mathematics" style="max-width:120px; height:auto;" />
       </td>
@@ -510,7 +510,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7b33317cdda4cbd91dd30c45b13145c.png" alt="Cover for Guilty Pleasures EP" style="max-width:120px; height:auto;" />
       </td>
@@ -531,7 +531,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
       </td>
       <td>2013-05-07</td>
@@ -550,7 +550,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4829f4e0c43e4633a032d635b243a4ab.png" alt="Cover for There Goes Your Money" style="max-width:120px; height:auto;" />
       </td>
@@ -569,14 +569,14 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 36</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 70</li>
-            <li> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a> # 84</li>
+            <li> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a> # 17</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 31</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e19836435a1427589b1cc7bf4c14a17.png" alt="Cover for Lady Killa" style="max-width:120px; height:auto;" />
       </td>
@@ -594,12 +594,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 10</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d95125b19a35497aa01c318a1f85cee8.png" alt="Cover for Guilty Pleasures EP" style="max-width:120px; height:auto;" />
       </td>
@@ -617,13 +617,13 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 32</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 67</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 34</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad3007e6ce8f418db76c5817f3b4af42.png" alt="Cover for Zeitgeber" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +644,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2f82986c91d42fd96c382ff8d12bae2.png" alt="Cover for Wildstyle EP" style="max-width:120px; height:auto;" />
       </td>
@@ -665,7 +665,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ce616f62bcd47c6a02b11598d1f8174.png" alt="Cover for Rave On! EP" style="max-width:120px; height:auto;" />
       </td>
@@ -684,12 +684,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 23</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bab20f572b1649e3a42aead4335c7975.png" alt="Cover for Mutiny EP" style="max-width:120px; height:auto;" />
       </td>
@@ -711,7 +711,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
       </td>
       <td>2013-08-29</td>
@@ -731,7 +731,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/nsxEByrZ-73LkOGrJ3l_97CMVTVjTeTM964e2MukN6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDQ0/NjQtMTQ2MTczMzUz/Mi03MTU3LnBuZw.jpeg" alt="Cover for Monstercat - Best of DNB&#x2F;Drumstep, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -748,7 +748,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/8oUOvF1drXzfiLfrdsn9odIWfMq07Ar3E-pX5xMt4NU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDAy/MjYtMTQ4NzE3NTE4/OS0zODQ3LmpwZWc.jpeg" alt="Cover for Destroid - The Invasion Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -765,7 +765,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>2013-10-21</td>
@@ -782,7 +782,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/pIcQRKr1Plw_BHKSiBtiAvzThG-DzGt9NE_0oSyFwXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjQz/MDAtMTQxNTEwNjEw/NC05MTEwLmpwZWc.jpeg" alt="Cover for Never Have I Felt This" style="max-width:120px; height:auto;" />
       </td>
@@ -800,7 +800,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/K9HFDInl_UaT99_D5P8dTlH_gw9BBnqid8EwpnT62Xw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDc3/NTAtMTM4ODY3NDI5/OC05NzQ1LmpwZWc.jpeg" alt="Cover for Unity" style="max-width:120px; height:auto;" />
       </td>
@@ -819,7 +819,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9be69f9a9c484e739526b9840d0aa268.png" alt="Cover for BuzzKill Remixes EP" style="max-width:120px; height:auto;" />
       </td>
@@ -837,12 +837,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 5</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fca63db7362d51ff8c995920e9be358f.png" alt="Cover for KIKO" style="max-width:120px; height:auto;" />
       </td>
@@ -852,6 +852,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a></li>
@@ -865,15 +866,16 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 28</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 73</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 9</li>
+            <li> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a> # 10</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 28</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 73</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 74</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/ykuUyYPxKxM8zB3aXKxPkA0Xu77GUfPZehLauT8dQzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjI0/NDUtMTU1ODE0OTIw/NC03OTQ3LnBuZw.jpeg" alt="Cover for Codename X" style="max-width:120px; height:auto;" />
       </td>
@@ -892,7 +894,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/O-1xSltpIPBp-NmXcd0Y3vFXe9l44I7qSBFl9dCpLuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzYw/NTQwLTE1NjA1MzI0/MjUtNDQ3My5qcGVn.jpeg" alt="Cover for Skull Island EP" style="max-width:120px; height:auto;" />
       </td>
@@ -912,7 +914,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/T-Lwv4IWJO7lo70WOcb2bDYQnYm3UH99jC45MPGemw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDY3/NTUtMTQzMzg3NDcz/Ny04NjI0LmpwZWc.jpeg" alt="Cover for Rivals EP" style="max-width:120px; height:auto;" />
       </td>
@@ -932,7 +934,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dc9622942bc6f4a286943702063a8d5.png" alt="Cover for Grabbitz - Friends EP" style="max-width:120px; height:auto;" />
       </td>
@@ -951,12 +953,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 37</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/V31H5KHNanAmZsmw3AZ4vXMOCnkotAlu4bN4ballG9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc4/MDk4LTE1NjA5MDY5/MzctMjYzOC5qcGVn.jpeg" alt="Cover for Wild To The Kore" style="max-width:120px; height:auto;" />
       </td>
@@ -975,7 +977,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f80ec50c25090ed64112b0cb5aa30a0.png" alt="Cover for Armageddon It" style="max-width:120px; height:auto;" />
       </td>
@@ -996,7 +998,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef4fbfbaf40be276b545d4a7ae270d6f.png" alt="Cover for Power To The People The Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,7 +1020,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/_pAlxlL9jlwbf-7bkUclPvp5U5oZsXm481kJUs6NggM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODk1/MzMtMTQ2NDYzMTI0/Ni0yMTkzLmpwZWc.jpeg" alt="Cover for Gypsi Thug" style="max-width:120px; height:auto;" />
       </td>
@@ -1037,7 +1039,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/OvoMSVtWGAh6iRbN49At7qmbfXbFOw7FleefRvINt3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDk5/MDI4LTE1Njc4Mjc5/MzktMjg5OS5qcGVn.jpeg" alt="Cover for Ludicrous Speed" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,12 +1054,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 94</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cd2e27dfebcc51d15cf1ea46ad0488f.png" alt="Cover for PLANET&#x2F;&#x2F;SHAPER" style="max-width:120px; height:auto;" />
       </td>
@@ -1078,13 +1080,13 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       <td>
         <ul>
             <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 20</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 44</li>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 49</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 52</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/6z75zijG2iWbXEIfiR0rSYA_N9ZePnrsT_2fulEPnXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTE1/NzQtMTQ0NTExNzIw/Ni0yODI0LmpwZWc.jpeg" alt="Cover for Gaia" style="max-width:120px; height:auto;" />
       </td>
@@ -1106,7 +1108,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/roOooOGaR7z_R0CE3yzKn3XdVlzxFPWW4UaB9rk0dM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Mzcw/MzYtMTQ1MjAxMDEx/NC02MTY5LmpwZWc.jpeg" alt="Cover for Colorful Palette" style="max-width:120px; height:auto;" />
       </td>
@@ -1129,7 +1131,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/Lrq2NydS0yKJCJzl_MF9bZK5SHzDBD9TZwY-KISlSwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTAx/NDQtMTQ1NTMyNDg5/MS0yODI2LmpwZWc.jpeg" alt="Cover for Tough Guy (Single)" style="max-width:120px; height:auto;" />
       </td>
@@ -1147,7 +1149,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/EMS35uE-ZLVLkgJwtivN_jJXXiM8Jv2LJ5gzhoe7HSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODE2/NjAtMTQ1ODU2OTk1/NS01NTIxLmpwZWc.jpeg" alt="Cover for Warrior Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -1162,13 +1164,13 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 25</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 28</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/4MNrOq3L0rbHXoLa3SfuCkSQH-MSYArhkazzbtBt9o0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODQ2/NDEtMTUxMTk0NjQ2/Mi00NDUzLmpwZWc.jpeg" alt="Cover for Who&#39;s Got Your Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1188,7 +1190,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/Bf6VkwLLTcoXNkkKdlhuuLgjr26Yv49e_xrQK0in_RM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcx/MjcwLTE1MDQwMjU1/NjAtMzkwMi5qcGVn.jpeg" alt="Cover for Codex" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,7 +1208,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/768dc6817cce6fb4ecb7ac7cf6b2c8b1.png" alt="Cover for Mirakuru Remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,12 +1228,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 87</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/tpbz980tOeMewjnBMvPO-DK8RjpXpzP0jOm8y0Vlogs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY0/ODIwLTE0OTEwMDcz/NTctNzQzOS5qcGVn.jpeg" alt="Cover for Watch Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1249,7 +1251,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/AhFIGvS_j15cFbCOV5M5ADEH0LyGRU8XcsVuIsR3Tk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzkw/NTcxLTE1MzQyOTk4/MzctMTAyMC5qcGVn.jpeg" alt="Cover for Fragments - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,7 +1272,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/Y_G-Zkt6CaAkkqvyMvfI4UyutcMftzYF70pOBP6PhCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc2/NTM5LTE1Nzk0MzI2/MzYtNzY5MS5qcGVn.jpeg" alt="Cover for The Werewolf Returns" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,7 +1290,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/5YxG660oD7Yq-6pBNuO0pF8o7KMncgam3bvYm3l_9DM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgz/MzAxLTE1NTY5NDcz/MzEtMzkwOC5qcGVn.jpeg" alt="Cover for Unity Project, Pt. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1301,13 +1303,13 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 13</li>
             <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 47</li>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56568b0373e4d85ad03de93a68e7501c.png" alt="Cover for Curio" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,7 +1330,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/jM-yXhUPCFs50FJq5hNWVxt_7STA7wtdbxYNIaEBO9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjUz/NzA2LTE1MTI4MTIx/NjAtMzI0Ny5qcGVn.jpeg" alt="Cover for The Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,12 +1347,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 43</li>
+            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/WsGS5E_88CrFs8ZoQhTgC3nBODBcMu-_9I-Ax85MhQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDE2/NjQ3LTE2NDM5NTAz/MzUtMzY2Ni5qcGVn.jpeg" alt="Cover for Human Nature" style="max-width:120px; height:auto;" />
       </td>
@@ -1371,7 +1373,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/PDZIB-HfqOAyuAGznbBklxSJpDIfDed6qammR2V90NA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTE5/OTE3LTE1MjQ3NTg2/NTAtNTExMy5qcGVn.jpeg" alt="Cover for Muskox &#x2F; Assembler" style="max-width:120px; height:auto;" />
       </td>
@@ -1391,7 +1393,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/nmHKDsqP58exQvi8qXDsradAQXry2Iu3ni1NCvPTPQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk2/Njk0LTE1MjQzMjY2/NzQtMjI1NS5qcGVn.jpeg" alt="Cover for Enemy (Gydra Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1410,7 +1412,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3c6ea5b21f3c4862f87fa26f485a350.png" alt="Cover for See Without Eyes (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1433,15 +1435,15 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 35</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 49</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 76</li>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 90</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 10</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 25</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 52</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae0324ba7a357964bee82eedbda788a8.png" alt="Cover for Awake (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,12 +1461,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 32</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f44b79f65c5293179266f212e15aa7d0.png" alt="Cover for Textacy (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1481,12 +1483,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 32</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2aac5dfba418928e7b63a7722e96426.png" alt="Cover for Odyssey" style="max-width:120px; height:auto;" />
       </td>
@@ -1508,14 +1510,14 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 11</li>
+            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 13</li>
             <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 55</li>
-            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 88</li>
-            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/ytElJKRlNP91ioxqQ4HsSCcqnrw6_NVb-LZFTjKwhDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTkz/MjQyLTE1NTgxNDky/MjgtODA3OC5wbmc.jpeg" alt="Cover for Apex" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,12 +1533,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 99</li>
+            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/TgNLn3n-BTl91CQkZfk1rweaiFTvUfe-BUQNbBNiYa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk5/MTI0LTE1MzQ0OTQ4/NjctMzUzMi5qcGVn.jpeg" alt="Cover for Fission" style="max-width:120px; height:auto;" />
       </td>
@@ -1556,7 +1558,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/XXC3TtMCUl_OdYWxkVayObCSWmKeBlvIejOlugwZK6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTYy/NDc4LTE1NDU0MTE5/NjgtNzI1OS5qcGVn.jpeg" alt="Cover for Because The Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,7 +1578,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/o_4-_CYpoB9gS2tVI9Mpi6zCWE2rDzwFDv4E5o15CtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU2/MjAxLTE1Mzc1NDg1/MzItNjgxMi5qcGVn.jpeg" alt="Cover for Land of the Blind Part 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1597,7 +1599,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab67ae6f7c8c0f9ce5baf8ea2d7537b2.png" alt="Cover for Not All The Beautiful Things (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,7 +1625,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/ad5r8av_LHah2mHO9MvOw0bqrjVPIbZFppXHm6_jUpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg5/MzMyLTE1NjU1NzU3/NzUtODcyMi5qcGVn.jpeg" alt="Cover for Energize EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1643,7 +1645,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/e7CQxjY5_Af4yzhnak88Z5KZmcRZAFaRxqmoTlDhePU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE0/ODEzLTE1NTIwNTUx/MTItMzI5Mi5qcGVn.jpeg" alt="Cover for Remixed upon a Blackstar" style="max-width:120px; height:auto;" />
       </td>
@@ -1661,7 +1663,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/6Q5AZ2SzefQmZvkLJZpPVewyjCvJ9wMW-Cc5EjLH1hQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTEw/NjIzLTE2OTE0NjU4/OTAtMjI5NS5wbmc.jpeg" alt="Cover for Covergirl: originally by Sonny" style="max-width:120px; height:auto;" />
       </td>
@@ -1671,6 +1673,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
@@ -1678,11 +1681,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e8ad4542fd0a7b680c8aa16cf5aaccb.png" alt="Cover for Dreaming of You" style="max-width:120px; height:auto;" />
       </td>
@@ -1701,7 +1705,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/J2fxbZV_qzlHPBR5w27VH2HTL3jgG8au6wZbwODBJls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTgw/Mjg0LTE2MDEzMDEx/NjgtNjU3OC5qcGVn.jpeg" alt="Cover for SABERNETIKS" style="max-width:120px; height:auto;" />
       </td>
@@ -1719,7 +1723,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/zt0jjl8WXtCeEjhk6xQtPnXkeZju4_aDoWay9WGnsck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY4/NDk0LTE1NzEwOTg2/NjItMTA0NC5qcGVn.jpeg" alt="Cover for Here to Stay (feat. Lady Chann) [Remixes]" style="max-width:120px; height:auto;" />
       </td>
@@ -1737,7 +1741,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/0qbyaKi3K6rofpkbqf1BqCaY6xdEg5Wi2AHtTzBw5Ag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzU3/NTM4LTE1NzI4OTIw/ODAtNzkxNi5qcGVn.jpeg" alt="Cover for Exit The Void" style="max-width:120px; height:auto;" />
       </td>
@@ -1755,12 +1759,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 76</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/7_C0CcuXgYadGuKjzYBKCJdvkXiMsp-X9Gn5GbR4M1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEw/Mjc3LTE1NzYwMDg5/NjMtMzc0OS5qcGVn.jpeg" alt="Cover for Give You Up &#x2F; Followers" style="max-width:120px; height:auto;" />
       </td>
@@ -1780,7 +1784,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/wJT8D-LprpLa8I9O5mOrTMzF8sQqp5BYtQIBB56EZ2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ2/NzI0LTE1OTAwODU4/MDAtMjQyMi5qcGVn.jpeg" alt="Cover for New Shoes" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,7 +1802,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/FBVdrvrcshG61imFeOd3zOu0NGdimRc9nlW2hZaCV_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTM3/NDMzLTE2MTk4Mzcx/MzItMjE5OS5wbmc.jpeg" alt="Cover for ΩΩPARTS" style="max-width:120px; height:auto;" />
       </td>
@@ -1818,12 +1822,12 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 73</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/-ulJY9q0LKdTdeMXIpu8QcX8go4tAVnPK7CjYJJsT5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDUz/NTc0LTE2MjMwOTA2/NTUtOTA4Ni5qcGVn.jpeg" alt="Cover for Throne" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,7 +1847,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/S7-z9PH8V0lX3k1MrC_QlaYEE2nkCtAwJ-mJ3ZqtPHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjg3/NDA2LTE2MjQ3MzU3/NTUtNTI1NS5qcGVn.jpeg" alt="Cover for Hold On" style="max-width:120px; height:auto;" />
       </td>
@@ -1862,7 +1866,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f125c24dcdc2546cbad815b06cde04b7.png" alt="Cover for U.U.F.O." style="max-width:120px; height:auto;" />
       </td>
@@ -1884,14 +1888,14 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 82</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 96</li>
-            <li> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a> # 98</li>
+            <li> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a> # 3</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 5</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/iJ0o-19AhLcb2pZosaXjKwTCKONvSreDtRyQt0LoVcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTA0/NTk0LTE2NTQ2NzEw/NjUtNzM0Mi5qcGVn.jpeg" alt="Cover for Raise The Black Flag" style="max-width:120px; height:auto;" />
       </td>
@@ -1909,7 +1913,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10497f623441f99a8f18ebf8ea0b1b99.png" alt="Cover for Watch Out (feat. Ragga Twins)" style="max-width:120px; height:auto;" />
       </td>
@@ -1931,7 +1935,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/d3LYCAoB5bQQCkvSGUlq36-C5yVUSaKEANjreBR681Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEy/NTk2LTE1MzI3MTM3/NjMtNzAxNy5qcGVn.jpeg" alt="Cover for About Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,7 +1955,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/lPZYGhl5jaNqM2G-i6-4xtW8MOzqlS4rsoXoMmUq_4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzE5/MjEtMTM1MTc3ODI5/Ni02NTUzLmpwZWc.jpeg" alt="Cover for Shake the Ground" style="max-width:120px; height:auto;" />
       </td>
@@ -1970,7 +1974,7 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/eN0Htrjm7pvgJw--zTImnm7KHh_UPxXd5A7WbXL_4OU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTg2/MTk1LTE2Nzg1NDYy/MTItNjA2My5qcGVn.jpeg" alt="Cover for CELESTIAL EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1988,33 +1992,75 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>41</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/957d7d2e8ac5407c9bc9f540075ba485.png" alt="Cover for In All Directions" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>The Parusha Continuum</td>
-      <td>In All Directions</td>
+      <td>ShockOne</td>
+      <td>In This Light EP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 54</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7b895a2b472405f9f10ca688504564a.png" alt="Cover for Stance on Wave" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>かめりあ</td>
+      <td>Stance on Wave</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22da1a648ba2b69750f2a9f600c619d6.png" alt="Cover for heart of android" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>かめりあ</td>
+      <td>heart of android</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a> # 41</li>
+            <li> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
       <td>
       </td>
       <td></td>
@@ -2046,73 +2092,33 @@ Drumstep blends the half-time bass weight of dubstep with drum and bass&#39;s ra
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>89</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22da1a648ba2b69750f2a9f600c619d6.png" alt="Cover for heart of android" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/957d7d2e8ac5407c9bc9f540075ba485.png" alt="Cover for In All Directions" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>かめりあ</td>
-      <td>heart of android</td>
+      <td>The Parusha Continuum</td>
+      <td>In All Directions</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a> # 60</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7b895a2b472405f9f10ca688504564a.png" alt="Cover for Stance on Wave" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>かめりあ</td>
-      <td>Stance on Wave</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 2</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
-      <td>
-      </td>
-      <td></td>
-      <td>ShockOne</td>
-      <td>In This Light EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 53</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
       </td>
       <td></td>
