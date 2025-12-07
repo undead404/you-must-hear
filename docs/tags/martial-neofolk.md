@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:50:56.278Z
+date: 2025-12-06T20:18:56.268Z
 permalink: tags/martial-neofolk
 title: martial neofolk
 ---
 
 ## martial neofolk
 
-Last updated: <time datetime="2025-12-04T09:50:56.278Z">Thu Dec 04 2025 11:50:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T20:18:56.268Z">Sat Dec 06 2025 22:18:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -113,7 +113,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 59</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 42</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 89</li>
             <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 99</li>
         </ul>
@@ -324,7 +324,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 8</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -372,7 +372,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 3</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -445,9 +445,9 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 28</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 56</li>
             <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 66</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -561,7 +561,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 60</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 41</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 88</li>
             <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 97</li>
         </ul>
@@ -658,7 +658,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 34</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -843,7 +843,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 56</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 45</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 99</li>
         </ul>
       </td>
@@ -1010,7 +1010,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 2</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1076,7 +1076,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 25</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1239,7 +1239,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 6</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1381,9 +1381,9 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 17</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 29</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 48</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1431,7 +1431,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 21</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1455,7 +1455,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 19</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1547,7 +1547,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 69</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 32</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 70</li>
         </ul>
       </td>
@@ -1643,7 +1643,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 14</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1772,8 +1772,8 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 11</li>
-            <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 89</li>
+            <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 12</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1820,7 +1820,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 40</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1985,7 +1985,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 13</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2105,7 +2105,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 31</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2154,10 +2154,10 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 19</li>
             <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 29</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 30</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 54</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2179,7 +2179,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 1</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2227,10 +2227,10 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 23</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 37</li>
             <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 38</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 69</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2302,7 +2302,7 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 45</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2373,9 +2373,9 @@ Martial neofolk, also known as martial industrial, is a subgenre of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 3</li>
             <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 11</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 13</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 98</li>
         </ul>
       </td>
     </tr>

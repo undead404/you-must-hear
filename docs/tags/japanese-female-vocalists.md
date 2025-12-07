@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:52:05.520Z
+date: 2025-12-06T21:07:46.913Z
 permalink: tags/japanese-female-vocalists
 title: japanese female vocalists
 ---
 
 ## japanese female vocalists
 
-Last updated: <time datetime="2025-12-04T09:52:05.520Z">Thu Dec 04 2025 11:52:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T21:07:46.913Z">Sat Dec 06 2025 23:07:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
   </thead>
   <tbody>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
       </td>
       <td>1978-11-05</td>
@@ -48,30 +48,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-      </td>
-      <td>1980-01-21</td>
-      <td>渡辺真知子</td>
-      <td>唇よ、熱く君を語れ</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
       </td>
       <td>1980-01-21</td>
@@ -95,7 +72,30 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>67</td>
+      <td>
+      </td>
+      <td>1980-01-21</td>
+      <td>渡辺真知子</td>
+      <td>唇よ、熱く君を語れ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
       <td>
       </td>
       <td>1980-02-05</td>
@@ -118,7 +118,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
       </td>
       <td>1980-04-01</td>
@@ -143,7 +143,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td>1980-04-05</td>
@@ -167,31 +167,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-      </td>
-      <td>1980-06-01</td>
-      <td>榊原郁恵</td>
-      <td>Robot</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
       </td>
       <td>1980-06-01</td>
@@ -215,7 +191,31 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>77</td>
+      <td>
+      </td>
+      <td>1980-06-01</td>
+      <td>榊原郁恵</td>
+      <td>Robot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td>
       </td>
       <td>1980-07-01</td>
@@ -240,7 +240,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>1980-08-21</td>
@@ -264,7 +264,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
       </td>
       <td>1980-10-01</td>
@@ -288,7 +288,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
       </td>
       <td>1980-11-28</td>
@@ -311,7 +311,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/VHm-yj74KjO-VLSQY_hrrq6D2wlmUowkQ3QhPfQfEmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDU2/MzgtMTYxNTk4Mjcz/My0zMTgzLmpwZWc.jpeg" alt="Cover for Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -337,7 +337,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>1990-09-27</td>
@@ -362,7 +362,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
       </td>
       <td>1994-07-02</td>
@@ -383,7 +383,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c76372af455340b01637b04835592d46.png" alt="Cover for Vanity Fair" style="max-width:120px; height:auto;" />
       </td>
@@ -409,7 +409,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
       </td>
       <td>1996-12-05</td>
@@ -434,7 +434,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
       </td>
       <td>1997-05-21</td>
@@ -459,7 +459,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>1997-12-03</td>
@@ -484,7 +484,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>1998-06-10</td>
@@ -510,7 +510,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>1998-08-05</td>
@@ -536,7 +536,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
       </td>
       <td>1998-10-07</td>
@@ -562,33 +562,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>53</td>
-      <td>
-          <img src="https://i.discogs.com/ismVq2ZXBd3soFtgwAEVxcuILofTiORLZ-SMa5uf8Ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODE5/NDcxLTE1MDQ4MzY3/NjgtNDExNi5qcGVn.jpeg" alt="Cover for 最後は必ず正義が勝つ" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>AI</td>
-      <td>最後は必ず正義が勝つ</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 72</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/o_UzXvTi7bj2MnEgFAwmbU2IsDz0bb4-3BBx2isfJLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDg1/NjctMTY4MjUxMjMy/NS0xNzE5LmpwZWc.jpeg" alt="Cover for I need your love" style="max-width:120px; height:auto;" />
       </td>
@@ -614,7 +588,33 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/ismVq2ZXBd3soFtgwAEVxcuILofTiORLZ-SMa5uf8Ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODE5/NDcxLTE1MDQ4MzY3/NjgtNDExNi5qcGVn.jpeg" alt="Cover for 最後は必ず正義が勝つ" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>AI</td>
+      <td>最後は必ず正義が勝つ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>
       </td>
       <td>1999-02-10</td>
@@ -640,7 +640,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>1999-07-14</td>
@@ -666,7 +666,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>2000-05-17</td>
@@ -692,7 +692,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>2000-06-07</td>
@@ -718,7 +718,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td>2000-11-01</td>
@@ -744,7 +744,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/92KuQVKf7-4i2chDfpiLFdIazDkkSBTRF4df7XCpOIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc3/LTE2OTQ4Mzg0MjAt/NTM0NC5qcGVn.jpeg" alt="Cover for TIME" style="max-width:120px; height:auto;" />
       </td>
@@ -770,7 +770,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>2002-09-26</td>
@@ -796,7 +796,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
       </td>
       <td>2005-02-22</td>
@@ -813,7 +813,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>2008-02-20</td>
@@ -832,7 +832,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2008-04-23</td>
@@ -851,7 +851,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
       </td>
       <td>2009-01-28</td>
@@ -876,7 +876,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2009-06-03</td>
@@ -901,7 +901,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
       </td>
       <td>2009-12-02</td>
@@ -925,7 +925,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/pwRAuyTwgaNYcsJx6YbljwSrujRF8610rLW8FpBr0Ho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA5/MzMyLTE1NTk0OTAx/MjEtNzAwNi5qcGVn.jpeg" alt="Cover for Broken Doll" style="max-width:120px; height:auto;" />
       </td>
@@ -950,7 +950,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/681d223f8eea4f5fa53bb23cdc74b5ac.png" alt="Cover for Distance" style="max-width:120px; height:auto;" />
       </td>
@@ -976,7 +976,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>2012-07-25</td>
@@ -1001,7 +1001,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/MYXbWbnVpqlYK9FKk4mTeIHATIvwsjJBvYHFXHJchDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc2/NTEtMTUyODczNDUx/MC0zMzYxLmpwZWc.jpeg" alt="Cover for Ainikoiyo &#x2F; Nounai Shoukyo Game (International Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1026,7 +1026,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/8UM75FGy_3npu9yT907GYSZoCfL4hshu6ygwePXjEr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTg1/MDAtMTQ4MTE0MDE4/NC00MzA0LmpwZWc.jpeg" alt="Cover for 孤独は傷つかない" style="max-width:120px; height:auto;" />
       </td>
@@ -1050,7 +1050,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/8waTFwGIxYomDHj2LIudpUo9nkuSde15vA-onuuTT-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY1/OTIxLTE2MDI4Mjkw/OTYtNTAwNi5qcGVn.jpeg" alt="Cover for リアル鬼ごっこ" style="max-width:120px; height:auto;" />
       </td>
@@ -1075,7 +1075,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/HgGtggcX_K-qliKTnp_7E76uiBP1e3FnAwY6DgUeGhE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDgz/MTctMTQ2NTg4NTIx/My0yMDY0LmpwZWc.jpeg" alt="Cover for ShibuyaK&#x2F;さみしいかみさま" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,7 +1102,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/Wl0Vtp2p3ksSIQzI8xUI9HP5iP6SKx1dW398ZvFt814/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ0/Njk4LTE1MTY0NTk2/NjgtOTU2NC5qcGVn.jpeg" alt="Cover for 恋の道" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,7 +1128,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/WH18LfoQASXtn-SOySKEepLcGeCN6KTmASpaDFbWXSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzA2/MjAtMTQ1Njk0NTMx/NC0yODc0LmpwZWc.jpeg" alt="Cover for 母と娘の10,000日 〜未来の扉〜" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,7 +1146,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d826791bb424741df88268d7e6b4b7ed.png" alt="Cover for Innocent Flower" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,7 +1173,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/6EybSmnweu-BPO8aMKYG2KAhnmHFWW7HaeSluHNTmOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg5/Mjg4LTE1MDk2NTQw/OTEtODM1My5qcGVn.jpeg" alt="Cover for WAVE" style="max-width:120px; height:auto;" />
       </td>
@@ -1197,7 +1197,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/0WpqAn7n9VUpiqZAv4Rg09SGKuGcTXhZ_AoRIkIx2wU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDA1LTE1NjQ4NzQx/NzYtODIxMy5qcGVn.jpeg" alt="Cover for I STAND ALONE" style="max-width:120px; height:auto;" />
       </td>
@@ -1225,7 +1225,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/2fTo5lOsrs-iem5KjJPskEQacu86UVBKFNvUUnPu6VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTIy/NzMyLTE1MTUzOTcz/NTAtNTMwMi5qcGVn.jpeg" alt="Cover for 惑星タントラ" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1251,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/-ZJCBUz3p_GE8ic1Nt5W7gQFXIppECHDHOK2uzVwtd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjg2/NTkyLTE0OTQ2ODc3/NTctNDYxNC5qcGVn.jpeg" alt="Cover for Melon Soda" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,7 +1278,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/WzFiGv6MuI4N1sf_fGUKwMwzSu6TSQpaIQ9qgpdLKYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTMx/NzQyLTE2ODQ1NDEz/ODEtNDM4OS5qcGVn.jpeg" alt="Cover for コトノハ" style="max-width:120px; height:auto;" />
       </td>
@@ -1304,7 +1304,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/fmy8wkvealwXJCLj42Hsu6DpVGgrefQurq65qFyz0pc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjI4/NTItMTI5MzczMTQ5/MC5qcGVn.jpeg" alt="Cover for スキナノカナ" style="max-width:120px; height:auto;" />
       </td>
@@ -1330,7 +1330,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/TWKngd1w6FQcgUkiPFU5WNNX5UMMqjP8PrBl8kiHoJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQx/MDIxLTE1MTI1NTQ1/MDQtMzc4OC5qcGVn.jpeg" alt="Cover for さよならを待ってる" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,33 +1355,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60bbd066ebb79f707694f97fa6052bd8.png" alt="Cover for Cherry Passport" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-07-26</td>
-      <td>Yui Ogura</td>
-      <td>Cherry Passport</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 51</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d67605b39bcd84151655aa8bde929892.png" alt="Cover for HIGHLIGHT - The Very Best of Toki Asako -" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,7 +1382,33 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60bbd066ebb79f707694f97fa6052bd8.png" alt="Cover for Cherry Passport" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-07-26</td>
+      <td>Yui Ogura</td>
+      <td>Cherry Passport</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/uVmrRFkzubyDfd-88-EF49vIv563cDQHqC675Yjkrik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTMy/Nzg0LTE1MTA0NjM1/OTctMTgzOS5qcGVn.jpeg" alt="Cover for 10th Diary" style="max-width:120px; height:auto;" />
       </td>
@@ -1434,7 +1434,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/tgdhjO_b6LLdvS8GgH0VVFvRqKwiU-VpY-WOM51erPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ4/NjQ4LTE1MzI2Mjk4/OTAtODM5My5qcGVn.jpeg" alt="Cover for It Feels" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,7 +1459,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/0d0NFsvpS2V098rQ9Q5rP1efGIyFTNFaOANvbCgFWg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTQ0/NDAwLTE2NjM0Mjg0/ODctNDQ4MS5qcGVn.jpeg" alt="Cover for Aloe No Hana" style="max-width:120px; height:auto;" />
       </td>
@@ -1484,31 +1484,38 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
-      <td>川中美幸</td>
-      <td>ふたり酒</td>
+      <td>八神純子</td>
+      <td>黄昏のBAY CITY</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 99</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 21</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
-      <td>パスピエ</td>
-      <td>あかつき</td>
+      <td>Wednesday Campanella</td>
+      <td>メロス</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
@@ -1523,92 +1530,18 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 95</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 25</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Sonoko Inoue</td>
-      <td>メッセージ</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
-      <td>
-      </td>
-      <td></td>
-      <td>松田聖子</td>
-      <td>Daisy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Hitomi Kaji</td>
-      <td>TROUBLE</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
       <td>浜崎あゆみ</td>
-      <td>LOVE~Destiny~</td>
+      <td>A Song Is Born</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
@@ -1623,12 +1556,185 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 66</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 27</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>19</td>
+      <td>
+      </td>
+      <td></td>
+      <td>kyary pamyu pamyu</td>
+      <td>良すた</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 32</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6aedcd324c220e1223e75e35a5dcede3.png" alt="Cover for 大正義" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Polkadot Stingray</td>
+      <td>大正義</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td></td>
+      <td>椎名林檎</td>
+      <td>目抜き通り</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 42</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Wednesday Campanella</td>
+      <td>嬴政</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 43</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td></td>
+      <td>倖田來未</td>
+      <td>LIT</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Aimyong</td>
+      <td>愛を伝えたいだとか</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Wednesday Campanella</td>
+      <td>ピカソ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4422d901c105f40a026c47de53999bd.png" alt="Cover for Miracle Orange" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,184 +1761,12 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>61</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Wednesday Campanella</td>
-      <td>ピカソ</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 56</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Aimyong</td>
-      <td>愛を伝えたいだとか</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 46</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
-      <td>
-      </td>
-      <td></td>
-      <td>倖田來未</td>
-      <td>LIT</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 44</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Wednesday Campanella</td>
-      <td>嬴政</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 43</li>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
-      <td>
-      </td>
-      <td></td>
-      <td>椎名林檎</td>
-      <td>目抜き通り</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 42</li>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6aedcd324c220e1223e75e35a5dcede3.png" alt="Cover for 大正義" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Polkadot Stingray</td>
-      <td>大正義</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 47</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
-      <td>
-      </td>
-      <td></td>
-      <td>kyary pamyu pamyu</td>
-      <td>良すた</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 32</li>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 70</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>45</td>
       <td>
       </td>
       <td></td>
       <td>浜崎あゆみ</td>
-      <td>A Song Is Born</td>
+      <td>LOVE~Destiny~</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
@@ -1847,18 +1781,17 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 27</li>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 61</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>47</td>
       <td>
       </td>
       <td></td>
-      <td>Wednesday Campanella</td>
-      <td>メロス</td>
+      <td>Hitomi Kaji</td>
+      <td>TROUBLE</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
@@ -1873,18 +1806,111 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 25</li>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 59</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>54</td>
+      <td>
+      </td>
+      <td></td>
+      <td>松田聖子</td>
+      <td>Daisy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sonoko Inoue</td>
+      <td>メッセージ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td></td>
+      <td>パスピエ</td>
+      <td>あかつき</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td></td>
+      <td>川中美幸</td>
+      <td>ふたり酒</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
       </td>
       <td></td>
       <td>八神純子</td>
-      <td>黄昏のBAY CITY</td>
+      <td>Lonely Girl</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
@@ -1899,63 +1925,16 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 21</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>52</td>
       <td>
       </td>
       <td></td>
-      <td>久保田早紀</td>
-      <td>25時</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td></td>
-      <td>AKB Idling!!!</td>
-      <td>Chu Shiyouze!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td></td>
-      <td>石野真子</td>
-      <td>春ラ!ラ!ラ!</td>
+      <td>高田みづえ</td>
+      <td>私はピアノ</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
@@ -1974,19 +1953,20 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>60</td>
       <td>
       </td>
       <td></td>
-      <td>Idoling!!!</td>
-      <td>Rodeo Machine (Standard Edition)</td>
+      <td>竹内まりや</td>
+      <td>不思議なピーチパイ</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
@@ -1996,12 +1976,12 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>66</td>
       <td>
       </td>
       <td></td>
-      <td>石野真子</td>
-      <td>ハートで勝負</td>
+      <td>岩崎良美</td>
+      <td>赤と黒</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
@@ -2020,12 +2000,60 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>69</td>
       <td>
       </td>
       <td></td>
-      <td>Sawa</td>
-      <td>pray</td>
+      <td>河合奈保子</td>
+      <td>ヤング・ボーイ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td></td>
+      <td>岩崎良美</td>
+      <td>涼風</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td></td>
+      <td>原田知世</td>
+      <td>時をかける少女 (2017 Version)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
@@ -2044,12 +2072,58 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>75</td>
       <td>
       </td>
       <td></td>
-      <td>Sonoko Inoue</td>
-      <td>なみだ</td>
+      <td>八神純子</td>
+      <td>パープルタウン</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td></td>
+      <td>山口百恵</td>
+      <td>謝肉祭</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Miss Monochrome</td>
+      <td>Bodyguard</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
@@ -2059,7 +2133,6 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -2068,40 +2141,17 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>80</td>
       <td>
       </td>
       <td></td>
-      <td>坂本冬美</td>
-      <td>LOVE SONGS BEST</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-      </td>
-      <td></td>
-      <td>中村晃子</td>
-      <td>恋の綱わたり</td>
+      <td>岩崎良美</td>
+      <td>あなた色のマノン</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
@@ -2115,75 +2165,7 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>
-      </td>
-      <td></td>
-      <td>一青窈</td>
-      <td>七変化</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Aimyong</td>
-      <td>君はロックを聴かない</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td></td>
-      <td>八代亜紀</td>
-      <td>雨の慕情</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
       </td>
       <td></td>
@@ -2208,17 +2190,16 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>84</td>
       <td>
       </td>
       <td></td>
-      <td>岩崎良美</td>
-      <td>あなた色のマノン</td>
+      <td>八代亜紀</td>
+      <td>雨の慕情</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
@@ -2232,12 +2213,80 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>87</td>
       <td>
       </td>
       <td></td>
-      <td>Miss Monochrome</td>
-      <td>Bodyguard</td>
+      <td>Aimyong</td>
+      <td>君はロックを聴かない</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td></td>
+      <td>一青窈</td>
+      <td>七変化</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td></td>
+      <td>中村晃子</td>
+      <td>恋の綱わたり</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td></td>
+      <td>坂本冬美</td>
+      <td>LOVE SONGS BEST</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
@@ -2247,28 +2296,6 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-      </td>
-      <td></td>
-      <td>山口百恵</td>
-      <td>謝肉祭</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
@@ -2278,35 +2305,12 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>91</td>
       <td>
       </td>
       <td></td>
-      <td>八神純子</td>
-      <td>パープルタウン</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-      </td>
-      <td></td>
-      <td>原田知世</td>
-      <td>時をかける少女 (2017 Version)</td>
+      <td>Sonoko Inoue</td>
+      <td>なみだ</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
@@ -2325,12 +2329,36 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>92</td>
       <td>
       </td>
       <td></td>
-      <td>岩崎良美</td>
-      <td>涼風</td>
+      <td>Sawa</td>
+      <td>pray</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td></td>
+      <td>石野真子</td>
+      <td>ハートで勝負</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
@@ -2349,12 +2377,34 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>96</td>
       <td>
       </td>
       <td></td>
-      <td>河合奈保子</td>
-      <td>ヤング・ボーイ</td>
+      <td>Idoling!!!</td>
+      <td>Rodeo Machine (Standard Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td></td>
+      <td>石野真子</td>
+      <td>春ラ!ラ!ラ!</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
@@ -2373,21 +2423,19 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>98</td>
       <td>
       </td>
       <td></td>
-      <td>岩崎良美</td>
-      <td>赤と黒</td>
+      <td>AKB Idling!!!</td>
+      <td>Chu Shiyouze!</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
@@ -2397,64 +2445,16 @@ Japanese female vocalists cover a wide range of genres, from pop to rock, and tr
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>99</td>
       <td>
       </td>
       <td></td>
-      <td>竹内まりや</td>
-      <td>不思議なピーチパイ</td>
+      <td>久保田早紀</td>
+      <td>25時</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-      </td>
-      <td></td>
-      <td>高田みづえ</td>
-      <td>私はピアノ</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
-      <td>
-      </td>
-      <td></td>
-      <td>八神純子</td>
-      <td>Lonely Girl</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a></li>

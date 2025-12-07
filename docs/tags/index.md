@@ -1,18 +1,25 @@
 ---
 category: list
-date: 2025-12-06T20:18:30.790Z
+date: 2025-12-06T21:07:46.913Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-06T20:18:30.790Z">Sat Dec 06 2025 22:18:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T21:07:46.913Z">Sat Dec 06 2025 23:07:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [japanese female vocalists]({{ "tags/japanese-female-vocalists" | relative_url }}) | <time datetime="2025-12-06T21:07:46.913Z">Sat Dec 06 2025 23:07:46 GMT+0200 (Eastern European Standard Time)</time> |
+| [italian folk]({{ "tags/italian-folk" | relative_url }}) | <time datetime="2025-12-06T21:07:41.882Z">Sat Dec 06 2025 23:07:41 GMT+0200 (Eastern European Standard Time)</time> |
+| [symphonic rock]({{ "tags/symphonic-rock" | relative_url }}) | <time datetime="2025-12-06T20:35:28.537Z">Sat Dec 06 2025 22:35:28 GMT+0200 (Eastern European Standard Time)</time> |
+| [new generation freestyle]({{ "tags/new-generation-freestyle" | relative_url }}) | <time datetime="2025-12-06T20:35:25.318Z">Sat Dec 06 2025 22:35:25 GMT+0200 (Eastern European Standard Time)</time> |
+| [twee pop]({{ "tags/twee-pop" | relative_url }}) | <time datetime="2025-12-06T20:35:00.326Z">Sat Dec 06 2025 22:35:00 GMT+0200 (Eastern European Standard Time)</time> |
+| [chant]({{ "tags/chant" | relative_url }}) | <time datetime="2025-12-06T20:18:59.532Z">Sat Dec 06 2025 22:18:59 GMT+0200 (Eastern European Standard Time)</time> |
+| [martial neofolk]({{ "tags/martial-neofolk" | relative_url }}) | <time datetime="2025-12-06T20:18:56.268Z">Sat Dec 06 2025 22:18:56 GMT+0200 (Eastern European Standard Time)</time> |
 | [chamber jazz]({{ "tags/chamber-jazz" | relative_url }}) | <time datetime="2025-12-06T20:18:30.790Z">Sat Dec 06 2025 22:18:30 GMT+0200 (Eastern European Standard Time)</time> |
 | [greece]({{ "tags/greece" | relative_url }}) | <time datetime="2025-12-06T20:18:07.430Z">Sat Dec 06 2025 22:18:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [riddim]({{ "tags/riddim" | relative_url }}) | <time datetime="2025-12-06T20:02:36.175Z">Sat Dec 06 2025 22:02:36 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1381,10 +1388,3 @@ Last updated: <time datetime="2025-12-06T20:18:30.790Z">Sat Dec 06 2025 22:18:30
 | [chicago house]({{ "tags/chicago-house" | relative_url }}) | <time datetime="2025-12-04T09:53:11.493Z">Thu Dec 04 2025 11:53:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [mashcore]({{ "tags/mashcore" | relative_url }}) | <time datetime="2025-12-04T09:53:05.729Z">Thu Dec 04 2025 11:53:05 GMT+0200 (Eastern European Standard Time)</time> |
 | [epic trance]({{ "tags/epic-trance" | relative_url }}) | <time datetime="2025-12-04T09:52:59.096Z">Thu Dec 04 2025 11:52:59 GMT+0200 (Eastern European Standard Time)</time> |
-| [japanese female vocalists]({{ "tags/japanese-female-vocalists" | relative_url }}) | <time datetime="2025-12-04T09:52:05.520Z">Thu Dec 04 2025 11:52:05 GMT+0200 (Eastern European Standard Time)</time> |
-| [italian folk]({{ "tags/italian-folk" | relative_url }}) | <time datetime="2025-12-04T09:51:57.974Z">Thu Dec 04 2025 11:51:57 GMT+0200 (Eastern European Standard Time)</time> |
-| [symphonic rock]({{ "tags/symphonic-rock" | relative_url }}) | <time datetime="2025-12-04T09:51:52.059Z">Thu Dec 04 2025 11:51:52 GMT+0200 (Eastern European Standard Time)</time> |
-| [new generation freestyle]({{ "tags/new-generation-freestyle" | relative_url }}) | <time datetime="2025-12-04T09:51:41.436Z">Thu Dec 04 2025 11:51:41 GMT+0200 (Eastern European Standard Time)</time> |
-| [twee pop]({{ "tags/twee-pop" | relative_url }}) | <time datetime="2025-12-04T09:51:31.852Z">Thu Dec 04 2025 11:51:31 GMT+0200 (Eastern European Standard Time)</time> |
-| [chant]({{ "tags/chant" | relative_url }}) | <time datetime="2025-12-04T09:51:01.472Z">Thu Dec 04 2025 11:51:01 GMT+0200 (Eastern European Standard Time)</time> |
-| [martial neofolk]({{ "tags/martial-neofolk" | relative_url }}) | <time datetime="2025-12-04T09:50:56.278Z">Thu Dec 04 2025 11:50:56 GMT+0200 (Eastern European Standard Time)</time> |

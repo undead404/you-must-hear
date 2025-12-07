@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:51:52.059Z
+date: 2025-12-06T20:35:28.537Z
 permalink: tags/symphonic-rock
 title: symphonic rock
 ---
 
 ## symphonic rock
 
-Last updated: <time datetime="2025-12-04T09:51:52.059Z">Thu Dec 04 2025 11:51:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T20:35:28.537Z">Sat Dec 06 2025 22:35:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -644,7 +644,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 21</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -921,7 +921,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 29</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -944,7 +944,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 26</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1006,7 +1006,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 19</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1132,8 +1132,8 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 11</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 29</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 53</li>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1353,8 +1353,8 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 13</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 80</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1450,9 +1450,9 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       <td>
         <ul>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 6</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 7</li>
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 25</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 27</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1506,8 +1506,8 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 57</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 39</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1544,8 +1544,8 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 8</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 12</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1615,7 +1615,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 68</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1774,8 +1774,8 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 71</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 72</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 28</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1912,7 +1912,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 4</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1993,6 +1993,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 19</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 92</li>
         </ul>
       </td>
