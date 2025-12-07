@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:43:09.509Z
+date: 2025-12-06T18:33:09.869Z
 permalink: tags/russian-pop
 title: russian pop
 ---
 
 ## russian pop
 
-Last updated: <time datetime="2025-12-04T09:43:09.509Z">Thu Dec 04 2025 11:43:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T18:33:09.869Z">Sat Dec 06 2025 20:33:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -55,9 +55,9 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       <td>
         <ul>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 4</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 6</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 8</li>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 16</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 93</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -100,8 +100,8 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 46</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 51</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 49</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 55</li>
             <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 58</li>
         </ul>
       </td>
@@ -324,8 +324,8 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       <td>
         <ul>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 28</li>
-            <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 36</li>
-            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 72</li>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 29</li>
+            <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -857,7 +857,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 20</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -891,10 +891,10 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 20</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 35</li>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 45</li>
             <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 57</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 66</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1364,20 +1364,20 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 2</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 4</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 5</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 5</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 6</li>
             <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 6</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 9</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 14</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 16</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 18</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 32</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 45</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 67</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 85</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 87</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 34</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 56</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 87</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1501,8 +1501,8 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 29</li>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 50</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1532,8 +1532,8 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 28</li>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 53</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1563,8 +1563,8 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 12</li>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 64</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 89</li>
         </ul>
       </td>
     </tr>

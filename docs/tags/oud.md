@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:38:48.530Z
+date: 2025-12-06T17:09:49.986Z
 permalink: tags/oud
 title: oud
 ---
 
 ## oud
 
-Last updated: <time datetime="2025-12-04T09:38:48.530Z">Thu Dec 04 2025 11:38:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T17:09:49.986Z">Sat Dec 06 2025 19:09:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
   </thead>
   <tbody>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>1958</td>
@@ -46,7 +46,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/BwiscRJMHWL0Q2rGqrcIgOy69S0AnncwLjGA85PVhkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjA4/NjgtMTI5NTQ0NTU2/OC5qcGVn.jpeg" alt="Cover for African Tranquility" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/5GP71HMqUO-M4EAqOpsx5Ww7ziBCl_jbhHQ0Nwhd7iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTg3/MDEtMTQwNTI4MjYz/Mi0yMzEwLmpwZWc.jpeg" alt="Cover for Al Oud" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/-Cxz8m96R2JtqtaaTfgUTUah9XqnFzV-8HQwaQOFpks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODYy/MjEtMTE5MDk5MDA5/MS5qcGVn.jpeg" alt="Cover for L&#39;art du&#39;ûd" style="max-width:120px; height:auto;" />
       </td>
@@ -103,7 +103,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/bx6nvODDczdO9FZEUkPw9gRaodtQzwm74b33fCNwPAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE0/MTUtMTU1MjM4ODI4/MC00NzQxLmpwZWc.jpeg" alt="Cover for Eclipse" style="max-width:120px; height:auto;" />
       </td>
@@ -122,7 +122,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>1991</td>
@@ -141,29 +141,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://i.discogs.com/4TuMwPD0R60Ef3UBKL0A3XT5G1wazCMHdsOSHEgnxKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTU2/MTEtMTM3ODMyNTQz/Ni0yOTA4LmpwZWc.jpeg" alt="Cover for Madar" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991-04</td>
-      <td>Anouar Brahem</td>
-      <td>Madar</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/ATxsoiZ7Qi2cZjBDfz7nO0gKUN29MInVII3b8lKT-TI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDg3/Ny0xMzk4MTEyMjgx/LTY4NzguanBlZw.jpeg" alt="Cover for Astrakan Café" style="max-width:120px; height:auto;" />
       </td>
@@ -182,34 +160,37 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 1</li>
+            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 1</li>
+            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 2</li>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 42</li>
-            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 99</li>
-            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 100</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/bdzajeWtvDoLzZKwl-iYOdaUoEONHRylZPKdS8HbA4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg2/OTMtMTIxMDA1NDk2/Mi5qcGVn.jpeg" alt="Cover for Turath" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/4TuMwPD0R60Ef3UBKL0A3XT5G1wazCMHdsOSHEgnxKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTU2/MTEtMTM3ODMyNTQz/Ni0yOTA4LmpwZWc.jpeg" alt="Cover for Madar" style="max-width:120px; height:auto;" />
       </td>
-      <td>1992</td>
-      <td>Simon Shaheen</td>
-      <td>Turath</td>
+      <td>1991-04</td>
+      <td>Anouar Brahem</td>
+      <td>Madar</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 85</li>
+            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/JlQK0J59aYKvahBFnuj8kLGVcNmtsJQJcLUT5FuQUrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTY2/NDYtMTM3NTgwNjAz/MS04OTU1LmpwZWc.jpeg" alt="Cover for Conte De L&#39;Incroyable Amour" style="max-width:120px; height:auto;" />
       </td>
@@ -231,7 +212,26 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/bdzajeWtvDoLzZKwl-iYOdaUoEONHRylZPKdS8HbA4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg2/OTMtMTIxMDA1NDk2/Mi5qcGVn.jpeg" alt="Cover for Turath" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Simon Shaheen</td>
+      <td>Turath</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/bdzajeWtvDoLzZKwl-iYOdaUoEONHRylZPKdS8HbA4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg2/OTMtMTIxMDA1NDk2/Mi5qcGVn.jpeg" alt="Cover for Blue Flame" style="max-width:120px; height:auto;" />
       </td>
@@ -251,7 +251,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6d982cdc5c860b113dbd4dd5c58612d.png" alt="Cover for Madar" style="max-width:120px; height:auto;" />
       </td>
@@ -268,7 +268,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
       </td>
       <td>1992-11-03</td>
@@ -286,13 +286,13 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 16</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 48</li>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/jqEuD-pbLK3W70b9URiPM13j69WUK9tUS9ZbHcVMnW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODY0/NS0xNDk3MjAwOTgx/LTY1ODMuanBlZw.jpeg" alt="Cover for Sultan&#39;s Picnic" style="max-width:120px; height:auto;" />
       </td>
@@ -311,7 +311,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/E_Jx3ZAqnVSV4pgKfeSchoR6qhdJV2er3Hc4LgQpHKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTQx/NDUtMTQ4MzY2OTU3/My0zMjY5LmpwZWc.jpeg" alt="Cover for The Early Recordings" style="max-width:120px; height:auto;" />
       </td>
@@ -329,7 +329,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/E_Jx3ZAqnVSV4pgKfeSchoR6qhdJV2er3Hc4LgQpHKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTQx/NDUtMTQ4MzY2OTU3/My0zMjY5LmpwZWc.jpeg" alt="Cover for Udi Hrant - The Early Recordings, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -346,7 +346,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48cb55e424cb43a5b28581724409a0fb.png" alt="Cover for Thimar" style="max-width:120px; height:auto;" />
       </td>
@@ -361,13 +361,13 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 15</li>
             <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 37</li>
-            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/GoCOaqZweYEpqcvPGLCZXFacA8fZKcJ7BskVn5Ka3hY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDA0/NDMtMTI2NzYzOTAx/NC5qcGVn.jpeg" alt="Cover for Marko Melkon" style="max-width:120px; height:auto;" />
       </td>
@@ -385,7 +385,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/tT0VwpvSaD_5LSLqyqKSEFsgpWwWEyeMANbQi4i5u40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTg0/ODktMTQ4MzcyODk5/My0xMjYxLmpwZWc.jpeg" alt="Cover for Samar" style="max-width:120px; height:auto;" />
       </td>
@@ -405,25 +405,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>69</td>
-      <td>
-          <img src="https://i.discogs.com/dSdivRQk4bFV8s4igIPDdC1We6KJuOD52BIDiC-3-Cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDM0/NzQ2LTE1ODU4MTEz/NjctNjIxOS5qcGVn.jpeg" alt="Cover for Stranger In The Home Country" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Orak Naa Naa</td>
-      <td>Stranger In The Home Country</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
       </td>
       <td>1998</td>
@@ -443,6 +425,24 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
     <tr>
       <td>31</td>
       <td>
+          <img src="https://i.discogs.com/dSdivRQk4bFV8s4igIPDdC1We6KJuOD52BIDiC-3-Cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDM0/NzQ2LTE1ODU4MTEz/NjctNjIxOS5qcGVn.jpeg" alt="Cover for Stranger In The Home Country" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Orak Naa Naa</td>
+      <td>Stranger In The Home Country</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
       </td>
       <td>1998-01-07</td>
       <td>Necati Çelik</td>
@@ -458,7 +458,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>20</td>
       <td>
       </td>
       <td>1998-11-10</td>
@@ -474,7 +474,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/ecIe8Kdi0whnUvGncYQ4gJV5uypbBvGEnZJvb1hVBb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDQx/NTktMTQwMDQxOTA1/Ni03MjY3LmpwZWc.jpeg" alt="Cover for Ritual Sufi-Andalusi, Al-Shushtari" style="max-width:120px; height:auto;" />
       </td>
@@ -487,12 +487,38 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 41</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>8</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Anouar Brahem Trio</td>
+      <td>Astrakan Café</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 2</li>
+            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 2</li>
+            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 3</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
       <td>
       </td>
       <td>2000</td>
@@ -512,33 +538,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>93</td>
-      <td>
-      </td>
-      <td>2000</td>
-      <td>Anouar Brahem Trio</td>
-      <td>Astrakan Café</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 43</li>
-            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 98</li>
-            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 99</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
       </td>
       <td>2000-02-22</td>
@@ -556,7 +556,32 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/xgEV6M-bg3BfKUBYTYqRlWX0d3OqT8MkVRl2iN9K280/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDY2/MDUtMTI3NTgwNjUx/MS5qcGVn.jpeg" alt="Cover for Passion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Yurdal Tokcan</td>
+      <td>Passion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 10</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/smS413DbaNDGfiYWe0kOYTLoreUvfgJkreEiMhRJzp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njky/OTAtMTM4MzQzMTky/Ni05ODc2LmpwZWc.jpeg" alt="Cover for Conte de l&#39;Incroyable" style="max-width:120px; height:auto;" />
       </td>
@@ -578,32 +603,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>79</td>
-      <td>
-          <img src="https://i.discogs.com/xgEV6M-bg3BfKUBYTYqRlWX0d3OqT8MkVRl2iN9K280/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDY2/MDUtMTI3NTgwNjUx/MS5qcGVn.jpeg" alt="Cover for Passion" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Yurdal Tokcan</td>
-      <td>Passion</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 35</li>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/59OtHAHOPb_db561z8Ksc80ulYRtkKYQcSpOFGAYlUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjk3/MjYtMTMyNjA0MTU4/MS5qcGVn.jpeg" alt="Cover for La Fuente del Amor Secreto" style="max-width:120px; height:auto;" />
       </td>
@@ -622,7 +622,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ae4cd7f89a445a7bd97c3965e79feb1.png" alt="Cover for Le Pas Du Chat Noir" style="max-width:120px; height:auto;" />
       </td>
@@ -642,7 +642,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
       </td>
       <td>2003</td>
@@ -668,7 +668,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/9Hs2Ieja0w-wPd9vfTw4liWm0plq4sGYSW4PyCxyzPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE2/MDYxLTE2NDI2OTEw/NjEtMzY4My5qcGVn.jpeg" alt="Cover for Melodies of the Oud" style="max-width:120px; height:auto;" />
       </td>
@@ -686,7 +686,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
       </td>
       <td>2003-05-13</td>
@@ -703,7 +703,24 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>33</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>Majid Bekkas</td>
+      <td>Mogador</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/L43wq94cHghV9Jjcn0OWuBVLLIJnPF224XR4Y1S1l90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjUz/NTUtMTI5ODI0MTA5/My5qcGVn.jpeg" alt="Cover for U&#39;D" style="max-width:120px; height:auto;" />
       </td>
@@ -723,24 +740,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>67</td>
-      <td>
-      </td>
-      <td>2004</td>
-      <td>Majid Bekkas</td>
-      <td>Mogador</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
       </td>
       <td>2004-03</td>
@@ -760,7 +760,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/CrI4ItSbyGtVMwOTiVaL7W35hbcWXw3F-K4N4YV-AOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Nzg3/NzgtMTM3ODI0Nzk5/Ny03NTI0LmpwZWc.jpeg" alt="Cover for Inner Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -779,7 +779,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/h_ceBukXK7G-gPBqo6RDg7nw0-sBKwV3i4luPGZSWbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzY0/NDQ5LTE1NzE4Mzcz/MDAtODQyMC5qcGVn.jpeg" alt="Cover for Itinérances" style="max-width:120px; height:auto;" />
       </td>
@@ -797,14 +797,14 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 10</li>
-            <li> <a href="{{ "/tags/lute" | relative_url }}">lute</a> # 15</li>
-            <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 35</li>
+            <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 66</li>
+            <li> <a href="{{ "/tags/lute" | relative_url }}">lute</a> # 86</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/BZIetD-UKiDwam7wicUW5Pp1611H2fGri_OWPWedtyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDIw/MzQtMTQ4NTAxODg5/OS02NTc4LmpwZWc.jpeg" alt="Cover for Rhythms of Baghdad" style="max-width:120px; height:auto;" />
       </td>
@@ -824,7 +824,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/k-WsQ8zyS6uNmabM-NbPWm1NFKtXuQpoxXES_Xec0gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA0/OTktMTI5NDAxMTg5/Mi5qcGVn.jpeg" alt="Cover for Maqamat Ziryab" style="max-width:120px; height:auto;" />
       </td>
@@ -844,7 +844,69 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>29</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Rahim AlHaj</td>
+      <td>When the Soul Is Settled: Music of Iraq</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da0119474fe84ff986e972df9d05db7d.png" alt="Cover for Le Voyage De Sahar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Anouar Brahem</td>
+      <td>Le Voyage De Sahar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/rVrJJOm1qHYaxohNJWO4K4hh_7TLz8kPjXeiIbNvBLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTA4/NTAtMTQ4NjY3OTIz/My01NTg3LmpwZWc.jpeg" alt="Cover for Na&#39;ama" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Amos Hoffman</td>
+      <td>Na&#39;ama</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77948377820c4658b2bc38bf7f7543f7.png" alt="Cover for Mizna" style="max-width:120px; height:auto;" />
       </td>
@@ -872,69 +934,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>44</td>
-      <td>
-          <img src="https://i.discogs.com/rVrJJOm1qHYaxohNJWO4K4hh_7TLz8kPjXeiIbNvBLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTA4/NTAtMTQ4NjY3OTIz/My01NTg3LmpwZWc.jpeg" alt="Cover for Na&#39;ama" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Amos Hoffman</td>
-      <td>Na&#39;ama</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-      </td>
-      <td>2006</td>
-      <td>Rahim AlHaj</td>
-      <td>When the Soul Is Settled: Music of Iraq</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 35</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da0119474fe84ff986e972df9d05db7d.png" alt="Cover for Le Voyage De Sahar" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Anouar Brahem</td>
-      <td>Le Voyage De Sahar</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 36</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>2006</td>
@@ -952,7 +952,42 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>11</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Dhafer Youssef &amp; Wolfgang Muthspiel</td>
+      <td>Glow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Haig Yazdjian</td>
+      <td>Amalur</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/i2N1YWJE9xab7_pklPGFVm2YxJ8ptZk_O1XrMYX_Xhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDE3/NjktMTI2MDM2MDYz/Mi5qcGVn.jpeg" alt="Cover for Simulacra" style="max-width:120px; height:auto;" />
       </td>
@@ -973,42 +1008,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-      </td>
-      <td>2007</td>
-      <td>Haig Yazdjian</td>
-      <td>Amalur</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
-      <td>
-      </td>
-      <td>2007</td>
-      <td>Dhafer Youssef &amp; Wolfgang Muthspiel</td>
-      <td>Glow</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/-nRhZQBmB_NVvOTjRs0lQIftd8YQYXxkkmAMkQbk9t8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjY0/NTgtMTI1MjkyNTQ4/OC5qcGVn.jpeg" alt="Cover for Convivencia" style="max-width:120px; height:auto;" />
       </td>
@@ -1030,7 +1030,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>2007-10-29</td>
@@ -1044,12 +1044,12 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       <td>
         <ul>
             <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 14</li>
-            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 60</li>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/kqSNhfNjIN3aGJM5RUz3az3-BJaGPIHTiOcNCPRvMMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ0/NzYtMTI4NjA1NDA1/OC5qcGVn.jpeg" alt="Cover for Sard &#39;Rereleased&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1069,7 +1069,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2008-04-28</td>
@@ -1087,7 +1087,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/VYyYbEXEIBhxcJnUtGTieW15KoWuciEpUiZq6ZMI3fY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjQx/ODYtMTI3MzE2NDIz/Ni5qcGVn.jpeg" alt="Cover for Kara Nomadica" style="max-width:120px; height:auto;" />
       </td>
@@ -1108,25 +1108,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://i.discogs.com/_OPNxbEULtFxUEiZhAjlYdEm7tF3-Mumz3muOUQA0Og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTg1/MjYtMTMyNTU0MTUw/Ni5qcGVn.jpeg" alt="Cover for Sublim III" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Angelika Niescier</td>
-      <td>Sublim III</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/sAUiJNPZkCddErWo063bdXOIbmXtOiiE345b4mXF2BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjA5/OTItMTYwOTM1MTIw/Ny0zNTM1LnBuZw.jpeg" alt="Cover for Kalashnik Love (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1145,7 +1127,25 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/_OPNxbEULtFxUEiZhAjlYdEm7tF3-Mumz3muOUQA0Og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTg1/MjYtMTMyNTU0MTUw/Ni5qcGVn.jpeg" alt="Cover for Sublim III" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Angelika Niescier</td>
+      <td>Sublim III</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c148af9fc829493fbbafdb2883ec77ef.png" alt="Cover for The Astounding Eyes Of Rita" style="max-width:120px; height:auto;" />
       </td>
@@ -1163,7 +1163,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>2011</td>
@@ -1177,12 +1177,12 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 21</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/BSHp2ONakKZo4DKOUmXZkRcDfYXOTOeQPyQd7P6VfJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODky/NDQ2LTE2OTk4MDI2/OTctMzEyMS5qcGVn.jpeg" alt="Cover for Caress&#x2F;Mouda&#39;aba" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,7 +1201,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/qc9kF9VTAqESAffS1PHY99HlL12X8bQ9d02cZ68GDuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDcz/MTctMTMyOTIwNjMy/NS5qcGVn.jpeg" alt="Cover for Chalaba" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,7 +1219,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4008b4a78cfb4ef4ce27e4bc4e0ad951.png" alt="Cover for As Fâr" style="max-width:120px; height:auto;" />
       </td>
@@ -1243,7 +1243,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2011-06-30</td>
@@ -1269,7 +1269,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>2012-06-11</td>
@@ -1285,7 +1285,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/190d460792854e6aced4fbf23c197fa9.png" alt="Cover for FARAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1310,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/6-jGn8AcCrcoXtnmVER4glRBlHMH--Nk8DkrShk5OBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDQ4/OTctMTUwNTMzMDE0/Ny0zODM3LmpwZWc.jpeg" alt="Cover for Odem" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,7 +1328,26 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/XCBV0niQhz29qZ-Df24oPWtDNoKyPXr8sEQQ54D2-UY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTQx/NTYtMTUxNDg5OTcz/MS0xMzg4LmpwZWc.jpeg" alt="Cover for Astrakan Cafe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-11-28</td>
+      <td>Anouar Brahem</td>
+      <td>Astrakan Cafe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
       </td>
       <td>2014-11-28</td>
@@ -1348,26 +1367,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>99</td>
-      <td>
-          <img src="https://i.discogs.com/XCBV0niQhz29qZ-Df24oPWtDNoKyPXr8sEQQ54D2-UY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTQx/NTYtMTUxNDg5OTcz/MS0xMzg4LmpwZWc.jpeg" alt="Cover for Astrakan Cafe" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014-11-28</td>
-      <td>Anouar Brahem</td>
-      <td>Astrakan Cafe</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 74</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/tgO45RvWYoBmSwlkveN0GNoE8rCR70tA45KuIoyfXLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDQ5/MjEtMTQzOTM5ODY1/NS0yNjU2LmpwZWc.jpeg" alt="Cover for Crisis" style="max-width:120px; height:auto;" />
       </td>
@@ -1386,7 +1386,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/AuygPgr_Q4LiQPz5ZhH2K2YgxgoiaWtJGBNk4b-w37I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjg1/MDY1LTE1ODkxODU4/NzYtMzUzOS5qcGVn.jpeg" alt="Cover for Oneness with the Infinite" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,7 +1406,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/Gxwz1UOFU8rHYz7H-S7dgoq_MKNviATSGsTdWteFmMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA3/NDAwLTE1OTYzMDIz/NjEtNTEzMy5qcGVn.jpeg" alt="Cover for Hada Leil" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,7 +1425,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/OA2PqefyVC-BkfMI6HJQdAmzypKpnjZm-XipzEcwE3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzUy/Mzg0LTE1ODA5MjMz/NjktNjEzMy5tcG8.jpeg" alt="Cover for Magic Spirit Quartet (with Goran Kajfeš, Jesper Nordenström &amp; Stefan Pasborg)" style="max-width:120px; height:auto;" />
       </td>
@@ -1442,7 +1442,130 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>4</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Le Trio Joubran</td>
+      <td>Majaz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Omid Shabani</td>
+      <td>Blooming in the Valley</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum" | relative_url }}">drum</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 3</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 9</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 10</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mustafa Kandirali &amp; Ensemble</td>
+      <td>Caz Roman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Shahram Gholami</td>
+      <td>Persian Oud, Dirine Delkhah</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 55</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 66</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 92</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Khamis El Fino Ali</td>
+      <td>Music for the Classical Oud</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Abdolvahab Shahidi</td>
+      <td>The Masters of Persian Traditional Music, Oud (Instrumental)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
       <td>
       </td>
       <td></td>
@@ -1468,403 +1591,18 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>47</td>
       <td>
       </td>
       <td></td>
-      <td>Abdolvahab Shahidi</td>
-      <td>The Masters of Persian Traditional Music, Oud (Instrumental)</td>
+      <td>Argile feat. Abdel Illah Hajim</td>
+      <td>Bardentreffen 2005</td>
       <td>
         <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Khamis El Fino Ali</td>
-      <td>Music for the Classical Oud</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 66</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Shahram Gholami</td>
-      <td>Persian Oud, Dirine Delkhah</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 2</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 46</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 66</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mustafa Kandirali &amp; Ensemble</td>
-      <td>Caz Roman</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Omid Shabani</td>
-      <td>Blooming in the Valley</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum" | relative_url }}">drum</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 3</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 10</li>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 86</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Le Trio Joubran</td>
-      <td>Majaz</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 51</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Shwan Tavakkol</td>
-      <td>Parallax View(Chashm-e Morakkab)-Persian Fusion Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Abdolvahab Shahidi</td>
-      <td>Raze Oud</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Ali Jihad Racy&#x2F;Simon Shaheen</td>
-      <td>Taqasim: The Art of Improvisation in Arabic Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Amer Ammouri</td>
-      <td>Eastern Strings - The Art of Arabian Oud Solos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Hooman Shirali</td>
-      <td>Tensioned in the Sound</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum" | relative_url }}">drum</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Fatemeh Dehghani</td>
-      <td>The Spirit Afar</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Karim Mahmoud</td>
-      <td>Egyptian Oud and vocal</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Salh Arram</td>
-      <td>Classical Instrumental Music of the Middle East</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Haig Yazdjian &#x2F; Antonis Apergis</td>
-      <td>The Greek Folk Instruments: Outi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lute" | relative_url }}">lute</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Hossein Behroozi-Nia &amp; Pejman Hadadi</td>
-      <td>Midnight Sun</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mamdoh El Gibaley</td>
-      <td>Takasim Oud 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mamdoh El Gibaley</td>
-      <td>Takasim Oud 1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Negâr Boubân</td>
-      <td>Through</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Oud Music</td>
-      <td>Oud from Kohestan</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
         </ul>
       </td>
       <td>
@@ -1877,8 +1615,8 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       <td>
       </td>
       <td></td>
-      <td>RICH &amp; CONNIE SHELENGIAN</td>
-      <td>Oud Vibrations</td>
+      <td>Khaled Ben Yahia</td>
+      <td>Wissal</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
@@ -1890,7 +1628,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td></td>
@@ -1919,8 +1657,8 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       <td>
       </td>
       <td></td>
-      <td>Khaled Ben Yahia</td>
-      <td>Wissal</td>
+      <td>RICH &amp; CONNIE SHELENGIAN</td>
+      <td>Oud Vibrations</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
@@ -1932,16 +1670,110 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>58</td>
       <td>
       </td>
       <td></td>
-      <td>Argile feat. Abdel Illah Hajim</td>
-      <td>Bardentreffen 2005</td>
+      <td>Oud Music</td>
+      <td>Oud from Kohestan</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Negâr Boubân</td>
+      <td>Through</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mamdoh El Gibaley</td>
+      <td>Takasim Oud 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mamdoh El Gibaley</td>
+      <td>Takasim Oud 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Hossein Behroozi-Nia &amp; Pejman Hadadi</td>
+      <td>Midnight Sun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Haig Yazdjian &#x2F; Antonis Apergis</td>
+      <td>The Greek Folk Instruments: Outi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lute" | relative_url }}">lute</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
@@ -1952,12 +1784,180 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>81</td>
       <td>
       </td>
       <td></td>
-      <td>Rahim Alhaj, Oud &amp; Sadaga Quartet</td>
-      <td>Friendship</td>
+      <td>Salh Arram</td>
+      <td>Classical Instrumental Music of the Middle East</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Karim Mahmoud</td>
+      <td>Egyptian Oud and vocal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Fatemeh Dehghani</td>
+      <td>The Spirit Afar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Hooman Shirali</td>
+      <td>Tensioned in the Sound</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum" | relative_url }}">drum</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Amer Ammouri</td>
+      <td>Eastern Strings - The Art of Arabian Oud Solos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ali Jihad Racy&#x2F;Simon Shaheen</td>
+      <td>Taqasim: The Art of Improvisation in Arabic Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Abdolvahab Shahidi</td>
+      <td>Raze Oud</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Shwan Tavakkol</td>
+      <td>Parallax View(Chashm-e Morakkab)-Persian Fusion Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mohammed Saleh Abd Al-Saheb Lelo</td>
+      <td>QATAR The Music of Islam, Vol. 4: Music of the Arabian Peninsula</td>
       <td>
         <ul>
         </ul>
@@ -1968,23 +1968,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-      </td>
-      <td></td>
-      <td>mamdouh elgebaly</td>
-      <td>Takasim Oud, Vol. 2</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td></td>
@@ -2000,12 +1984,28 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>85</td>
       <td>
       </td>
       <td></td>
-      <td>Mohammed Saleh Abd Al-Saheb Lelo</td>
-      <td>QATAR The Music of Islam, Vol. 4: Music of the Arabian Peninsula</td>
+      <td>mamdouh elgebaly</td>
+      <td>Takasim Oud, Vol. 2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Rahim Alhaj, Oud &amp; Sadaga Quartet</td>
+      <td>Friendship</td>
       <td>
         <ul>
         </ul>

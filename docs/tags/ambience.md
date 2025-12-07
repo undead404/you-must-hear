@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:43:53.489Z
+date: 2025-12-06T18:33:22.782Z
 permalink: tags/ambience
 title: ambience
 ---
 
 ## ambience
 
-Last updated: <time datetime="2025-12-04T09:43:53.489Z">Thu Dec 04 2025 11:43:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T18:33:22.782Z">Sat Dec 06 2025 20:33:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,20 +29,18 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
   </thead>
   <tbody>
     <tr>
-      <td>3</td>
+      <td>19</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/264c67644a614f2a84e254c5e6ec14fa.png" alt="Cover for Paul Tunnell" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/cve9xtqp145H7WbZRmxIK7Pr9dGTd-kfSrowOIvD2Ag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzQ5/NDQwLTE2NzAwMDE5/NTMtNjAzMS5qcGVn.jpeg" alt="Cover for Silk Lounge Vol.2" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
-      <td>Paul Tunnell</td>
-      <td>Paul Tunnell</td>
+      <td>Various Artists</td>
+      <td>Silk Lounge Vol.2</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -51,7 +49,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Pure Chillz 2" style="max-width:120px; height:auto;" />
       </td>
@@ -73,18 +71,20 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/cve9xtqp145H7WbZRmxIK7Pr9dGTd-kfSrowOIvD2Ag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzQ5/NDQwLTE2NzAwMDE5/NTMtNjAzMS5qcGVn.jpeg" alt="Cover for Silk Lounge Vol.2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/264c67644a614f2a84e254c5e6ec14fa.png" alt="Cover for Paul Tunnell" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
-      <td>Various Artists</td>
-      <td>Silk Lounge Vol.2</td>
+      <td>Paul Tunnell</td>
+      <td>Paul Tunnell</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -93,7 +93,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
       </td>
       <td>1988</td>
@@ -112,7 +112,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>1989</td>
@@ -128,7 +128,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/910b13aad63e4744c750effd6d4b99f3.png" alt="Cover for Lullabies To Violaine - Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -147,28 +147,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>55</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f10c1b84d6064f23ac99a973e3e85dcf.png" alt="Cover for Simphonia Sine Nomine" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Ataraxia</td>
-      <td>Simphonia Sine Nomine</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 33</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a41e631c74c2432c965285002aa5ea6b.png" alt="Cover for Ad Perpetuam Rei Memoriam" style="max-width:120px; height:auto;" />
       </td>
@@ -186,12 +165,33 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 60</li>
+            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f10c1b84d6064f23ac99a973e3e85dcf.png" alt="Cover for Simphonia Sine Nomine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Ataraxia</td>
+      <td>Simphonia Sine Nomine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/c_Xmcpvnrr-GNjtmm7lgmvm30C0YhT4GwtilUvGIBFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDEy/NS0xMTQ2OTIxNzM0/LmpwZWc.jpeg" alt="Cover for Galapagos" style="max-width:120px; height:auto;" />
       </td>
@@ -220,7 +220,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>1995</td>
@@ -248,7 +248,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/Xub58skFKn4VVhy8QyF9iMJ-HLTgDnBj1t66qffxhPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDEw/OTItMTQ2MjE1NDcy/Mi0zMDkwLmpwZWc.jpeg" alt="Cover for Thunderdrums" style="max-width:120px; height:auto;" />
       </td>
@@ -268,7 +268,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td>1996</td>
@@ -298,34 +298,16 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 5</li>
             <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 25</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 26</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 44</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 46</li>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 57</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 75</li>
-            <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://i.discogs.com/4GC_FiAca9gevZ9xeRAOmbjjCWv5_25GTW76L_UMuaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDMx/NTAtMTMxMTI0NjQz/MS5qcGVn.jpeg" alt="Cover for Erotic Lounge⁶: Seductive Pearls" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Various Artists</td>
-      <td>Erotic Lounge⁶: Seductive Pearls</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>1998</td>
@@ -344,7 +326,25 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/4GC_FiAca9gevZ9xeRAOmbjjCWv5_25GTW76L_UMuaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDMx/NTAtMTMxMTI0NjQz/MS5qcGVn.jpeg" alt="Cover for Erotic Lounge⁶: Seductive Pearls" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Various Artists</td>
+      <td>Erotic Lounge⁶: Seductive Pearls</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
       </td>
       <td>1999</td>
@@ -361,7 +361,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/h1xmpYdwQjvw5BAK9vUPXs3yQGeuE3gBJo8u94OAK7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzU4/NDAtMTI4OTMxNzUy/Ny5qcGVn.jpeg" alt="Cover for Play: The B-Sides" style="max-width:120px; height:auto;" />
       </td>
@@ -379,7 +379,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/ONEy8jb0P39uCu-eExBwxhbYWia3dzxymjt0UYPSlAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTYz/OC0xMjYyNDc4Nzc5/LmpwZWc.jpeg" alt="Cover for A Calliope... Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -399,7 +399,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/EpvVxrlZWcAI9WxyZKpeIP56OQaK1RMjhhl1q3umaF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg1/My0xMTU4OTcyODYy/LmpwZWc.jpeg" alt="Cover for Sueños" style="max-width:120px; height:auto;" />
       </td>
@@ -414,16 +414,16 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 1</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 44</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 57</li>
             <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 59</li>
             <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 76</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 84</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>2003</td>
@@ -452,59 +452,15 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       <td>
         <ul>
             <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 10</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 11</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 17</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 56</li>
             <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 64</li>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 84</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
-      <td>
-          <img src="https://i.discogs.com/CZNbBslDI_ksEejFQOwk2Me3XW3EsF6JQDLtVtbaoBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYz/ODQ3LTE1MTEwMzYx/OTYtNTA5MC5qcGVn.jpeg" alt="Cover for New Age - Music for the New Millenium" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Alejandro Seoane</td>
-      <td>New Age - Music for the New Millenium</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-          <img src="https://i.discogs.com/CZNbBslDI_ksEejFQOwk2Me3XW3EsF6JQDLtVtbaoBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYz/ODQ3LTE1MTEwMzYx/OTYtNTA5MC5qcGVn.jpeg" alt="Cover for New Age - Guide Your Mind to Celestial Heights" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Alejandro Seoane</td>
-      <td>New Age - Guide Your Mind to Celestial Heights</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/CZNbBslDI_ksEejFQOwk2Me3XW3EsF6JQDLtVtbaoBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYz/ODQ3LTE1MTEwMzYx/OTYtNTA5MC5qcGVn.jpeg" alt="Cover for New Age Series - Sounds of Reiki" style="max-width:120px; height:auto;" />
       </td>
@@ -526,29 +482,51 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/pWQQR-qqThsOHf-NLrLbWZhUNbCu4DEv8dbGImiCkW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzMy/Mi0xMTExOTYwMjc0/LmpwZw.jpeg" alt="Cover for Streams of Consciousness Vol. I" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/CZNbBslDI_ksEejFQOwk2Me3XW3EsF6JQDLtVtbaoBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYz/ODQ3LTE1MTEwMzYx/OTYtNTA5MC5qcGVn.jpeg" alt="Cover for New Age - Guide Your Mind to Celestial Heights" style="max-width:120px; height:auto;" />
       </td>
-      <td>2004</td>
-      <td>Kush</td>
-      <td>Streams of Consciousness Vol. I</td>
+      <td>2003</td>
+      <td>Alejandro Seoane</td>
+      <td>New Age - Guide Your Mind to Celestial Heights</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/CZNbBslDI_ksEejFQOwk2Me3XW3EsF6JQDLtVtbaoBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYz/ODQ3LTE1MTEwMzYx/OTYtNTA5MC5qcGVn.jpeg" alt="Cover for New Age - Music for the New Millenium" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Alejandro Seoane</td>
+      <td>New Age - Music for the New Millenium</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/Ns--dNtcdBFZcsmEmYQbbFowHqLgHTulEMXS7k088Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/OTE5LTE3MzAzMTAy/NjYtNDQ3My5qcGVn.jpeg" alt="Cover for Singapore del Mar Vol.1 ( Sunset Beach Café &amp; Chillout Island Lounge)" style="max-width:120px; height:auto;" />
       </td>
@@ -565,12 +543,34 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 79</li>
+            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/pWQQR-qqThsOHf-NLrLbWZhUNbCu4DEv8dbGImiCkW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzMy/Mi0xMTExOTYwMjc0/LmpwZw.jpeg" alt="Cover for Streams of Consciousness Vol. I" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Kush</td>
+      <td>Streams of Consciousness Vol. I</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
       <td>
       </td>
       <td>2004</td>
@@ -592,7 +592,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/3NK6gCwiEUbTpwyEgnEyrioyowGAAS4gYa7tAnuEbIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njg1/MDA1LTE2ODk0NDcx/MTUtOTQyMS5qcGVn.jpeg" alt="Cover for Ambient à la carte, Vol. 1 (A Collection of Sensual and Contemplative Music Selected By Enrico Donner)" style="max-width:120px; height:auto;" />
       </td>
@@ -609,7 +609,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/kaA0h4yVLjGjSFtpIiBfEtGQDs5ZVqVcWHwIeS4K23I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTg0/OC0xMjk0MTUzMzc5/LmpwZWc.jpeg" alt="Cover for Saphir" style="max-width:120px; height:auto;" />
       </td>
@@ -626,15 +626,15 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       <td>
         <ul>
             <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 15</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 16</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 25</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 28</li>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 76</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 80</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/mwzH7RzHUzctSwFjZdkTpUGLzpIgF0-uaCFVU57gCYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODE1/MC0xMTM5MTM2MzMx/LmpwZWc.jpeg" alt="Cover for Schlafcouch" style="max-width:120px; height:auto;" />
       </td>
@@ -658,7 +658,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fa52a32c36e4eb9ce0fc99db7061f4e.png" alt="Cover for Indigo Prophecy &#x2F; Fahrenheit" style="max-width:120px; height:auto;" />
       </td>
@@ -684,7 +684,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>2006</td>
@@ -703,7 +703,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/86Vqca6e6kFnxryqv36v7EDFw7TvoQ-X61vztmz_QDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTY0/Ny0xMzYxMTM2NTMw/LTQ3ODguanBlZw.jpeg" alt="Cover for Pofigistka" style="max-width:120px; height:auto;" />
       </td>
@@ -718,12 +718,12 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 90</li>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/uBHOunFL_qbVTyxcNPGPz5xffdBRPpT7F-d9tr9pXfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDkw/ODktMTQ2MTgyODUx/NC01MzU5LmpwZWc.jpeg" alt="Cover for Settled Down" style="max-width:120px; height:auto;" />
       </td>
@@ -741,7 +741,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/kozfr-oEOfLflt6DCqEyaWFHf7PEP2nWDLVMjDaTtwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA5/NDktMTE4OTg3Njg0/NC5qcGVn.jpeg" alt="Cover for Sous Le Blanc Rosier" style="max-width:120px; height:auto;" />
       </td>
@@ -756,15 +756,15 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 28</li>
             <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 30</li>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 50</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 51</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 57</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f8cc393676455afd04de36ddb201364.png" alt="Cover for No Life Space" style="max-width:120px; height:auto;" />
       </td>
@@ -783,7 +783,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/rL9viNAs4vwuTy5h2vVRK9u3hDapBB2SgXDBTiy0uA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM4/MjktMTU1MzA0NDQ1/Mi0zNzU0LmpwZWc.jpeg" alt="Cover for Sententia" style="max-width:120px; height:auto;" />
       </td>
@@ -800,36 +800,13 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 75</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 26</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
-      <td>
-          <img src="https://i.discogs.com/ZIdUy6EsyObVaQrdH1P27olgnh53e5CZJmyEy_uqi2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDUz/MTUtMTQwMzE3Njkw/MS02Nzk4LmpwZWc.jpeg" alt="Cover for blind vision" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Erez Yaary</td>
-      <td>blind vision</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 75</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/op0nE9wCccMUFtdvBARuRntqKkygnRNBOh1i3t2Jkzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTcx/MDgtMTI0ODE4ODc4/NC5qcGVn.jpeg" alt="Cover for Pianochocolate - Morning Coffee (2008)" style="max-width:120px; height:auto;" />
       </td>
@@ -847,13 +824,36 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 82</li>
-            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 89</li>
+            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 12</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/ZIdUy6EsyObVaQrdH1P27olgnh53e5CZJmyEy_uqi2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDUz/MTUtMTQwMzE3Njkw/MS02Nzk4LmpwZWc.jpeg" alt="Cover for blind vision" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Erez Yaary</td>
+      <td>blind vision</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/k-nWMcKORR_V4G85YQpA7VPryx33MtlMTCE4BKFgDyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTE1/NTQtMTI5MTM4MTcy/NC5qcGVn.jpeg" alt="Cover for Odos Eis Ouranon" style="max-width:120px; height:auto;" />
       </td>
@@ -882,7 +882,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e89d987e2aa8d3d6d80dd36ea4779c5.png" alt="Cover for kirpi ep" style="max-width:120px; height:auto;" />
       </td>
@@ -905,7 +905,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/s5H29kjZx7k1W7WBPkBybvZMceTp5VDm70UkAvj3uec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDEtMTIyOTA3NDI5/OS5qcGVn.jpeg" alt="Cover for introductions" style="max-width:120px; height:auto;" />
       </td>
@@ -931,7 +931,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/egRey5eOxT9zAbV708DWnJhZ-I075ucai3er5lxV_3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTQ0/NjUtMTQyMzIwMTAx/NC02NDAyLmpwZWc.jpeg" alt="Cover for P.a.n.o.r.a.m.a" style="max-width:120px; height:auto;" />
       </td>
@@ -965,7 +965,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1eae9a6b224ed21e7683a68323228251.png" alt="Cover for The Glittering Domain" style="max-width:120px; height:auto;" />
       </td>
@@ -988,13 +988,13 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 45</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 55</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5946e6b0dc3834fbd9f1d513b466dcc5.png" alt="Cover for Mirror&#39;s Edge Catalyst" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,7 +1014,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/0b4VFmQ8cnSHOvIEvyfarK_cZP0KibPonlUWMFENWb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTU2/NjItMTQ3MDE4MjIy/My0yNjI1LmpwZWc.jpeg" alt="Cover for Darkness Before Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1038,7 +1038,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33e4d4faec0a41e5a29b50bc920fea78.png" alt="Cover for Mentalism EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,7 +1065,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80b2b82df82daf339c05a6a3454dee42.png" alt="Cover for Andromeda" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,7 +1090,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/osEuTd78A4FdOX4tsYylRVd4KcyrnHby4RtK2340Pp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzE4/MDktMTQ0NzYyMjE0/NS04ODg1LmpwZWc.jpeg" alt="Cover for Contrary Emotion" style="max-width:120px; height:auto;" />
       </td>
@@ -1112,12 +1112,12 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 9</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d1331a3e17ce948502daab84b37f05b.png" alt="Cover for Marzipan und Mutterfleisch" style="max-width:120px; height:auto;" />
       </td>
@@ -1143,7 +1143,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/gA1U6XlE4KyjrI2JRQFsqwsYEWDMmBoUaEoYNfQgxKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDE3/NzgtMTMyMDI1ODcx/Mi5qcGVn.jpeg" alt="Cover for Committal" style="max-width:120px; height:auto;" />
       </td>
@@ -1163,7 +1163,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/598c389f78fa4109af28ceadd9457ea4.png" alt="Cover for ClaireRocket" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,13 +1201,13 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 3</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 54</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b920539b3aac529d12379756b86eaebe.png" alt="Cover for Environments" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,7 +1230,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
       </td>
       <td>2011-11-11</td>
@@ -1245,12 +1245,12 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 34</li>
+            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfff21c66e765dba939b51bb0a982f7e.png" alt="Cover for Red Dead Redemption: Undead Nightmare Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,7 +1273,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/q630DVmFX8XCH9dwRW9zsa12FYCLmp-EclQ6hin5qOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTM0/MjU3LTE1ODQzMjg1/MzAtMjg5NC5qcGVn.jpeg" alt="Cover for Jackrabbit Ep" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,7 +1291,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
       </td>
       <td>2013-12-28</td>
@@ -1309,7 +1309,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/82GRETqmZMguB5R5610QBJYgPGMSfA41cAVpZGs44OA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjU5/OTMtMTM5MzA2OTQ1/MS0xOTQ1LmpwZWc.jpeg" alt="Cover for Datafeed" style="max-width:120px; height:auto;" />
       </td>
@@ -1327,7 +1327,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bf0b41ef5db4779c7d1201ff77e8efa.png" alt="Cover for Galaxy Train" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,7 +1351,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1e3979723684dc1cd7017387e651fc2.png" alt="Cover for Total works, Abstract soundscape compilation" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,7 +1368,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
       </td>
       <td>2014-11-03</td>
@@ -1385,7 +1385,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/Va6ZPHYe9Io-Lme4n9YgdK_Aa682p9LIrcPC6E9y7Ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc1/MDgyLTE1ODkwNDIx/MzAtNjA2MS5qcGVn.jpeg" alt="Cover for Connected" style="max-width:120px; height:auto;" />
       </td>
@@ -1409,7 +1409,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
       </td>
       <td>2015-05-06</td>
@@ -1428,7 +1428,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c940b66fa52bc97e9639425e62beeeb.png" alt="Cover for Stranger Things, Vol. 2 (A Netflix Original Series Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1445,7 +1445,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/226202e3cd69a927fa1541555ff56587.png" alt="Cover for Chillout Lounge" style="max-width:120px; height:auto;" />
       </td>
@@ -1476,7 +1476,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/bORbO1nCDR0dkGSvJfdXtHBYs2ll-y0doISs2v6jsd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODM5/NjEtMTQ4OTY3MjMx/My03NjMyLmpwZWc.jpeg" alt="Cover for The Echo" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,7 +1494,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/uW58BlahGBt9bqQpenI9LXOkOyD_QCScnaesLxzqhU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQy/OTg2LTE1MzEyNTU5/MDItOTY1Mi5qcGVn.jpeg" alt="Cover for Memories" style="max-width:120px; height:auto;" />
       </td>
@@ -1516,7 +1516,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c0aed318b6a231e52f79eb34a299c1f.png" alt="Cover for Enchanted Forest" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,7 +1537,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15f0266b29c938d2384ec0a6a2203ba5.png" alt="Cover for 3STYLE" style="max-width:120px; height:auto;" />
       </td>
@@ -1556,7 +1556,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Jetset Lounge Club, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1573,30 +1573,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>
-          <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Lounge Universe- Bar Cafe Chillout Around the World" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023</td>
-      <td>Various Artists</td>
-      <td>Lounge Universe- Bar Cafe Chillout Around the World</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 29</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
       </td>
       <td>2023</td>
@@ -1614,12 +1591,54 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 61</li>
+            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Lounge Universe- Bar Cafe Chillout Around the World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Lounge Universe- Bar Cafe Chillout Around the World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Ibiza Chill Out Experience - Destination Cala D&#39;hort" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Ibiza Chill Out Experience - Destination Cala D&#39;hort</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
       <td>
       </td>
       <td>2023</td>
@@ -1639,26 +1658,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Ibiza Chill Out Experience - Destination Cala D&#39;hort" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023</td>
-      <td>Various Artists</td>
-      <td>Ibiza Chill Out Experience - Destination Cala D&#39;hort</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Café del Mar, volumen dieciséis" style="max-width:120px; height:auto;" />
       </td>
@@ -1675,7 +1675,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/J9JppDJTIAEhdgRI0N5yWxwzP1qM4K47N2T1remLh9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODA2/MjItMTQxMDU1NTY0/Mi04MDE4LmpwZWc.jpeg" alt="Cover for The Clocktower at the Beach (1979)" style="max-width:120px; height:auto;" />
       </td>
@@ -1693,7 +1693,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/Bi5YkZH8FzK91yTuU3mCxRUGb3-Wy0I8Mv7aANrp5eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTgx/NDQyLTE3MjQ2OTc4/MjQtMTQ3My5qcGVn.jpeg" alt="Cover for Galaxy Species" style="max-width:120px; height:auto;" />
       </td>
@@ -1713,34 +1713,37 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
-      <td>mizerny</td>
-      <td>0-1..0-6</td>
+      <td>Alchemorph Soundtracks</td>
+      <td>Improvisations</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 86</li>
+            <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 16</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 44</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d17b57dd1b6d4613a8bfa9806d2b22b7.png" alt="Cover for A Few Beer Tears Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1775,91 +1778,43 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>85</td>
       <td>
       </td>
       <td></td>
-      <td>Alchemorph Soundtracks</td>
-      <td>Improvisations</td>
+      <td>mizerny</td>
+      <td>0-1..0-6</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 44</li>
-            <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 85</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Sad Fantasy</td>
-      <td>Ruins of what was</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3b26281e71744e5c455a3fca4e52a1f.png" alt="Cover for Crystal Water" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Jou D. Smooth</td>
-      <td>Crystal Water</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a4b5c78ecac451bc51a6a4517b5e462.png" alt="Cover for Rural Landscape" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Retroloop Impressions</td>
-      <td>Rural Landscape</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Dog In The Evening</td>
+      <td>Dog In The Eve</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
         </ul>
       </td>
       <td>
@@ -1868,64 +1823,16 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66c1a39f883a1e8a1f267222995efd07.png" alt="Cover for Memory" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Drip-Dry Eyes</td>
-      <td>Memory</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
-      <td>Barbara Blasques</td>
-      <td>Birds</td>
+      <td>dog in the evening</td>
+      <td>Dog In The Eve</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75dfc8425e9cf1b8d7fe063ffbd24fd3.png" alt="Cover for Mauer" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Ekto-One</td>
-      <td>Mauer</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
         </ul>
       </td>
       <td>
@@ -1935,285 +1842,6 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     </tr>
     <tr>
       <td>20</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db8841e1c2b24dbccd0f8dfebb30882c.png" alt="Cover for Natural Things" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Wa Jazz Quintet</td>
-      <td>Natural Things</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-      </td>
-      <td></td>
-      <td>nunescoimbra</td>
-      <td>NUNESCORE.</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Viaska</td>
-      <td>An Ascension into Retention</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Dillich</td>
-      <td>*</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-      </td>
-      <td></td>
-      <td>ITNOCAB</td>
-      <td>SCARRED FOR LIFE(2008)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ca8a454e59b4ea39b3c7e3428665b95.png" alt="Cover for Oliver" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>God&#39;s Holy Forest</td>
-      <td>Oliver</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Project77</td>
-      <td>Godzilla vs Project77</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Blame Keiko</td>
-      <td>Blame Keiko&#x2F;Purple Magic split</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14b6d17f583914327dc65a34c56c8720.png" alt="Cover for Jüregım" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>apriltears</td>
-      <td>Jüregım</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1b1dd7a77134a2ecac23acd02eb1663.png" alt="Cover for Chasing Memories" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>postmoderndisco</td>
-      <td>Chasing Memories</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Dillich</td>
-      <td>Strictly Headphones</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0834dd291c24d08efc6179557078654b.png" alt="Cover for DJ BRODY-&#x60;FEAT-PIXIEGUTS&#x60;" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>DJ BRODY-FEAT-PIXIEGUTS</td>
-      <td>DJ BRODY-&#x60;FEAT-PIXIEGUTS&#x60;</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Stephan Earl</td>
-      <td>Origins</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
       <td>
       </td>
       <td></td>
@@ -2242,16 +1870,18 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
-      <td>dog in the evening</td>
-      <td>Dog In The Eve</td>
+      <td>Stephan Earl</td>
+      <td>Origins</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
         </ul>
       </td>
       <td>
@@ -2260,16 +1890,386 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0834dd291c24d08efc6179557078654b.png" alt="Cover for DJ BRODY-&#x60;FEAT-PIXIEGUTS&#x60;" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Dog In The Evening</td>
-      <td>Dog In The Eve</td>
+      <td>DJ BRODY-FEAT-PIXIEGUTS</td>
+      <td>DJ BRODY-&#x60;FEAT-PIXIEGUTS&#x60;</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Dillich</td>
+      <td>Strictly Headphones</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1b1dd7a77134a2ecac23acd02eb1663.png" alt="Cover for Chasing Memories" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>postmoderndisco</td>
+      <td>Chasing Memories</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14b6d17f583914327dc65a34c56c8720.png" alt="Cover for Jüregım" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>apriltears</td>
+      <td>Jüregım</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Blame Keiko</td>
+      <td>Blame Keiko&#x2F;Purple Magic split</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Project77</td>
+      <td>Godzilla vs Project77</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ca8a454e59b4ea39b3c7e3428665b95.png" alt="Cover for Oliver" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>God&#39;s Holy Forest</td>
+      <td>Oliver</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td></td>
+      <td>ITNOCAB</td>
+      <td>SCARRED FOR LIFE(2008)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Dillich</td>
+      <td>*</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Viaska</td>
+      <td>An Ascension into Retention</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td></td>
+      <td>nunescoimbra</td>
+      <td>NUNESCORE.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db8841e1c2b24dbccd0f8dfebb30882c.png" alt="Cover for Natural Things" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Wa Jazz Quintet</td>
+      <td>Natural Things</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75dfc8425e9cf1b8d7fe063ffbd24fd3.png" alt="Cover for Mauer" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Ekto-One</td>
+      <td>Mauer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Barbara Blasques</td>
+      <td>Birds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66c1a39f883a1e8a1f267222995efd07.png" alt="Cover for Memory" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Drip-Dry Eyes</td>
+      <td>Memory</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a4b5c78ecac451bc51a6a4517b5e462.png" alt="Cover for Rural Landscape" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Retroloop Impressions</td>
+      <td>Rural Landscape</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3b26281e71744e5c455a3fca4e52a1f.png" alt="Cover for Crystal Water" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Jou D. Smooth</td>
+      <td>Crystal Water</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sad Fantasy</td>
+      <td>Ruins of what was</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
       <td>

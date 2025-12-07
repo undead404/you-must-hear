@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:36:41.059Z
+date: 2025-12-06T16:51:48.102Z
 permalink: tags/ambient-rock
 title: ambient rock
 ---
 
 ## ambient rock
 
-Last updated: <time datetime="2025-12-04T09:36:41.059Z">Thu Dec 04 2025 11:36:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T16:51:48.102Z">Sat Dec 06 2025 18:51:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -124,11 +124,11 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 30</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 47</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 63</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 26</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 29</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 38</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 54</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 65</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 75</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 76</li>
         </ul>
       </td>
@@ -228,8 +228,8 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 12</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 82</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -296,7 +296,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 46</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -692,8 +692,8 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 32</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 62</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -826,9 +826,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 60</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 76</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 83</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 18</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 25</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -876,8 +876,8 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 49</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 49</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -951,6 +951,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
@@ -961,6 +962,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 23</li>
             <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 94</li>
         </ul>
       </td>
@@ -1016,8 +1018,8 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 50</li>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 73</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 28</li>
+            <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 49</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 80</li>
         </ul>
       </td>
@@ -1127,8 +1129,8 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 24</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 54</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 47</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1318,6 +1320,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
@@ -1329,6 +1332,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       <td>
         <ul>
             <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 20</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 37</li>
             <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 53</li>
             <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 96</li>
         </ul>
@@ -1393,7 +1397,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 30</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1418,7 +1422,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 38</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1621,7 +1625,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 38</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1649,8 +1653,8 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 19</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 28</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1715,7 +1719,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 58</li>
+            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1778,7 +1782,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 20</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1947,6 +1951,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
@@ -1955,6 +1960,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1998,7 +2004,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 61</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -2077,6 +2083,35 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Marco Manzella e Antonella Scalia</td>
+      <td>Oltre...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2340,33 +2375,6 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Marco Manzella e Antonella Scalia</td>
-      <td>Oltre...</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
         </ul>
       </td>
       <td>

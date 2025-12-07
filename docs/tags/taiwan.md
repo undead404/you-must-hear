@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:42:16.248Z
+date: 2025-12-06T18:00:50.254Z
 permalink: tags/taiwan
 title: taiwan
 ---
 
 ## taiwan
 
-Last updated: <time datetime="2025-12-04T09:42:16.248Z">Thu Dec 04 2025 11:42:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T18:00:50.254Z">Sat Dec 06 2025 20:00:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Taiwan represents the vibrant Mandopop scene from the island nation, blending co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 58</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -71,7 +71,7 @@ Taiwan represents the vibrant Mandopop scene from the island nation, blending co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 25</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -825,7 +825,6 @@ Taiwan represents the vibrant Mandopop scene from the island nation, blending co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 10</li>
             <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 70</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 98</li>
         </ul>
@@ -897,7 +896,7 @@ Taiwan represents the vibrant Mandopop scene from the island nation, blending co
       <td>
         <ul>
             <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 12</li>
-            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 58</li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -971,7 +970,6 @@ Taiwan represents the vibrant Mandopop scene from the island nation, blending co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 5</li>
             <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 67</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 93</li>
         </ul>
@@ -1075,9 +1073,9 @@ Taiwan represents the vibrant Mandopop scene from the island nation, blending co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 6</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 38</li>
             <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 47</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1446,7 +1444,7 @@ Taiwan represents the vibrant Mandopop scene from the island nation, blending co
       <td>
         <ul>
             <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 15</li>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 84</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1555,7 +1553,7 @@ Taiwan represents the vibrant Mandopop scene from the island nation, blending co
       <td>
         <ul>
             <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 13</li>
-            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 57</li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1597,9 +1595,9 @@ Taiwan represents the vibrant Mandopop scene from the island nation, blending co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 10</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 81</li>
             <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 85</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1689,7 +1687,7 @@ Taiwan represents the vibrant Mandopop scene from the island nation, blending co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 86</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1780,7 +1778,7 @@ Taiwan represents the vibrant Mandopop scene from the island nation, blending co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 59</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1803,7 +1801,7 @@ Taiwan represents the vibrant Mandopop scene from the island nation, blending co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 50</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1826,7 +1824,7 @@ Taiwan represents the vibrant Mandopop scene from the island nation, blending co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 47</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1918,7 +1916,7 @@ Taiwan represents the vibrant Mandopop scene from the island nation, blending co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 38</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 63</li>
         </ul>
       </td>
     </tr>

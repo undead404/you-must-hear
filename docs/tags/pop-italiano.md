@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:41:08.938Z
+date: 2025-12-06T17:42:23.418Z
 permalink: tags/pop-italiano
 title: pop italiano
 ---
 
 ## pop italiano
 
-Last updated: <time datetime="2025-12-04T09:41:08.938Z">Thu Dec 04 2025 11:41:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T17:42:23.418Z">Sat Dec 06 2025 19:42:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -396,8 +396,8 @@ Pop italiano encompasses the melodic and emotionally expressive popular music tr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 43</li>
             <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 56</li>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -562,7 +562,7 @@ Pop italiano encompasses the melodic and emotionally expressive popular music tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 1</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -613,7 +613,7 @@ Pop italiano encompasses the melodic and emotionally expressive popular music tr
       <td>
         <ul>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 40</li>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 49</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 52</li>
             <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 73</li>
         </ul>
       </td>
@@ -897,7 +897,7 @@ Pop italiano encompasses the melodic and emotionally expressive popular music tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 53</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1328,8 +1328,8 @@ Pop italiano encompasses the melodic and emotionally expressive popular music tr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 12</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 52</li>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1355,8 +1355,8 @@ Pop italiano encompasses the melodic and emotionally expressive popular music tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 34</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 64</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1448,7 +1448,7 @@ Pop italiano encompasses the melodic and emotionally expressive popular music tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 47</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 54</li>
             <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 87</li>
         </ul>
       </td>
@@ -1542,7 +1542,7 @@ Pop italiano encompasses the melodic and emotionally expressive popular music tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 45</li>
+            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1674,7 +1674,7 @@ Pop italiano encompasses the melodic and emotionally expressive popular music tr
       <td>
         <ul>
             <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 19</li>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 75</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1770,8 +1770,8 @@ Pop italiano encompasses the melodic and emotionally expressive popular music tr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 42</li>
             <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 55</li>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1841,7 +1841,7 @@ Pop italiano encompasses the melodic and emotionally expressive popular music tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 1</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2007,11 +2007,11 @@ Pop italiano encompasses the melodic and emotionally expressive popular music tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 20</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 33</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 39</li>
             <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 55</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 68</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 74</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2069,8 +2069,8 @@ Pop italiano encompasses the melodic and emotionally expressive popular music tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 62</li>
             <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 62</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2296,7 +2296,7 @@ Pop italiano encompasses the melodic and emotionally expressive popular music tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 32</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2317,7 +2317,7 @@ Pop italiano encompasses the melodic and emotionally expressive popular music tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 79</li>
+            <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 22</li>
             <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 80</li>
         </ul>
       </td>

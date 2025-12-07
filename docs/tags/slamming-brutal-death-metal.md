@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:07:30.514Z
+date: 2025-12-06T16:35:01.501Z
 permalink: tags/slamming-brutal-death-metal
 title: slamming brutal death metal
 ---
 
 ## slamming brutal death metal
 
-Last updated: <time datetime="2025-12-04T09:07:30.514Z">Thu Dec 04 2025 11:07:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T16:35:01.501Z">Sat Dec 06 2025 18:35:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
       </td>
       <td>1999-07</td>
@@ -47,7 +47,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6db2d147c10359c2392cd007471609d1.png" alt="Cover for Bad Reputation" style="max-width:120px; height:auto;" />
       </td>
@@ -116,35 +116,52 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 2</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 8</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 12</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 13</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 14</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 14</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 18</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 21</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 36</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 18</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 38</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 39</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 39</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 39</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 41</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 41</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 44</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 46</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 51</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 57</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 58</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 60</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 62</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 62</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 62</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 64</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 65</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 80</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 81</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 83</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 87</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 88</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 94</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 96</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Dripping</td>
+      <td>Disintegration of Thought Patterns During a Synthetic Mind Traveling Bliss</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/HklfznwGCoUJepx-FTWP0GT2kWW7o9Ityofyoo106t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDg0/NC0xMzQ5MDk0MDUy/LTMyNTQuanBlZw.jpeg" alt="Cover for Disintegration of Thought Patterns During a Synthetic Mind Travelling Bliss" style="max-width:120px; height:auto;" />
       </td>
@@ -162,24 +179,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-      </td>
-      <td>2002</td>
-      <td>Dripping</td>
-      <td>Disintegration of Thought Patterns During a Synthetic Mind Traveling Bliss</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/Nc1u1DqQmZJKCGloJIjObyYWPOQSPhb1gsUarQCiG6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTA3/ODktMTUxODgxODM0/MC03MzM2LmpwZWc.jpeg" alt="Cover for Portraits of Inhuman Abominations" style="max-width:120px; height:auto;" />
       </td>
@@ -197,7 +197,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
       </td>
       <td>2006-08-31</td>
@@ -215,7 +215,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
       </td>
       <td>2006-11-28</td>
@@ -232,7 +232,26 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>17</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Katalepsy</td>
+      <td>Musick Brings Injuries</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/8DIVMG6Qp_qeNWilxnkq7luwfksn90f_HoXEmWerFHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU5/MjctMTUwMzYwMTg2/MC02ODE4LmpwZWc.jpeg" alt="Cover for Torture Of Decimation" style="max-width:120px; height:auto;" />
       </td>
@@ -254,26 +273,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>84</td>
-      <td>
-      </td>
-      <td>2007</td>
-      <td>Katalepsy</td>
-      <td>Musick Brings Injuries</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 54</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/eIJF6qriQ5KWwiPS9rfu-Fe2qkAoZR2OqfjtNW4Ew08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTEw/NDUtMTI3MzgwOTc1/MC5qcGVn.jpeg" alt="Cover for Devastate Under Hallucination" style="max-width:120px; height:auto;" />
       </td>
@@ -291,7 +291,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
       </td>
       <td>2007-11-06</td>
@@ -309,7 +309,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
       </td>
       <td>2007-11-21</td>
@@ -322,12 +322,12 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 52</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>2007-12-27</td>
@@ -346,25 +346,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>
-          <img src="https://i.discogs.com/4EMHo5ozb2B0wFHoR25Uea23doo0av-26UUmP0UuzOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzIx/MDEtMTU5NTE4MTg2/NS01MjQ0LmpwZWc.jpeg" alt="Cover for Pre-Natal Cannibalism" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Amagortis</td>
-      <td>Pre-Natal Cannibalism</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>2008</td>
@@ -382,7 +364,25 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/4EMHo5ozb2B0wFHoR25Uea23doo0av-26UUmP0UuzOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzIx/MDEtMTU5NTE4MTg2/NS01MjQ0LmpwZWc.jpeg" alt="Cover for Pre-Natal Cannibalism" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Amagortis</td>
+      <td>Pre-Natal Cannibalism</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
       </td>
       <td>2008-04-06</td>
@@ -400,7 +400,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
       </td>
       <td>2009-05-26</td>
@@ -417,7 +417,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
       </td>
       <td>2009-06-26</td>
@@ -435,7 +435,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e9695caaf05410fc17decb4bc392fba.png" alt="Cover for Apostles of Inexpression" style="max-width:120px; height:auto;" />
       </td>
@@ -455,7 +455,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
       </td>
       <td>2009-09-03</td>
@@ -473,26 +473,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://i.discogs.com/eKJWJt7F4Bs5YivKUeXowFkWOvpPskCYngt-_f6qGjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQ0/NzYtMTI4MjM4ODMw/Ny5qcGVn.jpeg" alt="Cover for Post-Abortion Slut Fuck" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-01-15</td>
-      <td>Vulvectomy</td>
-      <td>Post-Abortion Slut Fuck</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>2010-01-15</td>
@@ -511,7 +492,26 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/eKJWJt7F4Bs5YivKUeXowFkWOvpPskCYngt-_f6qGjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQ0/NzYtMTI4MjM4ODMw/Ny5qcGVn.jpeg" alt="Cover for Post-Abortion Slut Fuck" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-01-15</td>
+      <td>Vulvectomy</td>
+      <td>Post-Abortion Slut Fuck</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/6J-zVQ4IH84wxQueaB2603zl2HXxA4X4TwbEddQjDzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDE1/MzgtMTI5MjYwODEx/NC5qcGVn.jpeg" alt="Cover for Intrinsic Indecency" style="max-width:120px; height:auto;" />
       </td>
@@ -530,7 +530,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
       </td>
       <td>2010-12-09</td>
@@ -547,7 +547,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
       </td>
       <td>2010-12-13</td>
@@ -564,7 +564,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/hvzrmwxAd6dNTYDIXKGLU5lmBrf82noS5vu31YWZRXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjYx/MDMwLTE1MjAyMDI2/OTYtMzc0Ni5qcGVn.jpeg" alt="Cover for The Slamz: Chronicles, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -582,7 +582,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/8oNurzIZrilaij5zFua9JZQGPp2r1vYqJphkUgM7Fco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTU4/MjItMTQ0NTk1NDk0/OC00NjQ1LmpwZWc.jpeg" alt="Cover for Instinct Of Inhuman Devourment" style="max-width:120px; height:auto;" />
       </td>
@@ -601,7 +601,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>2011-02-03</td>
@@ -619,7 +619,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3fde79a26944c1cb3b42fa8bcbd0a98.png" alt="Cover for Ingesting Putridity" style="max-width:120px; height:auto;" />
       </td>
@@ -639,7 +639,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
       </td>
       <td>2011-06</td>
@@ -657,7 +657,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/gNacVL3j8wGE_ZmLvagCqUJtvJ5zLcVKR_vZLv3qTjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njc0/MDUtMTYwNjA1OTQ1/OC05OTg1LmpwZWc.jpeg" alt="Cover for Consuming the morgue Remains" style="max-width:120px; height:auto;" />
       </td>
@@ -676,7 +676,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
       </td>
       <td>2012-02-28</td>
@@ -694,7 +694,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>2012-05-15</td>
@@ -711,7 +711,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>2012-09-13</td>
@@ -729,7 +729,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>2013-01-08</td>
@@ -749,7 +749,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
       </td>
       <td>2013-02-19</td>
@@ -767,7 +767,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/-pZcwz9NoXfHU3ETPf0REOzEvoIIOWEp_QSROH45nOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTI3/OTAtMTM5MjQ5Njkx/NS0yNzU5LmpwZWc.jpeg" alt="Cover for Abusing Dismembered Beauties" style="max-width:120px; height:auto;" />
       </td>
@@ -785,7 +785,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/OtVWzt84DRMSP6UZJuQurop2mswKrbLZPfI_38MgP2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM2/MzU5LTE1MDUwOTIy/NTMtODAxNi5qcGVn.jpeg" alt="Cover for Serial Urbicide" style="max-width:120px; height:auto;" />
       </td>
@@ -804,7 +804,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/DlqfE_DfEufMMJ_0h0DO4liHdcsqJ0Pzli9unEJ3Wjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTUx/OTItMTM4NzcxNjE0/Ny03NTE1LmpwZWc.jpeg" alt="Cover for Real-Life Death" style="max-width:120px; height:auto;" />
       </td>
@@ -822,12 +822,12 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 50</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/0SqlMEntsWouvAJDm1r3V25M4rUv1Zu57v1Yvm29XEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTgx/OTgtMTM5ODExMjk0/My0zMjU5LmpwZWc.jpeg" alt="Cover for Black Earth Child" style="max-width:120px; height:auto;" />
       </td>
@@ -846,7 +846,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/fPVhPP7YcbuH5BH6-SLYUfWGpP4nsMPxC6eFNnuNFlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjUw/NzYtMTQ3MzQ3Njg4/Ni01MTc2LmpwZWc.jpeg" alt="Cover for Human Decimation" style="max-width:120px; height:auto;" />
       </td>
@@ -864,7 +864,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/9ZulnQli8r9IsRu0Ei7wWWjeNfPeO3k9ulDYPM_2P-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Nzkz/MjktMTM5OTcyNjYw/NS0zNTYwLmpwZWc.jpeg" alt="Cover for Thoracoabdominal Viscerectomy" style="max-width:120px; height:auto;" />
       </td>
@@ -883,7 +883,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>2014-05-10</td>
@@ -900,7 +900,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/C3eZsmmOAAjWLf8pVCj7yT1a6VdFFUj3RxQ1zDrZ5Qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzc0/ODAtMTQwNTE4MTU5/OS0zNTczLmpwZWc.jpeg" alt="Cover for Reborn In Putrefaction" style="max-width:120px; height:auto;" />
       </td>
@@ -920,7 +920,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2014-07-22</td>
@@ -996,68 +996,68 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 4</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 4</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 4</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 4</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 4</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 4</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 4</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 4</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 5</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 4</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 5</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 5</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 5</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 5</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 5</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 6</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 6</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 6</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 6</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 6</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 5</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 5</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 6</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 6</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 6</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 6</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 6</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 7</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 7</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 7</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 7</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 8</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 8</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 9</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 9</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 9</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 11</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 11</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 14</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 14</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 15</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 15</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 15</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 15</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 18</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 21</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 22</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 25</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 29</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 27</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 29</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 31</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 33</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 38</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 50</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 59</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 63</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 72</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 74</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 86</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 95</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 96</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 87</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 96</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 96</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 97</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/TQPXsBxOYqQ2A25MZvrNPpgkQMrVp-LVJEBaZkzmd-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDQ1/NDgtMTQwNTkyNzc2/NS01NjkwLmpwZWc.jpeg" alt="Cover for Putreseminal Morphodysplastic Virulency" style="max-width:120px; height:auto;" />
       </td>
@@ -1075,7 +1075,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>2014-08-05</td>
@@ -1093,7 +1093,25 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/-YBEOgTfuWVIXfPmYZgKsyM-g46pnsC8qFQy-gR5YxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDUz/ODAtMTQxODQyNDYz/OS0xMzg2LmpwZWc.jpeg" alt="Cover for Dishonor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-12-11</td>
+      <td>Acranius</td>
+      <td>Dishonor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/-ZbD8xn5YrM9syW45g3mJxFNBua1LLx0i4R-ElkKS-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Nzc1/NzgtMTQyMDIwNTAw/OS04NjczLmpwZWc.jpeg" alt="Cover for Extraterrestrial Skolexomorphic Infestation" style="max-width:120px; height:auto;" />
       </td>
@@ -1112,25 +1130,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/-YBEOgTfuWVIXfPmYZgKsyM-g46pnsC8qFQy-gR5YxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDUz/ODAtMTQxODQyNDYz/OS0xMzg2LmpwZWc.jpeg" alt="Cover for Dishonor" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014-12-11</td>
-      <td>Acranius</td>
-      <td>Dishonor</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/eFJd0kRM9j1IlIy8ab1Rpcj3EK14oeWEIM3TTp789sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDE5/MzUtMTQyOTEyNTI1/MS03NjgwLmpwZWc.jpeg" alt="Cover for Spewing the Violated Souls" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,7 +1149,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/gOTfbdxhV0_fap6Bg9vyPH8MEWpn5-AwD8sKvB8MtRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTA4/NzAtMTQyNTExNzky/My04OTMwLmpwZWc.jpeg" alt="Cover for Eternal Misery" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,7 +1169,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/pU3UNAP4Pw_N7NBn61YecsztmlnnKH5sWJTpZ4kssRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Nzk2/NDAtMTQzNDkzOTA1/NS00MTY3LmpwZWc.jpeg" alt="Cover for Dehumanization By Supremacy" style="max-width:120px; height:auto;" />
       </td>
@@ -1187,7 +1187,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/9zt7nh6bJswY2UYO2oq1MLCf-rvlSkX9CUgI0E5CEUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE4/NjMtMTQ0NTUzOTU4/OC0yNDgxLmpwZWc.jpeg" alt="Cover for The Void Between Worlds" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,7 +1205,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/eEvs7QNabA1dhTIuMDOXzE-1gToKebxc15gFyLj7m08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDgw/NjctMTUyNzQzNjg5/MC02ODAzLmpwZWc.jpeg" alt="Cover for Chronicles Of Perversion" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,44 +1223,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-          <img src="https://i.discogs.com/lynq9h4TdV72XwkizWAYGdiC6kDqMJc-wX0Bvc2t9eg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE0/NTUtMTQ2NDQ3MzI1/MS04Mzg5LmpwZWc.jpeg" alt="Cover for Doomed to Disembowelment" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016</td>
-      <td>Internal Devour</td>
-      <td>Doomed to Disembowelment</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
-      <td>
-          <img src="https://i.discogs.com/raZj4_UuBjhwQ_6jDPP5nvqk-KbARg-4qZUlDDm_zXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzQ3/OTUtMTQ3MzYzMDAz/MC04MDEyLmpwZWc.jpeg" alt="Cover for Genesis" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016</td>
-      <td>Wormhole</td>
-      <td>Genesis</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/TUwqof8QiuYR_KQtrHIisJV31Z1Y-lEWs02dPIttjY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzU5/OTQtMTQ2NzY1NDg3/NS01MTkzLmpwZWc.jpeg" alt="Cover for Psychosadistic Design" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,7 +1244,44 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/raZj4_UuBjhwQ_6jDPP5nvqk-KbARg-4qZUlDDm_zXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzQ3/OTUtMTQ3MzYzMDAz/MC04MDEyLmpwZWc.jpeg" alt="Cover for Genesis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Wormhole</td>
+      <td>Genesis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/lynq9h4TdV72XwkizWAYGdiC6kDqMJc-wX0Bvc2t9eg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE0/NTUtMTQ2NDQ3MzI1/MS04Mzg5LmpwZWc.jpeg" alt="Cover for Doomed to Disembowelment" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Internal Devour</td>
+      <td>Doomed to Disembowelment</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/MyHVqgLn75MZXBBBmym0pPOg72QtFYQLx1RtyQ0uOaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Mjc4/MjktMTQ2MTQxNTgx/Mi00MTEzLmpwZWc.jpeg" alt="Cover for Unethical" style="max-width:120px; height:auto;" />
       </td>
@@ -1301,7 +1301,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>2016-12-31</td>
@@ -1320,7 +1320,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/o5ASDXPnTTZ9ITpid903gRK8PdfJ02KD1wBcgi0k0OY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDg2/NTEtMTU0OTU2NDg4/NC02OTM4LmpwZWc.jpeg" alt="Cover for Atrocities from Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,7 +1338,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/N8W3belncCsMizclfzegCDdSa-8rxG8OA87lrcGUops/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTEz/NDMwLTE0OTE4NDI5/MDEtNTg5OC5qcGVn.jpeg" alt="Cover for Deformity Of Human Consciousness" style="max-width:120px; height:auto;" />
       </td>
@@ -1357,7 +1357,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/T0lheOhXjpH7CYwGRygUOtPy3pt2eg9RXLf51oCamM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDAx/NDQ3LTE1NTk2NDc4/NDQtMjE2OC5qcGVn.jpeg" alt="Cover for Vile Reincarnation" style="max-width:120px; height:auto;" />
       </td>
@@ -1375,7 +1375,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/vdUpIUuufiHh1EkIhh6_q0hjXq5YXsmH2tH2VEVpkTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY5/MjIxLTE2MTc1NDY5/MDQtOTcwNi5qcGVn.jpeg" alt="Cover for Entities Of Transdimensional Emergence" style="max-width:120px; height:auto;" />
       </td>
@@ -1393,7 +1393,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/mbn-bp5IqBMTD-Abt1v4vdtIO-jt4HEmBobdxvnw0O4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE2/MDkxLTE0OTkwMzQ5/MTMtMTI5OC5qcGVn.jpeg" alt="Cover for The Kraanialepsy Split" style="max-width:120px; height:auto;" />
       </td>
@@ -1411,7 +1411,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/riguwvoXrd6InlFamLoTu_8a7B-1fG7aMxmGhrANmn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/MzQzLTE1Mjc3MzE5/OTctNDY2Ni5qcGVn.jpeg" alt="Cover for Pathology" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,7 +1430,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/zAo6elU9jwX4OL5WUa_lPALnEh2oSRLGxs-c5VotM34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ5/OTkxLTE1MDUzMjg5/NzYtNDYzOS5qcGVn.jpeg" alt="Cover for Unhuman Forms Prevail" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,7 +1449,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/Ak4c_eqDTJhWHKGYDcHWaEVRLHCgDKgliZkHWjxGDtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM0/MjQ4LTE1MTYyNjI4/MjQtNjkzMi5qcGVn.jpeg" alt="Cover for Domain of the Wretched" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,7 +1467,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdbd19e1514e87b0177a36e943d19589.png" alt="Cover for Purgatorium" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,12 +1485,12 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       <td>
         <ul>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 19</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 60</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/g5YnVPnRrQPAvbklSbCaqlghcB615vcGQXRNZiju1D8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTk3/ODM5LTE1MjYyNTY3/ODgtOTM3Mi5qcGVn.jpeg" alt="Cover for Dominating The Extermination" style="max-width:120px; height:auto;" />
       </td>
@@ -1508,7 +1508,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/sUuwLSOeK6WaC0LtgUz2BxkJUOjj3L5BGl8aX2QpE30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg2/NTkyLTE1MzYyNDgw/NjctMjEzNS5qcGVn.jpeg" alt="Cover for Annihilation of Mankind" style="max-width:120px; height:auto;" />
       </td>
@@ -1526,7 +1526,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/Tzyz3TQD9hgagbH_ywGCFTZEsn5Lwz_vqUFijwD4foI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ4/NzE5LTE1MzkzMDY3/MDgtNzYxMi5qcGVn.jpeg" alt="Cover for Slamchosis" style="max-width:120px; height:auto;" />
       </td>
@@ -1544,7 +1544,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e14d20603bc96669beff936394a052c3.png" alt="Cover for TheManInTheRadiator" style="max-width:120px; height:auto;" />
       </td>
@@ -1562,7 +1562,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/qykBefAQiyaerDfwvr_PXs7YC4B45u8UoTaP2wdyp_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDMw/OTA3LTE1NDczMTQ2/MDEtNzkwNi5qcGVn.jpeg" alt="Cover for Grotesque Monument Of Paraperversive Transfixion" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,7 +1580,26 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/W8j6eGZJ3GpXyohuC9xBcSQXYBX41qJl20lrBlm5QGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDM4/MjgtMTY4Njc1MTc2/Ni0xMzg0LmpwZWc.jpeg" alt="Cover for Beyond Cops. Beyond God" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Waking the Cadaver</td>
+      <td>Beyond Cops. Beyond God</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/qZb9Jrmo9VvVNca-pvaJx_lneP8e1er7j6_oMkZMn4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE2/NDY1LTE1NzIwOTUy/MzEtMzU2MS5qcGVn.jpeg" alt="Cover for Beyond Cops. Beyond God." style="max-width:120px; height:auto;" />
       </td>
@@ -1600,26 +1619,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>67</td>
-      <td>
-          <img src="https://i.discogs.com/W8j6eGZJ3GpXyohuC9xBcSQXYBX41qJl20lrBlm5QGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDM4/MjgtMTY4Njc1MTc2/Ni0xMzg0LmpwZWc.jpeg" alt="Cover for Beyond Cops. Beyond God" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019</td>
-      <td>Waking the Cadaver</td>
-      <td>Beyond Cops. Beyond God</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/PrXn6dhiNcp4a5MWM8T4QBy7IvisdnKiaN4Joouq7r0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ1/MDE4LTE2MTc1NDY1/NjAtNzU1Ni5qcGVn.jpeg" alt="Cover for Suffer, Seraphim" style="max-width:120px; height:auto;" />
       </td>
@@ -1636,7 +1636,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/DCgHOT2rp44mI4vwLGuU4Dixd7KY4tesyHTios7yFaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODcw/MzQzLTE2MzU2Njgw/MTAtMTg1OS5qcGVn.jpeg" alt="Cover for Mob Justice" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1655,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/6ANJDhJQkmb9Y12Rl15EX41hNNq8ezHBIxfw7U1-wtQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA1/MzY5LTE2NDYwNjk3/ODgtMjQyMy5qcGVn.jpeg" alt="Cover for Reborn to Kill" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1674,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/7qh3cVqK0seNhle8QOquXXBWyE3PqPsOr_u3Zeb7yEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQy/MjEyLTE1OTE1OTA2/ODQtMzI2NC5qcGVn.jpeg" alt="Cover for Kinfolks" style="max-width:120px; height:auto;" />
       </td>
@@ -1751,75 +1751,75 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 2</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 2</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 2</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 2</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 2</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 2</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 2</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 3</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 3</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 3</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 3</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 3</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 3</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 3</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 3</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 3</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 4</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 3</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 4</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 4</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 4</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 5</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 4</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 5</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 5</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 5</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 5</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 5</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 7</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 7</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 7</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 8</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 9</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 9</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 11</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 11</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 11</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 13</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 14</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 17</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 20</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 20</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 21</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 20</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 20</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 22</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 22</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 26</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 36</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 43</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 45</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 47</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 47</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 48</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 79</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 81</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 54</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 80</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 85</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 98</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 99</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9be6636fbc3002ec43d317422a3dfca7.png" alt="Cover for Age-Age Money" style="max-width:120px; height:auto;" />
       </td>
@@ -1842,7 +1842,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/FDgIVZgZVu9kDAdbL1P7h8TX8ZVNbOUF9LyuKBIllZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzE4/MzM5LTE2ODYzMjg0/NTAtODcyMy5qcGVn.jpeg" alt="Cover for Revive The Throne" style="max-width:120px; height:auto;" />
       </td>
@@ -1860,7 +1860,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/G6ubNUQqt5KmqzV97ls3jxB6z-7wp8MSUBYVQ-GJm5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE4/NDgyLTE2MTEyNjM2/NjUtOTAwOS5qcGVn.jpeg" alt="Cover for Dynamite - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1878,7 +1878,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/uS1UKrzb4fDMaC2PsVb1sbCOIl3FQEmPLa0vgUkkJAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODI0/MTAxLTE2MjE2MjE5/MjYtNTg2My5qcGVn.jpeg" alt="Cover for Through the Bongfire" style="max-width:120px; height:auto;" />
       </td>
@@ -1899,7 +1899,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/C_OMhb7ftNwtRLCdCVgtvayqq92e-BOYb4prEL__ARY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk3/MzQ3LTE2MzQyOTcx/OTgtMTA5NC5qcGVn.jpeg" alt="Cover for Executed On Site" style="max-width:120px; height:auto;" />
       </td>
@@ -1917,7 +1917,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/kI_yOSShzVmK4AvffSeWFBy2BEzfKpzndJHUhmNNOPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjk0/NjEwLTE2MzQ5NDcx/NTktMzE0My5qcGVn.jpeg" alt="Cover for Authority Through Intimidation" style="max-width:120px; height:auto;" />
       </td>
@@ -1936,7 +1936,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/YIefgkyQ0nROlzeP3SdBdk-91KTDvLQRld_02C9KGas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTkw/MDYwLTE3MzA2NzIy/OTYtNjc0NS5qcGVn.jpeg" alt="Cover for Delaware Death Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -1955,7 +1955,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/14hiM1pIrWwDkfFl-2NeIcoR5zHVeIjYc65YZjGGWac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODg1/OTQzLTE2NTEwOTY3/MDctMzQzMi5qcGVn.jpeg" alt="Cover for Quiescence" style="max-width:120px; height:auto;" />
       </td>
@@ -1973,7 +1973,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/PxKUXwHf6swBK0vgbZ1Fjk83s8yWclHILimHBRAB8zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQz/NTMyLTE2Nzg5OTU5/MzYtNjY5MS5qcGVn.jpeg" alt="Cover for Water Under The Bridge" style="max-width:120px; height:auto;" />
       </td>
@@ -2050,73 +2050,73 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 3</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 3</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 3</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 3</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 3</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 3</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 4</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 4</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 4</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 4</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 4</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 4</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 4</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 4</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 4</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 4</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 5</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 5</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 5</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 5</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 5</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 5</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 6</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 6</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 6</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 10</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 6</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 7</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 7</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 8</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 8</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 10</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 11</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 12</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 10</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 12</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 12</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 13</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 12</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 13</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 13</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 17</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 18</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 19</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 19</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 21</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 24</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 28</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 30</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 28</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 30</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 43</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 44</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 51</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 71</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 57</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 72</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 74</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 82</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 84</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 87</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 87</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 90</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 92</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 87</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 89</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 92</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 97</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 92</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 97</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/cqdLalx8rpOXBHz4aFPZinJvhBG4vUaQdNz40cQ4vqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODE5/MTU5LTE2NTc3NTY1/NzYtMjc1MS5qcGVn.jpeg" alt="Cover for Nail Below Nail" style="max-width:120px; height:auto;" />
       </td>
@@ -2134,7 +2134,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/8uWsnuFjVsBPrau800BgdOnal7z7eeuEsQPLnSDDh7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTg1/ODA5LTE2OTIxNDY5/MzQtMTM1NC5qcGVn.jpeg" alt="Cover for SPLIT THE FUCK OPEN" style="max-width:120px; height:auto;" />
       </td>
@@ -2156,7 +2156,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ac4600ccdaa802e6b0d2dd82464f666.png" alt="Cover for Outskirts" style="max-width:120px; height:auto;" />
       </td>
@@ -2235,77 +2235,77 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 1</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 1</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 1</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 1</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 1</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 1</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 1</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 1</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 1</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 1</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 1</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 1</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 1</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 1</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 1</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 1</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 1</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 1</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 1</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 2</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 2</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 2</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 2</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 2</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 2</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 3</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 2</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 3</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 3</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 3</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 4</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 4</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 4</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 4</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 4</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 4</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 4</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 4</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 5</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 5</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 6</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 5</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 6</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 6</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 6</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 7</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 7</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 9</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 11</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 12</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 12</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 13</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 16</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 16</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 16</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 21</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 22</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 25</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 28</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 30</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 31</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 39</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 41</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 52</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 60</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 62</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 80</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 89</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 94</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 99</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 100</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/eYPuQYKAFtvyHMnB2cs1k_zSV8LwDsDR6U6HFCCdSmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM5/OTEwLTE2ODIxNzUx/MDgtNTg4Ni5qcGVn.jpeg" alt="Cover for Otakuslam​♡​Animecide" style="max-width:120px; height:auto;" />
       </td>
@@ -2324,7 +2324,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/gcUvD3tafKjzaLBeAhqqlDexUsu9k7tsNAURwRv3ETg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjU1/NzQzLTE3MTYwMzky/NzAtMzgxNy5qcGVn.jpeg" alt="Cover for Smoke" style="max-width:120px; height:auto;" />
       </td>
@@ -2345,7 +2345,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/AsR3qiBhiL5De2R4pT4O-8N61vLwT_vyMcZX4sakPwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTUx/ODYzLTE2OTQ5Nzcz/NjUtOTQ3MC5qcGVn.jpeg" alt="Cover for Make Them Beg for Death" style="max-width:120px; height:auto;" />
       </td>
@@ -2368,7 +2368,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/Mj53DNc8yinxnDBAPma1mrbTsBG8_rFUQP0Zd4Yn-Hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzUw/Njg4LTE2OTgzMTM0/MjEtOTMzMy5qcGVn.jpeg" alt="Cover for Almost Human" style="max-width:120px; height:auto;" />
       </td>
@@ -2388,7 +2388,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/NP0rvrPb6OlEYm_5RASdH1DpIFlq0VZaWKF1K65yRD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODY2/NDY5LTE2OTk3MDI4/ODgtMTI3My5qcGVn.jpeg" alt="Cover for Scriptures of Vicennial Defilement" style="max-width:120px; height:auto;" />
       </td>
@@ -2406,7 +2406,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/2QIYTmocP5lV-Mp-fdyXCIm4QYXn6Khx0mscLkWSpgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTY0/MzcyLTE3MTg0MDk4/NDctNTQwNS5qcGVn.jpeg" alt="Cover for SLAMTONA 500" style="max-width:120px; height:auto;" />
       </td>
@@ -2426,7 +2426,7 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -2438,17 +2438,17 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 82</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
       <td>PEELINGFLESH</td>
-      <td>The G Code</td>
+      <td>Slamaholics Mixtape</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
@@ -2460,12 +2460,12 @@ Slamming brutal death metal is an extreme subgenre characterized by crushingly h
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
       <td>PEELINGFLESH</td>
-      <td>Slamaholics Mixtape</td>
+      <td>The G Code</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>

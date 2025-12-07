@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:39:56.437Z
+date: 2025-12-06T17:25:56.662Z
 permalink: tags/taiwanese
 title: taiwanese
 ---
 
 ## taiwanese
 
-Last updated: <time datetime="2025-12-04T09:39:56.437Z">Thu Dec 04 2025 11:39:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T17:25:56.662Z">Sat Dec 06 2025 19:25:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 42</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -112,7 +112,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 26</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -136,7 +136,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 72</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 24</li>
             <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 84</li>
         </ul>
       </td>
@@ -174,6 +174,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       <td>
         <ul>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 68</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -191,7 +192,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 92</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -214,7 +215,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 31</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -251,7 +252,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 97</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -289,7 +290,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       <td>
         <ul>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 26</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 58</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -312,7 +313,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 7</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -330,6 +331,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 48</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 77</li>
         </ul>
       </td>
@@ -353,7 +355,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 33</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -376,7 +378,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 60</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -400,7 +402,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 21</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -423,7 +425,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 59</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -464,7 +466,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 70</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 26</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 86</li>
         </ul>
       </td>
@@ -489,8 +491,8 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 3</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 22</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -512,7 +514,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 44</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -536,8 +538,8 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 1</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 13</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -560,7 +562,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 57</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -585,8 +587,8 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 8</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 32</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -609,7 +611,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 55</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -632,8 +634,8 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 19</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 67</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -655,7 +657,6 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -678,7 +679,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 13</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -696,9 +697,8 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 10</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 53</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 98</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -721,7 +721,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 69</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 27</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 87</li>
         </ul>
       </td>
@@ -743,7 +743,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 75</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 22</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 79</li>
         </ul>
       </td>
@@ -767,8 +767,8 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 58</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 83</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 15</li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -809,9 +809,8 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 5</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 49</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 93</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -834,7 +833,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 66</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -878,7 +877,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 52</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -936,8 +935,8 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 5</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 40</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -960,8 +959,8 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 4</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 23</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -984,7 +983,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 63</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 33</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 100</li>
         </ul>
       </td>
@@ -1046,7 +1045,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 36</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1068,7 +1067,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 32</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1093,7 +1092,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 8</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1137,7 +1136,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 86</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 15</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 95</li>
         </ul>
       </td>
@@ -1161,7 +1160,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 37</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1204,8 +1203,8 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 18</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 64</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1289,7 +1288,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 3</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1312,8 +1311,8 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 2</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 19</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1338,7 +1337,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 64</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1477,8 +1476,8 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 80</li>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 84</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 17</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1551,7 +1550,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 20</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 82</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 82</li>
         </ul>
       </td>
@@ -1679,8 +1678,8 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 11</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 41</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1701,7 +1700,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 84</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1723,8 +1722,8 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 57</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 82</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 14</li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1747,7 +1746,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 71</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 25</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 85</li>
         </ul>
       </td>
@@ -1769,7 +1768,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 68</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1792,7 +1791,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       <td>
         <ul>
             <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 45</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 48</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1813,7 +1812,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 47</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1837,7 +1836,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 34</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1860,7 +1859,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 18</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1883,7 +1882,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 11</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1905,30 +1904,7 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 10</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a26ed1aa2aca43dc91e25d275088eeb0.png" alt="Cover for Love &amp; Fan Fan" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>范瑋琪</td>
-      <td>Love &amp; Fan Fan</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 1</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2122,6 +2098,28 @@ Taiwanese music encompasses the diverse musical output from Taiwan, blending tra
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a26ed1aa2aca43dc91e25d275088eeb0.png" alt="Cover for Love &amp; Fan Fan" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>范瑋琪</td>
+      <td>Love &amp; Fan Fan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a></li>
         </ul>
       </td>

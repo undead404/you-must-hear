@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:41:21.841Z
+date: 2025-12-06T18:00:11.520Z
 permalink: tags/shred
 title: shred
 ---
 
 ## shred
 
-Last updated: <time datetime="2025-12-04T09:41:21.841Z">Thu Dec 04 2025 11:41:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T18:00:11.520Z">Sat Dec 06 2025 20:00:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 52</li>
+            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -121,9 +121,9 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 45</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 20</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 56</li>
             <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 70</li>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -162,7 +162,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       <td>
         <ul>
             <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 4</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 91</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -181,7 +181,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       <td>
         <ul>
             <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 2</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 74</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -222,7 +222,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 15</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -396,7 +396,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 34</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -440,7 +440,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 57</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +461,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 33</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -487,7 +487,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 67</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -513,7 +513,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 62</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -737,7 +737,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 81</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -783,7 +783,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 64</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -802,8 +802,8 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 3</li>
             <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 9</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -857,7 +857,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 65</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -876,7 +876,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 23</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -916,7 +916,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 68</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -937,7 +937,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 59</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -957,7 +957,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 90</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 11</li>
             <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 96</li>
         </ul>
       </td>
@@ -1058,7 +1058,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 75</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1161,7 +1161,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 73</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1249,9 +1249,9 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 10</li>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 53</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 46</li>
             <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 58</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1310,7 +1310,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 73</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1329,7 +1329,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 74</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1351,7 +1351,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 38</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1561,7 +1561,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 56</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1707,7 +1707,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 86</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1783,7 +1783,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathgrind" | relative_url }}">mathgrind</a> # 3</li>
+            <li> <a href="{{ "/tags/mathgrind" | relative_url }}">mathgrind</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1809,7 +1809,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 25</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1896,7 +1896,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 5</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1955,7 +1955,7 @@ Shred refers to an intensely technical and virtuosic approach to guitar playing 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 28</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 73</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:37:51.040Z
+date: 2025-12-06T16:52:15.706Z
 permalink: tags/new-beat
 title: new beat
 ---
 
 ## new beat
 
-Last updated: <time datetime="2025-12-04T09:37:51.040Z">Thu Dec 04 2025 11:37:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T16:52:15.706Z">Sat Dec 06 2025 18:52:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -557,8 +557,8 @@ New Beat is a genre of electronic dance music that originated in Belgium around 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 16</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 73</li>
-            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -639,7 +639,7 @@ New Beat is a genre of electronic dance music that originated in Belgium around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 58</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -685,7 +685,7 @@ New Beat is a genre of electronic dance music that originated in Belgium around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 23</li>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -744,7 +744,7 @@ New Beat is a genre of electronic dance music that originated in Belgium around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 33</li>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -789,8 +789,8 @@ New Beat is a genre of electronic dance music that originated in Belgium around 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 6</li>
             <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 53</li>
-            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -841,8 +841,8 @@ New Beat is a genre of electronic dance music that originated in Belgium around 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 22</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 24</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 79</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 97</li>
         </ul>
       </td>
@@ -1050,7 +1050,7 @@ New Beat is a genre of electronic dance music that originated in Belgium around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 27</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1090,7 +1090,7 @@ New Beat is a genre of electronic dance music that originated in Belgium around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pacific" | relative_url }}">pacific</a> # 86</li>
+            <li> <a href="{{ "/tags/pacific" | relative_url }}">pacific</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1131,7 +1131,7 @@ New Beat is a genre of electronic dance music that originated in Belgium around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 72</li>
+            <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1506,7 +1506,7 @@ New Beat is a genre of electronic dance music that originated in Belgium around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 1</li>
+            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1776,7 +1776,7 @@ New Beat is a genre of electronic dance music that originated in Belgium around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 92</li>
+            <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -2150,9 +2150,9 @@ New Beat is a genre of electronic dance music that originated in Belgium around 
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 6</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 53</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 87</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 91</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 10</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 14</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 48</li>
         </ul>
       </td>
     </tr>

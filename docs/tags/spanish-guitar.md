@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:43:47.151Z
+date: 2025-12-06T18:33:19.586Z
 permalink: tags/spanish-guitar
 title: spanish guitar
 ---
 
 ## spanish guitar
 
-Last updated: <time datetime="2025-12-04T09:43:47.151Z">Thu Dec 04 2025 11:43:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T18:33:19.586Z">Sat Dec 06 2025 20:33:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -83,7 +83,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 9</li>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 92</li>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 94</li>
         </ul>
       </td>
@@ -120,7 +120,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 63</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -269,7 +269,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 79</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -308,7 +308,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 33</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -382,7 +382,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 83</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -400,7 +400,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 75</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -551,7 +551,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 43</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -666,7 +666,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 71</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -754,7 +754,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 33</li>
+            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -827,7 +827,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 40</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -865,8 +865,8 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 64</li>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 81</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 20</li>
+            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -982,7 +982,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 48</li>
+            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1002,7 +1002,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 28</li>
+            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1038,7 +1038,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 80</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1061,7 +1061,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 56</li>
+            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1109,7 +1109,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 44</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1174,8 +1174,8 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       <td>
           <img src="https://i.discogs.com/mtP-I78lDKCUe2gBNSw49iJ_IRAP8byve9sqS6AjaSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzA5/ODYtMTQyMzQ2ODk2/OS00MTk1LmpwZWc.jpeg" alt="Cover for Möbius" style="max-width:120px; height:auto;" />
       </td>
-      <td>2004-05-12</td>
-      <td>RIN</td>
+      <td>2004-09-29</td>
+      <td>Rin</td>
       <td>Möbius</td>
       <td>
         <ul>
@@ -1300,7 +1300,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 66</li>
+            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1469,7 +1469,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 87</li>
+            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1606,7 +1606,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 54</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1674,7 +1674,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 24</li>
+            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 77</li>
         </ul>
       </td>
     </tr>

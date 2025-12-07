@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:17:41.622Z
+date: 2025-12-06T16:35:04.631Z
 permalink: tags/sludge
 title: sludge
 ---
 
 ## sludge
 
-Last updated: <time datetime="2025-12-04T09:17:41.622Z">Thu Dec 04 2025 11:17:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T16:35:04.631Z">Sat Dec 06 2025 18:35:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -120,7 +120,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 64</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -227,7 +227,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
         <ul>
             <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 2</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 14</li>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 39</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -288,9 +288,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
         <ul>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 2</li>
             <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 12</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 31</li>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 83</li>
-            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 87</li>
+            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 14</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 17</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -394,8 +394,8 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 14</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 41</li>
             <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 44</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -453,7 +453,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 16</li>
-            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 40</li>
+            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 61</li>
             <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 67</li>
         </ul>
       </td>
@@ -610,7 +610,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 74</li>
+            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -866,7 +866,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 56</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -887,7 +887,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       <td>
         <ul>
             <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 44</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 51</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 50</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 96</li>
         </ul>
       </td>
@@ -1201,7 +1201,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 87</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1289,9 +1289,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 22</li>
+            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 13</li>
             <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 57</li>
-            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 88</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1311,7 +1311,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 24</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1411,8 +1411,8 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 14</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 36</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1606,8 +1606,8 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 42</li>
             <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 52</li>
-            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1629,8 +1629,8 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 2</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 14</li>
             <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 19</li>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1806,8 +1806,8 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 14</li>
             <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 54</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1825,7 +1825,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 44</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1846,7 +1846,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 32</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 69</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 71</li>
         </ul>
       </td>

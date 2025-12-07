@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:42:04.683Z
+date: 2025-12-06T18:00:24.883Z
 permalink: tags/melbourne
 title: melbourne
 ---
 
 ## melbourne
 
-Last updated: <time datetime="2025-12-04T09:42:04.683Z">Thu Dec 04 2025 11:42:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T18:00:24.883Z">Sat Dec 06 2025 20:00:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,7 +68,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 14</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -356,8 +356,8 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 13</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 28</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -909,8 +909,8 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 11</li>
-            <li> <a href="{{ "/tags/vietnamese" | relative_url }}">vietnamese</a> # 94</li>
+            <li> <a href="{{ "/tags/vietnamese" | relative_url }}">vietnamese</a> # 6</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1500,7 +1500,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 69</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1556,12 +1556,16 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       <td>*Trust Us* - EP</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deadmau5" | relative_url }}">deadmau5</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/justice" | relative_url }}">justice</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deadmau5" | relative_url }}">deadmau5</a> # 14</li>
+            <li> <a href="{{ "/tags/justice" | relative_url }}">justice</a> # 24</li>
         </ul>
       </td>
     </tr>

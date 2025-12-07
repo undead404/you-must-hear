@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:20:18.328Z
+date: 2025-12-06T16:02:20.814Z
 permalink: tags/asian
 title: asian
 ---
 
 ## asian
 
-Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T16:02:20.814Z">Sat Dec 06 2025 18:02:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 49</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -70,7 +70,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 21</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 30</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -93,7 +93,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 32</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -117,7 +117,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 22</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -141,7 +141,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 26</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -165,7 +165,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 6</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -188,7 +188,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 4</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -211,7 +211,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 44</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -234,8 +234,8 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 2</li>
             <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 34</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -259,9 +259,9 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 1</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 9</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 33</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 66</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 92</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -287,7 +287,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 20</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 42</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 58</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 92</li>
         </ul>
       </td>
@@ -310,9 +310,9 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 12</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 36</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 62</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 89</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -334,7 +334,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 52</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -357,7 +357,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 51</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -380,7 +380,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 14</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -405,7 +405,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 14</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 55</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 45</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 78</li>
         </ul>
       </td>
@@ -429,7 +429,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 25</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -452,7 +452,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 5</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -475,7 +475,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 7</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -540,7 +540,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 38</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -588,9 +588,9 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 7</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 12</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 28</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 95</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -613,9 +613,9 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 8</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 29</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 67</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 93</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -658,9 +658,9 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 16</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 66</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 35</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 81</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -684,7 +684,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 6</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 11</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -707,9 +707,9 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 28</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 30</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 65</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 71</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -736,10 +736,10 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 3</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 5</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 54</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 46</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 90</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -763,9 +763,9 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 1</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 3</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 56</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 100</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -789,8 +789,8 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 9</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 26</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -863,7 +863,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 12</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -884,9 +884,9 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 7</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 62</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 39</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 89</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -911,7 +911,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 18</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 45</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 55</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 88</li>
         </ul>
       </td>
@@ -936,9 +936,9 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 6</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 7</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 34</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 96</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -963,7 +963,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 14</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 68</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1064,23 +1064,23 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 8</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 10</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 11</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 22</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 23</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 25</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 32</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 31</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 37</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 44</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 47</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 54</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 55</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 58</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 61</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 62</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 61</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 63</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 70</li>
             <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 71</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
             <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 89</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1108,10 +1108,11 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 1</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 5</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 6</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 80</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 86</li>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 100</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 10</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1133,7 +1134,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 27</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1158,7 +1159,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 5</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 36</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1207,7 +1208,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 21</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1234,10 +1235,10 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 38</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 22</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 38</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 55</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 79</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1262,9 +1263,9 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 3</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 26</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 23</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 67</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 78</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1290,7 +1291,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 1</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 82</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1314,9 +1315,9 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 1</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 4</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 13</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 13</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 86</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1337,6 +1338,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1360,9 +1362,9 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 5</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 24</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 31</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 69</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 70</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1385,7 +1387,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 96</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 5</li>
             <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 99</li>
         </ul>
       </td>
@@ -1413,7 +1415,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 21</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 41</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 59</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 74</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 96</li>
         </ul>
@@ -1463,7 +1465,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 2</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 23</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1491,7 +1493,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 4</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 53</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 47</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 58</li>
         </ul>
       </td>
@@ -1513,7 +1515,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 58</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1601,7 +1603,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 13</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 74</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1626,9 +1628,9 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 16</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 46</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 50</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 85</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1651,7 +1653,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 13</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1674,7 +1676,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 17</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1698,10 +1700,10 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 1</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 2</li>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 4</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 5</li>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1726,9 +1728,9 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 2</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 37</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 21</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 56</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 80</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1794,7 +1796,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 7</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 35</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1816,8 +1818,8 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 15</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 83</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1842,7 +1844,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 24</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 24</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1867,7 +1869,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 8</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 86</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1890,10 +1892,10 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 1</li>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 1</li>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 22</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 25</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 100</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1917,7 +1919,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 4</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 96</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1941,7 +1943,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 11</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 78</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1964,8 +1966,8 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 18</li>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 23</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1990,9 +1992,9 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 1</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 34</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 25</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 59</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 76</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2017,7 +2019,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 7</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 87</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -2042,6 +2044,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 24</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2066,8 +2069,8 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 7</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 34</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 41</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2092,7 +2095,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 16</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 48</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 52</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 81</li>
         </ul>
       </td>
@@ -2118,7 +2121,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 3</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 97</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -2143,7 +2146,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 5</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 90</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2208,23 +2211,23 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
         <ul>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 1</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 3</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 15</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 23</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 25</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 26</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 29</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 30</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 32</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 34</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 48</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 49</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 60</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 61</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 75</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 76</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 90</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 94</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 96</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2248,7 +2251,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 10</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 80</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -2273,8 +2276,8 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 8</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 38</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 47</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2299,7 +2302,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 19</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 43</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 57</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 90</li>
         </ul>
       </td>
@@ -2323,8 +2326,8 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 2</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 3</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 96</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2349,8 +2352,8 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 6</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 18</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 34</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2375,7 +2378,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 13</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 57</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 43</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 76</li>
         </ul>
       </td>
@@ -2401,7 +2404,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
         <ul>
             <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 5</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 8</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 47</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 53</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 82</li>
         </ul>
       </td>
@@ -2446,8 +2449,8 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 19</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 25</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2472,7 +2475,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 9</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 84</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -2497,8 +2500,8 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
         <ul>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 6</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 11</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 13</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 28</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2521,7 +2524,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 94</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -2546,7 +2549,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 12</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 77</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -2570,7 +2573,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       <td>
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 20</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 37</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2593,6 +2596,7 @@ Last updated: <time datetime="2025-12-04T07:20:18.328Z">Thu Dec 04 2025 09:20:18
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 99</li>
         </ul>
       </td>
     </tr>
