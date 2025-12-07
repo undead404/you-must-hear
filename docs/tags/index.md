@@ -1,18 +1,24 @@
 ---
 category: list
-date: 2025-12-06T21:07:46.913Z
+date: 2025-12-06T21:30:11.224Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-06T21:07:46.913Z">Sat Dec 06 2025 23:07:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T21:30:11.224Z">Sat Dec 06 2025 23:30:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [christian metalcore]({{ "tags/christian-metalcore" | relative_url }}) | <time datetime="2025-12-06T21:30:11.224Z">Sat Dec 06 2025 23:30:11 GMT+0200 (Eastern European Standard Time)</time> |
+| [tech trance]({{ "tags/tech-trance" | relative_url }}) | <time datetime="2025-12-06T21:29:45.547Z">Sat Dec 06 2025 23:29:45 GMT+0200 (Eastern European Standard Time)</time> |
+| [j-rock]({{ "tags/j-rock" | relative_url }}) | <time datetime="2025-12-06T21:25:17.607Z">Sat Dec 06 2025 23:25:17 GMT+0200 (Eastern European Standard Time)</time> |
+| [chicago house]({{ "tags/chicago-house" | relative_url }}) | <time datetime="2025-12-06T21:25:14.149Z">Sat Dec 06 2025 23:25:14 GMT+0200 (Eastern European Standard Time)</time> |
+| [mashcore]({{ "tags/mashcore" | relative_url }}) | <time datetime="2025-12-06T21:25:11.192Z">Sat Dec 06 2025 23:25:11 GMT+0200 (Eastern European Standard Time)</time> |
+| [epic trance]({{ "tags/epic-trance" | relative_url }}) | <time datetime="2025-12-06T21:08:14.634Z">Sat Dec 06 2025 23:08:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [japanese female vocalists]({{ "tags/japanese-female-vocalists" | relative_url }}) | <time datetime="2025-12-06T21:07:46.913Z">Sat Dec 06 2025 23:07:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [italian folk]({{ "tags/italian-folk" | relative_url }}) | <time datetime="2025-12-06T21:07:41.882Z">Sat Dec 06 2025 23:07:41 GMT+0200 (Eastern European Standard Time)</time> |
 | [symphonic rock]({{ "tags/symphonic-rock" | relative_url }}) | <time datetime="2025-12-06T20:35:28.537Z">Sat Dec 06 2025 22:35:28 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1382,9 +1388,3 @@ Last updated: <time datetime="2025-12-06T21:07:46.913Z">Sat Dec 06 2025 23:07:46
 | [hymns]({{ "tags/hymns" | relative_url }}) | <time datetime="2025-12-04T10:42:04.811Z">Thu Dec 04 2025 12:42:04 GMT+0200 (Eastern European Standard Time)</time> |
 | [experimental pop]({{ "tags/experimental-pop" | relative_url }}) | <time datetime="2025-12-04T10:09:49.058Z">Thu Dec 04 2025 12:09:49 GMT+0200 (Eastern European Standard Time)</time> |
 | [viola da gamba]({{ "tags/viola-da-gamba" | relative_url }}) | <time datetime="2025-12-04T10:09:43.215Z">Thu Dec 04 2025 12:09:43 GMT+0200 (Eastern European Standard Time)</time> |
-| [christian metalcore]({{ "tags/christian-metalcore" | relative_url }}) | <time datetime="2025-12-04T10:09:37.403Z">Thu Dec 04 2025 12:09:37 GMT+0200 (Eastern European Standard Time)</time> |
-| [tech trance]({{ "tags/tech-trance" | relative_url }}) | <time datetime="2025-12-04T09:53:22.716Z">Thu Dec 04 2025 11:53:22 GMT+0200 (Eastern European Standard Time)</time> |
-| [j-rock]({{ "tags/j-rock" | relative_url }}) | <time datetime="2025-12-04T09:53:16.964Z">Thu Dec 04 2025 11:53:16 GMT+0200 (Eastern European Standard Time)</time> |
-| [chicago house]({{ "tags/chicago-house" | relative_url }}) | <time datetime="2025-12-04T09:53:11.493Z">Thu Dec 04 2025 11:53:11 GMT+0200 (Eastern European Standard Time)</time> |
-| [mashcore]({{ "tags/mashcore" | relative_url }}) | <time datetime="2025-12-04T09:53:05.729Z">Thu Dec 04 2025 11:53:05 GMT+0200 (Eastern European Standard Time)</time> |
-| [epic trance]({{ "tags/epic-trance" | relative_url }}) | <time datetime="2025-12-04T09:52:59.096Z">Thu Dec 04 2025 11:52:59 GMT+0200 (Eastern European Standard Time)</time> |
