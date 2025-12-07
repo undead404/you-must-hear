@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T12:45:14.584Z
+date: 2025-12-07T02:13:49.105Z
 permalink: tags/asian-pop
 title: asian pop
 ---
 
 ## asian pop
 
-Last updated: <time datetime="2025-12-04T12:45:14.584Z">Thu Dec 04 2025 14:45:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T02:13:49.105Z">Sun Dec 07 2025 04:13:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -509,7 +509,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 84</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 17</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 85</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 88</li>
         </ul>
@@ -537,9 +537,9 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 10</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 11</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 40</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 53</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 90</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 92</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 99</li>
         </ul>
@@ -634,9 +634,9 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 7</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 12</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 71</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -762,10 +762,10 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 3</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 5</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 42</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 90</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -789,9 +789,9 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 1</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 3</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 40</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -989,9 +989,9 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 6</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 7</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 65</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1108,11 +1108,11 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 1</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 5</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 6</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 10</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 80</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 86</li>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1763,8 +1763,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
         <ul>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 1</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 1</li>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 22</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 25</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 79</li>
         </ul>
       </td>
     </tr>

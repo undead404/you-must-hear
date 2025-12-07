@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T13:43:22.132Z
+date: 2025-12-07T03:08:31.854Z
 permalink: tags/glitch-pop
 title: glitch pop
 ---
 
 ## glitch pop
 
-Last updated: <time datetime="2025-12-04T13:43:22.132Z">Thu Dec 04 2025 15:43:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T03:08:31.854Z">Sun Dec 07 2025 05:08:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -84,13 +84,13 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 2</li>
             <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 2</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 3</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 6</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 8</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 84</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 86</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 99</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 15</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -110,8 +110,8 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 40</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 72</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 29</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -136,13 +136,13 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       <td>
         <ul>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 1</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 3</li>
             <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 5</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 13</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 42</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 58</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 59</li>
             <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 99</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -163,7 +163,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 34</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -185,9 +185,9 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 22</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 25</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 43</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -213,7 +213,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 19</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 25</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 34</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 55</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 45</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 76</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 90</li>
         </ul>
@@ -251,8 +251,8 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 1</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 17</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -270,9 +270,9 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 7</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 30</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 83</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 18</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 71</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -355,7 +355,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 36</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 65</li>
             <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 89</li>
         </ul>
       </td>
@@ -399,14 +399,14 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 9</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 10</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 33</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 36</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 38</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 38</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 43</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 54</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 65</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -465,7 +465,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
         <ul>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 17</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 21</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 38</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -620,7 +620,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 35</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -662,7 +662,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 75</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -746,10 +746,10 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 7</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 61</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 20</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 40</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 83</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -770,7 +770,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       <td>
         <ul>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 18</li>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 56</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 45</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 83</li>
         </ul>
       </td>
@@ -790,7 +790,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 24</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -826,7 +826,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 35</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -854,15 +854,15 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 1</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 1</li>
             <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 3</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 4</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 31</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 31</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 70</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 93</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 93</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 95</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 97</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 100</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -883,7 +883,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       <td>
         <ul>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 3</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 21</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1081,8 +1081,8 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 4</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 20</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1102,7 +1102,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 81</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1121,10 +1121,10 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 4</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 7</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 7</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 58</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 97</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 43</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1170,11 +1170,11 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 5</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 10</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 32</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 33</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 44</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 69</li>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 90</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1258,10 +1258,10 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 4</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 14</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 15</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 64</li>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 84</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1279,7 +1279,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 5</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1321,11 +1321,11 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       <td>
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 19</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 24</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 20</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 32</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 46</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 53</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 67</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 81</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1344,7 +1344,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 74</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1363,10 +1363,10 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 58</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 8</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 19</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 43</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 76</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 82</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1419,8 +1419,8 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
         <ul>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 5</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 25</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 28</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 28</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 28</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 29</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 51</li>
         </ul>
@@ -1446,9 +1446,9 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
         <ul>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 2</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 3</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 22</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 28</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 30</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 73</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 79</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 81</li>
         </ul>
       </td>
@@ -1527,10 +1527,10 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 7</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 17</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 52</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 48</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 89</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1591,8 +1591,8 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 21</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 37</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1613,7 +1613,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       <td>
         <ul>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 10</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 53</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 48</li>
             <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 88</li>
         </ul>
       </td>
@@ -1634,8 +1634,8 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 8</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 31</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1657,12 +1657,12 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 22</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 48</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 3</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 52</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 66</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 79</li>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 82</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 86</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1738,9 +1738,9 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       <td>
         <ul>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 11</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 21</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 43</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 52</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 80</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 99</li>
         </ul>
       </td>
@@ -1812,12 +1812,12 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 11</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 16</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 31</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 43</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 56</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 59</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 76</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 85</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1843,11 +1843,11 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 13</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 16</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 17</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 40</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 51</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 61</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 85</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1869,8 +1869,8 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 38</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 59</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 42</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1899,11 +1899,11 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 6</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 9</li>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 50</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 74</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1926,7 +1926,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
         <ul>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 24</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 25</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 54</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 47</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 61</li>
         </ul>
       </td>
@@ -2083,8 +2083,8 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 16</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 63</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2109,10 +2109,10 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       <td>
         <ul>
             <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 2</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 3</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 5</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 11</li>
             <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 13</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2137,7 +2137,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 62</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 38</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 71</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 82</li>
         </ul>

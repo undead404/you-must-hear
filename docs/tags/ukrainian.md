@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T12:44:46.156Z
+date: 2025-12-07T02:13:44.094Z
 permalink: tags/ukrainian
 title: ukrainian
 ---
 
 ## ukrainian
 
-Last updated: <time datetime="2025-12-04T12:44:46.156Z">Thu Dec 04 2025 14:44:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T02:13:44.094Z">Sun Dec 07 2025 04:13:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
   </thead>
   <tbody>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6914064cb1b43f3c31f62424681d6d2.png" alt="Cover for In Kastus" style="max-width:120px; height:auto;" />
       </td>
@@ -104,7 +104,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8fe41c7140d4463c48bf765bef0a854.png" alt="Cover for Квиток до Раю" style="max-width:120px; height:auto;" />
       </td>
@@ -122,7 +122,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/oJ4YMZ4t47JNNAcXepURAqT9WKhX8UJbKKB6OjA_VmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzYy/Ny0xNTA0MDMwMTA5/LTQzMTQuanBlZw.jpeg" alt="Cover for Биология" style="max-width:120px; height:auto;" />
       </td>
@@ -167,7 +167,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/RDH0EuYtmOPEeSAGN0ZwfQN2b4hxXuKhnQnHrITQcn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDcz/MDQtMTQ4MjY1Nzkx/Ni04MTQ2LmpwZWc.jpeg" alt="Cover for Сиситема Нервiв" style="max-width:120px; height:auto;" />
       </td>
@@ -204,7 +204,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e14149041b03ea4789dc2167f8f7350.png" alt="Cover for Два" style="max-width:120px; height:auto;" />
       </td>
@@ -240,7 +240,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2004</td>
@@ -257,7 +257,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b00b96ec186541c28c5566103efc8318.png" alt="Cover for Face Reading" style="max-width:120px; height:auto;" />
       </td>
@@ -315,7 +315,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/i715XUevr3Yd6s-V4QiwHilX5OTDbrQ9mtDfA2epj5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjMy/NzUtMTQ4Nzk1MDQ2/NS04OTQzLmpwZWc.jpeg" alt="Cover for Горрри!!" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +334,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/328c4d24c78e4de4cd6641fa58d1d608.png" alt="Cover for O5" style="max-width:120px; height:auto;" />
       </td>
@@ -391,7 +391,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee615d513c496c20955f3f971ff291d6.png" alt="Cover for Smile" style="max-width:120px; height:auto;" />
       </td>
@@ -409,7 +409,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/zwFCUnfLCHTarJBT4PFttqLocWGbogzPjoHTb2vuIig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTc1/MjEtMTQwMDc2MjE4/MS02NjE4LmpwZWc.jpeg" alt="Cover for Те, Що ТреБа" style="max-width:120px; height:auto;" />
       </td>
@@ -427,7 +427,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>2006</td>
@@ -447,7 +447,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/7ZGcgfDeT3X4rZVUhYsniiwVPk7WD_VlLgQHUZb7Ru4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODU5/ODktMTU0MjMxNjAx/Ni0xOTE3LmpwZWc.jpeg" alt="Cover for Пісні мертвого півня" style="max-width:120px; height:auto;" />
       </td>
@@ -466,7 +466,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/UOZwtoQct6pB5B6p9fwKlollWHRz_C6PWoFFkGqrihs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Nzg0/OC0xMTU5ODMxMTI1/LmpwZWc.jpeg" alt="Cover for [laridae029] fragments of sleep" style="max-width:120px; height:auto;" />
       </td>
@@ -486,7 +486,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49dc7613d62c47279b865e66481ad44a.png" alt="Cover for Тримай" style="max-width:120px; height:auto;" />
       </td>
@@ -508,7 +508,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/V9IwLxqeEpAIr4D3EMH7S68jKCQDkL8WPm-b_aRMq2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODE4/OTItMTMxOTQwOTQz/MS5qcGVn.jpeg" alt="Cover for Полум&#39;яна рута" style="max-width:120px; height:auto;" />
       </td>
@@ -529,7 +529,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eae33082c364455ade118394891a080.png" alt="Cover for Lemon" style="max-width:120px; height:auto;" />
       </td>
@@ -567,7 +567,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2007-07</td>
@@ -585,7 +585,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa63ff2a1e484d0f9fbc718fc85974dd.png" alt="Cover for НеВиДаНе" style="max-width:120px; height:auto;" />
       </td>
@@ -622,7 +622,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2008-09-25</td>
@@ -675,7 +675,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f38e573865bc489a84e761ea0b77e7f8.png" alt="Cover for МАШИНА" style="max-width:120px; height:auto;" />
       </td>
@@ -695,7 +695,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2009-02-25</td>
@@ -713,7 +713,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44e3b3b20baa44e8971e3b9be67cb56d.png" alt="Cover for !Чидро" style="max-width:120px; height:auto;" />
       </td>
@@ -731,7 +731,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e195a6a262141888daba3b71cc0ad4d.png" alt="Cover for Космонавтам" style="max-width:120px; height:auto;" />
       </td>
@@ -768,7 +768,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/Vj9Y-pMC5oTzrSnCwBuX39EHmqD2ZImL5nZMyRxjJYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjgz/NTYtMTUyNTc2NDc4/Ny0xNjYyLmpwZWc.jpeg" alt="Cover for Два Аккорда" style="max-width:120px; height:auto;" />
       </td>
@@ -807,7 +807,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5cfe0dc0ab3da7b17a79358ff077d40.png" alt="Cover for Предчувствие нулевого года" style="max-width:120px; height:auto;" />
       </td>
@@ -825,7 +825,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/2-0fiDTPjROfB4juffjeSjP9ksJZiWUg8433cobw3sY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzQ5/NjEtMTI5MTIxOTIz/NC5qcGVn.jpeg" alt="Cover for Любовь Спасёт Мир" style="max-width:120px; height:auto;" />
       </td>
@@ -863,7 +863,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/_okok9En54CvIhD0yj7PHAZhpnehPeNf7eX2X8LpARQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzEw/MTMtMTU0NjI4MTI3/Ni03NjM2LmpwZWc.jpeg" alt="Cover for You Are Not Alone" style="max-width:120px; height:auto;" />
       </td>
@@ -885,7 +885,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21c72aee91e64033befbfdc9017980e4.png" alt="Cover for First Communion" style="max-width:120px; height:auto;" />
       </td>
@@ -906,7 +906,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/l9FgMsBgsStSUiq9VFOIhqmi5gZO8wM4Z8-CP4y3cVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDU2/ODItMTQ1NTk5NTcx/OC04NDMzLmpwZWc.jpeg" alt="Cover for Второе Я" style="max-width:120px; height:auto;" />
       </td>
@@ -928,7 +928,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80423f14f003083137737abb67067217.png" alt="Cover for Радіо Афродита" style="max-width:120px; height:auto;" />
       </td>
@@ -947,7 +947,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7f779faf9704744a6577aede4207a01.png" alt="Cover for Брюссель" style="max-width:120px; height:auto;" />
       </td>
@@ -985,7 +985,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5e241a2c2f040cf96226960cfc79ebb.png" alt="Cover for Before, After" style="max-width:120px; height:auto;" />
       </td>
@@ -999,14 +999,14 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 12</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 23</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 35</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 56</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e8009b7f0220d2af8e5f4c957aa1db4.png" alt="Cover for November" style="max-width:120px; height:auto;" />
       </td>
@@ -1035,14 +1035,14 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 8</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 11</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 40</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 62</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19ea555a3df14e3d97dde07425f2034c.png" alt="Cover for Daybreak" style="max-width:120px; height:auto;" />
       </td>
@@ -1081,7 +1081,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aa9b760d5b4ca677ea56d3fcb69fe4e.png" alt="Cover for Waiting For Sunrise" style="max-width:120px; height:auto;" />
       </td>
@@ -1101,7 +1101,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fdeadbe8bb8491e992d594de148fb7d.png" alt="Cover for Epilogue" style="max-width:120px; height:auto;" />
       </td>
@@ -1153,7 +1153,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58a957bc70514ac3b5b3b5df37c6e7bb.png" alt="Cover for Термінал Б" style="max-width:120px; height:auto;" />
       </td>
@@ -1175,7 +1175,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4eee55f54900425fab8bc2338727f5f9.png" alt="Cover for Night Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,7 +1212,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91d4da889c3223f0dd96d08c72427193.png" alt="Cover for Dominicano" style="max-width:120px; height:auto;" />
       </td>
@@ -1242,11 +1242,11 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 13</li>
             <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 25</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 39</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 46</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 55</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 79</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1271,7 +1271,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f23a7dde8de44c4ecc748670cc0c3800.png" alt="Cover for Fragile" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,7 +1309,6 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 14</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 25</li>
             <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 27</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 30</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 34</li>
@@ -1317,6 +1316,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 69</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 71</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 73</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1397,7 +1397,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44c63047e69641dc252c023a299f235b.png" alt="Cover for Развлечение" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,30 +1428,12 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       <td>
         <ul>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 1</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 37</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4e7aaa7ef84d7682aec53b47c8fd1df.png" alt="Cover for Дом На Колесах ч.1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-11-11</td>
-      <td>Грибы</td>
-      <td>Дом На Колесах ч.1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df3bc43b05fbefde7bf48af569dc2d70.png" alt="Cover for Выше головы" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,7 +1451,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57cfb08a4257d1f4a03e00ffb89cb1e3.png" alt="Cover for Too Old to Sell My Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,12 +1527,12 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 88</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/316b5b8486afb4efb8ca4250a3c014bb.png" alt="Cover for Perfection Is a Lie" style="max-width:120px; height:auto;" />
       </td>
@@ -1571,7 +1553,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e967dc0933d189dad055c55e0f6392fa.png" alt="Cover for Жива вода" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,7 +1573,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd969534be0dbcc26b71e3c66c88f8d7.png" alt="Cover for Грустная девчонка с глазами как у собаки" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1594,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c0a3ab7384ce5cedf274b041bdfaef3.png" alt="Cover for Досвід" style="max-width:120px; height:auto;" />
       </td>
@@ -1653,7 +1635,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee92a465ddfe6bc401aa3e5066305f12.png" alt="Cover for Мертві голоси" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1656,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a04b53ef835c211f3c8bd1d50c7d7c17.png" alt="Cover for Micro" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,7 +1674,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8328ef6c066b7d6910e0977813d457ce.png" alt="Cover for Oy U Luzi Chervona Kalyna (Army Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1710,7 +1692,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/mWllzF2FcMo0wDj9rEw0aSe_-Lb_89RfNDKTDhoSke8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTE1/MTgzLTE2MTczNTM1/MTctOTU0OC5qcGVn.jpeg" alt="Cover for dofamin" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,7 +1711,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9516863a7c2030834996cf7f742d39c3.png" alt="Cover for Девочка на воздушном шаре" style="max-width:120px; height:auto;" />
       </td>
@@ -1748,7 +1730,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0bde3e77e126c6f667767829d6eb80c.png" alt="Cover for Симпатичен" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,7 +1749,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e10c52583079b834f3e19405e4ae9d9d.png" alt="Cover for Тут нема нікого, окрім нас" style="max-width:120px; height:auto;" />
       </td>
@@ -1785,7 +1767,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d478dcac1fd54d490669d11fc6d3f8c4.png" alt="Cover for Chains of Depression" style="max-width:120px; height:auto;" />
       </td>
@@ -1801,13 +1783,32 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 55</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 59</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 41</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>36</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/060bc22dbd8d7d70d80acb077d16b126.png" alt="Cover for TRIBE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-03-14</td>
+      <td>Space of Variations</td>
+      <td>TRIBE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/323249f5b697aab4f40d25b44cd15a17.png" alt="Cover for ЙО-ЙО (feat. Skofka)" style="max-width:120px; height:auto;" />
       </td>
@@ -1828,7 +1829,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90eb078a01b96f0d2e6b0a15af56cf71.png" alt="Cover for Ptaha Fred" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,7 +1850,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a50f91ec800d612914e183ef923d2239.png" alt="Cover for Бережи мене" style="max-width:120px; height:auto;" />
       </td>
@@ -1946,7 +1947,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8ff147dc4fc4f1fa1583223ee2a1e46.png" alt="Cover for Всё включено" style="max-width:120px; height:auto;" />
       </td>
@@ -1966,7 +1967,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90f5455f6f554bedcb922c79185324c1.png" alt="Cover for Tviй Формат" style="max-width:120px; height:auto;" />
       </td>
@@ -1985,7 +1986,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac6825b11b0c7653d4a089045731d370.png" alt="Cover for VISLOVO" style="max-width:120px; height:auto;" />
       </td>
@@ -2003,7 +2004,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/273e751e029ca6bd194b7071edb33e27.png" alt="Cover for Придумано в черзі" style="max-width:120px; height:auto;" />
       </td>
@@ -2021,7 +2022,7 @@ Ukrainian music blends traditional folk elements with contemporary pop, rock, an
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30a5745bb6b94e2e899d2d61d3c05bf0.png" alt="Cover for Etwas Unders" style="max-width:120px; height:auto;" />
       </td>

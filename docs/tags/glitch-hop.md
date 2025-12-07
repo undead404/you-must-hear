@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T13:56:23.336Z
+date: 2025-12-07T03:19:08.207Z
 permalink: tags/glitch-hop
 title: glitch hop
 ---
 
 ## glitch hop
 
-Last updated: <time datetime="2025-12-04T13:56:23.336Z">Thu Dec 04 2025 15:56:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T03:19:08.207Z">Sun Dec 07 2025 05:19:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
   </thead>
   <tbody>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/3qWZR4kg0sX4dZIQ35Fgnpp4as9wN8kWR6r-hVaWf8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzc0/NDctMTM1NjQ3NTQ1/NS0zNzg4LmpwZWc.jpeg" alt="Cover for Quinn" style="max-width:120px; height:auto;" />
       </td>
@@ -64,7 +64,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd6368eab95061adab266b01899e9135.png" alt="Cover for Empty The Bones Of You" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbf0be4c03331f59ad9cbcb52eb13df8.png" alt="Cover for Vocal Studies And Uprock Narratives" style="max-width:120px; height:auto;" />
       </td>
@@ -100,7 +100,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae9be6e7921f437285f2710f14357e0b.png" alt="Cover for One Word Extinguisher" style="max-width:120px; height:auto;" />
       </td>
@@ -118,7 +118,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f427010a793f4dccd4f8214b8c6021a2.png" alt="Cover for KiCk i" style="max-width:120px; height:auto;" />
       </td>
@@ -131,14 +131,14 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 18</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 21</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 30</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 83</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb48c90a59e96c519598e389130acc79.png" alt="Cover for Vaudeville Villain" style="max-width:120px; height:auto;" />
       </td>
@@ -159,7 +159,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92df285c56fb6a406a71530f76836845.png" alt="Cover for (VV:2) Venomous Villain" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +185,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/hScxXV1AlTTCBARS78LPOrL9IsaSSQooJ3HbaBm2RT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcy/OS0xMTY4OTgzNzY3/LmpwZWc.jpeg" alt="Cover for Famous First Words" style="max-width:120px; height:auto;" />
       </td>
@@ -203,7 +203,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/082b4a1b037947ad828af8fbfbf1ae32.png" alt="Cover for Magic Monday" style="max-width:120px; height:auto;" />
       </td>
@@ -223,7 +223,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
       </td>
       <td>2009-12-23</td>
@@ -240,12 +240,12 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 53</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td>2010-05-05</td>
@@ -264,7 +264,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1038769673683dd74ce254a0432eaa8.png" alt="Cover for Maniac Meat" style="max-width:120px; height:auto;" />
       </td>
@@ -281,7 +281,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72da80b44d774ba2bcf570cc12ea49c5.png" alt="Cover for Camping - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -302,7 +302,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8d1177138e942a29f072a0aa98608d6.png" alt="Cover for Slurp And Giggle" style="max-width:120px; height:auto;" />
       </td>
@@ -321,7 +321,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
       </td>
       <td>2010-10-29</td>
@@ -339,7 +339,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/8CP7zq1iqVMNqi4aR4YPIq3bFdyUk4Q8ja3zfwbKFAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTg5/MDQtMTM0MzIyNjE0/NC0zODA3LmpwZWc.jpeg" alt="Cover for Drink The Sea - The Remixes Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -360,7 +360,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b3dff702f3246da8a3920a3ceb5306a.png" alt="Cover for Haunt U Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -384,7 +384,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/831e96df3afd4777c7ac562537bdb356.png" alt="Cover for Exmilitary" style="max-width:120px; height:auto;" />
       </td>
@@ -397,14 +397,14 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 3</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 60</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 74</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/faa1fed510a74fb9cf1954182169789c.png" alt="Cover for Live From Death Valley" style="max-width:120px; height:auto;" />
       </td>
@@ -425,18 +425,18 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 4</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 5</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 7</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 9</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 26</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 96</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 97</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>2011-08-03</td>
@@ -454,16 +454,16 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 9</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 5</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 8</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 12</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 12</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 21</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 89</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/sE9_V6LpzHsaypMi4HXwKfjRu2fT0shn5MYUwkY8pf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzg1/NzUtMTQyODU4NzAw/OS01MTgwLmpwZWc.jpeg" alt="Cover for The Ill.Methodology" style="max-width:120px; height:auto;" />
       </td>
@@ -482,7 +482,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4aff9215de14b3880aac88204245297.png" alt="Cover for Funk Blaster" style="max-width:120px; height:auto;" />
       </td>
@@ -500,7 +500,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b564dfdd39742e6b5b02086f763b932.png" alt="Cover for 5 Star EP" style="max-width:120px; height:auto;" />
       </td>
@@ -518,7 +518,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
       </td>
       <td>2012-01-10</td>
@@ -535,7 +535,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30ef0d3d35720910529fe026a2d2fe7c.png" alt="Cover for The Money Store" style="max-width:120px; height:auto;" />
       </td>
@@ -548,15 +548,15 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 7</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 18</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 19</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 40</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a1ba8b0cd80491c9273953264ca7d42.png" alt="Cover for Stretch 1" style="max-width:120px; height:auto;" />
       </td>
@@ -574,7 +574,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/B_QfGKwLiaEQ5qBw6wthu3Ve5yQ1teY-vev75688YhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTQw/NTUtMTM0MDk2OTY0/My01Nzc4LmpwZWc.jpeg" alt="Cover for Biophilia Remix Series II" style="max-width:120px; height:auto;" />
       </td>
@@ -593,14 +593,14 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 59</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 82</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 19</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 42</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be7ce6573796a69f2f538234b31cc58a.png" alt="Cover for Stretch 2" style="max-width:120px; height:auto;" />
       </td>
@@ -617,7 +617,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/hm-eXjmmXJ77G1AlihYOBxjbxRN7S39BFGlhIE8jpO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDgx/NTctMTM0Njc1ODMy/Ni00MzAyLmpwZWc.jpeg" alt="Cover for The Adventures of Mr. Fox EP" style="max-width:120px; height:auto;" />
       </td>
@@ -639,7 +639,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f3bf939762c4ca58430c8db55cf4c05.png" alt="Cover for No Love Deep Web" style="max-width:120px; height:auto;" />
       </td>
@@ -652,16 +652,16 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 23</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 31</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 32</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 45</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db1045bf31324eeeae2855c1d0b06fda.png" alt="Cover for Sushi" style="max-width:120px; height:auto;" />
       </td>
@@ -677,12 +677,12 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 59</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f544247c9cc0cb27ba49561fa6da6ca5.png" alt="Cover for PARALLAX" style="max-width:120px; height:auto;" />
       </td>
@@ -707,7 +707,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4829f4e0c43e4633a032d635b243a4ab.png" alt="Cover for There Goes Your Money" style="max-width:120px; height:auto;" />
       </td>
@@ -726,14 +726,14 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a> # 17</li>
             <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 20</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 31</li>
-            <li> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d95125b19a35497aa01c318a1f85cee8.png" alt="Cover for Guilty Pleasures EP" style="max-width:120px; height:auto;" />
       </td>
@@ -757,7 +757,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/czPnH8b37TIgeIXgyDaatFgaJsV6EHmEM-Xgd7TAhLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzM4/NjQtMTM3Njk2MDE3/NS02NjI5LmpwZWc.jpeg" alt="Cover for Key to the Kuffs (Butter Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -782,7 +782,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2c01c4810c6ff9de8470d4050ab458c.png" alt="Cover for Wish You Were Here" style="max-width:120px; height:auto;" />
       </td>
@@ -806,7 +806,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
       </td>
       <td>2013-10-15</td>
@@ -821,12 +821,12 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 94</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c9a25520fdc4577c5b8256057d37725.png" alt="Cover for Government Plates" style="max-width:120px; height:auto;" />
       </td>
@@ -839,15 +839,15 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 26</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 30</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 39</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 62</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/8to9BsQDs7FVOAJQ6cGIbpQmrHzyL9zt8-iixe9MNzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE5/NTgyLTE1Mjg2ODcz/NTUtNTQ2Mi5qcGVn.jpeg" alt="Cover for Pentakill" style="max-width:120px; height:auto;" />
       </td>
@@ -866,7 +866,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/EhdT7a492ADM4GGtvFh9TOkn2FpnBV5HA_r3S4cfXyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQz/NzI0LTE1NDcwNDE5/MDItMjcxNS5qcGVn.jpeg" alt="Cover for Risen EP" style="max-width:120px; height:auto;" />
       </td>
@@ -877,6 +877,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deadmau5" | relative_url }}">deadmau5</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
@@ -885,14 +886,15 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deadmau5" | relative_url }}">deadmau5</a> # 6</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 11</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 18</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 59</li>
-            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31ced56551bb41b0c1df089c18244371.png" alt="Cover for Stop What You&#39;re Doing EP" style="max-width:120px; height:auto;" />
       </td>
@@ -914,7 +916,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca2889581460b0d8421de64a9f9db2d0.png" alt="Cover for Two Fold Pt.1" style="max-width:120px; height:auto;" />
       </td>
@@ -934,7 +936,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a23b39140814db0cd83aa34bf7da500.png" alt="Cover for Niggas on the Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -949,12 +951,12 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 81</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ce47cb608864cf2cc087749ab92866d.png" alt="Cover for Unity" style="max-width:120px; height:auto;" />
       </td>
@@ -980,7 +982,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fca63db7362d51ff8c995920e9be358f.png" alt="Cover for KIKO" style="max-width:120px; height:auto;" />
       </td>
@@ -990,6 +992,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a></li>
@@ -1005,13 +1008,14 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
         <ul>
             <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 4</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 9</li>
+            <li> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a> # 10</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 73</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/tD4Irfm06ze_TmQfJOSK7r_uiCSYfjTsswar0awBpu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzkw/MTYtMTQyNDQ2MTE4/Ny03MDcxLmpwZWc.jpeg" alt="Cover for GOD&#39;s Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -1029,7 +1033,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/sNYQOqYW62YMjhkBSRI8yRMbzrlbdxcroylZ5NgwSY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTY2/OTctMTQyNzIyODIx/OS02MjkxLmpwZWc.jpeg" alt="Cover for the powers that b" style="max-width:120px; height:auto;" />
       </td>
@@ -1045,19 +1049,19 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 8</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 11</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 17</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 24</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 29</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 29</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 66</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 77</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 90</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 93</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/XsntcYItudxcBg3fKJcKWCVWuuQ4QMUYL2FjNCirqjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjQ2/NDAtMTQ0NTM4NTMy/MC05MzU2LmpwZWc.jpeg" alt="Cover for Forgotten Myths" style="max-width:120px; height:auto;" />
       </td>
@@ -1077,7 +1081,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6854f6e69b31f242f27881303e2caad2.png" alt="Cover for Temple Inward" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,7 +1103,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/4r4QA2oRNN4xwum6cr8xCA47OG4z3WuABDC8ZXNPzYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjAw/MDAwLTE2MTIxMjE0/NjMtNzM5Mi5qcGVn.jpeg" alt="Cover for Bronco Space Program EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1117,7 +1121,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db4976f282156495c3eaa3818d587d7d.png" alt="Cover for Chinese Nü Yr" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,7 +1150,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00bfab0c60cd2117c8d8a60a59c407bf.png" alt="Cover for Vandereer" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,7 +1168,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e646797cc310fbfd0d2852fb0f31142a.png" alt="Cover for Two Fold Pt. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1187,6 +1191,29 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
     <tr>
       <td>8</td>
       <td>
+          <img src="https://i.discogs.com/m7PBmAFEIj5SZFdUFi1My44q1SPONBKlahhjUyWCBX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTctMTY5NTQyNjUz/OC00MjMxLmpwZWc.jpeg" alt="Cover for Black Ben Carson" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-02-15</td>
+      <td>JPEGMAFIA</td>
+      <td>Black Ben Carson</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 9</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
           <img src="https://i.discogs.com/m7PBmAFEIj5SZFdUFi1My44q1SPONBKlahhjUyWCBX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTctMTY5NTQyNjUz/OC00MjMxLmpwZWc.jpeg" alt="Cover for Black Ben Carson + Instrumentals" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-15</td>
@@ -1204,36 +1231,13 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 34</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 67</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
-      <td>
-          <img src="https://i.discogs.com/m7PBmAFEIj5SZFdUFi1My44q1SPONBKlahhjUyWCBX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTctMTY5NTQyNjUz/OC00MjMxLmpwZWc.jpeg" alt="Cover for Black Ben Carson" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-02-15</td>
-      <td>JPEGMAFIA</td>
-      <td>Black Ben Carson</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 16</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4255ae69ea06f4edf88ed00095707e36.png" alt="Cover for Cortex Rampage" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,14 +1259,14 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       <td>
         <ul>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 22</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 29</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 49</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 68</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/814124126add3fc7a702ce55f616d5fe.png" alt="Cover for Skin" style="max-width:120px; height:auto;" />
       </td>
@@ -1283,7 +1287,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15b4dc2e8eb41d0cffcf3edb661519f5.png" alt="Cover for Wriggle" style="max-width:120px; height:auto;" />
       </td>
@@ -1300,7 +1304,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e986fa5aaa146ae07229f8d34af71da4.png" alt="Cover for Entrañas" style="max-width:120px; height:auto;" />
       </td>
@@ -1318,13 +1322,13 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 29</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 59</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/ILacYmUHp4zq1ob_I4kOH5m0aHNZbumm-IOFy2wJCMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTQy/MDItMTQ4Njc0NDI3/OC04NTY4LmpwZWc.jpeg" alt="Cover for 2011" style="max-width:120px; height:auto;" />
       </td>
@@ -1342,7 +1346,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68f348830593c71b202bdc34509f693a.png" alt="Cover for Jackpot" style="max-width:120px; height:auto;" />
       </td>
@@ -1367,7 +1371,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/YV38TIBDBgpX5VURwFUeBfdCkLvvaU0-XPjz2tZnl5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTE0/NDk4LTE1MDMyNjcx/ODUtMzU1NC5qcGVn.jpeg" alt="Cover for The Melody of Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -1385,7 +1389,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>2017-06-09</td>
@@ -1403,12 +1407,12 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
         <ul>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 5</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 8</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 67</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/GbDg1T2RISCa5HAKO3teh4L7xqBnV_ZCDEFzKRJNNO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTMx/MDc3LTE1MDY3MjA4/MDktNzE1OS5qcGVn.jpeg" alt="Cover for Deflection" style="max-width:120px; height:auto;" />
       </td>
@@ -1434,7 +1438,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/re79orwj9-ZPRGmL0BW1bUEr9DMNrqDrql54HVCuGxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE0/NjYwLTE1MDY0NTYx/MzItNTM2My5qcGVn.jpeg" alt="Cover for Neō Wax Bloom" style="max-width:120px; height:auto;" />
       </td>
@@ -1456,7 +1460,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1135487281a7008c821e040bc2482e9.png" alt="Cover for Spa 700" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1479,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d19da33b10ddf12c10039457059d9f4.png" alt="Cover for Slowly Fading" style="max-width:120px; height:auto;" />
       </td>
@@ -1499,7 +1503,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/mIyZ2rPgkDbNQY2qlYvPrQFusSL1yip3kiy91sFG_sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjI2/NTkyLTE2OTIyNzYy/OTgtMjg1MS5qcGVn.jpeg" alt="Cover for hypnagogia" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,7 +1523,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3c6ea5b21f3c4862f87fa26f485a350.png" alt="Cover for See Without Eyes (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,12 +1549,12 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
             <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 10</li>
             <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 24</li>
             <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 25</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 49</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17101ec892cf0dd4d09bef752c3015e1.png" alt="Cover for Year of the Snitch" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,17 +1567,17 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 13</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 25</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 42</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 55</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 56</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 59</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 76</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/btVrR0ZNIx1v9CDw-cI73xMv_5Hz8DT2q1-dBS3b6K8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcx/NTk4LTE1NDQyNjcz/ODMtNDkzMy5qcGVn.jpeg" alt="Cover for some rap songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1589,15 +1593,15 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 3</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 4</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 7</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 8</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 80</li>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70ea0ce8cc47ea0b3e4d963a54269ac9.png" alt="Cover for Polychrome" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1620,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/i3DaequyaY4ZbtOkb4ysXsE9CXYKgt4L5k5mN02r8ZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njc2/Mjk1LTE2NjQ1NDMx/MDMtNjQ0My5qcGVn.jpeg" alt="Cover for Drain Story" style="max-width:120px; height:auto;" />
       </td>
@@ -1633,14 +1637,14 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 12</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 14</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 44</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cc57ee90f90ca53a8a215b60b07c3c2.png" alt="Cover for The End" style="max-width:120px; height:auto;" />
       </td>
@@ -1661,7 +1665,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/qkOyeYPp1LD8RR7uIVg8tnUvuZzmETUoQrJAKJ-5txw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODIw/NTI5LTE1NjE4NTAw/NDktNjk1OS5qcGVn.jpeg" alt="Cover for A Quiet Farwell, Twenty Sixteen to Twenty Eighteen" style="max-width:120px; height:auto;" />
       </td>
@@ -1679,7 +1683,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9961f537b54645da30efd8f3d7346ec5.png" alt="Cover for Hi This Is Flume (Mixtape)" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,13 +1700,13 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 6</li>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 13</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab73a2ef85ff757e616cdbd991301859.png" alt="Cover for All My Heroes Are Cornballs" style="max-width:120px; height:auto;" />
       </td>
@@ -1716,13 +1720,37 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       <td>
         <ul>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 15</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 24</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 47</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/SejFC3dP0zsp8T8Rz9-nSjfugD43MWowo2Pd9ABTM-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg2/ODQ3LTE1OTU5MTEz/MjUtNzU1My5qcGVn.jpeg" alt="Cover for scaring the hoes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020</td>
+      <td>JPEGMAFIA</td>
+      <td>scaring the hoes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 3</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 3</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 5</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/eSSBMgT2jms0z0aW9SI1VvjixK0jWUes_z2q2KYlNaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM5/NzczLTE2NDk2NTg3/NzQtODQ1Mi5qcGVn.jpeg" alt="Cover for A Quiet Farwell, 2016–2018 (Crater Speak)" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,31 +1773,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>100</td>
-      <td>
-          <img src="https://i.discogs.com/SejFC3dP0zsp8T8Rz9-nSjfugD43MWowo2Pd9ABTM-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg2/ODQ3LTE1OTU5MTEz/MjUtNzU1My5qcGVn.jpeg" alt="Cover for scaring the hoes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020</td>
-      <td>JPEGMAFIA</td>
-      <td>scaring the hoes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 3</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 5</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 5</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e967f13a110f88b515e4307fcd475413.png" alt="Cover for A Thing With Feathers" style="max-width:120px; height:auto;" />
       </td>
@@ -1792,7 +1796,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c673083164dcc3e5531dff854980bd55.png" alt="Cover for XYZ" style="max-width:120px; height:auto;" />
       </td>
@@ -1813,16 +1817,16 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 10</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 12</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 56</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 62</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 73</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 89</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b36b3dc13443db6d27e112dc35f00a11.png" alt="Cover for And, Such Is Life." style="max-width:120px; height:auto;" />
       </td>
@@ -1844,7 +1848,25 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1ad42128e367623348c96f9b0ce70e2.png" alt="Cover for OFFLINE!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>JPEGMAFIA</td>
+      <td>OFFLINE!</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/824d6fe0b424b132b67dd6ab6ec0720a.png" alt="Cover for LP!" style="max-width:120px; height:auto;" />
       </td>
@@ -1863,25 +1885,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>66</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1ad42128e367623348c96f9b0ce70e2.png" alt="Cover for OFFLINE!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021</td>
-      <td>JPEGMAFIA</td>
-      <td>OFFLINE!</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 14</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/pw8Dl_WsUkbMwIkyaJRVHLBAz-NryOffrNXasHKhSxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzc2/MzY2LTE2MTg5MDY2/MjgtNjQwNS5qcGVn.jpeg" alt="Cover for VETERAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,14 +1899,14 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 22</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 26</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 66</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed944a8dc8d0f830893bc2f49682fb94.png" alt="Cover for The Crashing Sound of How It Goes" style="max-width:120px; height:auto;" />
       </td>
@@ -1923,7 +1927,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/icgdRf91sHO4iWiWhG4Cxilvi1gSVKCqnYAlx0p2B-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODgx/NzI1LTE2NTAwODA5/MjQtMzc2MS5qcGVn.jpeg" alt="Cover for Tmp2" style="max-width:120px; height:auto;" />
       </td>
@@ -1944,7 +1948,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/895422e5c2360b12a82dfafa11017417.png" alt="Cover for SHILOH: Lost For Words" style="max-width:120px; height:auto;" />
       </td>
@@ -1957,12 +1961,12 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f605ea6f6dc065b79d53924d8971272.png" alt="Cover for By the Time I Get to Phoenix" style="max-width:120px; height:auto;" />
       </td>
@@ -1976,13 +1980,13 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       <td>
         <ul>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 16</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 39</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 60</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b64c749685c53995ba61b8e1e18cf57.png" alt="Cover for KicK iii" style="max-width:120px; height:auto;" />
       </td>
@@ -1995,13 +1999,13 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 11</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 90</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 11</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25d1da02f6e10e14ab913e7e2ed35653.png" alt="Cover for BlackBolshevik" style="max-width:120px; height:auto;" />
       </td>
@@ -2020,7 +2024,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
       </td>
       <td>2022-07-11</td>
@@ -2039,14 +2043,14 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 36</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 48</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 53</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 65</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b3ce6f8465526c5b563e1bb7b787967.png" alt="Cover for Heavy Black Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -2064,12 +2068,12 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       <td>
         <ul>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 32</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 38</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8168e0e522ac481a2421373ddc28a02.png" alt="Cover for Scrapyard" style="max-width:120px; height:auto;" />
       </td>
@@ -2088,7 +2092,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/UBn7ZzvLT3EV7-gzC9HfuDYQISw7nL0Cq3ImFxOVn_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjc5/MzMxLTE3MjE1NTI3/MzctNjc2OC5qcGVn.jpeg" alt="Cover for Girls Who are Wizards" style="max-width:120px; height:auto;" />
       </td>
@@ -2098,6 +2102,7 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
@@ -2106,69 +2111,32 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a> # 26</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>5</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c9e7fdb97214aefca5a964c6c1240dc.png" alt="Cover for The Powers That B" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/109adfe3cc11201e3fb97a246afc733d.png" alt="Cover for Veteran" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Death Grips</td>
-      <td>The Powers That B</td>
+      <td>JPEGMAFIA</td>
+      <td>Veteran</td>
       <td>
         <ul>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 20</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 59</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 67</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a4ecdba723aa74cc7e0dedd163b343c.png" alt="Cover for SKELETRIX LANGUAGE" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Edward Skeletrix</td>
-      <td>SKELETRIX LANGUAGE</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 15</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/115c612172d7ee4494ffa919a0be36d7.png" alt="Cover for Museum Music" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Edward Skeletrix</td>
-      <td>Museum Music</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 24</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf81cd536efbe76e3b8bd540a651d5b5.png" alt="Cover for SCARING THE HOES" style="max-width:120px; height:auto;" />
       </td>
@@ -2183,27 +2151,65 @@ Glitch hop is a subgenre of electronic music that combines elements of hip hop a
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 13</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 22</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 48</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 95</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>51</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/109adfe3cc11201e3fb97a246afc733d.png" alt="Cover for Veteran" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/115c612172d7ee4494ffa919a0be36d7.png" alt="Cover for Museum Music" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>JPEGMAFIA</td>
-      <td>Veteran</td>
+      <td>Edward Skeletrix</td>
+      <td>Museum Music</td>
       <td>
         <ul>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 65</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 76</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a4ecdba723aa74cc7e0dedd163b343c.png" alt="Cover for SKELETRIX LANGUAGE" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Edward Skeletrix</td>
+      <td>SKELETRIX LANGUAGE</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c9e7fdb97214aefca5a964c6c1240dc.png" alt="Cover for The Powers That B" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Death Grips</td>
+      <td>The Powers That B</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 34</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 59</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 80</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>

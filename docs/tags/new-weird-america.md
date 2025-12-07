@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T12:44:35.006Z
+date: 2025-12-07T02:08:33.402Z
 permalink: tags/new-weird-america
 title: new weird america
 ---
 
 ## new weird america
 
-Last updated: <time datetime="2025-12-04T12:44:35.006Z">Thu Dec 04 2025 14:44:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T02:08:33.402Z">Sun Dec 07 2025 04:08:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
   </thead>
   <tbody>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3800a09ce5c24143a3249a7316aeaee6.png" alt="Cover for Just Another Diamond Day" style="max-width:120px; height:auto;" />
       </td>
@@ -54,7 +54,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f1a852a503240f497232d11125c5535.png" alt="Cover for Torch of the Mystics" style="max-width:120px; height:auto;" />
       </td>
@@ -74,7 +74,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
       </td>
       <td>1992</td>
@@ -147,16 +147,16 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 6</li>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 24</li>
             <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 25</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 71</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 77</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 78</li>
+            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b768d7ceb684170b98c68ba52a7ae9d.png" alt="Cover for What Would the Community Think" style="max-width:120px; height:auto;" />
       </td>
@@ -184,7 +184,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb3658c9cace0464fed4ddb7426e8bef.png" alt="Cover for Fig. 5" style="max-width:120px; height:auto;" />
       </td>
@@ -203,7 +203,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/120386f2880f47dfc71873cda716683c.png" alt="Cover for Figure 8" style="max-width:120px; height:auto;" />
       </td>
@@ -223,7 +223,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/ttSygjSr43Ax0CLENsBPpYJGWspMIJFGyNEA_bCt37Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIy/OTU2LTE1NzQyMzA5/OTgtNjU2MS5qcGVn.jpeg" alt="Cover for pope john paul the third" style="max-width:120px; height:auto;" />
       </td>
@@ -246,10 +246,12 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parody" | relative_url }}">parody</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ween" | relative_url }}">ween</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ween" | relative_url }}">ween</a> # 11</li>
             <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 15</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 47</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 52</li>
@@ -260,7 +262,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2edc97fcde5654e5db63f7931071d3a5.png" alt="Cover for Walnut Whales" style="max-width:120px; height:auto;" />
       </td>
@@ -281,7 +283,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ef6dcbdc0135264599ad72c7d8868d7.png" alt="Cover for Dark Noontide" style="max-width:120px; height:auto;" />
       </td>
@@ -296,13 +298,13 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 39</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 38</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e3e8d740c5c450bb1ee00a23559dfdc.png" alt="Cover for The Charles C. Leary" style="max-width:120px; height:auto;" />
       </td>
@@ -322,7 +324,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fad4bb49c6348968f57acedfb69400a.png" alt="Cover for Goodbye Different Oceans" style="max-width:120px; height:auto;" />
       </td>
@@ -355,16 +357,16 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 25</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 35</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 63</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 38</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 70</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 76</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
       </td>
       <td>2003</td>
@@ -382,7 +384,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/514f0a65ed334a96e662e83446cb7cac.png" alt="Cover for beko_10" style="max-width:120px; height:auto;" />
       </td>
@@ -411,7 +413,30 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>30</td>
+      <td>
+      </td>
+      <td>2003-03-04</td>
+      <td>Entrance</td>
+      <td>The Kingdom of Heaven Must Be Taken by Storm</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/ylQdvCboVtgqesC9iGYIJ4YjC1jxNX-0ssgwbeBzK2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDc3/MC0xMjcxNDEzMzE5/LmpwZWc.jpeg" alt="Cover for The Kingdom of Heaven Must Be Taken By Storm!" style="max-width:120px; height:auto;" />
       </td>
@@ -435,30 +460,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>71</td>
-      <td>
-      </td>
-      <td>2003-03-04</td>
-      <td>Entrance</td>
-      <td>The Kingdom of Heaven Must Be Taken by Storm</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 76</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cebf2708f83fe0b181647eee815b121.png" alt="Cover for Here Comes the Indian" style="max-width:120px; height:auto;" />
       </td>
@@ -475,13 +477,13 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
         <ul>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 11</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 12</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 38</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 37</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88537e6101389c21e800f3a08e062fe1.png" alt="Cover for Bones" style="max-width:120px; height:auto;" />
       </td>
@@ -519,7 +521,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/p7XJfbVvFguuZn59iGY2I8opsoOb37VucimEU9TgDC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQx/MDYtMTIzODA3OTA3/NS5qcGVn.jpeg" alt="Cover for Family Album" style="max-width:120px; height:auto;" />
       </td>
@@ -540,7 +542,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>2004-03-08</td>
@@ -562,7 +564,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3c7cc43633ab3de371eb8e73fc9d68c.png" alt="Cover for La maison de mon rêve" style="max-width:120px; height:auto;" />
       </td>
@@ -581,7 +583,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>61</td>
       <td>
       </td>
       <td>2004-04-01</td>
@@ -599,7 +601,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b636decc2e8922887e0987373421e626.png" alt="Cover for Sung Tongs" style="max-width:120px; height:auto;" />
       </td>
@@ -615,12 +617,12 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
         <ul>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 7</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 49</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 62</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b532b856019f4c629dbcc96e60297f57.png" alt="Cover for C&#39;mon Miracle" style="max-width:120px; height:auto;" />
       </td>
@@ -646,7 +648,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5d5e473c062463dbe1ac758b6667a6b.png" alt="Cover for Vetiver" style="max-width:120px; height:auto;" />
       </td>
@@ -664,7 +666,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/CYia0WWfNC3hFU_7WA91jMYMO_oWZNq-4DUzLMQpHBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTI5/OS0xNTc2ODM0Mzc1/LTEwMzUuanBlZw.jpeg" alt="Cover for These Are Your Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -682,7 +684,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a39d40c4018a063b06c90d88b3cab278.png" alt="Cover for Through The Sun Door" style="max-width:120px; height:auto;" />
       </td>
@@ -700,7 +702,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/jLzQB8xBfrMXUBoAnR77dSBR6OMOZVi6GWNNWK4BUdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzUy/Mi0xMTQ1NDI2NDI5/LmpwZWc.jpeg" alt="Cover for The First Album" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +720,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/jN71kucqUVo7dlMIk2NxQGP7GanE9XYUI5FNUJn9oQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTMz/MzQtMTI0MzE1MzA0/Mi5qcGVn.jpeg" alt="Cover for Magic Wand" style="max-width:120px; height:auto;" />
       </td>
@@ -750,17 +752,17 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 9</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 33</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 36</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 44</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 58</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 92</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/512c58c0859b3bdefc05a510d31cb62d.png" alt="Cover for Goodnight Nobody" style="max-width:120px; height:auto;" />
       </td>
@@ -793,16 +795,16 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 17</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 25</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 26</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 37</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 76</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 79</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>2004-09-28</td>
@@ -820,7 +822,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd5665929da32044d009642ffc47aaca.png" alt="Cover for Hillulah" style="max-width:120px; height:auto;" />
       </td>
@@ -840,7 +842,26 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/KtNZWB9optvRNniKGH_Ncc91vf5uGtiqLTX8DaeGrJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjQx/Ni0xMTI3MjE5NjAy/LmpwZWc.jpeg" alt="Cover for Crippled Crow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Devendra Banhart</td>
+      <td>Crippled Crow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
       </td>
       <td>2005</td>
@@ -862,26 +883,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>87</td>
-      <td>
-          <img src="https://i.discogs.com/KtNZWB9optvRNniKGH_Ncc91vf5uGtiqLTX8DaeGrJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjQx/Ni0xMTI3MjE5NjAy/LmpwZWc.jpeg" alt="Cover for Crippled Crow" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Devendra Banhart</td>
-      <td>Crippled Crow</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 36</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/XjF8lUx_yDhlxTr9qToYfdPgnNdf7hL93wpAUmH3lbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTM2/MzQtMTI5NzcwNjc3/My5qcGVn.jpeg" alt="Cover for Further From Grace" style="max-width:120px; height:auto;" />
       </td>
@@ -899,7 +901,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0333f018fb2148cec8bd5d96b30cb254.png" alt="Cover for School of the Flower" style="max-width:120px; height:auto;" />
       </td>
@@ -914,12 +916,12 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
         <ul>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 28</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 31</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 46</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c62fab6faf384c77ccca8fa0ca0808bb.png" alt="Cover for Life &amp; Love in Sparrow&#39;s Meadow" style="max-width:120px; height:auto;" />
       </td>
@@ -937,7 +939,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3695bf4143994096a695a8cac67ef4c3.png" alt="Cover for Is Night People" style="max-width:120px; height:auto;" />
       </td>
@@ -961,7 +963,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ef0792adabb4444a618fead2d013c59.png" alt="Cover for Blood Of The Sunworm" style="max-width:120px; height:auto;" />
       </td>
@@ -981,7 +983,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7da41614841d4307a2f740ca2cec198e.png" alt="Cover for Noah&#39;s Ark" style="max-width:120px; height:auto;" />
       </td>
@@ -1000,7 +1002,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6453c6455c1467b9f80988ac16d446e.png" alt="Cover for Cripple Crow" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,7 +1020,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/102271a7f00843edc3b7c082fe831683.png" alt="Cover for Feels" style="max-width:120px; height:auto;" />
       </td>
@@ -1033,16 +1035,16 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       <td>
         <ul>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 1</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 6</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 29</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 51</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 50</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 74</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 93</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57a37d151ab602eb5c2957c3639a409f.png" alt="Cover for Blank Unstaring Heirs of Doom" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,7 +1062,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
       </td>
       <td>2006</td>
@@ -1081,7 +1083,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/luNs7-Mw15IB9YFcHxv_s9dJbcq503STVhfjPl27zVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjc1/NzI2LTE1MzE5NTE4/OTEtMjY0OC5qcGVn.jpeg" alt="Cover for Shadows Rise" style="max-width:120px; height:auto;" />
       </td>
@@ -1101,7 +1103,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b297f5aa4dbf441a842b605f7cfa23d1.png" alt="Cover for Hapless" style="max-width:120px; height:auto;" />
       </td>
@@ -1125,15 +1127,15 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       <td>
         <ul>
             <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 1</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 19</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 21</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 46</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 72</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 55</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td>2006-04-21</td>
@@ -1152,7 +1154,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c098672a13f25747741b89a7882bbc3.png" alt="Cover for Begin to Hope" style="max-width:120px; height:auto;" />
       </td>
@@ -1177,7 +1179,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19c196c41ea84ab2bb0e2f3db87a1464.png" alt="Cover for Brightblack Morning Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,7 +1197,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1749143e53332253f37f3d7c6f55a4df.png" alt="Cover for The Edge the Middle" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,7 +1216,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e42304d835a64e899a6958f82e3f4099.png" alt="Cover for Meek Warrior" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,7 +1234,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ef4081e35cdb357334f1dbae22c6af7.png" alt="Cover for The Unsung Colony" style="max-width:120px; height:auto;" />
       </td>
@@ -1263,17 +1265,17 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 19</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 26</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 64</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 67</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 68</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 75</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 78</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
       </td>
       <td>2006-10-29</td>
@@ -1303,7 +1305,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c5623a09ad44221a93f54962bacc62f.png" alt="Cover for Dat Rosa Mel Apibus" style="max-width:120px; height:auto;" />
       </td>
@@ -1323,7 +1325,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>57</td>
       <td>
       </td>
       <td>2006-11-30</td>
@@ -1337,15 +1339,35 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 49</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 23</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 52</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 63</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 78</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/YmK5CK5owrRKFOJKmGixlK7C7K5MxZhhcB0IQS07Kr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDQ5/NS0xMTc1NzI4ODc4/LmpwZWc.jpeg" alt="Cover for Adventures of Ghosthorse and Stillborn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>CocoRosie</td>
+      <td>Adventures of Ghosthorse and Stillborn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a59adc2f2fabe195be0ae5e0480fb909.png" alt="Cover for Bill" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,27 +1390,25 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/YmK5CK5owrRKFOJKmGixlK7C7K5MxZhhcB0IQS07Kr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDQ5/NS0xMTc1NzI4ODc4/LmpwZWc.jpeg" alt="Cover for Adventures of Ghosthorse and Stillborn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/148f124ec8eb4d71a7f117a328415028.png" alt="Cover for Bride of Dynamite" style="max-width:120px; height:auto;" />
       </td>
-      <td>2007</td>
-      <td>CocoRosie</td>
-      <td>Adventures of Ghosthorse and Stillborn</td>
+      <td>2007-02-05</td>
+      <td>Rio En Medio</td>
+      <td>Bride of Dynamite</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/pHPTbRTKpqIqoNcVys-jHyuSGFtmkMWBxoCsoa4uqAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDgw/MS0xMzQwOTUwNjE1/LTMyNzIuanBlZw.jpeg" alt="Cover for Perfect As Cats: A Tribute to The Cure" style="max-width:120px; height:auto;" />
       </td>
@@ -1410,25 +1430,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/148f124ec8eb4d71a7f117a328415028.png" alt="Cover for Bride of Dynamite" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-02-05</td>
-      <td>Rio En Medio</td>
-      <td>Bride of Dynamite</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a8c51555e9c47f6bbb8a69638cd9e2c.png" alt="Cover for The Bride of Dynamite" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,7 +1448,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee8a78424bc41b190c85a3cc3e6aaf17.png" alt="Cover for The Reminder" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1477,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/cKddnO4HYm1-hyZtiBOnDe6h_2zGFWybSYQfjgQiaeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODgy/NS0xMTgyNDQ1MTIx/LmpwZWc.jpeg" alt="Cover for A Long And Ugly Road (European edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1499,17 +1501,17 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       <td>
         <ul>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 17</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 26</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 20</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 27</li>
             <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 48</li>
             <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 65</li>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 75</li>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fc7e3f4d330a5d53f5cdab9d59855c0.png" alt="Cover for Strawberry Jam" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,31 +1533,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>40</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d7c74824284475ec715750d0e207105.png" alt="Cover for Transfiguration of Vincent" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>M. Ward</td>
-      <td>Transfiguration of Vincent</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 47</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 50</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 64</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 65</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/qW_9TUueGCKSAn7zrHHoje-7fyFd4Ojf0GWlogU4_LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM3/ODQ1LTE2ODA1MzI2/MDktOTI1Ny5qcGVn.jpeg" alt="Cover for The Winged Life (European edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,17 +1566,59 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 10</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 50</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 73</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 84</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 85</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d7c74824284475ec715750d0e207105.png" alt="Cover for Transfiguration of Vincent" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>M. Ward</td>
+      <td>Transfiguration of Vincent</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 37</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 50</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 54</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 65</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Pocahaunted</td>
+      <td>Beast That You Are</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/93nlnpKT20-k1yMr3DXxQI_3x8XcsN9RSaV73L2pM6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYz/NDEtMTM2NDYxMTY5/NC0yNzE1LmpwZWc.jpeg" alt="Cover for Megapuss" style="max-width:120px; height:auto;" />
       </td>
@@ -1618,25 +1638,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>59</td>
-      <td>
-      </td>
-      <td>2008</td>
-      <td>Pocahaunted</td>
-      <td>Beast That You Are</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
+      <td>70</td>
       <td>
       </td>
       <td>2008-07-01</td>
@@ -1650,14 +1652,14 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 52</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 49</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 89</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6955c08676164f59b8c35664ec83ba7e.png" alt="Cover for Beach Head" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,7 +1679,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>2008-09-09</td>
@@ -1692,13 +1694,13 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 35</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 34</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/NQ2t5wA3vs9eQBIH-KiVGttWydG4fpDGZp6bUnSsDEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjYy/NzEtMTI2MjAwODgy/Ny5qcGVn.jpeg" alt="Cover for Parting Marrows EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,7 +1720,28 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9db3a1feb624a19b74fe5a5c32198ec.png" alt="Cover for Ballads Of The Revolution" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Jackie-O Motherfucker</td>
+      <td>Ballads Of The Revolution</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a948b7eab3f0b4c77d01b2a8e75c8c1f.png" alt="Cover for Boat Boat" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,36 +1769,15 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
         <ul>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 9</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 18</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 26</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 29</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 36</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 46</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9db3a1feb624a19b74fe5a5c32198ec.png" alt="Cover for Ballads Of The Revolution" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Jackie-O Motherfucker</td>
-      <td>Ballads Of The Revolution</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 21</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f04c4d522ec720302885a045552b1471.png" alt="Cover for Root&#x2F;Void" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,7 +1797,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/f__YDDBYl2pZnyQjBO0Z3lt_XLfTLCNUahcKZVQVV9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjU2/MDktMTY2MjU4MTQy/Mi01MDMwLmpwZWc.jpeg" alt="Cover for The Late, Great Daniel Johnston: Discovered Covered" style="max-width:120px; height:auto;" />
       </td>
@@ -1812,7 +1814,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07be8616073940a388375ae8722cde94.png" alt="Cover for Dead Zone Boys" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,38 +1833,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>
-      </td>
-      <td>2010</td>
-      <td>Velvet Davenport</td>
-      <td>Happy Ending - CD [SHDWPLY]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 16</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 49</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 80</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/33RDpSVxTr7yGU83K2eOHm_RqGvwjCMQP-4JMXqbkOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkw/NDIxLTE1MDk2NzU5/NTQtNjY3NS5qcGVn.jpeg" alt="Cover for Tarts" style="max-width:120px; height:auto;" />
       </td>
@@ -1919,16 +1890,47 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 7</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 33</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 35</li>
             <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 45</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 66</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 68</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 81</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2010</td>
+      <td>Velvet Davenport</td>
+      <td>Happy Ending - CD [SHDWPLY]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 16</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 49</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 80</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/feabd299e5524dba925c19ba7ebda13c.png" alt="Cover for Country Stash" style="max-width:120px; height:auto;" />
       </td>
@@ -1948,7 +1950,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea70d38acaf74c5cbe48cd4b68b6934f.png" alt="Cover for Nuestra" style="max-width:120px; height:auto;" />
       </td>
@@ -1966,7 +1968,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b637a9e651d739b1d45c23e425f062b.png" alt="Cover for Yuni In Taxco EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1993,7 +1995,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/EnlgC7nPkQ8U2OeG9TjdOPYMU4fqSUimVIzXB73FiEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTU3/NzUtMTI3MjY1ODA5/My5qcGVn.jpeg" alt="Cover for Strange Days" style="max-width:120px; height:auto;" />
       </td>
@@ -2011,7 +2013,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f7e80e169963ba68c7fd4effd34139f.png" alt="Cover for The Beat Band" style="max-width:120px; height:auto;" />
       </td>
@@ -2030,7 +2032,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>2011-04-26</td>
@@ -2048,7 +2050,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
       </td>
       <td>2011-05-30</td>
@@ -2069,7 +2071,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b4afd3d6d594a86a62e351970e8a76c.png" alt="Cover for EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2086,7 +2088,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a982f7abe1d4e469e4369c960a850c5.png" alt="Cover for All Will Prosper" style="max-width:120px; height:auto;" />
       </td>
@@ -2106,7 +2108,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d7ad09cbdde4bf6cb346e46212261c0.png" alt="Cover for Sous les yeux de Sophie" style="max-width:120px; height:auto;" />
       </td>
@@ -2128,12 +2130,12 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       <td>
         <ul>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 30</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 43</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/IflBVlNwB72VfbUpnDgTWqeViQvGhpQp7iFkrnFSFfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTYz/MTQtMTM2MjY4MDY3/Ny01NjU2LmpwZWc.jpeg" alt="Cover for Soul Retrieval" style="max-width:120px; height:auto;" />
       </td>
@@ -2151,7 +2153,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36e7d54c0af96c66fa56b70f83c52298.png" alt="Cover for beko_21" style="max-width:120px; height:auto;" />
       </td>
@@ -2179,7 +2181,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ccfd56bac772434482cd1a41973a5dba.png" alt="Cover for More Songs About Animals and TV" style="max-width:120px; height:auto;" />
       </td>
@@ -2209,17 +2211,17 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 16</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 29</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 54</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 61</li>
-            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 85</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 95</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d470adb426cc88ffa023ec58eb3b0c8.png" alt="Cover for Weight" style="max-width:120px; height:auto;" />
       </td>
@@ -2248,7 +2250,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3b9a8aec24fc7da15c62c6b421be77d.png" alt="Cover for pom pom" style="max-width:120px; height:auto;" />
       </td>
@@ -2267,7 +2269,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2016</td>
@@ -2285,7 +2287,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/bOlovZ6zg_ZuhXl9omWlWM-2lcJe6HOOUS5c4OzqxHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc1/Njg4LTE1MzkzMDI3/MjQtOTE1Mi5qcGVn.jpeg" alt="Cover for Dionysus" style="max-width:120px; height:auto;" />
       </td>
@@ -2304,24 +2306,24 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 1</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 2</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 2</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 3</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 3</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 4</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 6</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 7</li>
             <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 8</li>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 12</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 14</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 16</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 24</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 25</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 77</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 98</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for The Golden Apples of the Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -2339,7 +2341,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/Jgg6XGSqEKNaBm09eSjS0WAe5reiKDQ_en5AOdyP5pE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDcy/OTI2LTE1NzU2MzQ0/NTktNjgyOC5qcGVn.jpeg" alt="Cover for Bill Orcutt" style="max-width:120px; height:auto;" />
       </td>
@@ -2357,68 +2359,7 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mike Garlington</td>
-      <td>Pope Culture!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 27</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 72</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>
-      </td>
-      <td></td>
-      <td>the Traveling Misanthrope Circus of Lunacy</td>
-      <td>this is bad for the children. (better dead than red)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parody" | relative_url }}">parody</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 22</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 84</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 88</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
+      <td>83</td>
       <td>
       </td>
       <td></td>
@@ -2442,7 +2383,72 @@ New Weird America is a folk-influenced indie movement from the early 2000s that 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>the Traveling Misanthrope Circus of Lunacy</td>
+      <td>this is bad for the children. (better dead than red)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parody" | relative_url }}">parody</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ween" | relative_url }}">ween</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ween" | relative_url }}">ween</a> # 18</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 22</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 84</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 88</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mike Garlington</td>
+      <td>Pope Culture!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ween" | relative_url }}">ween</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ween" | relative_url }}">ween</a> # 20</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 27</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
       </td>
       <td></td>
