@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T11:52:24.595Z
+date: 2025-12-06T23:48:09.180Z
 permalink: tags/pluggnb
 title: pluggnb
 ---
 
 ## pluggnb
 
-Last updated: <time datetime="2025-12-04T11:52:24.595Z">Thu Dec 04 2025 13:52:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T23:48:09.180Z">Sun Dec 07 2025 01:48:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -311,9 +311,9 @@ Pluggnb is a hazy, atmospheric fusion of plugg beats and R&amp;B melodies that e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 25</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 37</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 80</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 64</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 76</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 82</li>
         </ul>
       </td>
@@ -447,9 +447,9 @@ Pluggnb is a hazy, atmospheric fusion of plugg beats and R&amp;B melodies that e
         <ul>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 2</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 4</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 7</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 97</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1227,8 +1227,8 @@ Pluggnb is a hazy, atmospheric fusion of plugg beats and R&amp;B melodies that e
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 10</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 24</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 30</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 40</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 43</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 61</li>
         </ul>
       </td>
     </tr>

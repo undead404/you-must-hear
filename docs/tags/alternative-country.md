@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T11:34:12.321Z
+date: 2025-12-06T23:19:56.758Z
 permalink: tags/alternative-country
 title: alternative country
 ---
 
 ## alternative country
 
-Last updated: <time datetime="2025-12-04T11:34:12.321Z">Thu Dec 04 2025 13:34:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T23:19:56.758Z">Sun Dec 07 2025 01:19:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -186,7 +186,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 33</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -246,7 +246,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 25</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -304,12 +304,12 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 4</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 33</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 38</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 39</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 85</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 97</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -385,7 +385,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 37</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -407,7 +407,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       <td>
         <ul>
             <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 27</li>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 59</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -718,12 +718,12 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 10</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 9</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 33</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 44</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 58</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 92</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 93</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -761,11 +761,11 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 17</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 25</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 26</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 69</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 76</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 32</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 79</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -847,7 +847,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 73</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -964,12 +964,12 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 5</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 37</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 41</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 44</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 93</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 96</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1005,11 +1005,11 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 6</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 41</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 45</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 52</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 95</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1045,12 +1045,12 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 19</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 26</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 64</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 67</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 75</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 78</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 82</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1070,13 +1070,13 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 7</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 7</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 25</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 42</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 54</li>
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 65</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 69</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 94</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1134,15 +1134,15 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 3</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 26</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 29</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 34</li>
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 62</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 95</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 95</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 98</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 95</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 99</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1161,10 +1161,10 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 40</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 47</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 37</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 50</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 64</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 54</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 60</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 65</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 92</li>
         </ul>
@@ -1204,12 +1204,12 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 10</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 32</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 50</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 54</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 73</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 84</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1249,7 +1249,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 90</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 91</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1287,7 +1287,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 67</li>
+            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1488,38 +1488,38 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 2</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 10</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 12</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 14</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 16</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 14</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 16</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 16</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 18</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 19</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 27</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 32</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 29</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 33</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 35</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 35</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 37</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 38</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 40</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 47</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 53</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 53</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 54</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 55</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 66</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 58</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 69</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 71</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 79</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 86</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 92</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1656,7 +1656,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 70</li>
+            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1718,7 +1718,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 3</li>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1836,29 +1836,29 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 9</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 16</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 19</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 24</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 25</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 26</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 28</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 44</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 28</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 39</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 45</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 49</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 52</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 56</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 56</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 57</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 61</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 61</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 70</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 70</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 72</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 73</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 75</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 75</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 75</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 75</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1933,8 +1933,6 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 48</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2052,9 +2050,9 @@ Alternative country blends traditional country instrumentation with indie rock s
       <td>
         <ul>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 6</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 27</li>
             <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 49</li>
             <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 60</li>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2148,10 +2146,10 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 18</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 23</li>
             <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 37</li>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 66</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2189,8 +2187,8 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 53</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 100</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 1</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2256,9 +2254,9 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 36</li>
             <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 41</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 65</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2411,7 +2409,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/throwaway-grrls" | relative_url }}">throwaway grrls</a> # 53</li>
+            <li> <a href="{{ "/tags/throwaway-grrls" | relative_url }}">throwaway grrls</a> # 48</li>
         </ul>
       </td>
     </tr>
