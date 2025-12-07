@@ -1,18 +1,25 @@
 ---
 category: list
-date: 2025-12-06T19:29:08.292Z
+date: 2025-12-06T20:18:30.790Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-06T19:29:08.292Z">Sat Dec 06 2025 21:29:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T20:18:30.790Z">Sat Dec 06 2025 22:18:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [chamber jazz]({{ "tags/chamber-jazz" | relative_url }}) | <time datetime="2025-12-06T20:18:30.790Z">Sat Dec 06 2025 22:18:30 GMT+0200 (Eastern European Standard Time)</time> |
+| [greece]({{ "tags/greece" | relative_url }}) | <time datetime="2025-12-06T20:18:07.430Z">Sat Dec 06 2025 22:18:07 GMT+0200 (Eastern European Standard Time)</time> |
+| [riddim]({{ "tags/riddim" | relative_url }}) | <time datetime="2025-12-06T20:02:36.175Z">Sat Dec 06 2025 22:02:36 GMT+0200 (Eastern European Standard Time)</time> |
+| [portugues]({{ "tags/portugues" | relative_url }}) | <time datetime="2025-12-06T20:02:30.137Z">Sat Dec 06 2025 22:02:30 GMT+0200 (Eastern European Standard Time)</time> |
+| [acoustic rock]({{ "tags/acoustic-rock" | relative_url }}) | <time datetime="2025-12-06T20:02:04.729Z">Sat Dec 06 2025 22:02:04 GMT+0200 (Eastern European Standard Time)</time> |
+| [latino]({{ "tags/latino" | relative_url }}) | <time datetime="2025-12-06T19:46:19.223Z">Sat Dec 06 2025 21:46:19 GMT+0200 (Eastern European Standard Time)</time> |
+| [indian fusion]({{ "tags/indian-fusion" | relative_url }}) | <time datetime="2025-12-06T19:45:47.889Z">Sat Dec 06 2025 21:45:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [plunderphonics]({{ "tags/plunderphonics" | relative_url }}) | <time datetime="2025-12-06T19:29:08.292Z">Sat Dec 06 2025 21:29:08 GMT+0200 (Eastern European Standard Time)</time> |
 | [old school hardcore]({{ "tags/old-school-hardcore" | relative_url }}) | <time datetime="2025-12-06T19:29:03.597Z">Sat Dec 06 2025 21:29:03 GMT+0200 (Eastern European Standard Time)</time> |
 | [techstep]({{ "tags/techstep" | relative_url }}) | <time datetime="2025-12-06T19:29:00.348Z">Sat Dec 06 2025 21:29:00 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1381,10 +1388,3 @@ Last updated: <time datetime="2025-12-06T19:29:08.292Z">Sat Dec 06 2025 21:29:08
 | [twee pop]({{ "tags/twee-pop" | relative_url }}) | <time datetime="2025-12-04T09:51:31.852Z">Thu Dec 04 2025 11:51:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [chant]({{ "tags/chant" | relative_url }}) | <time datetime="2025-12-04T09:51:01.472Z">Thu Dec 04 2025 11:51:01 GMT+0200 (Eastern European Standard Time)</time> |
 | [martial neofolk]({{ "tags/martial-neofolk" | relative_url }}) | <time datetime="2025-12-04T09:50:56.278Z">Thu Dec 04 2025 11:50:56 GMT+0200 (Eastern European Standard Time)</time> |
-| [chamber jazz]({{ "tags/chamber-jazz" | relative_url }}) | <time datetime="2025-12-04T09:50:50.062Z">Thu Dec 04 2025 11:50:50 GMT+0200 (Eastern European Standard Time)</time> |
-| [greece]({{ "tags/greece" | relative_url }}) | <time datetime="2025-12-04T09:50:19.565Z">Thu Dec 04 2025 11:50:19 GMT+0200 (Eastern European Standard Time)</time> |
-| [riddim]({{ "tags/riddim" | relative_url }}) | <time datetime="2025-12-04T09:50:09.888Z">Thu Dec 04 2025 11:50:09 GMT+0200 (Eastern European Standard Time)</time> |
-| [portugues]({{ "tags/portugues" | relative_url }}) | <time datetime="2025-12-04T09:49:25.427Z">Thu Dec 04 2025 11:49:25 GMT+0200 (Eastern European Standard Time)</time> |
-| [acoustic rock]({{ "tags/acoustic-rock" | relative_url }}) | <time datetime="2025-12-04T09:49:19.488Z">Thu Dec 04 2025 11:49:19 GMT+0200 (Eastern European Standard Time)</time> |
-| [latino]({{ "tags/latino" | relative_url }}) | <time datetime="2025-12-04T09:49:12.321Z">Thu Dec 04 2025 11:49:12 GMT+0200 (Eastern European Standard Time)</time> |
-| [indian fusion]({{ "tags/indian-fusion" | relative_url }}) | <time datetime="2025-12-04T09:49:06.908Z">Thu Dec 04 2025 11:49:06 GMT+0200 (Eastern European Standard Time)</time> |

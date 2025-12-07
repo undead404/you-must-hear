@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:50:19.565Z
+date: 2025-12-06T20:18:07.430Z
 permalink: tags/greece
 title: greece
 ---
 
 ## greece
 
-Last updated: <time datetime="2025-12-04T09:50:19.565Z">Thu Dec 04 2025 11:50:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T20:18:07.430Z">Sat Dec 06 2025 22:18:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -176,7 +176,7 @@ Greek music is a rich blend of Eastern and Western influences, reflecting the co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 96</li>
+            <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -196,7 +196,7 @@ Greek music is a rich blend of Eastern and Western influences, reflecting the co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 92</li>
+            <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -234,7 +234,7 @@ Greek music is a rich blend of Eastern and Western influences, reflecting the co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 97</li>
+            <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -637,7 +637,7 @@ Greek music is a rich blend of Eastern and Western influences, reflecting the co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 93</li>
+            <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -814,7 +814,7 @@ Greek music is a rich blend of Eastern and Western influences, reflecting the co
       <td>
         <ul>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 21</li>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 41</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -837,7 +837,7 @@ Greek music is a rich blend of Eastern and Western influences, reflecting the co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 38</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 63</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 71</li>
         </ul>
       </td>
@@ -902,7 +902,7 @@ Greek music is a rich blend of Eastern and Western influences, reflecting the co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 99</li>
+            <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -923,7 +923,7 @@ Greek music is a rich blend of Eastern and Western influences, reflecting the co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 100</li>
+            <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -944,7 +944,7 @@ Greek music is a rich blend of Eastern and Western influences, reflecting the co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 94</li>
+            <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1561,7 +1561,7 @@ Greek music is a rich blend of Eastern and Western influences, reflecting the co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/palia-ellinika-tragoudia" | relative_url }}">palia ellinika tragoudia</a> # 100</li>
+            <li> <a href="{{ "/tags/palia-ellinika-tragoudia" | relative_url }}">palia ellinika tragoudia</a> # 1</li>
         </ul>
       </td>
     </tr>

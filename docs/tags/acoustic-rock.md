@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:49:19.488Z
+date: 2025-12-06T20:02:04.729Z
 permalink: tags/acoustic-rock
 title: acoustic rock
 ---
 
 ## acoustic rock
 
-Last updated: <time datetime="2025-12-04T09:49:19.488Z">Thu Dec 04 2025 11:49:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T20:02:04.729Z">Sat Dec 06 2025 22:02:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -123,7 +123,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 43</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -164,9 +164,9 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 5</li>
             <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 13</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 34</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 96</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -188,7 +188,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 74</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -282,7 +282,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 54</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -404,7 +404,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       <td>
         <ul>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 9</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 39</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -423,7 +423,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 86</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -443,7 +443,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 91</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -524,8 +524,8 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
         <ul>
             <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 13</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 16</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 36</li>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 45</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 56</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -545,10 +545,10 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 5</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 29</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 45</li>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 68</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 72</li>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -591,9 +591,9 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 4</li>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 28</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 37</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -612,7 +612,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 10</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -710,8 +710,8 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 27</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 28</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -755,7 +755,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 7</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1289,7 +1289,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       <td>
         <ul>
             <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 30</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 35</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1625,7 +1625,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 66</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1717,10 +1717,10 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 18</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 23</li>
             <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 60</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 83</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1781,7 +1781,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 86</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1946,8 +1946,8 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       <td>
         <ul>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 21</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 31</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 66</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 70</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 72</li>
             <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 97</li>
         </ul>
