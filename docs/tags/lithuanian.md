@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T18:18:52.771Z
+date: 2025-12-07T07:57:56.125Z
 permalink: tags/lithuanian
 title: lithuanian
 ---
 
 ## lithuanian
 
-Last updated: <time datetime="2025-12-04T18:18:52.771Z">Thu Dec 04 2025 20:18:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T07:57:56.125Z">Sun Dec 07 2025 09:57:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
   </thead>
   <tbody>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Amber Tribes" style="max-width:120px; height:auto;" />
       </td>
@@ -48,25 +48,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>59</td>
-      <td>
-          <img src="https://i.discogs.com/fRNrHllyhFWl81pYKim4-ClV5gcrzES5MnvhnqwqApE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODE0/NTctMTQyODY2MDY3/Ny01ODg1LmpwZWc.jpeg" alt="Cover for Abecele" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Dainos teatras</td>
-      <td>Abecele</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/_v_l-1VDlhyL1TqgBYJ0lpm9zDAy-zEdPss-silOADg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjA0/NTEtMTM4OTcyOTgy/NC01MDE0LmpwZWc.jpeg" alt="Cover for Doozgle" style="max-width:120px; height:auto;" />
       </td>
@@ -87,7 +69,25 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/fRNrHllyhFWl81pYKim4-ClV5gcrzES5MnvhnqwqApE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODE0/NTctMTQyODY2MDY3/Ny01ODg1LmpwZWc.jpeg" alt="Cover for Abecele" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Dainos teatras</td>
+      <td>Abecele</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a8be955067e42bdc2beb0d231e268d5.png" alt="Cover for Netiekto" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>1994</td>
@@ -122,7 +122,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f741badfc8bde2f29fb3181bd1bb145f.png" alt="Cover for Visų laikų topai - 1" style="max-width:120px; height:auto;" />
       </td>
@@ -143,28 +143,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td>1994-06</td>
-      <td>Lygiailyja</td>
-      <td>emofuss</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18de082b953e3b7864ff5097a28a867f.png" alt="Cover for still alive" style="max-width:120px; height:auto;" />
       </td>
@@ -185,16 +164,36 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>97</td>
       <td>
-          <img src="https://i.discogs.com/Z1v-1Pd4do7d1ayyinf4j9I66-O_H61T0wi1XsM3tBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA2/NzgtMTQ3MDgzNjA2/OC04MDI1LmpwZWc.jpeg" alt="Cover for get in phase" style="max-width:120px; height:auto;" />
       </td>
-      <td>1995</td>
-      <td>Sweet Energy</td>
-      <td>get in phase</td>
+      <td>1994-06</td>
+      <td>Lygiailyja</td>
+      <td>emofuss</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac3c5f5ce2ae04c91fd29af2c592986e.png" alt="Cover for Visų laikų topai - 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Hiperbolė</td>
+      <td>Visų laikų topai - 2</td>
+      <td>
+        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
         </ul>
       </td>
@@ -204,7 +203,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/W6wan7HlsRxA7oeRRts8bCJF5IoB8p2DZJlxNf3qQLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTU5/MzEtMTI4ODI2NDE5/NC5qcGVn.jpeg" alt="Cover for M-1 Dancemixes" style="max-width:120px; height:auto;" />
       </td>
@@ -223,15 +222,16 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>89</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac3c5f5ce2ae04c91fd29af2c592986e.png" alt="Cover for Visų laikų topai - 2" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/Z1v-1Pd4do7d1ayyinf4j9I66-O_H61T0wi1XsM3tBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA2/NzgtMTQ3MDgzNjA2/OC04MDI1LmpwZWc.jpeg" alt="Cover for get in phase" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
-      <td>Hiperbolė</td>
-      <td>Visų laikų topai - 2</td>
+      <td>Sweet Energy</td>
+      <td>get in phase</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
         </ul>
       </td>
@@ -241,7 +241,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7b0e2b68c9041b4a165394c4bb6199a.png" alt="Cover for Kai Perplauksi Upe" style="max-width:120px; height:auto;" />
       </td>
@@ -260,7 +260,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76eb1942a11b678256e5778f42404871.png" alt="Cover for Pabėgimas" style="max-width:120px; height:auto;" />
       </td>
@@ -278,43 +278,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-          <img src="https://i.discogs.com/BN9lZ1JZtS9ISGRtNFUEd8JptbmK4GvvXqgf_hIiCmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjIx/OTMtMTMwMjYwMDk4/NS5qcGVn.jpeg" alt="Cover for Vogtos dainos II" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Keistuoliu Teatras</td>
-      <td>Vogtos dainos II</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
-      <td>
-          <img src="https://i.discogs.com/BN9lZ1JZtS9ISGRtNFUEd8JptbmK4GvvXqgf_hIiCmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjIx/OTMtMTMwMjYwMDk4/NS5qcGVn.jpeg" alt="Cover for Vogtos dainos II" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Keistuoliu teatras</td>
-      <td>Vogtos dainos II</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>1996</td>
@@ -332,7 +296,43 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/BN9lZ1JZtS9ISGRtNFUEd8JptbmK4GvvXqgf_hIiCmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjIx/OTMtMTMwMjYwMDk4/NS5qcGVn.jpeg" alt="Cover for Vogtos dainos II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Keistuoliu Teatras</td>
+      <td>Vogtos dainos II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/BN9lZ1JZtS9ISGRtNFUEd8JptbmK4GvvXqgf_hIiCmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjIx/OTMtMTMwMjYwMDk4/NS5qcGVn.jpeg" alt="Cover for Vogtos dainos II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Keistuoliu teatras</td>
+      <td>Vogtos dainos II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/EK_27wxH8CCzPGk7uIy8YKZqMqTNkcm823eCm8FiE14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTY0/MDEtMTU2ODM5MzE5/Mi01OTY0LmpwZWc.jpeg" alt="Cover for Tarp Dvieju Vandenu" style="max-width:120px; height:auto;" />
       </td>
@@ -352,7 +352,46 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/Qt-mq7apy8ESvELFPLTEhFgomc6kMyF7loy1QLRTt-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDg5/MTItMTI5NzUxMzQ2/OS5qcGVn.jpeg" alt="Cover for Naujas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Airija</td>
+      <td>Naujas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/OD9pDlp2zLIaqkTXn_KXQu4pyxN4OKUbeewXR9hPSWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDUz/ODAtMTMyOTUwODA5/MS5qcGVn.jpeg" alt="Cover for Gimę Nugalėt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Zpoan Vtenz</td>
+      <td>Gimę Nugalėt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/aXLXl-XbitXHPjfSOl9nJmz3kGiUhyf9fTg9npsV1BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjE2/NDAtMTI5NTQ3MDM2/NS5qcGVn.jpeg" alt="Cover for Vardas" style="max-width:120px; height:auto;" />
       </td>
@@ -377,46 +416,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>53</td>
-      <td>
-          <img src="https://i.discogs.com/OD9pDlp2zLIaqkTXn_KXQu4pyxN4OKUbeewXR9hPSWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDUz/ODAtMTMyOTUwODA5/MS5qcGVn.jpeg" alt="Cover for Gimę Nugalėt" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Zpoan Vtenz</td>
-      <td>Gimę Nugalėt</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
-      <td>
-          <img src="https://i.discogs.com/Qt-mq7apy8ESvELFPLTEhFgomc6kMyF7loy1QLRTt-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDg5/MTItMTI5NzUxMzQ2/OS5qcGVn.jpeg" alt="Cover for Naujas" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Airija</td>
-      <td>Naujas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/ihoJKXJSVkf6g8luNGbviftrW5nVTOCD7gd0Cad-St8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA5/OTItMTM1NDYxMzAw/Ni00Njk4LmpwZWc.jpeg" alt="Cover for Siaures naktis. Puse Penkiu" style="max-width:120px; height:auto;" />
       </td>
@@ -434,7 +434,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/RwJcjwVPSR94RxynqjbebouLsBZnyqglsodmZMXtXDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njk5/NzctMTQ4NDAwOTgz/MS04NDU0LmpwZWc.jpeg" alt="Cover for Meiles Liepsna" style="max-width:120px; height:auto;" />
       </td>
@@ -452,7 +452,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/c9yvv_e3p9pArzae8QnoibPu0ANQ9tJBKtXQXyTdfRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjE5/MzktMTY4MDQyODI0/MC03NTUyLnBuZw.jpeg" alt="Cover for Mono arba stereo" style="max-width:120px; height:auto;" />
       </td>
@@ -471,25 +471,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>50</td>
-      <td>
-          <img src="https://i.discogs.com/DZuQ7xFtayMUEe5pGjZXAp7Feq0LHkM6c-oD37Wv48Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAy/LTEyODg0Njg2MjAu/anBlZw.jpeg" alt="Cover for AKIVAIZDU" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Mir</td>
-      <td>AKIVAIZDU</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/su00tOAlkup8z75_4SMYJAW_YzK63xZ1PzqEziZqDzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODUx/NDgtMTMxMjgzNTA2/MC5qcGVn.jpeg" alt="Cover for Vogtos dainos" style="max-width:120px; height:auto;" />
       </td>
@@ -507,7 +489,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/su00tOAlkup8z75_4SMYJAW_YzK63xZ1PzqEziZqDzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODUx/NDgtMTMxMjgzNTA2/MC5qcGVn.jpeg" alt="Cover for Vogtos dainos" style="max-width:120px; height:auto;" />
       </td>
@@ -525,7 +507,25 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/DZuQ7xFtayMUEe5pGjZXAp7Feq0LHkM6c-oD37Wv48Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAy/LTEyODg0Njg2MjAu/anBlZw.jpeg" alt="Cover for AKIVAIZDU" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Mir</td>
+      <td>AKIVAIZDU</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/7vJKVU2bj4AzX5rgaAuGLvHLLUqcs9EcECKqMva4G0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjIz/NS0xMjg5NDY3MDI2/LmpwZWc.jpeg" alt="Cover for Prisiek" style="max-width:120px; height:auto;" />
       </td>
@@ -544,7 +544,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/ey2-10Vj3tCzDdyEE7_Mmf5rwy0xDy2mhMLZo2van5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njk5/NjQtMTQ4NDAwOTY3/MC02MTkxLmpwZWc.jpeg" alt="Cover for Reikalingi Zodziai" style="max-width:120px; height:auto;" />
       </td>
@@ -562,33 +562,13 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>50</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49298bb0deda42fda8cc524754555f58.png" alt="Cover for 23" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/IVW-sfepm5grDmK3ujKv5kANotfKtdHQXnUJ0wzKY9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjk1/NjItMTQyNzQ2Mzk2/NS0yNDE1LmpwZWc.jpeg" alt="Cover for Prisiminimai" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
-      <td>Sel</td>
-      <td>23</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>
-          <img src="https://i.discogs.com/ClT1YzyBVkL0G3_pZmxM2hiDO12Uq7pJUuu44SNM8ZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjYz/MzUtMTM3NDMwNjE3/OS0yOTI5LmpwZWc.jpeg" alt="Cover for Man Ramu" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Zas</td>
-      <td>Man Ramu</td>
+      <td>Geltona</td>
+      <td>Prisiminimai</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
@@ -600,7 +580,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/uev6I7EplyMKo7-EkEpVqZ5A2dTHn0QYIQ-z2oi1boE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/ODEtMTI5NTQ3MDUw/NS5qcGVn.jpeg" alt="Cover for Saugok" style="max-width:120px; height:auto;" />
       </td>
@@ -624,13 +604,13 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/IVW-sfepm5grDmK3ujKv5kANotfKtdHQXnUJ0wzKY9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjk1/NjItMTQyNzQ2Mzk2/NS0yNDE1LmpwZWc.jpeg" alt="Cover for Prisiminimai" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/ClT1YzyBVkL0G3_pZmxM2hiDO12Uq7pJUuu44SNM8ZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjYz/MzUtMTM3NDMwNjE3/OS0yOTI5LmpwZWc.jpeg" alt="Cover for Man Ramu" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
-      <td>Geltona</td>
-      <td>Prisiminimai</td>
+      <td>Zas</td>
+      <td>Man Ramu</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
@@ -642,7 +622,27 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49298bb0deda42fda8cc524754555f58.png" alt="Cover for 23" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Sel</td>
+      <td>23</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/OQz4z2J8u6lyNbcy7BG56GnNtFwaVNfKQvvDl_yYYDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTk4/NDUtMTIwOTUxNTg4/MS5qcGVn.jpeg" alt="Cover for Ugnies Apeigos" style="max-width:120px; height:auto;" />
       </td>
@@ -663,7 +663,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2002-05-17</td>
@@ -680,7 +680,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/F8ez3eEtVCPpllQ0Q8MeFMcMHfD8UE4ELYW5xV4tRb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDMz/OC0xNDI2Mjg4OTEz/LTc4ODcuanBlZw.jpeg" alt="Cover for Perkūno Giesmės" style="max-width:120px; height:auto;" />
       </td>
@@ -702,43 +702,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/CGSDjWP8E3ySXwhmO9fO_BYzdsKPfjRxUs-vuJtzBs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzYy/NTUtMTM0MjMwMTI2/MC02MTE1LmpwZWc.jpeg" alt="Cover for Bundanti Saule" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Geltona</td>
-      <td>Bundanti Saule</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>39</td>
-      <td>
-          <img src="https://i.discogs.com/4agu2Ntx06X3t9JArdvWfqYM2E6Jz-qe7aqhr6zIEec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzY5/MzUtMTYwMTMyMjE4/MS03MjMxLmpwZWc.jpeg" alt="Cover for Fortūna" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>ŽAS</td>
-      <td>Fortūna</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
       <td>
           <img src="https://i.discogs.com/b29lcVT_iUG93UCsqy_AyPAoWpQC88YUT9afZ_JcgX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDE1/NTItMTMwODM0OTM2/MS5qcGVn.jpeg" alt="Cover for Vel kartu" style="max-width:120px; height:auto;" />
       </td>
@@ -756,31 +720,13 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/dr35XyRL90LbhViKMqKfelIi4URXktFsinhwa4IOoVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjk2/MDEtMTQ0MDc1MDc1/NC05OTY2LmpwZWc.jpeg" alt="Cover for Vejas" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/4agu2Ntx06X3t9JArdvWfqYM2E6Jz-qe7aqhr6zIEec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzY5/MzUtMTYwMTMyMjE4/MS03MjMxLmpwZWc.jpeg" alt="Cover for Fortūna" style="max-width:120px; height:auto;" />
       </td>
-      <td>2004</td>
-      <td>DELFINAI</td>
-      <td>Vejas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-          <img src="https://i.discogs.com/WcATd8-2rNem3YPpZ8araInfjryWJTpYeTGl-ypBr_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzMz/NjgtMTQyNzE5MDUx/OS01NDE0LmpwZWc.jpeg" alt="Cover for Paþadai" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Mokinukes</td>
-      <td>Paþadai</td>
+      <td>2003</td>
+      <td>ŽAS</td>
+      <td>Fortūna</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
@@ -792,31 +738,13 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/Vv31ht97opZjjrjgIpC31o8--COjrFrZNF5WWOor_Zo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDEx/NDItMTUxOTAzNDE4/Ni05MTE2LmpwZWc.jpeg" alt="Cover for Musu Tiestos" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/CGSDjWP8E3ySXwhmO9fO_BYzdsKPfjRxUs-vuJtzBs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzYy/NTUtMTM0MjMwMTI2/MC02MTE1LmpwZWc.jpeg" alt="Cover for Bundanti Saule" style="max-width:120px; height:auto;" />
       </td>
-      <td>2004</td>
-      <td>Kastaneda</td>
-      <td>Musu Tiestos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
-      <td>
-          <img src="https://i.discogs.com/7UFhfCS18m2m1KrDskNi-zV5JPh99YxNPcEBC2onKVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTg1/ODktMTQ0MTk1NDcw/Ny00ODAyLmpwZWc.jpeg" alt="Cover for Tyliai Saldziai" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Aleksandras Makejevas</td>
-      <td>Tyliai Saldziai</td>
+      <td>2003</td>
+      <td>Geltona</td>
+      <td>Bundanti Saule</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
@@ -828,43 +756,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>94</td>
-      <td>
-          <img src="https://i.discogs.com/2nGZcVG7Iv3UfvkI0JJ3KwGqKZqAwjZegfH_faARHoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODM3/MTQtMTQyNzM3NjAx/Ni03NTY2LmpwZWc.jpeg" alt="Cover for Paskutiniai Bremeno muzikantai" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Keistuoliu Teatras</td>
-      <td>Paskutiniai Bremeno muzikantai</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>95</td>
-      <td>
-          <img src="https://i.discogs.com/2nGZcVG7Iv3UfvkI0JJ3KwGqKZqAwjZegfH_faARHoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODM3/MTQtMTQyNzM3NjAx/Ni03NTY2LmpwZWc.jpeg" alt="Cover for Paskutiniai Bremeno muzikantai" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Keistuoliu teatras</td>
-      <td>Paskutiniai Bremeno muzikantai</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/8cnJ7LAiHlsT5orRqd9ru0SfNLjn1k9jLoWWwn4B8Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzE4/NjQtMTQ3NDI2NzA2/NC0yNTQ4LmpwZWc.jpeg" alt="Cover for Po visko" style="max-width:120px; height:auto;" />
       </td>
@@ -883,7 +775,115 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/2nGZcVG7Iv3UfvkI0JJ3KwGqKZqAwjZegfH_faARHoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODM3/MTQtMTQyNzM3NjAx/Ni03NTY2LmpwZWc.jpeg" alt="Cover for Paskutiniai Bremeno muzikantai" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Keistuoliu teatras</td>
+      <td>Paskutiniai Bremeno muzikantai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/2nGZcVG7Iv3UfvkI0JJ3KwGqKZqAwjZegfH_faARHoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODM3/MTQtMTQyNzM3NjAx/Ni03NTY2LmpwZWc.jpeg" alt="Cover for Paskutiniai Bremeno muzikantai" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Keistuoliu Teatras</td>
+      <td>Paskutiniai Bremeno muzikantai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/7UFhfCS18m2m1KrDskNi-zV5JPh99YxNPcEBC2onKVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTg1/ODktMTQ0MTk1NDcw/Ny00ODAyLmpwZWc.jpeg" alt="Cover for Tyliai Saldziai" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Aleksandras Makejevas</td>
+      <td>Tyliai Saldziai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/Vv31ht97opZjjrjgIpC31o8--COjrFrZNF5WWOor_Zo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDEx/NDItMTUxOTAzNDE4/Ni05MTE2LmpwZWc.jpeg" alt="Cover for Musu Tiestos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Kastaneda</td>
+      <td>Musu Tiestos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/WcATd8-2rNem3YPpZ8araInfjryWJTpYeTGl-ypBr_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzMz/NjgtMTQyNzE5MDUx/OS01NDE0LmpwZWc.jpeg" alt="Cover for Paþadai" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Mokinukes</td>
+      <td>Paþadai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/dr35XyRL90LbhViKMqKfelIi4URXktFsinhwa4IOoVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjk2/MDEtMTQ0MDc1MDc1/NC05OTY2LmpwZWc.jpeg" alt="Cover for Vejas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>DELFINAI</td>
+      <td>Vejas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/tiJNxZ7fdphKLuiugYryTtazf49VB76Orc7c0b53ahU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/ODQ4LTE2NTM4ODg1/OTQtMjgyMi5qcGVn.jpeg" alt="Cover for Kaimiečių mantros" style="max-width:120px; height:auto;" />
       </td>
@@ -903,53 +903,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://i.discogs.com/VU1Ld5ajX-g5qdg84K1sASDAQqeUxECaB1YALGD9dcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTE5/MjEtMTMwMzk3OTk3/Ny5qcGVn.jpeg" alt="Cover for Prųsū Giesmės" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Kūlgrinda</td>
-      <td>Prųsū Giesmės</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 78</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
-      <td>
-          <img src="https://i.discogs.com/Oy1Sl_Vxjx3zDDWaQRhrLNKxwpxk__XieVoJlUtOSis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDIw/My0xMTYzMTY2ODc4/LmpwZWc.jpeg" alt="Cover for Post Sov Pop" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>InCulto</td>
-      <td>Post Sov Pop</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1e4a7c077494193831ffa3e8fe9fc1a.png" alt="Cover for PostSovPop" style="max-width:120px; height:auto;" />
       </td>
@@ -974,25 +928,53 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/CSxbY5xxNr08-o6yYCnhr0WhXoJnLKBhJ0pIAUX7B44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mzg0/MDEtMTQ1NDU5NzI3/Mi05Njk4LmpwZWc.jpeg" alt="Cover for BERNIUKAMS" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/Oy1Sl_Vxjx3zDDWaQRhrLNKxwpxk__XieVoJlUtOSis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDIw/My0xMTYzMTY2ODc4/LmpwZWc.jpeg" alt="Cover for Post Sov Pop" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
-      <td>Yva</td>
-      <td>BERNIUKAMS</td>
+      <td>InCulto</td>
+      <td>Post Sov Pop</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/VU1Ld5ajX-g5qdg84K1sASDAQqeUxECaB1YALGD9dcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTE5/MjEtMTMwMzk3OTk3/Ny5qcGVn.jpeg" alt="Cover for Prųsū Giesmės" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Kūlgrinda</td>
+      <td>Prųsū Giesmės</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
       <td>
       </td>
       <td>2005</td>
@@ -1010,7 +992,25 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/CSxbY5xxNr08-o6yYCnhr0WhXoJnLKBhJ0pIAUX7B44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mzg0/MDEtMTQ1NDU5NzI3/Mi05Njk4LmpwZWc.jpeg" alt="Cover for BERNIUKAMS" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Yva</td>
+      <td>BERNIUKAMS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98f31afbf6d7d40bda283311ddf9d6b0.png" alt="Cover for Contraction EP (Sutemos009)" style="max-width:120px; height:auto;" />
       </td>
@@ -1028,7 +1028,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2005-09-16</td>
@@ -1045,7 +1045,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td>2005-09-30</td>
@@ -1067,25 +1067,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/6ogJ40-8muhQjps1aWKuWIhpZuvgFnhCMPpYDUevjAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzEw/MDUtMTI5NTg4MjIy/NC5qcGVn.jpeg" alt="Cover for Disco Balls" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Brainers</td>
-      <td>Disco Balls</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ec293aa4d2448fe8fa862c7fa5216a4.png" alt="Cover for Pockets Full Of Fun" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,7 +1087,25 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/6ogJ40-8muhQjps1aWKuWIhpZuvgFnhCMPpYDUevjAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzEw/MDUtMTI5NTg4MjIy/NC5qcGVn.jpeg" alt="Cover for Disco Balls" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Brainers</td>
+      <td>Disco Balls</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/P7gIPY7iOBn85mKWiqoUvvY6nlCqMIXzSG-SABVgqCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODE1/My0xNDI2Mjg5MTg4/LTE4MzkuanBlZw.jpeg" alt="Cover for Bite Lingo" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1126,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/926897d0acad4631ad5b5310b927fa08.png" alt="Cover for Saldi. Juoda. Naktis" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,7 +1144,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/aXLXl-XbitXHPjfSOl9nJmz3kGiUhyf9fTg9npsV1BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjE2/NDAtMTI5NTQ3MDM2/NS5qcGVn.jpeg" alt="Cover for Rytai" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,7 +1169,27 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/ki_FdxFkIBJ61j9-EwWgk-6a_OlcgHszyePfgsnNT4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYw/MDktMTQ5MDEyNzY0/Ny01NTM4LmpwZWc.jpeg" alt="Cover for Mėnuli baltas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Pievos</td>
+      <td>Mėnuli baltas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/IuLA_6BUpMSPSS-PqFAH6LR2O6-ZN4i-S2o68lKL1m0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODkz/MzAtMTQ5NDY2NTk3/Mi04MTQ4LmpwZWc.jpeg" alt="Cover for Aš Taip Norėčiau" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,27 +1210,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>76</td>
-      <td>
-          <img src="https://i.discogs.com/ki_FdxFkIBJ61j9-EwWgk-6a_OlcgHszyePfgsnNT4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYw/MDktMTQ5MDEyNzY0/Ny01NTM4LmpwZWc.jpeg" alt="Cover for Mėnuli baltas" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Pievos</td>
-      <td>Mėnuli baltas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/nJbvUt2LKtwM79mL11HbQXHO0cvv6XsJOKcbn70IDYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/NjQtMTUzMjE2MzM4/Ni0xNzg3LmpwZWc.jpeg" alt="Cover for Culture Repair" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,7 +1230,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bd6a4aa342c4e56a38792a919212a5b.png" alt="Cover for Instrukcija" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1251,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>2007-08</td>
@@ -1268,7 +1268,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/t-t8RHD2-PggjfTGi3orzgBriijS_todSxx3pqC0_P4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY0/MDMtMTE5Njc1MTc5/Ni5qcGVn.jpeg" alt="Cover for Marijos Zemes Superhitai" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,7 +1288,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b1ab06bd39344968a387b56190598d5.png" alt="Cover for Folk N&#39; Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1310,90 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Thundertale</td>
+      <td>Milžinai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/Pu6wtpYqGUIjD1AZLKYsXiBdXriJLxn3rMkURflvjEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzE0/OTktMTMzODE0MzU2/OS0zMDU1LmpwZWc.jpeg" alt="Cover for Naktine Pufaika" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>naktine pufaika</td>
+      <td>Naktine Pufaika</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/W13kzpi22RNSTneQEJ0akw2X4gF2pzOnjal8LGJpEpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTAw/ODktMTMwODc0Njky/My5qcGVn.jpeg" alt="Cover for ambient flute" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>raymist</td>
+      <td>ambient flute</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/xSIS11VHMlxRUo0j0JsehFhQ6_s6oTbf-u94dtxBlyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzQz/NjItMTQ1ODQyNDQ0/My03MDQ1LmpwZWc.jpeg" alt="Cover for Acid trips" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>animatik</td>
+      <td>Acid trips</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/W13kzpi22RNSTneQEJ0akw2X4gF2pzOnjal8LGJpEpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTAw/ODktMTMwODc0Njky/My5qcGVn.jpeg" alt="Cover for Bridge" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,90 +1417,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>20</td>
-      <td>
-          <img src="https://i.discogs.com/xSIS11VHMlxRUo0j0JsehFhQ6_s6oTbf-u94dtxBlyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzQz/NjItMTQ1ODQyNDQ0/My03MDQ1LmpwZWc.jpeg" alt="Cover for Acid trips" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>animatik</td>
-      <td>Acid trips</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
-          <img src="https://i.discogs.com/W13kzpi22RNSTneQEJ0akw2X4gF2pzOnjal8LGJpEpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTAw/ODktMTMwODc0Njky/My5qcGVn.jpeg" alt="Cover for ambient flute" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>raymist</td>
-      <td>ambient flute</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>
-          <img src="https://i.discogs.com/Pu6wtpYqGUIjD1AZLKYsXiBdXriJLxn3rMkURflvjEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzE0/OTktMTMzODE0MzU2/OS0zMDU1LmpwZWc.jpeg" alt="Cover for Naktine Pufaika" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>naktine pufaika</td>
-      <td>Naktine Pufaika</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td>2008</td>
-      <td>Thundertale</td>
-      <td>Milžinai</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/CyRG1OwURkrrH2ldGF74ibpFz4YYRx37iA0IXHLa4TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk4/OTItMTI3NzMzNjcw/Ni5qcGVn.jpeg" alt="Cover for Spectral Decay" style="max-width:120px; height:auto;" />
       </td>
@@ -1435,7 +1435,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae60f2d4b5bd4132c1b56c4091d5d422.png" alt="Cover for Broliai" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1455,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/ad5y8dh3XhAobtdUaVm9DV72gkSIFEGagNYzHgM9F3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTA2/MzYtMTMwNTkwNzAw/NS5qcGVn.jpeg" alt="Cover for Stebuklas" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1475,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
       </td>
       <td>2011-05-15</td>
@@ -1501,7 +1501,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e29f1a51e824b10b45673661ac9c3af.png" alt="Cover for Elektroninis dievas" style="max-width:120px; height:auto;" />
       </td>
@@ -1521,7 +1521,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/LlaCq17HCUV7cx8IRae_tJSeqXBQ_vQiMNZcEOpzPCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTU2/MDYtMTMyNTQyNDk5/NC5qcGVn.jpeg" alt="Cover for 526" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,7 +1539,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d2f9b598ef258fc8fa700c59105dc34.png" alt="Cover for Liftas" style="max-width:120px; height:auto;" />
       </td>
@@ -1560,7 +1560,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30a4aefdda5245aa88b7d19dbc018c1f.png" alt="Cover for Retina (Sutemos031)" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,7 +1598,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a027df36ec3b57c69451112c732995c7.png" alt="Cover for Išėjęs Iš Mados" style="max-width:120px; height:auto;" />
       </td>
@@ -1617,7 +1617,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7eac5152d2a64057a4331c871e2e4c04.png" alt="Cover for BREAKING THE LINE" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,7 +1638,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/1u1VHAiS7POu3g568RVYYabXGiVtOehqa6wVtTlCNp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTY5/MzktMTQwNjUzNjQ1/Ni0yMTczLmpwZWc.jpeg" alt="Cover for Pasauliu netikiu, o pasaka tikiu" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,7 +1656,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/cs619yHMWB_xEQpIL48MbChyMFzx1AMk_AuVC16k8mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTQz/MjYwLTE1MTgyMDkw/MTItNTU4MC5qcGVn.jpeg" alt="Cover for Žalvarinis" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,7 +1676,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/BsXX3RO92ef0Bbv0z1YzW0ONj_Ha0cetwuIe4EY4qJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDM5/MjU2LTE2MDc3NjI5/NzctMjk2Ni5qcGVn.jpeg" alt="Cover for Majow Plastmassis" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,7 +1697,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fb78d0fe485a9cf3707adaec99f9ce3.png" alt="Cover for Sentimentai" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,7 +1718,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
       </td>
       <td>2021</td>
@@ -1738,7 +1738,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c835aa86d9eb7898be961e2b62c77029.png" alt="Cover for The Idle Veil" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,7 +1763,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/0SAAgNGVHquY2YuIef9WQTmkMiC3os5zZKBFaWEc2cM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg5/MzEwLTE2Mjc3MzE0/NDYtMzcwOC5qcGVn.jpeg" alt="Cover for APREIŠKIMAS" style="max-width:120px; height:auto;" />
       </td>
@@ -1781,7 +1781,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/b5r9rJbRlxbm3d6HayrRd1FSUMdRJfmic-Uk1RabX-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjA0/MjQ5LTE2NDc5NjM5/OTAtNDMwNy5qcGVn.jpeg" alt="Cover for Aerodronas" style="max-width:120px; height:auto;" />
       </td>
@@ -1800,7 +1800,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d35bca559831d8c15b4421eaef1688eb.png" alt="Cover for CHALICE OF MIND" style="max-width:120px; height:auto;" />
       </td>
@@ -1817,7 +1817,7 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Popsas Uzkniso Juodai" style="max-width:120px; height:auto;" />
       </td>
@@ -1835,12 +1835,30 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>46</td>
       <td>
       </td>
       <td></td>
-      <td>Viaceslavas Ganelinas</td>
-      <td>Velnio nuotaka</td>
+      <td>Donny Montell</td>
+      <td>Screw Me Up</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Linoja</td>
+      <td>Linoja</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
@@ -1852,15 +1870,50 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>61</td>
+      <td>
+      </td>
+      <td></td>
+      <td>16Hz</td>
+      <td>Žodžiai į širdį</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Funny Rot</td>
+      <td>Demo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
       </td>
       <td></td>
       <td>Geno Samuel</td>
-      <td>Cabbage</td>
+      <td>Cabbage (2020 Remaster)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
         </ul>
       </td>
@@ -1870,7 +1923,25 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Nuotaikos donorai</td>
+      <td>Unplugged at Siauliai Radiocentras 1994</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
       <td>
       </td>
       <td></td>
@@ -1892,32 +1963,15 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Nuotaikos donorai</td>
-      <td>Unplugged at Siauliai Radiocentras 1994</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>85</td>
       <td>
       </td>
       <td></td>
       <td>Geno Samuel</td>
-      <td>Cabbage (2020 Remaster)</td>
+      <td>Cabbage</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
         </ul>
       </td>
@@ -1927,69 +1981,15 @@ Lithuanian music encompasses diverse sounds from this Baltic nation, blending fo
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>95</td>
       <td>
       </td>
       <td></td>
-      <td>Funny Rot</td>
-      <td>Demo</td>
+      <td>Viaceslavas Ganelinas</td>
+      <td>Velnio nuotaka</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-      </td>
-      <td></td>
-      <td>16Hz</td>
-      <td>Žodžiai į širdį</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Linoja</td>
-      <td>Linoja</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Donny Montell</td>
-      <td>Screw Me Up</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>

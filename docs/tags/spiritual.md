@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T14:55:17.232Z
+date: 2025-12-07T05:17:26.150Z
 permalink: tags/spiritual
 title: spiritual
 ---
 
 ## spiritual
 
-Last updated: <time datetime="2025-12-04T14:55:17.232Z">Thu Dec 04 2025 16:55:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T05:17:26.150Z">Sun Dec 07 2025 07:17:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
   </thead>
   <tbody>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
       </td>
       <td>1958</td>
@@ -51,7 +51,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/CsnCP0kT0uY0IwMj-d7burY-g1g8ea9DVVytoc_wW54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA3/NTktMTMzODcwMTAw/Mi05MzA0LmpwZWc.jpeg" alt="Cover for The Rubáiyát of Dorothy Ashby" style="max-width:120px; height:auto;" />
       </td>
@@ -79,7 +79,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/kwfaXn3EpDuQU5yZZo6nNo9932fc9EmKif3_K1_Z52w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDcw/NjEtMTI1MDM0NzU3/MS5qcGVn.jpeg" alt="Cover for Infant Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -98,43 +98,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-      </td>
-      <td>1972</td>
-      <td>The Pharaohs</td>
-      <td>Awakening</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d479b6ce77e6aba93fa407346d65e844.png" alt="Cover for World Galaxy" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1972</td>
-      <td>Alice Coltrane</td>
-      <td>World Galaxy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/1fGbn_8M65U2SeqOFU3SdidN5esQoYYLZgySOHFiAQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjQz/MjQtMTQ3MzAxNjEw/MC05NTE5LmpwZWc.jpeg" alt="Cover for Angola 72" style="max-width:120px; height:auto;" />
       </td>
@@ -153,7 +117,43 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d479b6ce77e6aba93fa407346d65e844.png" alt="Cover for World Galaxy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Alice Coltrane</td>
+      <td>World Galaxy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>The Pharaohs</td>
+      <td>Awakening</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb94ea6cc2304db0cd45326c1c9f43e2.png" alt="Cover for Paradise and Lunch" style="max-width:120px; height:auto;" />
       </td>
@@ -167,30 +167,12 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 46</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
-      <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Om Deeksha" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Various Artists</td>
-      <td>Om Deeksha</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/daceba6e6a677877eec0bc07c2bf7142.png" alt="Cover for The Craft" style="max-width:120px; height:auto;" />
       </td>
@@ -209,7 +191,25 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Om Deeksha" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Om Deeksha</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
       <td>
       </td>
       <td>1981</td>
@@ -227,7 +227,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/Ue6sRm9XlPCAh148FtoKiNykoRTQ2ny4VVwHle5cppQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/OTctMTQ5MTk1OTYx/OS0zNTk2LmpwZWc.jpeg" alt="Cover for Burnin&#39; (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -243,13 +243,13 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 37</li>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 97</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 4</li>
+            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1636000c0fd3f8b76bd2f6ab068363aa.png" alt="Cover for Camouflage Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -271,7 +271,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/GyAy01aoT4NIDlbq68H85k_BupKGb50Q9XLnyRFAZ3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTk4/OTcyLTE1NDk4MDM5/ODktNTM4NS5qcGVn.jpeg" alt="Cover for St. Matthew Passion" style="max-width:120px; height:auto;" />
       </td>
@@ -289,7 +289,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/2RsA5qNSc6c-dBqD6QkbWOPAxfu6iwT9IEUEPTysaT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjA5/OC0xNjEyNzk4OTM0/LTM2MTQuanBlZw.jpeg" alt="Cover for Take 6" style="max-width:120px; height:auto;" />
       </td>
@@ -310,7 +310,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/43Ot9grsI3VhG62jP8gjOXgpoHDz_bSg7xxcIj3uCaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjU5/OTQtMTM0NTkyMzM2/Ni0xNDE0LmpwZWc.jpeg" alt="Cover for Dekalog" style="max-width:120px; height:auto;" />
       </td>
@@ -329,7 +329,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>1991-09-24</td>
@@ -349,27 +349,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://i.discogs.com/jJbRK808FSRPzCy-Ik46sDtSATGA0EK9tgSlr2HY8wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Nzc4/ODItMTQwODE1MTM1/My01ODY3LmpwZWc.jpeg" alt="Cover for An English Ladymass" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Anonymous 4</td>
-      <td>An English Ladymass</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choral" | relative_url }}">choral</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36d7a86a62494c748316540e0ebf1858.png" alt="Cover for Shhh" style="max-width:120px; height:auto;" />
       </td>
@@ -392,7 +372,27 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/jJbRK808FSRPzCy-Ik46sDtSATGA0EK9tgSlr2HY8wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Nzc4/ODItMTQwODE1MTM1/My01ODY3LmpwZWc.jpeg" alt="Cover for An English Ladymass" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Anonymous 4</td>
+      <td>An English Ladymass</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choral" | relative_url }}">choral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00b5c396ff3ffb53b4e0753bb0ac841e.png" alt="Cover for Mecca and the Soul Brother" style="max-width:120px; height:auto;" />
       </td>
@@ -406,12 +406,12 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 65</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
       </td>
       <td>1992-12</td>
@@ -431,7 +431,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4528411a44b0794708d01b5598174ddf.png" alt="Cover for The Angelic Conversation" style="max-width:120px; height:auto;" />
       </td>
@@ -454,7 +454,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50ae6b6ca629a267d26d0e2b5fe1a917.png" alt="Cover for Taking Drugs To Make Music To Take Drugs To (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -474,7 +474,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
       </td>
       <td>1996-09-26</td>
@@ -491,7 +491,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/j83yICrLxBKJQvK57rcYoTBQVT7dru9HRfwUxLVmK5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjM5/NjYtMTM0MDI3MTM1/Ni02ODA2LmpwZWc.jpeg" alt="Cover for Trio Tapestry" style="max-width:120px; height:auto;" />
       </td>
@@ -512,7 +512,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
       </td>
       <td>1997-03-25</td>
@@ -529,7 +529,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/OXAmc_BOpTFNaqagvq0Vx2Ki_rCVXD4I3mX69OtTkWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzEz/OTEtMTMxODY4ODQx/OC5qcGVn.jpeg" alt="Cover for The Essence" style="max-width:120px; height:auto;" />
       </td>
@@ -549,26 +549,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-          <img src="https://i.discogs.com/eFnjDg-BHzBHRUYRM1mkHcMjeMwQa1CTBvCFA4XRclc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI5/MjgtMTUwMzg0Mzkw/OC02NDYxLmpwZWc.jpeg" alt="Cover for Hellucifenation" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Demented Are Go!</td>
-      <td>Hellucifenation</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/X-vHqvwpNp9D2Der0dAxRcZiNUyxWtDX7XqoZ6-z97M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzUy/Mi0xNjU1NzEzNDcx/LTUxOTEuanBlZw.jpeg" alt="Cover for Officium" style="max-width:120px; height:auto;" />
       </td>
@@ -587,7 +568,26 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/eFnjDg-BHzBHRUYRM1mkHcMjeMwQa1CTBvCFA4XRclc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI5/MjgtMTUwMzg0Mzkw/OC02NDYxLmpwZWc.jpeg" alt="Cover for Hellucifenation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Demented Are Go!</td>
+      <td>Hellucifenation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
       <td>
       </td>
       <td>1999-11-09</td>
@@ -605,7 +605,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/819a0fce1fb182ac5e7545a112d0a61f.png" alt="Cover for Kyrie" style="max-width:120px; height:auto;" />
       </td>
@@ -624,7 +624,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/qc4XIG-docQNnhHkU4ekkqQDtrdmsLqPnUf6hF2yR50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE2/NzcwLTE1NDQ0Njk2/NTctNjUyOC5qcGVn.jpeg" alt="Cover for Bliss" style="max-width:120px; height:auto;" />
       </td>
@@ -646,7 +646,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
       </td>
       <td>2000-02-15</td>
@@ -664,7 +664,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>2001</td>
@@ -685,7 +685,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/Nsufm7yNlv7NuJKRcCMY--SERkBYNuzeat_9o95WIU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/NDI3LTE1OTE0Nzk1/MTItOTM3MC5qcGVn.jpeg" alt="Cover for Acordes Con Leonard Cohen" style="max-width:120px; height:auto;" />
       </td>
@@ -703,26 +703,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td>2002</td>
-      <td>Chinmaya Dunster</td>
-      <td>Sacred Temples of India</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 43</li>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 56</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/ObCWO-3HZ_NPmAAvWsHZ171m_auU0PSMjJZ76NyIYjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTMw/MDktMTQwNjE0NTI5/NC05OTk0LmpwZWc.jpeg" alt="Cover for Ras" style="max-width:120px; height:auto;" />
       </td>
@@ -745,7 +726,26 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Chinmaya Dunster</td>
+      <td>Sacred Temples of India</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 43</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/cb1uiDT8Fpzyn--ESDoODS8YZvOrCRBz9QnYtP7lGaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDM2/My0xMzQ1Mjg2NDY1/LTM1ODEuanBlZw.jpeg" alt="Cover for Maitreya - The Future Buddha" style="max-width:120px; height:auto;" />
       </td>
@@ -768,7 +768,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/jLgtGGzbO2PC6yrRLIhyOSNw1EbYPJStKlTkrAcLxi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODY5/NS0xNjE5NDcyMTQ0/LTU4MTMuanBlZw.jpeg" alt="Cover for The Grace EP" style="max-width:120px; height:auto;" />
       </td>
@@ -786,7 +786,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/u_gd5Gq3T36W6giJlLeh4rRdt_6FpUHtL39pOtsoDUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTIy/NS0xMzc3OTU2Njgz/LTg0MjAuanBlZw.jpeg" alt="Cover for Superconscious" style="max-width:120px; height:auto;" />
       </td>
@@ -804,31 +804,24 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/q4uOGcTAnCJeLzmzfEyCQP93emR2L0HwC6KWnG6K2_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQx/NjkyLTE1MTU1MjU4/ODMtMzcyOS5qcGVn.jpeg" alt="Cover for Light of the Naam" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
-      <td>Snatam Kaur</td>
-      <td>Light of the Naam</td>
+      <td>Various Artists</td>
+      <td>Shavasana: White Swan Yoga Masters, Volume 3</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/book" | relative_url }}">book</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/worship" | relative_url }}">worship</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 27</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td>2003</td>
@@ -852,24 +845,31 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>61</td>
       <td>
+          <img src="https://i.discogs.com/q4uOGcTAnCJeLzmzfEyCQP93emR2L0HwC6KWnG6K2_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQx/NjkyLTE1MTU1MjU4/ODMtMzcyOS5qcGVn.jpeg" alt="Cover for Light of the Naam" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
-      <td>Various Artists</td>
-      <td>Shavasana: White Swan Yoga Masters, Volume 3</td>
+      <td>Snatam Kaur</td>
+      <td>Light of the Naam</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/book" | relative_url }}">book</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/worship" | relative_url }}">worship</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 22</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
       </td>
       <td>2003-02-04</td>
@@ -886,7 +886,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/8jtJG0uTRPeOyp_UaxblEWflCGG92bj2ijYE0bODS-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTg0/NjAtMTMzNzU5NjEy/OC03OTczLmpwZWc.jpeg" alt="Cover for Sabrina Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -906,7 +906,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d5cf16d18774a16a701d63530d78aa7.png" alt="Cover for Ethnic" style="max-width:120px; height:auto;" />
       </td>
@@ -927,7 +927,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17767a7781274423af548e096c36c272.png" alt="Cover for Shanti" style="max-width:120px; height:auto;" />
       </td>
@@ -947,7 +947,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td>2003-08-05</td>
@@ -964,7 +964,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2004-12-01</td>
@@ -982,7 +982,34 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/xgpnE-ljj61-Ml0rShrmsTqXDIlaEsWeSMH4oA5RYq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI0/NDcxLTE0OTAzMTc0/NTgtODM2Ny5qcGVn.jpeg" alt="Cover for Anand Bliss" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Snatam Kaur</td>
+      <td>Anand Bliss</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/book" | relative_url }}">book</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/worship" | relative_url }}">worship</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 15</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 22</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
       <td>
       </td>
       <td>2006</td>
@@ -1015,34 +1042,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>88</td>
-      <td>
-          <img src="https://i.discogs.com/xgpnE-ljj61-Ml0rShrmsTqXDIlaEsWeSMH4oA5RYq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI0/NDcxLTE0OTAzMTc0/NTgtODM2Ny5qcGVn.jpeg" alt="Cover for Anand Bliss" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Snatam Kaur</td>
-      <td>Anand Bliss</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/book" | relative_url }}">book</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/worship" | relative_url }}">worship</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 15</li>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 22</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 29</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/O59izgBMRRvgvB7QpdVF2sA00UYjuWyNYnvJ4seqF8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQw/MjI3LTE1ODkwNTU0/OTktMTQxMC5qcGVn.jpeg" alt="Cover for A Worshipper&#39;s Perspective" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,7 +1060,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36771343dd7d4f58b79781cafca50e3a.png" alt="Cover for 28 After" style="max-width:120px; height:auto;" />
       </td>
@@ -1077,12 +1077,12 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 79</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
       </td>
       <td>2007</td>
@@ -1104,7 +1104,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>2007-05-01</td>
@@ -1121,7 +1121,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/HkVqHCqwuHP6GIPu6o6Zax08WPbiSm15zCFLk385ETc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY1/ODUzLTE1NzEwNTMz/ODAtOTIwOC5qcGVn.jpeg" alt="Cover for The Essential Snatam Kaur: Sacred Chants For Healing" style="max-width:120px; height:auto;" />
       </td>
@@ -1145,7 +1145,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
       </td>
       <td>2008-01-15</td>
@@ -1170,7 +1170,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
       </td>
       <td>2008-08-19</td>
@@ -1189,7 +1189,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/ImOfgKRTtLbQTd9Lh-7bBa_mj6cZ7t_hUgkhmC9sf7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzk3/OC0xMTU4OTE4NjAy/LmpwZWc.jpeg" alt="Cover for Eastern Sounds (Rudy Van Gelder Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1215,7 +1215,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3027c8c9c46769caca1d7d68712085c5.png" alt="Cover for Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1234,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
       </td>
       <td>2009</td>
@@ -1251,7 +1251,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
       </td>
       <td>2009-12-16</td>
@@ -1268,7 +1268,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bc8e62852cb48f58d81e3920e2d10f2.png" alt="Cover for Offering" style="max-width:120px; height:auto;" />
       </td>
@@ -1292,7 +1292,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
       </td>
       <td>2010-12-21</td>
@@ -1330,17 +1330,17 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
             <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 10</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 11</li>
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 12</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 37</li>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 39</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 19</li>
             <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 56</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 81</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 61</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 64</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 87</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/qlpZPBkEmXiSh1gxqz7FASoka2kvtzWldYNrql1r6q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjQz/NDUtMTM5NjY3OTkx/Ni0xNDY2LmpwZWc.jpeg" alt="Cover for Moola Mantra" style="max-width:120px; height:auto;" />
       </td>
@@ -1358,7 +1358,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
       </td>
       <td>2011-09-29</td>
@@ -1379,7 +1379,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>2012-07-24</td>
@@ -1392,12 +1392,12 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 89</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9a43f8fc4ab6ac2d06bf2af610c55e8.png" alt="Cover for Amygdala - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,7 +1426,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
       </td>
       <td>2013-07-09</td>
@@ -1443,7 +1443,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99e6655fb7404c2595188ff646148487.png" alt="Cover for Amethyst" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,19 +1488,19 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 9</li>
             <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 11</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 14</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 15</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 25</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 39</li>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 41</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 43</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 50</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 62</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 51</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 63</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 75</li>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 84</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/372d7baa0cb7414aa2ea2148e7bad3f4.png" alt="Cover for Now, Then &amp; Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,7 +1518,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dc0f2764d20a5b139093fc1186f86d5.png" alt="Cover for Run and Tell" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,14 +1539,14 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 13</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 45</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 60</li>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a4cb556922c2600c0978f75a4b35ce1.png" alt="Cover for With His Hot and Blue Guitar" style="max-width:120px; height:auto;" />
       </td>
@@ -1565,7 +1565,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68c11974e24c4fbca6f762c3c4e17764.png" alt="Cover for Sleep Has Its house" style="max-width:120px; height:auto;" />
       </td>
@@ -1589,14 +1589,14 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
         <ul>
             <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 18</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 31</li>
             <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 33</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 70</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/dnN5eahuUjXsyNugiM_D-J8BOU4sMLwhpQiBSFhixJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDAz/MTMtMTM2MTMxNTk1/Mi03Mzk1LmpwZWc.jpeg" alt="Cover for Sleeping Beauty (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1621,7 +1621,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/rS37xdektdHWhfV4Ii6A3-DjMfk9JNu7UFH0fGHDc1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg1/ODQ1LTE1NDAwMzky/MzMtNDQ3MC5qcGVn.jpeg" alt="Cover for Like a River to the Sea" style="max-width:120px; height:auto;" />
       </td>
@@ -1639,7 +1639,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>2016</td>
@@ -1665,7 +1665,35 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/176c84dc67ca630411514f3d6eee7ea6.png" alt="Cover for GTBSG" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Bladee</td>
+      <td>GTBSG</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a> # 12</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/Igo8XG4rHFPtClB-0aPb8uk6GF8lIatuDlzr8r3AloU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTI3/ODUtMTQ5NjA3NTIz/NS03MTIwLm1wbw.jpeg" alt="Cover for Brendan Perry 2008" style="max-width:120px; height:auto;" />
       </td>
@@ -1684,33 +1712,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>60</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/176c84dc67ca630411514f3d6eee7ea6.png" alt="Cover for GTBSG" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016</td>
-      <td>Bladee</td>
-      <td>GTBSG</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e1da66b752b07534663fd18dee37cde.png" alt="Cover for Emily’s D+Evolution" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,14 +1731,14 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 9</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 14</li>
             <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 36</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2257982829a7503befbaf28d90b8a235.png" alt="Cover for Samorost 3 Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,7 +1763,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/FA4YGD7_Og6_-YAapirNKKqRD2vMXjYnsx4XxjAfP4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc1/NzAtMTUyNDA0NzQ3/MS05NzIzLmpwZWc.jpeg" alt="Cover for Cornell 5&#x2F;8&#x2F;77" style="max-width:120px; height:auto;" />
       </td>
@@ -1776,12 +1778,12 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 68</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f1e33ce8c7241eac11168fc5c77c0aa.png" alt="Cover for GTBSG" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,15 +1801,17 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/655493c1c4278f201bd88262c965f533.png" alt="Cover for Hymns" style="max-width:120px; height:auto;" />
       </td>
@@ -1828,7 +1832,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/l71C5a4ersYHoN48qLm8KIpXSL9X8NngQgqDzKc0u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQ5/MTQwLTE1MjM0NTE2/MjItODA4NS5qcGVn.jpeg" alt="Cover for nothing 2 loose" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,7 +1853,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9671a7bafd1c870066390ae222c1e344.png" alt="Cover for Kagami Tears" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,7 +1874,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/wyG35ra0LDTbBDd-DFE2rnnuHbRH2lea6F4SDMwYO-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQx/NzIwLTE1ODExNDAw/NjItMzY0OC5qcGVn.jpeg" alt="Cover for Anatomy Of Angels: Live At The Village Vanguard" style="max-width:120px; height:auto;" />
       </td>
@@ -1893,7 +1897,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/337ae9c7bb0bae405eb58b42e7b929f7.png" alt="Cover for Significant Changes" style="max-width:120px; height:auto;" />
       </td>
@@ -1913,7 +1917,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/578fcfe4ba4833152e1384e942de4298.png" alt="Cover for FLASH CASANOVA" style="max-width:120px; height:auto;" />
       </td>
@@ -1927,22 +1931,24 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a></li>
             <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a> # 1</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 1</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 4</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 9</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 15</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 17</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 18</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd12f14c99207845fe1efd15664aab93.png" alt="Cover for FLASH CASANOVA - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1958,15 +1964,17 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/BV-FPnO0lJR1uPOqowKGGXLjwEwzWqR0vZb04Kjtt-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI1/MzI2LTE1ODIzMjUz/OTgtOTI5Ni5qcGVn.jpeg" alt="Cover for Saturn Return" style="max-width:120px; height:auto;" />
       </td>
@@ -1985,7 +1993,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/Na2NkmB2J-cbnko0WKb0EcKevLUhT0_suv6JkFmk7E0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM1/MTgyLTE1OTkxMjg5/NjItODEwMi5qcGVn.jpeg" alt="Cover for COLOR OF NOIZE" style="max-width:120px; height:auto;" />
       </td>
@@ -2007,7 +2015,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78aae9625a067b3a567df65f98974347.png" alt="Cover for SURGEON DOGMA" style="max-width:120px; height:auto;" />
       </td>
@@ -2028,16 +2036,16 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 1</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 64</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 78</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 94</li>
-            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3908f2ebe4c93fa21f3b0cabb066a621.png" alt="Cover for The Fool" style="max-width:120px; height:auto;" />
       </td>
@@ -2054,7 +2062,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf0201778342c7472b3597b493f0fd04.png" alt="Cover for Under the Lilac Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -2072,12 +2080,12 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 47</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ba80626474b2b067fba1c8ab2849556.png" alt="Cover for Crest" style="max-width:120px; height:auto;" />
       </td>
@@ -2097,7 +2105,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3d184a6e26b327e14be3180d2e724d6.png" alt="Cover for The Heart Part 5" style="max-width:120px; height:auto;" />
       </td>
@@ -2116,26 +2124,22 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 1</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 2</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 6</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 7</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 22</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
-      <td>Yung Lean &amp; FKA Twigs</td>
-      <td>Stardust</td>
+      <td>Willow</td>
+      <td>R I S E</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
         </ul>
       </td>
@@ -2145,7 +2149,26 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>53</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Emahoy Tsege Mariam Gebru</td>
+      <td>Jerusalem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
       <td>
       </td>
       <td></td>
@@ -2168,35 +2191,20 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>100</td>
       <td>
       </td>
       <td></td>
-      <td>Emahoy Tsege Mariam Gebru</td>
-      <td>Jerusalem</td>
+      <td>Yung Lean &amp; FKA Twigs</td>
+      <td>Stardust</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Willow</td>
-      <td>R I S E</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
         </ul>
       </td>

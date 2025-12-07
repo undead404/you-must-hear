@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T18:03:04.972Z
+date: 2025-12-07T07:57:49.633Z
 permalink: tags/harmolodic
 title: harmolodic
 ---
 
 ## harmolodic
 
-Last updated: <time datetime="2025-12-04T18:03:04.972Z">Thu Dec 04 2025 20:03:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T07:57:49.633Z">Sun Dec 07 2025 09:57:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
   </thead>
   <tbody>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/fvi9k0xkzAbmRdLnbABwV7AwOJQYeJRfYEspAcCJbH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODk4/NC0xNDQyNTY3NDk0/LTI3MTUuanBlZw.jpeg" alt="Cover for Change of the Century" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
       </td>
       <td>1965</td>
@@ -62,12 +62,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 73</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/S9sj2kxIgCyfPeIobYrd75BCTewHUQX8uHOmp-vdOp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk2/NzAtMTYwMjYyODQz/Mi0yNzE4LnBuZw.jpeg" alt="Cover for College Tour" style="max-width:120px; height:auto;" />
       </td>
@@ -83,12 +83,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 95</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/QUdTlGKcGijqwBmEhjEymeIFvNEY8aHs0UQA7fOUljQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTcx/NC0xMzQ5ODEyNzkx/LTkyNTUuanBlZw.jpeg" alt="Cover for In Greenwich Village" style="max-width:120px; height:auto;" />
       </td>
@@ -103,12 +103,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 97</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/yrWf-IhkQ0f9t6HbhZ2CRRBQji4kA63-uiD5ZWiHvU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDQ1/NC0xNDg3MjQ2MDYw/LTI0MjMuanBlZw.jpeg" alt="Cover for Echo" style="max-width:120px; height:auto;" />
       </td>
@@ -123,12 +123,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 86</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/B_cauTCG1vBTEZdcLkZAmUhhTo8OJRb8zkn8844OOD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDYw/NS0xNDA2MTM0NDg5/LTEzMDQuanBlZw.jpeg" alt="Cover for Other Afternoons" style="max-width:120px; height:auto;" />
       </td>
@@ -143,12 +143,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 51</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>1971</td>
@@ -162,12 +162,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 92</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
       </td>
       <td>1972</td>
@@ -181,12 +181,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 74</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>1973</td>
@@ -201,29 +201,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 94</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-      </td>
-      <td>1973</td>
-      <td>Charles Brackeen</td>
-      <td>Rhythm X</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>1973</td>
@@ -241,26 +224,24 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>66</td>
       <td>
       </td>
-      <td>1975</td>
-      <td>Joe McPhee</td>
-      <td>Black Magic Man</td>
+      <td>1973</td>
+      <td>Charles Brackeen</td>
+      <td>Rhythm X</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/8UWAm0UgEg5YE7r0GkqX7ujEGfZwkzkzBZT3dXw9pLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk2/MTUtMTU2ODU5MTIz/Mi0yMTc2LmpwZWc.jpeg" alt="Cover for Afrisong" style="max-width:120px; height:auto;" />
       </td>
@@ -279,18 +260,17 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 89</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/y8l23UQI3kCDYUBb3SwN-sAXDvbg1dk3No82ljQ6bGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIw/NjUtMTQ3MTg4NTYy/OS00ODMyLmpwZWc.jpeg" alt="Cover for The Flam" style="max-width:120px; height:auto;" />
       </td>
-      <td>1976</td>
-      <td>Frank Lowe</td>
-      <td>The Flam</td>
+      <td>1975</td>
+      <td>Joe McPhee</td>
+      <td>Black Magic Man</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
@@ -299,32 +279,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 67</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-          <img src="https://i.discogs.com/WeiDzP6prWCJZ8IViHd6l12Dkd7w3c-Nkg5hXaZ2U1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzg5/NTYtMTM1MDE3NTEx/NC05NDQyLmpwZWc.jpeg" alt="Cover for Unlawful Noise" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1976</td>
-      <td>Haazz &amp; Company</td>
-      <td>Unlawful Noise</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>1976</td>
@@ -339,31 +299,52 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 91</li>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>37</td>
       <td>
+          <img src="https://i.discogs.com/WeiDzP6prWCJZ8IViHd6l12Dkd7w3c-Nkg5hXaZ2U1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzg5/NTYtMTM1MDE3NTEx/NC05NDQyLmpwZWc.jpeg" alt="Cover for Unlawful Noise" style="max-width:120px; height:auto;" />
       </td>
-      <td>1977</td>
-      <td>Charlie Haden</td>
-      <td>The Golden Number</td>
+      <td>1976</td>
+      <td>Haazz &amp; Company</td>
+      <td>Unlawful Noise</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 69</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/y8l23UQI3kCDYUBb3SwN-sAXDvbg1dk3No82ljQ6bGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIw/NjUtMTQ3MTg4NTYy/OS00ODMyLmpwZWc.jpeg" alt="Cover for The Flam" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Frank Lowe</td>
+      <td>The Flam</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/tno139WJtDtJl-V0RdLJrUOQHJfXJi_H_2Gu36SFiOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDU0/NC0xMTk2MDQyNjMy/LmpwZWc.jpeg" alt="Cover for Dancing In Your Head" style="max-width:120px; height:auto;" />
       </td>
@@ -383,7 +364,26 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>33</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Charlie Haden</td>
+      <td>The Golden Number</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78eedf92ecaecb9838e62810f0025760.png" alt="Cover for Virgin Beauty" style="max-width:120px; height:auto;" />
       </td>
@@ -402,7 +402,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/7DaB9oSj8smQNZ94aW2bHjpNgBGOlBDTQem7pTet7s8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDA3/NjgtMTMxODE4OTU3/Ny5qcGVn.jpeg" alt="Cover for Free to Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -421,26 +421,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-          <img src="https://i.discogs.com/MHnJlSjudPuNmcJaWfx1QYL4vYMJhFZmG9Ru65dZlSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/NDQtMTQ5NDYwODk3/NC01NTc3Lm1wbw.jpeg" alt="Cover for Choices" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1979</td>
-      <td>Dewey Redman</td>
-      <td>Choices</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/MVkQlBK6WvzPs7V8iqBHJr2k72ulVz9rnkiDmeNa1dU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzk3/MDctMTUxODk4MjA3/MS04MjUzLmpwZWc.jpeg" alt="Cover for Tales of Captain Black" style="max-width:120px; height:auto;" />
       </td>
@@ -459,16 +440,17 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/racTkQSz5K7qYEyNlH_NnnJrs_lIXss7IrVVkl2QIaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTM0/Ni0xNDQwMTU4NjYx/LTM5NTMuanBlZw.jpeg" alt="Cover for No Wave" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/MHnJlSjudPuNmcJaWfx1QYL4vYMJhFZmG9Ru65dZlSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/NDQtMTQ5NDYwODk3/NC01NTc3Lm1wbw.jpeg" alt="Cover for Choices" style="max-width:120px; height:auto;" />
       </td>
-      <td>1980</td>
-      <td>Music Revelation Ensemble</td>
-      <td>No Wave</td>
+      <td>1979</td>
+      <td>Dewey Redman</td>
+      <td>Choices</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
         </ul>
       </td>
       <td>
@@ -477,7 +459,30 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>34</td>
+      <td>
+      </td>
+      <td>1980</td>
+      <td>James Blood Ulmer</td>
+      <td>Are You Glad to Be in America?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/FTrZoysNgFixqq7m9gxzLCTcC-uYYRtFcF8HyFtu_bU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTY1/NTctMTIyOTE3OTc5/Ny5qcGVn.jpeg" alt="Cover for Are You Glad To Be In America" style="max-width:120px; height:auto;" />
       </td>
@@ -501,21 +506,16 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
+          <img src="https://i.discogs.com/racTkQSz5K7qYEyNlH_NnnJrs_lIXss7IrVVkl2QIaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTM0/Ni0xNDQwMTU4NjYx/LTM5NTMuanBlZw.jpeg" alt="Cover for No Wave" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
-      <td>James Blood Ulmer</td>
-      <td>Are You Glad to Be in America?</td>
+      <td>Music Revelation Ensemble</td>
+      <td>No Wave</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a></li>
         </ul>
       </td>
       <td>
@@ -524,7 +524,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
       </td>
       <td>1981</td>
@@ -542,7 +542,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/ysg52KP7vKzYOpXU3SCqhc16H-I6PEqMqmHXt7UzkHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE4/MTItMTUyNDA4OTgz/Ni03NTAwLmpwZWc.jpeg" alt="Cover for Show Stopper" style="max-width:120px; height:auto;" />
       </td>
@@ -562,7 +562,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/P16yMc4pY43Q-_5zqgwuxCac7ylES60MysR4xrS6jr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTA3/OC0xMzgyMzQzNzgw/LTYxNzEuanBlZw.jpeg" alt="Cover for Renaissance Man" style="max-width:120px; height:auto;" />
       </td>
@@ -580,26 +580,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>37</td>
-      <td>
-      </td>
-      <td>1985</td>
-      <td>David Murray</td>
-      <td>Children</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 17</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/ghBIaX9Jy60hJmg2kDg--x5kls5FNgoBZV8P-Dah1h8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgx/MDAtMTE5MjYxNTIw/MS5qcGVn.jpeg" alt="Cover for Decision in Paradise" style="max-width:120px; height:auto;" />
       </td>
@@ -614,12 +595,31 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 49</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>64</td>
+      <td>
+      </td>
+      <td>1985</td>
+      <td>David Murray</td>
+      <td>Children</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>
       </td>
       <td>1986</td>
@@ -637,25 +637,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-      </td>
-      <td>1987</td>
-      <td>Oliver Lake</td>
-      <td>Impala</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
       </td>
       <td>1987</td>
@@ -673,7 +655,25 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>85</td>
+      <td>
+      </td>
+      <td>1987</td>
+      <td>Oliver Lake</td>
+      <td>Impala</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/9bMdzQlStcK2E7rFg0CG4V_TWIOszEVp0r6N0pOXvZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMx/NDgtMTU2OTE3ODc0/Ni04MzM1LmpwZWc.jpeg" alt="Cover for In All Languages" style="max-width:120px; height:auto;" />
       </td>
@@ -693,25 +693,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>55</td>
-      <td>
-          <img src="https://i.discogs.com/60gHTGPdKX2t4uBKWKg1Xg7ghwyd5zIRmSph9Yfe2J4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ2/ODEtMTMxNzM1OTg3/OS5qcGVn.jpeg" alt="Cover for Spy vs. Spy: The Music of Ornette Coleman" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989</td>
-      <td>John Zorn</td>
-      <td>Spy vs. Spy: The Music of Ornette Coleman</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/1Gv5ORsA_SHBzcBOPNbkief_XGiQyNAZKdQ-uQOwYWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMy/NjEtMTI0NTE3NjYw/NC5qcGVn.jpeg" alt="Cover for Old And New Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -729,16 +711,16 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>46</td>
       <td>
+          <img src="https://i.discogs.com/60gHTGPdKX2t4uBKWKg1Xg7ghwyd5zIRmSph9Yfe2J4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ2/ODEtMTMxNzM1OTg3/OS5qcGVn.jpeg" alt="Cover for Spy vs. Spy: The Music of Ornette Coleman" style="max-width:120px; height:auto;" />
       </td>
-      <td>1990</td>
-      <td>Albert Ayler</td>
-      <td>Black Revolt</td>
+      <td>1989</td>
+      <td>John Zorn</td>
+      <td>Spy vs. Spy: The Music of Ornette Coleman</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
       <td>
@@ -747,7 +729,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/d71mjuAne_kxonDIiVkPNuAikj0sNvYV3BTvyOR0LYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTk1/OS0xMTA5OTE4NjQ2/LmpwZw.jpeg" alt="Cover for Red Warrior" style="max-width:120px; height:auto;" />
       </td>
@@ -765,13 +747,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/_YWctKtWWs2tu-TjY8PC_yCQ8Dx1dz6nBmfPM9FGdVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDkw/NjgtMTYxNDgwODM3/Ny0zMTg4LmpwZWc.jpeg" alt="Cover for Communications" style="max-width:120px; height:auto;" />
       </td>
-      <td>1990-06-25</td>
-      <td>The Jazz Composer&#39;s Orchestra</td>
-      <td>Communications</td>
+      <td>1990</td>
+      <td>Albert Ayler</td>
+      <td>Black Revolt</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
@@ -784,7 +765,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/_YWctKtWWs2tu-TjY8PC_yCQ8Dx1dz6nBmfPM9FGdVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDkw/NjgtMTYxNDgwODM3/Ny0zMTg4LmpwZWc.jpeg" alt="Cover for Communication" style="max-width:120px; height:auto;" />
       </td>
@@ -803,7 +784,26 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/_YWctKtWWs2tu-TjY8PC_yCQ8Dx1dz6nBmfPM9FGdVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDkw/NjgtMTYxNDgwODM3/Ny0zMTg4LmpwZWc.jpeg" alt="Cover for Communications" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-06-25</td>
+      <td>The Jazz Composer&#39;s Orchestra</td>
+      <td>Communications</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
       <td>
       </td>
       <td>1991</td>
@@ -817,12 +817,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 32</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/HT-fFDwCSXKjAlKe0d7LyFMnS9Te7Fb-q8x8PEpL07c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjIw/MjUtMTI5MDU0NjU2/NS5qcGVn.jpeg" alt="Cover for Hipmotism" style="max-width:120px; height:auto;" />
       </td>
@@ -841,7 +841,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
       </td>
       <td>1992</td>
@@ -859,7 +859,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
       </td>
       <td>1992-08-25</td>
@@ -873,12 +873,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 71</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
       </td>
       <td>1993</td>
@@ -892,12 +892,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 7</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>1994</td>
@@ -911,12 +911,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 43</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
       </td>
       <td>1994</td>
@@ -934,7 +934,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/UImDqPJvlrC9XOJY0CjJJz_l-iGA8LtJFLsH3jV5moU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjI3/Ni0xMzk4ODE0MjMy/LTkxMjUuanBlZw.jpeg" alt="Cover for Porto Novo" style="max-width:120px; height:auto;" />
       </td>
@@ -950,32 +950,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 91</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/uPylkG_PZo_GxnAQu34YUo74O2mheHnMAxLxsfiwozQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/MjUtMTIwMjE1OTg1/Ny5qcGVn.jpeg" alt="Cover for Constellations" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>Dave Douglas</td>
-      <td>Constellations</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 37</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>1995</td>
@@ -997,7 +977,63 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/uPylkG_PZo_GxnAQu34YUo74O2mheHnMAxLxsfiwozQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/MjUtMTIwMjE1OTg1/Ny5qcGVn.jpeg" alt="Cover for Constellations" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Dave Douglas</td>
+      <td>Constellations</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/bg7x8mk2jzVcuL8xb8fpub9smFfKh78ySfklnmF3SB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk4/NzEtMTIyOTE3ODQ5/NC5qcGVn.jpeg" alt="Cover for Dreamscape" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Jamaaladeen Tacuma</td>
+      <td>Dreamscape</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Ellery Eskelin</td>
+      <td>The Sun Died</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/ULWscMS6Xoff4SxdpVpSEESS0wU9Easy5nCNhe9VTC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzY3/NTgtMTU3MDgzMzYx/Ny05NjYxLmpwZWc.jpeg" alt="Cover for One Great Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1016,43 +1052,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td>1996</td>
-      <td>Ellery Eskelin</td>
-      <td>The Sun Died</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>
-          <img src="https://i.discogs.com/bg7x8mk2jzVcuL8xb8fpub9smFfKh78ySfklnmF3SB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk4/NzEtMTIyOTE3ODQ5/NC5qcGVn.jpeg" alt="Cover for Dreamscape" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Jamaaladeen Tacuma</td>
-      <td>Dreamscape</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/Y6lOJd0CuXbHm1A7nn8o1oWQLHBRsqC2QPTWCX_u3Bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU4/NzEtMTI5NjUxMDg5/MC5qcGVn.jpeg" alt="Cover for Mirakle" style="max-width:120px; height:auto;" />
       </td>
@@ -1070,7 +1070,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/mZMEgJ745XicFzYtXpw6RSP3ifx82Zi21Jgo79K6haE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDI4/Mi0xNjg4MzYxNjYy/LTg2OTUuanBlZw.jpeg" alt="Cover for Hidden in the Stomach" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,13 +1086,30 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 25</li>
             <li> <a href="{{ "/tags/emd" | relative_url }}">emd</a> # 62</li>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>32</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Noël Akchoté</td>
+      <td>Lust Corner</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/OwsdI7RVu6V62HlZg-Yrg70QMq5DYKYOe7Lw7oixBHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTA2/MjctMTQxODA2MzE3/Ny0zNTkxLmpwZWc.jpeg" alt="Cover for The Music Of Ornette Coleman: Something Else!!!" style="max-width:120px; height:auto;" />
       </td>
@@ -1110,24 +1127,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>69</td>
-      <td>
-      </td>
-      <td>1997</td>
-      <td>Noël Akchoté</td>
-      <td>Lust Corner</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/FN8r-oGjAIwHpWcQaERp_DKRWVtPl6BOnNB0bAYBZKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTQy/Mi0xMzUwODQzODUz/LTUyMzkuanBlZw.jpeg" alt="Cover for Wisdom of Uncertainty" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,12 +1142,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 34</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
       </td>
       <td>1998</td>
@@ -1161,12 +1161,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 77</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/qx02mwOpUqSC5mhMhBwNe7D2E7_ck5ntsKGyhAzd85c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzM0/MjAtMTQ1NDg3ODQy/OC02NjY0LmpwZWc.jpeg" alt="Cover for In Willisau" style="max-width:120px; height:auto;" />
       </td>
@@ -1185,7 +1185,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
       </td>
       <td>2000</td>
@@ -1203,7 +1203,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/ImkRdBLL3iA8IL48SBh0O9KFsh1TvixZXSwEFBhEXdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDEy/MjctMTQwNzAxNjM0/OS0zOTM5LmpwZWc.jpeg" alt="Cover for Apparitions" style="max-width:120px; height:auto;" />
       </td>
@@ -1218,12 +1218,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 2</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/hbJMHR7ZxSYrKCVZMtM6-n-A89zrsoCzid4y9rtybs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA1/NjYtMTY5NzEzOTM2/NS05MTE4LmpwZWc.jpeg" alt="Cover for Four in One" style="max-width:120px; height:auto;" />
       </td>
@@ -1243,7 +1243,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/2Z_a1qMTmQZQZl6fGHvrOLSfg4qJIRqdmgbxlxH5lUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDUx/NTY5LTE2NDI1Mzc4/MzUtMjQ0My5qcGVn.jpeg" alt="Cover for Quartet (Dortmund) 1976" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,12 +1258,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 81</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td>2002</td>
@@ -1281,27 +1281,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://i.discogs.com/-GD2rawJz58z1dzOIfYPePqc63LmVPPijE2HR9eYV8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njg1/NTMtMTI5MDg4Nzgz/My5qcGVn.jpeg" alt="Cover for New Africa - One Morning I Woke Up Very Early" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Grachan Moncur III</td>
-      <td>New Africa - One Morning I Woke Up Very Early</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 25</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/Tmb-gica5qWWcGoiy9OKicQWb5UrLVAzdfppSxNPFcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE1/NzgtMTMyNTY5OTU2/Ny5qcGVn.jpeg" alt="Cover for Back at the Velvet Lounge" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,12 +1296,32 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 48</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/-GD2rawJz58z1dzOIfYPePqc63LmVPPijE2HR9eYV8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njg1/NTMtMTI5MDg4Nzgz/My5qcGVn.jpeg" alt="Cover for New Africa - One Morning I Woke Up Very Early" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Grachan Moncur III</td>
+      <td>New Africa - One Morning I Woke Up Very Early</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/sPDlf1vhsImJonf-JC1tmUpUWBOE2CATcT1OD7b8MHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDA2/MzMtMTU4OTk3ODcy/Mi01NjUzLmpwZWc.jpeg" alt="Cover for Devils Paradise" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,7 +1341,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/aS122y7waHAWoZoRlxICYDRBZ47AoyuTWBJnclVQ_8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjMx/ODUtMTY4NDg4OTYy/Mi01MTYzLmpwZWc.jpeg" alt="Cover for Souls Saved Hear" style="max-width:120px; height:auto;" />
       </td>
@@ -1356,12 +1356,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 50</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/FqF9Y5T980zsidbBywaPAmKKyZuH4WLadXrN0Bavz98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjI0/MzAtMTMwNzAwMzY3/OC5qcGVn.jpeg" alt="Cover for Solo" style="max-width:120px; height:auto;" />
       </td>
@@ -1376,12 +1376,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 72</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>2006-07-25</td>
@@ -1395,12 +1395,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 52</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>2007</td>
@@ -1419,7 +1419,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/DD7-EORoLHTITqNKop0SpjNIYdfbkJ8UwTnBJ0LGaio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgw/MDMtMTQzMDQ3Nzg5/OS0yOTg0LmpwZWc.jpeg" alt="Cover for Manifold" style="max-width:120px; height:auto;" />
       </td>
@@ -1434,12 +1434,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 39</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/cKcfJX3_q56st5QvtC-CJaY6aHs_5IYvNouGSS8lEFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTA5/OTYtMTQ4Mjk1NDc1/OS02MzQ0LmpwZWc.jpeg" alt="Cover for Gold Is Where You Find It" style="max-width:120px; height:auto;" />
       </td>
@@ -1454,12 +1454,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 5</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/BskYlyJnoxKoG1LwiGtq0sDqZq-92PG9V1rQRiXdyrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYy/MTgtMTI5OTk0MTYz/My5qcGVn.jpeg" alt="Cover for Beyond Quantum" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,12 +1472,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 33</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/xL8TpFtq8EpQPXw2EPMJF4vHUbYB9BG7Y3QNy4iErts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDM1/NDEtMTUxMTg5MzMx/Ni05Mzc0LmpwZWc.jpeg" alt="Cover for Ultrahang" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,12 +1492,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 93</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/zdJW09i6KfuU2w_gqaImGw4YawjG03QdfFCMqjM6Gus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDgw/MjItMTI5NDg1OTcx/My5qcGVn.jpeg" alt="Cover for Clarity" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,12 +1512,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 63</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
       </td>
       <td>2010-03</td>
@@ -1536,7 +1536,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
       </td>
       <td>2011</td>
@@ -1551,12 +1551,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 60</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
       </td>
       <td>2011-02-14</td>
@@ -1570,12 +1570,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 55</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>2011-02</td>
@@ -1589,12 +1589,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 96</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/SpAx5v56TEUiu9xSMLM4tnGMZdx0HvWXEgW7UOxeV2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDk4/OTUtMTMxODA3Njg2/Ny5qcGVn.jpeg" alt="Cover for Oblique - I" style="max-width:120px; height:auto;" />
       </td>
@@ -1613,7 +1613,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/sOGt4xSi2nRDNK5rYCNrtWrMBqyyW-4UYPIjkGui1Qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzQx/MjMtMTQzOTA1MzYy/MS04NzI5LmpwZWc.jpeg" alt="Cover for Brand New For China!" style="max-width:120px; height:auto;" />
       </td>
@@ -1632,7 +1632,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/Bcv2eMjRe5g4VdqUE0THyloGMyvcQyjOMN1Taxw1psM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjU4/MDgtMTMzMzkwMDQ3/Ny5qcGVn.jpeg" alt="Cover for Dialect Fluorescent" style="max-width:120px; height:auto;" />
       </td>
@@ -1647,12 +1647,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 10</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/DXgk8S9p6NmMEq8y2y30qMjjjvrmBRLTCkZ4fe-Tn-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTM0/MjEtMTQ0MjE3MzM0/OC04NTUxLmpwZWc.jpeg" alt="Cover for Provoke" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,12 +1667,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 40</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>2013-01-04</td>
@@ -1686,12 +1686,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 84</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>2013-04-23</td>
@@ -1707,12 +1707,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 85</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>2013-10</td>
@@ -1727,12 +1727,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 58</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/rDOfmwHcOkZ9Oihz1jBpN0Gv5vaFgM8FrG257vI24Ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDA2/MTctMTQ4NzM1OTA3/OS0yMTg1LmpwZWc.jpeg" alt="Cover for A New Conception" style="max-width:120px; height:auto;" />
       </td>
@@ -1747,12 +1747,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 79</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/gHIBQAPbWD_0ctPQ9lFqSUAgvY4qX5up_bKJpjsZv94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTYw/MTUtMTQxNjI4Mjg1/OS04MzU4LmpwZWc.jpeg" alt="Cover for Simple" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,12 +1767,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 9</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
       </td>
       <td>2014-10-17</td>
@@ -1790,7 +1790,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/kGjt3j1yxzacjN_JWyYxr2dG6qw-EuYgxSxEJbK0THM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODc0/MDAtMTQyNDYzMTkx/Mi05MzA5LmpwZWc.jpeg" alt="Cover for Epicenter" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,12 +1805,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 87</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/0P2HDU1-I4FMAKilb8Yoh-Z3oyIoNAPeBQTgQ2V3BAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Mzky/MDktMTQ0Nzc4MjI1/Mi0zMTg5LmpwZWc.jpeg" alt="Cover for (Dance To) The Early Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1830,7 +1830,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7e8654368927d89f789fcab701b0562.png" alt="Cover for The Complete Science Fiction Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1848,7 +1848,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/RukfbLJZWhagkw5LuTlF7iS7mbzS0hkfv2GmG4-s2L8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTIz/NzEtMTQ3NzQwNTMy/NS02OTg5LmpwZWc.jpeg" alt="Cover for Zebulon" style="max-width:120px; height:auto;" />
       </td>
@@ -1863,12 +1863,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 82</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/011lTtzeh25Iqh6D0uziLNUMYKapbc4fcFeHkIpPgfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTk1/NjktMTQ3NzUyMzI2/NC04OTY2LmpwZWc.jpeg" alt="Cover for Enter the Plustet" style="max-width:120px; height:auto;" />
       </td>
@@ -1883,12 +1883,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 15</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/Nu7xQeS5Zs7QvK2F05lx_94J_8CKmpMMHxwBG71cJqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY5/ODYtMTMzMDcyNTQx/MC5qcGVn.jpeg" alt="Cover for Solo (Koln) 1978" style="max-width:120px; height:auto;" />
       </td>
@@ -1907,7 +1907,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/EoNJSLgLpM0dEJurzqLHiaoAvU-toIPRFlsnW_AF7k0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc0/MjEtMTM3NDk1MDY1/OS0zMzI4LmpwZWc.jpeg" alt="Cover for Independence: Tread On Sure Ground" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,12 +1922,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 30</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td></td>
@@ -1941,12 +1941,12 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 38</li>
+            <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td></td>

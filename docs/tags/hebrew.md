@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T14:55:57.589Z
+date: 2025-12-07T05:39:26.999Z
 permalink: tags/hebrew
 title: hebrew
 ---
 
 ## hebrew
 
-Last updated: <time datetime="2025-12-04T14:55:57.589Z">Thu Dec 04 2025 16:55:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T05:39:26.999Z">Sun Dec 07 2025 07:39:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 48</li>
+            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -88,7 +88,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 71</li>
+            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -593,7 +593,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 64</li>
+            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -722,10 +722,10 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 28</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 32</li>
-            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 39</li>
-            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 43</li>
+            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 58</li>
+            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 62</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 69</li>
+            <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1122,7 +1122,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       <td>
         <ul>
             <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 38</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 48</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 52</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T14:50:59.425Z
+date: 2025-12-07T05:17:18.490Z
 permalink: tags/frenchcore
 title: frenchcore
 ---
 
 ## frenchcore
 
-Last updated: <time datetime="2025-12-04T14:50:59.425Z">Thu Dec 04 2025 16:50:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T05:17:18.490Z">Sun Dec 07 2025 07:17:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
       </td>
       <td>1977</td>
@@ -46,7 +46,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Masters Of Hardcore - Magnum Opus (Chapter XLII)" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for MEGATON KICK 5" style="max-width:120px; height:auto;" />
       </td>
@@ -89,7 +89,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2c34e2d6be16a3abf951dfa5aa58277.png" alt="Cover for MEGATON KICK 3" style="max-width:120px; height:auto;" />
       </td>
@@ -109,7 +109,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6294b627172441baaec8c270c2d58804.png" alt="Cover for Le Bien-être Et La Paix" style="max-width:120px; height:auto;" />
       </td>
@@ -130,7 +130,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/2S4pgH7Bl2nwYJpRWRb1lYpVLiLvfYFaJPXn_F4Pht0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTMz/MjEtMTM0Njk0NjI1/OC05NjgxLmpwZWc.jpeg" alt="Cover for split Kobayes&#x2F;Off your head" style="max-width:120px; height:auto;" />
       </td>
@@ -156,7 +156,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/rNbJgzoiIWvRnqx_Gq5pfqn8EwwJeKyWMSYgsqPQ1Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQz/LTExNTIyMTQzMTIu/anBlZw.jpeg" alt="Cover for Hysteric woman" style="max-width:120px; height:auto;" />
       </td>
@@ -175,7 +175,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bba050fdde85b1fd1fa43a3f7c68bc44.png" alt="Cover for Vice Machine EP" style="max-width:120px; height:auto;" />
       </td>
@@ -195,13 +195,13 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 2</li>
-            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 50</li>
+            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 51</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/tnzfgfbTNHCxIMV2-3VnEgdVsRT42UFjFdF9UtUh7k8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDM2/MzQtMTI3NTU4MDAz/NC5qcGVn.jpeg" alt="Cover for unité" style="max-width:120px; height:auto;" />
       </td>
@@ -226,7 +226,42 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Radium</td>
+      <td>Paranoia performance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22f44195e5a7467d92fa15c63a8267d9.png" alt="Cover for Episode 2 : Medecine Cake" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Pleymo</td>
+      <td>Episode 2 : Medecine Cake</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/EaHU9yoygSodzj7K4b3TIY352Nu_7SIcePs3YpiSb5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTg3/OTItMTQ3MDI0NDk2/Mi03MDg2LmpwZWc.jpeg" alt="Cover for Spanking O.V.A.T.I.O.N" style="max-width:120px; height:auto;" />
       </td>
@@ -246,42 +281,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22f44195e5a7467d92fa15c63a8267d9.png" alt="Cover for Episode 2 : Medecine Cake" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Pleymo</td>
-      <td>Episode 2 : Medecine Cake</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td>2001</td>
-      <td>Radium</td>
-      <td>Paranoia performance</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2001-02-12</td>
@@ -299,7 +299,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/NjIvZ1ovIAzqsfI9ABbs13s73j0hONNNjqjDcmZSulM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc4/MDg4LTE1ODE0MDg5/ODgtMTg4Ny5qcGVn.jpeg" alt="Cover for Lèche" style="max-width:120px; height:auto;" />
       </td>
@@ -317,7 +317,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
       </td>
       <td>2002</td>
@@ -336,7 +336,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3ab0970507f4aa78fdb7e4ce44fa16c.png" alt="Cover for Violent par amour" style="max-width:120px; height:auto;" />
       </td>
@@ -355,7 +355,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dfeadff27cc8ebdc8829fc333fbb2c2.png" alt="Cover for Bâillonnés" style="max-width:120px; height:auto;" />
       </td>
@@ -373,7 +373,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/oigJWPYv6ZfMPhRH34UZeZiPkGhLdoXfqdkcBzsis5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDkz/OTctMTI4OTkzNjM1/MS5qcGVn.jpeg" alt="Cover for Data error" style="max-width:120px; height:auto;" />
       </td>
@@ -391,7 +391,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/A3fMzMf5XGh4vCAIhdjG8PyBGUYEeoxky73QC6URZbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTkw/NDItMTMxMTA3NTM0/My5qcGVn.jpeg" alt="Cover for Unswabbed" style="max-width:120px; height:auto;" />
       </td>
@@ -410,7 +410,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/3HQQgkI6-8c0l8Djds2VtO1Ek6rGydQMr_YSU5c_m3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/ODctMTQyNDU1NTMx/My04MjU3LmpwZWc.jpeg" alt="Cover for Keishah" style="max-width:120px; height:auto;" />
       </td>
@@ -429,7 +429,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7565a5a9ce8a6f4bef0b9f11089a9046.png" alt="Cover for Resistance Deluxe" style="max-width:120px; height:auto;" />
       </td>
@@ -448,7 +448,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/1HAyf-N_QqdfKG1JnPqIr6gXGdjTQLbsMfzQsut1iE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTU3/NzAtMTI3NTExMjA2/MS5qcGVn.jpeg" alt="Cover for Back In Da Wood EP" style="max-width:120px; height:auto;" />
       </td>
@@ -466,7 +466,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/059c4945a02d4b15a3e166a5c0cea8c4.png" alt="Cover for Destroy The Past" style="max-width:120px; height:auto;" />
       </td>
@@ -490,7 +490,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d097f3c1c23e46388bdcc45e57e630d2.png" alt="Cover for Instinct" style="max-width:120px; height:auto;" />
       </td>
@@ -509,7 +509,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bf1dc11bb560cea3c5cdf186a57b5ee.png" alt="Cover for Electrochoc" style="max-width:120px; height:auto;" />
       </td>
@@ -526,7 +526,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/60g7DV1REf6Klj_P9OqdL-QGi98WrpkqcGQMgmp5iX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY3/OTMtMTIwNjQ4NDA5/OC5qcGVn.jpeg" alt="Cover for Phase of Master" style="max-width:120px; height:auto;" />
       </td>
@@ -545,7 +545,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8c3aa96cea94cafb6616960d218010c.png" alt="Cover for Masterpiss" style="max-width:120px; height:auto;" />
       </td>
@@ -570,7 +570,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e226fbcf77107080cae7c31b9eba799.png" alt="Cover for No Fear To Bleed" style="max-width:120px; height:auto;" />
       </td>
@@ -588,7 +588,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/h1HIp2m7tePHEe6VFxJ2fad7RR0jeC6POyUHdWwOBOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ0/NjYtMTIzODA5NTU5/NC5qcGVn.jpeg" alt="Cover for Try To Look In" style="max-width:120px; height:auto;" />
       </td>
@@ -607,7 +607,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88f666d8966f544527f0ebe32e5d910e.png" alt="Cover for Dream That I Saw EP" style="max-width:120px; height:auto;" />
       </td>
@@ -629,7 +629,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/mMZfSB1NGLAWF85k020kEAR_4CttOCyBhD66m5HC0Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njc5/MTMtMTI1NTY0NDk0/MC5qcGVn.jpeg" alt="Cover for Born in the wrong place" style="max-width:120px; height:auto;" />
       </td>
@@ -648,7 +648,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aed890e8716fa63e06b142501247b0b.png" alt="Cover for [chase033] - Strobcore - Funky Music Ep" style="max-width:120px; height:auto;" />
       </td>
@@ -670,7 +670,24 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>53</td>
+      <td>
+      </td>
+      <td>2010</td>
+      <td>Al Core</td>
+      <td>Atomic Requiem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/TmY3HJ0i0qyyemkYH73n9_uu6at89y6GaqAZ_W4fmvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjU5/NDIxLTE0OTQyNTcz/MTAtMjY3Ni5qcGVn.jpeg" alt="Cover for TIGO" style="max-width:120px; height:auto;" />
       </td>
@@ -693,24 +710,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>48</td>
-      <td>
-      </td>
-      <td>2010</td>
-      <td>Al Core</td>
-      <td>Atomic Requiem</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/afYNqYzaxGuCJK6vCRGoL2d1CRtf01B4EN86PzE4yJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzk5/OTctMTQxMjA3Mzg2/NS03ODcwLmpwZWc.jpeg" alt="Cover for It Came From Beneath" style="max-width:120px; height:auto;" />
       </td>
@@ -730,7 +730,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab129883b7fa4bdab6b3229638acba95.png" alt="Cover for Naked face" style="max-width:120px; height:auto;" />
       </td>
@@ -756,7 +756,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/4M817nPzaq4GtYYsVy9QE8P2579j6TuQGBNowYFjRVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTAw/MjktMTI5MDAwMjk3/Mi5qcGVn.jpeg" alt="Cover for Thumping Grooves" style="max-width:120px; height:auto;" />
       </td>
@@ -777,7 +777,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/584c5540621034a3344b6b55eb6d029c.png" alt="Cover for Frequencies" style="max-width:120px; height:auto;" />
       </td>
@@ -797,7 +797,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/PB_XGLqJjBVLoboAH4vggrwFTeVfP_XlJMJfhH0P1YA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTcz/MjQtMTI5Mzk2MTc2/Ny5qcGVn.jpeg" alt="Cover for Re-play (Messing With Your Brain for 20 Years)" style="max-width:120px; height:auto;" />
       </td>
@@ -815,7 +815,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/Q2v-ShCORuTnGQ-ncfvyjAdq0e1dTsFbJEp-UNxIt78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODY3/NTgtMTMwNTcyMzY1/NC5qcGVn.jpeg" alt="Cover for HARDTEK GIRL" style="max-width:120px; height:auto;" />
       </td>
@@ -833,7 +833,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td>2011-12-30</td>
@@ -852,7 +852,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/Xh2S2DlMVPvsteiK7MqVP9ZxEpSvQIs_xqLjccPUGKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODMy/OTEtMTM2NjE1NDI0/Mi02NTczLmpwZWc.jpeg" alt="Cover for Sampling Parade EP" style="max-width:120px; height:auto;" />
       </td>
@@ -875,7 +875,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/XcMACrAeUCt0c3yiEPsNk6iaZBjI-HLTunTwnCQKrUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDgw/Ni0xMzM2NTgwNzI2/LTU0NTcuanBlZw.jpeg" alt="Cover for Ouest Terne" style="max-width:120px; height:auto;" />
       </td>
@@ -899,7 +899,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/CV6UQpqn1EqymhS0bah6OozICBerDvq5tMBYjb2DaYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTA4/MzYtMTM0NDUzODEz/MS04MDQwLmpwZWc.jpeg" alt="Cover for Bath Salts-(NOISTORM057)" style="max-width:120px; height:auto;" />
       </td>
@@ -917,7 +917,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/nIgUDhWOMps6l-xK2AcYNHWgQE5kWAlNwKazBzP2iCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODIw/MzctMTM1MTMzNDc4/OC04NjcwLmpwZWc.jpeg" alt="Cover for Blackout" style="max-width:120px; height:auto;" />
       </td>
@@ -935,26 +935,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/N6cVvyhFtwkymAMD_DpsmenKVLlm4YvFPMNepmn9WA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjEx/MTgtMTQzMTg2MjU1/NC02Nzg3LmpwZWc.jpeg" alt="Cover for Red And Black" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-10-31</td>
-      <td>Round Wave Crusher</td>
-      <td>Red And Black</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce71aeb774c44e46ced1c29be6d4dd0e.png" alt="Cover for Exulted Halloween EP" style="max-width:120px; height:auto;" />
       </td>
@@ -975,7 +956,26 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/N6cVvyhFtwkymAMD_DpsmenKVLlm4YvFPMNepmn9WA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjEx/MTgtMTQzMTg2MjU1/NC02Nzg3LmpwZWc.jpeg" alt="Cover for Red And Black" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-10-31</td>
+      <td>Round Wave Crusher</td>
+      <td>Red And Black</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e563acf7d2f4961a6c8769dd43d47dd.png" alt="Cover for Reset" style="max-width:120px; height:auto;" />
       </td>
@@ -992,7 +992,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/dm3DB47SpU3B0pCllweC5cJ0oF96WXARSxhkn6xmoCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI2/MTM3LTE1OTQ3OTIz/NjEtNDc2NC5qcGVn.jpeg" alt="Cover for When No Light Remains" style="max-width:120px; height:auto;" />
       </td>
@@ -1012,7 +1012,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/f7H6K_JYauVSRuou8thdcItgaYcFsUeyP0DM1YX4CBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzc2/NzYtMTM4MjgwNDQ4/NC04NzgyLmpwZWc.jpeg" alt="Cover for Brain Bulimia" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1032,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/BKlMVu-yGkLMKZwy_nXSVGEXK3PAEzyJubu1wQx0HGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDYx/NDgtMTM4MzA0MDUy/My0yMTcxLmpwZWc.jpeg" alt="Cover for Electronic Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,7 +1051,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>2013-11-25</td>
@@ -1068,7 +1068,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/0jn-D40U71p3-ghz0ozgs8fubcM-Gu7S-XvJRivzddY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDk0/ODUtMTY3MzUxODA2/MS0yNzE3LmpwZWc.jpeg" alt="Cover for Game Over" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,7 +1087,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/Om3RVIvH_z4ZXFai59i2xeplnjjCTK200ilH7aOjoD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjM3/MDQ4LTE3MzQ4ODE1/MzctMjAxMi5qcGVn.jpeg" alt="Cover for MEGATON KICK 4" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,13 +1105,13 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 34</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 67</li>
             <li> <a href="{{ "/tags/rawstyle" | relative_url }}">rawstyle</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/YvA7RJIYrzIFWpuziwTzS31XzK_-2axgQ-q05ArBJkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDEy/NDAtMTUxOTk0NjUy/Ni02MTQ5LmpwZWc.jpeg" alt="Cover for Unhinged E.P." style="max-width:120px; height:auto;" />
       </td>
@@ -1129,7 +1129,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/EACzJ8bnVGQUtzJqCGDGmEZ7p-tGrpRqJGOwFZsKDTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjY1/OTQtMTUxOTk0NjEw/Ni05ODE1LmpwZWc.jpeg" alt="Cover for Elements of Destruction" style="max-width:120px; height:auto;" />
       </td>
@@ -1148,7 +1148,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/tO8fGRam8Q-sG2S4N1OrYXQ-Jx-Ki1BMPi7vH5Z9130/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjQw/OTQtMTM5ODI3NzQ2/Ni03MjQ3LmpwZWc.jpeg" alt="Cover for Tanoshi Torture" style="max-width:120px; height:auto;" />
       </td>
@@ -1166,7 +1166,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/AYrz0xN_L5mOHrLBlogCLp7ywP0H8uDCaOmX4L_6_AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDg5/NDAtMTQxOTUwNzQ0/OC0yOTA0LmpwZWc.jpeg" alt="Cover for Raznitsa mezhdu dlinoy krayney" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,7 +1190,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a64745da6c8840a7c07a8df7639c3c8c.png" alt="Cover for Terror Took My Virginity" style="max-width:120px; height:auto;" />
       </td>
@@ -1209,7 +1209,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/EACzJ8bnVGQUtzJqCGDGmEZ7p-tGrpRqJGOwFZsKDTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjY1/OTQtMTUxOTk0NjEw/Ni05ODE1LmpwZWc.jpeg" alt="Cover for Supremacy" style="max-width:120px; height:auto;" />
       </td>
@@ -1228,7 +1228,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/326f1b6c2f2aeac1544f9766e25e0816.png" alt="Cover for Plan B" style="max-width:120px; height:auto;" />
       </td>
@@ -1249,7 +1249,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1b01a4b8d0ac5b22f4df15e672bda80.png" alt="Cover for Playmore" style="max-width:120px; height:auto;" />
       </td>
@@ -1266,7 +1266,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/PPIoV7ijRm1HKPRd1qqbUTKB_8Yv0oIqedyhIMV4r2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjQ1/ODYtMTQzMDU1NDA5/My01NzgwLmpwZWc.jpeg" alt="Cover for Brainwash - The Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,12 +1281,12 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/terrorcore" | relative_url }}">terrorcore</a> # 74</li>
+            <li> <a href="{{ "/tags/terrorcore" | relative_url }}">terrorcore</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/gPFrZeTk0zCqYwIIse_S6fKPzjWKmyC8piOtnxoLXfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjE1/OTktMTQzMDQ4NjQ1/OS02MjA5LmpwZWc.jpeg" alt="Cover for Rebel Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,7 +1306,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/By74izYWjET4k3izvQTdgZvrt8Nx06zELVt1NTVMrXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODI3/MjItMTM3ODM4NDMz/OS01ODQ0LmpwZWc.jpeg" alt="Cover for GGM Digital 35" style="max-width:120px; height:auto;" />
       </td>
@@ -1327,7 +1327,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/De4_h8VQsQwVo_1yzdPQFCf5JwwMR8BkGCkHiKStn_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI2/MTU2LTE1OTQ3OTMx/NTItMzg5NS5qcGVn.jpeg" alt="Cover for The Last Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,7 +1346,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/UfeyINysdVCy_lvbZmBXv8gufvXcnz1mEDhwYXhC6LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTkz/NDgtMTQ0MzE2OTQ0/OC02MDcxLmpwZWc.jpeg" alt="Cover for Sound Of Yandere" style="max-width:120px; height:auto;" />
       </td>
@@ -1362,12 +1362,12 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/terrorcore" | relative_url }}">terrorcore</a> # 73</li>
+            <li> <a href="{{ "/tags/terrorcore" | relative_url }}">terrorcore</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/ELnHFackUpugrKH0Zv_oPS4tfS6WQM-GRxlGesiAsxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYy/NTYtMTQ1NjU3ODUz/NS00NTExLmpwZWc.jpeg" alt="Cover for E.D.M. (Extremely Distorted Music)" style="max-width:120px; height:auto;" />
       </td>
@@ -1385,7 +1385,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/8FBOPZvwqbreKad2BTCLMVszNXr2q-XQJdgD8B55dH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzA4/MzctMTQ2NTUwODAw/MC05ODczLnBuZw.jpeg" alt="Cover for Brainwash - Second Session" style="max-width:120px; height:auto;" />
       </td>
@@ -1403,7 +1403,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/SO57oOpf7P1oxqNMaIKDMvCiSLHh-DrXTEp89AwgmCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDE0/OTktMTQ2OTA1Mjky/OC00MDkwLmpwZWc.jpeg" alt="Cover for Get Fast Or Die Hard" style="max-width:120px; height:auto;" />
       </td>
@@ -1422,7 +1422,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7b8c0ab0307f025e4fceeb3b5dede37.png" alt="Cover for Trip Around The World" style="max-width:120px; height:auto;" />
       </td>
@@ -1445,7 +1445,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0433ab45bba3d648b832338fd224369a.png" alt="Cover for RPG" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,7 +1467,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/926376feb59616b70cd8e0529f5db1af.png" alt="Cover for L33T (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1484,7 +1484,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/w8PCajXTwBVER8tL-cjJsycauCGRLSdZMV3Ro-YXRKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI3/MjA2LTE1MTIyNzM5/MzAtNDY5Ni5qcGVn.jpeg" alt="Cover for Curse of the Succubus" style="max-width:120px; height:auto;" />
       </td>
@@ -1502,7 +1502,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/FWNi1LK7_0b8FSwdWSuiEyfxcBaJkRNE9PE5St9CU6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM1/MzEzLTE1MTI0Mjcw/NDEtNTkwMy5qcGVn.jpeg" alt="Cover for Frenchcore Worldwide 02" style="max-width:120px; height:auto;" />
       </td>
@@ -1520,7 +1520,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/i8M_FfAWmdGBPWnxTUDQ4a18X5LxPGdE6BEdGTVKpV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/ODQyLTE1MzA1Njk1/MzktNjE1OS5qcGVn.jpeg" alt="Cover for Frenchcore Worldwide 05" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,7 +1538,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/252397d0dcbb0ead345c8683bddd7950.png" alt="Cover for In De Hemel" style="max-width:120px; height:auto;" />
       </td>
@@ -1553,12 +1553,12 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 72</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8bf673d7976368a4d24905e5a4a2c00.png" alt="Cover for Up In Smoke" style="max-width:120px; height:auto;" />
       </td>
@@ -1577,7 +1577,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/luwlF99WU9wtKDAQKRdNBMCiFThsZidedhmrWFM9FFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM5/MTU5LTE1NTgwNTA3/MDktNzQ5OS5qcGVn.jpeg" alt="Cover for One Tribe (Defqon.1 2019 Anthem)" style="max-width:120px; height:auto;" />
       </td>
@@ -1597,7 +1597,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>2019-09-18</td>
@@ -1614,7 +1614,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
       </td>
       <td>2019-12-21</td>
@@ -1634,7 +1634,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/NuWQx2DU95CccVGJjHBoFpDj641StsfcuXhvlDaUtp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTUw/ODc0LTE2NTgzOTEy/MDAtNzEwMC5qcGVn.jpeg" alt="Cover for Kiss My Peace" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,7 +1656,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/6E7UcHx3yVbHYdTiIozrUgvB9pBuQ3xxHeWB0XWvlhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk4/MTgwLTE1OTc5ODgy/NzctOTUzNS5qcGVn.jpeg" alt="Cover for Battle of Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1674,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35daaef6cb74fae396d760782d370dab.png" alt="Cover for Spin the Wheel" style="max-width:120px; height:auto;" />
       </td>
@@ -1695,7 +1695,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbd652a0e9bd4f06a32b9a2ec44a8a2f.png" alt="Cover for HammerHead" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,7 +1717,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/wlotX_-JATg3k1EozD7_b5tyOrhsrubo1-tHctwh4uA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDM1/NTc4LTE2MzMxMDEx/ODUtMzg2OS5qcGVn.jpeg" alt="Cover for reblooming daylilies" style="max-width:120px; height:auto;" />
       </td>
@@ -1733,12 +1733,12 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a> # 42</li>
+            <li> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb2a6338d856c3c36edabd93893da143.png" alt="Cover for Sleep Talking" style="max-width:120px; height:auto;" />
       </td>
@@ -1757,7 +1757,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>2022-03-25</td>
@@ -1778,13 +1778,13 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/terrorcore" | relative_url }}">terrorcore</a> # 49</li>
+            <li> <a href="{{ "/tags/terrorcore" | relative_url }}">terrorcore</a> # 52</li>
             <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/-UnrMzP6hKBaPeiUuvU0fma16FOWMVsAs5GIXRHt1ZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ3/NzgxLTE2Njc1NTgz/MDctMzQ2Ni5qcGVn.jpeg" alt="Cover for 羅↓¡ng 楼77!qop" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,7 +1805,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
       </td>
       <td>2022-12-02</td>
@@ -1822,7 +1822,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for HARDCORE SYNDROME 18" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,7 +1846,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/9YMSZPJanBRNsjtK2eaEdPnzyPcvfrI1gsOhGY7kx-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/NjMxLTE1MjMwNDQ0/NDgtMTI2Mi5qcGVn.jpeg" alt="Cover for Frenchcore Stickout" style="max-width:120px; height:auto;" />
       </td>
@@ -1864,7 +1864,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/euL8G9FE4a6Fuanxf-QAwtvbgQ5u_ktdJGieKtpflXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTc1/Mzg5LTE2ODQ5MjQw/MDgtMjE0Ni5qcGVn.jpeg" alt="Cover for intraosseous infusion" style="max-width:120px; height:auto;" />
       </td>
@@ -1882,7 +1882,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/tvvd44Kw_fooPnWb6HdRvYwQ35v8AOr4zN01p2F0ZcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTg5/NjE0LTE2ODMzNDc4/ODQtOTkwNS5qcGVn.jpeg" alt="Cover for Invader" style="max-width:120px; height:auto;" />
       </td>
@@ -1902,26 +1902,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>79</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8b1603c8431bdedb2a793e1c16cbb17.png" alt="Cover for Budel" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-05-10</td>
-      <td>Hyperverb</td>
-      <td>Budel</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e05896cb34cc2632f83648b06ef9ba0.png" alt="Cover for Time and Space" style="max-width:120px; height:auto;" />
       </td>
@@ -1940,7 +1921,26 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8b1603c8431bdedb2a793e1c16cbb17.png" alt="Cover for Budel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-05-10</td>
+      <td>Hyperverb</td>
+      <td>Budel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/216VF1gaAQBnpR04PVP6eLfKmBzCOsBbNHPTmSpKbmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzQ2/MTIxLTE3MTI2NDgx/MzMtNjI2MS5qcGVn.jpeg" alt="Cover for HiTNEX ViRTUAL SHiFTERZ (feat. Matatabi Sound System, DJ NECOJITA, Shinonome Interface &amp; blaxervant)" style="max-width:120px; height:auto;" />
       </td>
@@ -1958,7 +1958,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/338ccf065564702e4fb8c802b2563a80.png" alt="Cover for wadio" style="max-width:120px; height:auto;" />
       </td>
@@ -1975,13 +1975,13 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sextrance" | relative_url }}">sextrance</a> # 20</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 51</li>
-            <li> <a href="{{ "/tags/sextrance" | relative_url }}">sextrance</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td></td>
@@ -2002,7 +2002,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f318f0f082f665c3b27f2a92cfceac84.png" alt="Cover for All-Rounder" style="max-width:120px; height:auto;" />
       </td>

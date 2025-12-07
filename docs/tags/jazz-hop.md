@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T15:44:45.224Z
+date: 2025-12-07T06:09:06.825Z
 permalink: tags/jazz-hop
 title: jazz hop
 ---
 
 ## jazz hop
 
-Last updated: <time datetime="2025-12-04T15:44:45.224Z">Thu Dec 04 2025 17:44:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T06:09:06.825Z">Sun Dec 07 2025 08:09:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,25 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
   </thead>
   <tbody>
     <tr>
-      <td>4</td>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d8ec317039ed406e69437d1e9028f79.png" alt="Cover for People&#39;s Instinctive Travels and the Paths of Rhythm" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>A Tribe Called Quest</td>
+      <td>People&#39;s Instinctive Travels and the Paths of Rhythm</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/Kw5P5jKgxY3d9kjrw-PhUxqGsSJ92N2_lRmKCYmvLnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzI2/LTE1Mzc4MjA3NDct/MzIwOC5qcGVn.jpeg" alt="Cover for Jazz Thing" style="max-width:120px; height:auto;" />
       </td>
@@ -50,25 +68,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>36</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d8ec317039ed406e69437d1e9028f79.png" alt="Cover for People&#39;s Instinctive Travels and the Paths of Rhythm" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1990</td>
-      <td>A Tribe Called Quest</td>
-      <td>People&#39;s Instinctive Travels and the Paths of Rhythm</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
       </td>
       <td>1990-03-12</td>
@@ -85,7 +85,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00b5c396ff3ffb53b4e0753bb0ac841e.png" alt="Cover for Mecca and the Soul Brother" style="max-width:120px; height:auto;" />
       </td>
@@ -104,7 +104,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd0c2042248de81d74b73dd55ed4b697.png" alt="Cover for Jazzmatazz Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -123,7 +123,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1ea7d23c60d5faabda3e37ecc7317d4.png" alt="Cover for Reachin&#39; (A New Refutation Of Time And Space)" style="max-width:120px; height:auto;" />
       </td>
@@ -140,7 +140,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3d003968b3640849325d8a16eb845cb.png" alt="Cover for Midnight Marauders" style="max-width:120px; height:auto;" />
       </td>
@@ -158,7 +158,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td>1994-03-22</td>
@@ -175,7 +175,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
       </td>
       <td>1994-12-16</td>
@@ -192,7 +192,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8e4098e3aaa054d1a1c5eb93013e02e.png" alt="Cover for Beats, Rhymes and Life" style="max-width:120px; height:auto;" />
       </td>
@@ -209,7 +209,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/y4uIP8XGK4thLELbyoNtSSRAekAsiYQJNOLSgfd3UVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzE0/LTEyMzA1NjA3NzUu/anBlZw.jpeg" alt="Cover for Beats Rhymes &amp; Life" style="max-width:120px; height:auto;" />
       </td>
@@ -227,7 +227,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/keEBxM13JoVAfjs8hvf84uAv4VCi9op6FxTT6_P9iAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzA4/LTEwOTgxODY1Mzgu/anBn.jpeg" alt="Cover for Raw Deluxe" style="max-width:120px; height:auto;" />
       </td>
@@ -246,7 +246,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20b320d342cbecc9901159b1a7d9be4c.png" alt="Cover for Soul Survivor" style="max-width:120px; height:auto;" />
       </td>
@@ -264,7 +264,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79fde0f7a686491b95684c2cb11e3205.png" alt="Cover for The Best Part" style="max-width:120px; height:auto;" />
       </td>
@@ -281,24 +281,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td>2000</td>
-      <td>InI</td>
-      <td>Center of Attention</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/UOovqxKzZv9W4EV-kQmyTrX7MlIYKLDGQxvlUBsDznY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDQy/ODctMTUwMjgwNDU0/NC0xNzQ2LmpwZWc.jpeg" alt="Cover for Art Official Intelligence" style="max-width:120px; height:auto;" />
       </td>
@@ -317,7 +300,24 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>93</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>InI</td>
+      <td>Center of Attention</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
       <td>
       </td>
       <td>2000-03-05</td>
@@ -332,12 +332,12 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 58</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
       </td>
       <td>2000-04-01</td>
@@ -355,7 +355,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
       </td>
       <td>2000-05-02</td>
@@ -372,7 +372,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d25fbad5f743b3df81d1dfe2358ae3ac.png" alt="Cover for Train of Thought" style="max-width:120px; height:auto;" />
       </td>
@@ -392,7 +392,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47f97f97426f46b58135cb183829afc7.png" alt="Cover for Showtyme" style="max-width:120px; height:auto;" />
       </td>
@@ -423,7 +423,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/KMBvzoHDOUsVDTxHWulWQL13SY36XG8OSkglWOHhQGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTMx/LTE0MTE2MzYzODgt/ODc0Mi5qcGVn.jpeg" alt="Cover for Angles Without Edges" style="max-width:120px; height:auto;" />
       </td>
@@ -441,7 +441,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
       </td>
       <td>2001-03-21</td>
@@ -458,7 +458,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/wcMV4F3KOhJzZ8onQmcxnDUQOEkCtuYKmzDHTRcQ8y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzM2/MC0xNDExMDkwMjY5/LTcyMTEuanBlZw.jpeg" alt="Cover for Hi-Teknology" style="max-width:120px; height:auto;" />
       </td>
@@ -476,14 +476,14 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 6</li>
             <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 11</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 42</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 95</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>2001-07-31</td>
@@ -500,7 +500,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/Zqw4IITBEVFs-AmvIoetg-WDWXMJ1izFBS6F9ZVLhfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTMw/MC0xNTczNTc1OTEx/LTM3MjkuanBlZw.jpeg" alt="Cover for The Downfall Of Ibliys" style="max-width:120px; height:auto;" />
       </td>
@@ -518,7 +518,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b09c784635d55a9459e1fbdb298b79e.png" alt="Cover for All of the Above" style="max-width:120px; height:auto;" />
       </td>
@@ -536,7 +536,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
       </td>
       <td>2002-06-14</td>
@@ -553,7 +553,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
       </td>
       <td>2003</td>
@@ -571,7 +571,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>2003-05-25</td>
@@ -588,12 +588,12 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       <td>
         <ul>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 24</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 93</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbb9a3f60a7c4952c9b0b64d0bd88b87.png" alt="Cover for Rethinking the Weather" style="max-width:120px; height:auto;" />
       </td>
@@ -612,7 +612,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b39b71b8b042985967a44638671808a.png" alt="Cover for Shades of Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -631,7 +631,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
       </td>
       <td>2004-05-03</td>
@@ -648,7 +648,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e263f63218d4d6ba3d11df4106bc111.png" alt="Cover for Connected" style="max-width:120px; height:auto;" />
       </td>
@@ -666,7 +666,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/IFt2hEvsCsZQaBsnk73w1i1ggG3OG10Qxkmdl95IVCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mjk2/OC0xNTg3MTQ4MTc2/LTkwNDkuanBlZw.jpeg" alt="Cover for Civil Service" style="max-width:120px; height:auto;" />
       </td>
@@ -683,14 +683,14 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 1</li>
             <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 15</li>
-            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 61</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 41</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29f8fdeda7a44300934b3fd53d4ed3d9.png" alt="Cover for Mindstate" style="max-width:120px; height:auto;" />
       </td>
@@ -709,7 +709,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c40602b78a844a39a9651591fce8a09.png" alt="Cover for Beyond the Spectrum: The Creamy Spy Chronicles" style="max-width:120px; height:auto;" />
       </td>
@@ -727,7 +727,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2718b44b90447c29c3e9f89ec3a309a.png" alt="Cover for Evolution Fight" style="max-width:120px; height:auto;" />
       </td>
@@ -742,12 +742,12 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 90</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee7e35c22d2b436ab35e9129e452a048.png" alt="Cover for The Find" style="max-width:120px; height:auto;" />
       </td>
@@ -770,7 +770,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58d97505d4d341adb33a8518700b8fc2.png" alt="Cover for Chain Letters" style="max-width:120px; height:auto;" />
       </td>
@@ -788,7 +788,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/4I9RAC4M4OwfYTBhRMTsZ6Yt3h1kYuM8tajc8Jkdx7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTQ2/Ni0xNTE1MzMwOTY1/LTQ4NjQuanBlZw.jpeg" alt="Cover for Wrong Way" style="max-width:120px; height:auto;" />
       </td>
@@ -806,7 +806,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e605e0031a208775b7ac76f8c34290e3.png" alt="Cover for Modal Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -827,16 +827,14 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/52iLPt5hW_jzUmmmeDy3K85B-riDKS4DVPvTq--HuQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjY0/OTctMTQyNzYxNTIz/My04MTYwLmpwZWc.jpeg" alt="Cover for The Shining" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
-      <td>Jay Dee</td>
-      <td>The Shining</td>
+      <td>Strange Fruit Project</td>
+      <td>The Healing</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
         </ul>
       </td>
@@ -846,7 +844,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/468807acfe6f5aae6f69563f911bb3b1.png" alt="Cover for Endangered Species (Bonus Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -866,14 +864,16 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>55</td>
       <td>
+          <img src="https://i.discogs.com/52iLPt5hW_jzUmmmeDy3K85B-riDKS4DVPvTq--HuQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjY0/OTctMTQyNzYxNTIz/My04MTYwLmpwZWc.jpeg" alt="Cover for The Shining" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
-      <td>Strange Fruit Project</td>
-      <td>The Healing</td>
+      <td>Jay Dee</td>
+      <td>The Shining</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
         </ul>
       </td>
@@ -883,7 +883,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2f76bf8e5454a4ca8dfbc75754365af.png" alt="Cover for Jazzmatazz, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -900,7 +900,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0317542c05a641849f7cf3e043b67b66.png" alt="Cover for Dirty Old Hip Hop" style="max-width:120px; height:auto;" />
       </td>
@@ -918,7 +918,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>2006-07-05</td>
@@ -935,7 +935,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bfb6e18a3e3483380ace12ebb4d20b2.png" alt="Cover for Zen of Logic" style="max-width:120px; height:auto;" />
       </td>
@@ -956,7 +956,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/YKMSKPauigHRN2gWUhx0Cb2fRMXyYaQss2SmG6QiBxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDQ3/MC0xMTU3NTA5MTg1/LmpwZWc.jpeg" alt="Cover for Healing" style="max-width:120px; height:auto;" />
       </td>
@@ -974,7 +974,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/deb2362b4d8243acb1eab69f8e33416f.png" alt="Cover for Tribute" style="max-width:120px; height:auto;" />
       </td>
@@ -996,7 +996,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbecc9d7aefd105acb9a4f42a6da2ee8.png" alt="Cover for Clin d&#39;oeil" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,7 +1014,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/w3HhrS8eB2z6SNj15W714-9zi1yyxqStpxTxVzu47Eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODI2/Ni0xMTcyNjkxNDk2/LmpwZWc.jpeg" alt="Cover for Daydreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1032,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bf75da88d48486fac76085c68be37b3.png" alt="Cover for Transitions" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,7 +1051,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94e3d7f958b74a81b19c04f7b1e59477.png" alt="Cover for Calm" style="max-width:120px; height:auto;" />
       </td>
@@ -1070,7 +1070,24 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>9</td>
+      <td>
+      </td>
+      <td>2007-10-08</td>
+      <td>Hocus Pocus</td>
+      <td>Place 54</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30484c4e5380b7adbf4e68974f9eb6c1.png" alt="Cover for Travel At Your Own Pace" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,24 +1105,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>92</td>
-      <td>
-      </td>
-      <td>2007-10-08</td>
-      <td>Hocus Pocus</td>
-      <td>Place 54</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/SahHa6DLCuTbeRLD6P5ISfzUu6l2ZmKXgeLalUVOoEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDA3/NTUtMTI4NDQ3NDAw/MS5qcGVn.jpeg" alt="Cover for The R.E.B.I.R.T.H." style="max-width:120px; height:auto;" />
       </td>
@@ -1129,7 +1129,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>2008-03-01</td>
@@ -1148,7 +1148,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
       </td>
       <td>2008-04-02</td>
@@ -1165,7 +1165,24 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>58</td>
+      <td>
+      </td>
+      <td>2008-09-03</td>
+      <td>Dela</td>
+      <td>Changes Of Atmosphere</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/p6Er06GlDv1blKdoVKt39IKbbVb8CcI1aKlUhRqmq6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjgw/NDYtMTI3MTAzMjE0/MC5qcGVn.jpeg" alt="Cover for Nobody&#39;s Story" style="max-width:120px; height:auto;" />
       </td>
@@ -1183,24 +1200,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>43</td>
-      <td>
-      </td>
-      <td>2008-09-03</td>
-      <td>Dela</td>
-      <td>Changes Of Atmosphere</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/zBam8MB-qU0RaDgu_Zaq9XYrFnHaa_xzks8290T2f_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEy/OTctMTI1NTU0OTg3/OC5qcGVn.jpeg" alt="Cover for Clutch Of The Tiger" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,7 +1219,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
       </td>
       <td>2008-11-14</td>
@@ -1239,7 +1239,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a599ed2f21f87b8f64cf2821d120fd7b.png" alt="Cover for Sound Surroundings" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,7 +1258,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05829a4b7c7c4961bf62196f08e8eda7.png" alt="Cover for Water For Mars" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1277,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b867f50011c3b3a5d26253df8963768.png" alt="Cover for Mental Liberation" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,7 +1298,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e6336dd2bbd48c19ed930ea0fddb93a.png" alt="Cover for Brooklynati" style="max-width:120px; height:auto;" />
       </td>
@@ -1317,7 +1317,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/iIFEPf_q7ubkwBRXDP5CRVftJlbH0nPpH2hFn4faqTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjY0/MzctMTQxMDg5OTUw/NS04NTcxLmpwZWc.jpeg" alt="Cover for The Blaqprint" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,7 +1335,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/812e374932639bc1a1f9389713744b38.png" alt="Cover for Carried Away" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,7 +1354,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78bb7b869d5d48cfb23f09ba0affb478.png" alt="Cover for LIFE" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,26 +1372,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-          <img src="https://i.discogs.com/lgxIDwiQlGTTGm7A0VZ9wbRJXCqqJ_u2_mqh_k6rnVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjUz/NzUtMTMzMzg4OTYy/MS5qcGVn.jpeg" alt="Cover for Bohemian Beatnik LP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-07-02</td>
-      <td>Bugseed</td>
-      <td>Bohemian Beatnik LP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/edc588849da34c73b839c7a7dbbfdd88.png" alt="Cover for Bohemian Beatnik" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,7 +1393,26 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/lgxIDwiQlGTTGm7A0VZ9wbRJXCqqJ_u2_mqh_k6rnVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjUz/NzUtMTMzMzg4OTYy/MS5qcGVn.jpeg" alt="Cover for Bohemian Beatnik LP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-07-02</td>
+      <td>Bugseed</td>
+      <td>Bohemian Beatnik LP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/bfZzT7u-sTMa9jiwgJhOob3D54JzYDf76Q89z2-bJAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTU5/MDctMTM1NzE1Mzc2/NC01MTc1LmpwZWc.jpeg" alt="Cover for Vitamins &amp; Minerals" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,7 +1430,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
       </td>
       <td>2011-11-30</td>
@@ -1446,7 +1446,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a7c35189b83874e303a8ec6813c64d6.png" alt="Cover for Spiritual State" style="max-width:120px; height:auto;" />
       </td>
@@ -1473,7 +1473,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fb22b8a301b4901ad526da1006e7243.png" alt="Cover for Big K.R.I.T. - 4Eva N A Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,7 +1492,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>2012-04-25</td>
@@ -1509,7 +1509,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e82a64b9b6daac6c2dfb7d431d1e3af9.png" alt="Cover for The Branches (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1533,7 +1533,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0599cea6aa804a13982d7978b92b1d45.png" alt="Cover for Illuminus" style="max-width:120px; height:auto;" />
       </td>
@@ -1555,7 +1555,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/756cfcb32a187c6a4a8e316bd08880da.png" alt="Cover for 25 Nights For Nujabes" style="max-width:120px; height:auto;" />
       </td>
@@ -1575,7 +1575,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fb7d2cf4c1a45ba95d0039808dc1211.png" alt="Cover for Colors of Jazz 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1593,7 +1593,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/mqm4E_EmgQx-AlBWhaRG8nBU_AZhaihHeiOug6OTkP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDQ1/NjEtMTQ0MDc4OTE0/MS0xNzE1LmpwZWc.jpeg" alt="Cover for beets 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1613,7 +1613,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/mjxXFzFU34hGbuUsDZa3OP_0f7nj9sNBY-sMWrzcMKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Nzkw/NDgtMTQ2MjQxNDkz/MC0xMDY1LmpwZWc.jpeg" alt="Cover for Jazzy Folklore" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,7 +1634,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/cSpSg9xaFbzLSM31nny6S0a8_6bkTdJh_vK8tOQXvCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjI3/MjYtMTI3MDc0OTIw/My5qcGVn.jpeg" alt="Cover for The 4th Quarter" style="max-width:120px; height:auto;" />
       </td>
@@ -1652,7 +1652,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/mzK6P2rNfFmCQc-vUq7C8M6iOWgV8_inBRa5ie5YDos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTcy/NjAtMTQ3ODE2MzYx/MS00MDAyLmpwZWc.jpeg" alt="Cover for Freeform Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,7 +1676,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/2Mb13LcBGye-HhzsZB8bzvn884epFNLMIG1tluzfF1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDE5/MzYtMTQ3OTkyMzQy/Ny05MzU2LmpwZWc.jpeg" alt="Cover for Sphere" style="max-width:120px; height:auto;" />
       </td>
@@ -1695,7 +1695,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/u2CmfbylYJrJkABC5LZNf_AzGMMu7JRdGTrCbpwuTRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjM1/OTU2LTE2NTI2MjQw/ODYtNzY5MS5qcGVn.jpeg" alt="Cover for Yours" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,7 +1717,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/HLMf-2axz3n4GnzjsuET8DoB3cCTdx4-aW1i1SuGRTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODI1/NTMtMTQ4NTUzODY1/MS04NDAwLnBuZw.jpeg" alt="Cover for Champion Sound (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1735,13 +1735,13 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 9</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 89</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb97cd8daa3749bf99323c16bfd29f97.png" alt="Cover for Study Guide" style="max-width:120px; height:auto;" />
       </td>
@@ -1762,7 +1762,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12f4d0ae95cb496e02a637db004482f8.png" alt="Cover for Sinner&#39;s Syndrome" style="max-width:120px; height:auto;" />
       </td>
@@ -1779,12 +1779,12 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 41</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d92143aa088592fa32bc54abecc9c83.png" alt="Cover for Perfect Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,7 +1809,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/RtqSS5Tf7jFF2YloGJefeXwycQFIJCFYpEJfxgd-6VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODg1/MTU3LTE1ODM0NDMw/NzAtNTI2Mi5qcGVn.jpeg" alt="Cover for Miracle of the Fishes" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,7 +1827,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3332d50004c84bbbb654afe6f22730bf.png" alt="Cover for Chemical Warfare" style="max-width:120px; height:auto;" />
       </td>
@@ -1863,7 +1863,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/vnQSagUEAGD_yzxl5dlbqWmuulMAhGyGZaX5LOPBalU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIx/MzgtMTMwMzUyMDU4/NC5qcGVn.jpeg" alt="Cover for HerFavoriteColo(u)r." style="max-width:120px; height:auto;" />
       </td>
@@ -1882,7 +1882,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1010b2a355b309a65123897b0ca3ae2e.png" alt="Cover for Galerie" style="max-width:120px; height:auto;" />
       </td>
@@ -1905,7 +1905,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d85b39dc44a70f74b90444903859677.png" alt="Cover for Loading..." style="max-width:120px; height:auto;" />
       </td>
@@ -1926,7 +1926,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffa3babd599f43b0c3ca8052119bcad0.png" alt="Cover for Self Sacrifice" style="max-width:120px; height:auto;" />
       </td>
@@ -1946,7 +1946,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/509467bc60a0b0c5b4d219a74388408f.png" alt="Cover for Dinner Party" style="max-width:120px; height:auto;" />
       </td>
@@ -1967,7 +1967,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
       </td>
       <td></td>
