@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T12:27:11.142Z
+date: 2025-12-07T02:03:20.914Z
 permalink: tags/cajun
 title: cajun
 ---
 
 ## cajun
 
-Last updated: <time datetime="2025-12-04T12:27:11.142Z">Thu Dec 04 2025 14:27:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T02:03:20.914Z">Sun Dec 07 2025 04:03:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -138,9 +138,9 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 8</li>
             <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 15</li>
             <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 28</li>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -162,8 +162,8 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 31</li>
             <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 32</li>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -428,7 +428,7 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 64</li>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -448,7 +448,7 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 86</li>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -468,7 +468,7 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 43</li>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -576,7 +576,7 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 15</li>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -652,8 +652,8 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 22</li>
             <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 26</li>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -674,8 +674,8 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 4</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 75</li>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -695,8 +695,8 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 42</li>
             <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 45</li>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -717,8 +717,8 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 46</li>
             <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 47</li>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -755,7 +755,7 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 42</li>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1101,7 +1101,7 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 39</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1326,7 +1326,7 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 31</li>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 70</li>
             <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 79</li>
         </ul>
       </td>
@@ -1348,7 +1348,7 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 27</li>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 74</li>
             <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 84</li>
         </ul>
       </td>
@@ -1481,7 +1481,7 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 60</li>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1673,7 +1673,7 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 95</li>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1735,9 +1735,9 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 38</li>
             <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 41</li>
             <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 52</li>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1838,7 +1838,7 @@ Cajun music is a genre of folk music that originated in the Acadiana region of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 24</li>
+            <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 77</li>
         </ul>
       </td>
     </tr>

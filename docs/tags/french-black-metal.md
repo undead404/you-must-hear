@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T12:44:23.321Z
+date: 2025-12-07T02:03:24.529Z
 permalink: tags/french-black-metal
 title: french black metal
 ---
 
 ## french black metal
 
-Last updated: <time datetime="2025-12-04T12:44:23.321Z">Thu Dec 04 2025 14:44:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T02:03:24.529Z">Sun Dec 07 2025 04:03:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1159,8 +1159,8 @@ French black metal is a subgenre of black metal music that originated in France 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 18</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 23</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1216,7 +1216,7 @@ French black metal is a subgenre of black metal music that originated in France 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 50</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1300,7 +1300,7 @@ French black metal is a subgenre of black metal music that originated in France 
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 1</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 82</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1464,7 +1464,7 @@ French black metal is a subgenre of black metal music that originated in France 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 92</li>
+            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1900,7 +1900,7 @@ French black metal is a subgenre of black metal music that originated in France 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 90</li>
         </ul>
       </td>
     </tr>
