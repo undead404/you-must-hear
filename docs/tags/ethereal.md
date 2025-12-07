@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T14:01:04.147Z
+date: 2025-12-07T04:03:47.523Z
 permalink: tags/ethereal
 title: ethereal
 ---
 
 ## ethereal
 
-Last updated: <time datetime="2025-12-04T14:01:04.147Z">Thu Dec 04 2025 16:01:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T04:03:47.523Z">Sun Dec 07 2025 06:03:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,7 +69,7 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
         <ul>
             <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 2</li>
             <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 4</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 81</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -89,7 +89,7 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       <td>
         <ul>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 24</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 73</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -171,8 +171,8 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       <td>
         <ul>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 21</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 27</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 73</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -285,7 +285,7 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       <td>
         <ul>
             <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 1</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 64</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 35</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 79</li>
         </ul>
       </td>
@@ -403,9 +403,9 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 17</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 28</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 42</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 45</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 46</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 55</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 56</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 78</li>
             <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 92</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 100</li>
@@ -453,7 +453,7 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       <td>
         <ul>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 11</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 32</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -475,9 +475,9 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 3</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 10</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 95</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -561,7 +561,7 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
         <ul>
             <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 1</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 5</li>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 86</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -743,9 +743,9 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 13</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 17</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 60</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 84</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 87</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 94</li>
         </ul>
       </td>
@@ -921,10 +921,10 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 1</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 1</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 100</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 100</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 100</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -953,16 +953,17 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 1</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 3</li>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 3</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 5</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 8</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 9</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 9</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 9</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 11</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 13</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 21</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 24</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 64</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 80</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 95</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -980,10 +981,12 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a> # 4</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 34</li>
         </ul>
       </td>
@@ -1008,8 +1011,8 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 21</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 35</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1074,8 +1077,8 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       <td>
         <ul>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 7</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 13</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 46</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1103,7 +1106,7 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 8</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 10</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 31</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 53</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 48</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 59</li>
         </ul>
       </td>
@@ -1156,9 +1159,9 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       <td>
         <ul>
             <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 1</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 8</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 16</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 32</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1283,10 +1286,10 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 30</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 3</li>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 71</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 93</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1335,7 +1338,7 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       <td>
         <ul>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 35</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 38</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 63</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 81</li>
         </ul>
       </td>
@@ -1444,21 +1447,21 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       <td>
         <ul>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 1</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 2</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 2</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 2</li>
             <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 3</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 4</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 6</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 7</li>
             <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 8</li>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 12</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 14</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 16</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 23</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 24</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 25</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 77</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1504,7 +1507,7 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 20</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 81</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 87</li>
         </ul>
       </td>
@@ -1527,9 +1530,9 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 26</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 34</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 36</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 75</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1574,8 +1577,8 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       <td>
         <ul>
             <li> <a href="{{ "/tags/pluggnb" | relative_url }}">pluggnb</a> # 4</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 25</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 64</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 76</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 82</li>
         </ul>
       </td>
@@ -1602,7 +1605,7 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 1</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 1</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 2</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 98</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1628,7 +1631,7 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 2</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 2</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 3</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 97</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1651,10 +1654,10 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 19</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 20</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 59</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 82</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 85</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1680,10 +1683,10 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       <td>
         <ul>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 12</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 18</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 25</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 42</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1704,8 +1707,8 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 13</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 18</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1748,17 +1751,19 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a></li>
             <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a> # 1</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 1</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 2</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 4</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 9</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 15</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 17</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 86</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1808,9 +1813,9 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
         <ul>
             <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 13</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 21</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 28</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 30</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 72</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1841,8 +1846,8 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 5</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 16</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 25</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 28</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 28</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 28</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 29</li>
         </ul>
       </td>
@@ -1867,7 +1872,7 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
         <ul>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 2</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 26</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 46</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1894,8 +1899,8 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
             <li> <a href="{{ "/tags/pluggnb" | relative_url }}">pluggnb</a> # 1</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 2</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 4</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 7</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1919,7 +1924,7 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       <td>
         <ul>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 23</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 27</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 74</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 80</li>
         </ul>
       </td>
@@ -1945,10 +1950,10 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 1</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 2</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 2</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 4</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 85</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 99</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1999,11 +2004,11 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 1</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 5</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 78</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 94</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 96</li>
-            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2187,10 +2192,10 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
         <ul>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 6</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 11</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 27</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 30</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 39</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 74</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 77</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -2238,12 +2243,12 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 11</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 16</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 19</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 31</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 56</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 76</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 85</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2309,8 +2314,8 @@ Ethereal music is a genre of music that is characterized by its dreamy and other
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 9</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 15</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 92</li>
         </ul>
       </td>
     </tr>

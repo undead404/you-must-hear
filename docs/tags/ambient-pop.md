@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T14:01:33.553Z
+date: 2025-12-07T04:03:53.033Z
 permalink: tags/ambient-pop
 title: ambient pop
 ---
 
 ## ambient pop
 
-Last updated: <time datetime="2025-12-04T14:01:33.553Z">Thu Dec 04 2025 16:01:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T04:03:53.033Z">Sun Dec 07 2025 06:03:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,7 +68,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
         <ul>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 3</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 25</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 81</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -132,8 +132,8 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 22</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 61</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -158,7 +158,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 34</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 54</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 53</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 65</li>
         </ul>
       </td>
@@ -180,8 +180,8 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 37</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 76</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 25</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -225,7 +225,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>
         <ul>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 21</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 68</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -250,9 +250,9 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 6</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 13</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 33</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 36</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 48</li>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 50</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 65</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 66</li>
         </ul>
       </td>
@@ -275,7 +275,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>
         <ul>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 26</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 75</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -469,7 +469,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
         <ul>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 1</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 29</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 51</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 50</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 59</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 74</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 100</li>
@@ -557,7 +557,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 2</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -779,8 +779,8 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 22</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -801,7 +801,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -823,7 +823,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 82</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -872,6 +872,8 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 1</li>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 3</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 3</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 5</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 8</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 9</li>
@@ -880,8 +882,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 13</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 16</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 24</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 64</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 95</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -899,10 +900,10 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 23</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 25</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 78</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -923,12 +924,14 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 1</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 17</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 66</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 96</li>
@@ -1096,8 +1099,8 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
         <ul>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 6</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 13</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 29</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1315,11 +1318,11 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 5</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 10</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 30</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 33</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 44</li>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 90</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1450,12 +1453,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 5</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 22</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 23</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 24</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 62</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 39</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 79</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1474,10 +1477,10 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 8</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 19</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 41</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 76</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 82</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1549,12 +1552,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 2</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 2</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 8</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 15</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 64</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 93</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 99</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1592,8 +1595,8 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 13</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 25</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 88</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 95</li>
         </ul>
       </td>
@@ -1614,8 +1617,8 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 80</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 96</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 5</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1643,7 +1646,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 2</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 4</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 8</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 85</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1688,10 +1691,10 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 5</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 5</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 16</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 38</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1718,9 +1721,9 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>
         <ul>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 9</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 14</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 27</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 53</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1741,10 +1744,10 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 7</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 17</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 73</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 89</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1768,7 +1771,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 61</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 60</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 83</li>
         </ul>
       </td>
@@ -1862,10 +1865,10 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>
         <ul>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 1</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 2</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 27</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 36</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 63</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 99</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 62</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1907,7 +1910,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1948,7 +1951,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 5</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1970,12 +1973,12 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 3</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 17</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 22</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 66</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 79</li>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 82</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 86</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1998,7 +2001,7 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 59</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 42</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 68</li>
         </ul>
       </td>
@@ -2019,8 +2022,8 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 72</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 81</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 20</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -2065,8 +2068,8 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 13</li>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 52</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2154,8 +2157,8 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       <td>
         <ul>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 18</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 30</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 50</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 71</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 90</li>
         </ul>
       </td>
@@ -2177,10 +2180,10 @@ Ambient pop is a subgenre of popular music that incorporates elements of ambient
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 7</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 18</li>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 52</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 94</li>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 94</li>
         </ul>
       </td>
     </tr>
