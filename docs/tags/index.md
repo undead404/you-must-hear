@@ -1,18 +1,26 @@
 ---
 category: list
-date: 2025-12-06T21:30:11.224Z
+date: 2025-12-06T22:18:32.899Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-06T21:30:11.224Z">Sat Dec 06 2025 23:30:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T22:18:32.899Z">Sun Dec 07 2025 00:18:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [synth rock]({{ "tags/synth-rock" | relative_url }}) | <time datetime="2025-12-06T22:18:32.899Z">Sun Dec 07 2025 00:18:32 GMT+0200 (Eastern European Standard Time)</time> |
+| [westcoast]({{ "tags/westcoast" | relative_url }}) | <time datetime="2025-12-06T22:18:29.766Z">Sun Dec 07 2025 00:18:29 GMT+0200 (Eastern European Standard Time)</time> |
+| [drone metal]({{ "tags/drone-metal" | relative_url }}) | <time datetime="2025-12-06T22:02:57.852Z">Sun Dec 07 2025 00:02:57 GMT+0200 (Eastern European Standard Time)</time> |
+| [latvian]({{ "tags/latvian" | relative_url }}) | <time datetime="2025-12-06T22:02:54.834Z">Sun Dec 07 2025 00:02:54 GMT+0200 (Eastern European Standard Time)</time> |
+| [tenor]({{ "tags/tenor" | relative_url }}) | <time datetime="2025-12-06T22:02:32.235Z">Sun Dec 07 2025 00:02:32 GMT+0200 (Eastern European Standard Time)</time> |
+| [hymns]({{ "tags/hymns" | relative_url }}) | <time datetime="2025-12-06T22:02:28.484Z">Sun Dec 07 2025 00:02:28 GMT+0200 (Eastern European Standard Time)</time> |
+| [experimental pop]({{ "tags/experimental-pop" | relative_url }}) | <time datetime="2025-12-06T21:46:08.646Z">Sat Dec 06 2025 23:46:08 GMT+0200 (Eastern European Standard Time)</time> |
+| [viola da gamba]({{ "tags/viola-da-gamba" | relative_url }}) | <time datetime="2025-12-06T21:46:05.212Z">Sat Dec 06 2025 23:46:05 GMT+0200 (Eastern European Standard Time)</time> |
 | [christian metalcore]({{ "tags/christian-metalcore" | relative_url }}) | <time datetime="2025-12-06T21:30:11.224Z">Sat Dec 06 2025 23:30:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [tech trance]({{ "tags/tech-trance" | relative_url }}) | <time datetime="2025-12-06T21:29:45.547Z">Sat Dec 06 2025 23:29:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [j-rock]({{ "tags/j-rock" | relative_url }}) | <time datetime="2025-12-06T21:25:17.607Z">Sat Dec 06 2025 23:25:17 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1380,11 +1388,3 @@ Last updated: <time datetime="2025-12-06T21:30:11.224Z">Sat Dec 06 2025 23:30:11
 | [post-grunge]({{ "tags/post-grunge" | relative_url }}) | <time datetime="2025-12-04T11:16:20.720Z">Thu Dec 04 2025 13:16:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [nigeria]({{ "tags/nigeria" | relative_url }}) | <time datetime="2025-12-04T10:59:29.243Z">Thu Dec 04 2025 12:59:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [trombone]({{ "tags/trombone" | relative_url }}) | <time datetime="2025-12-04T10:58:56.823Z">Thu Dec 04 2025 12:58:56 GMT+0200 (Eastern European Standard Time)</time> |
-| [synth rock]({{ "tags/synth-rock" | relative_url }}) | <time datetime="2025-12-04T10:43:03.667Z">Thu Dec 04 2025 12:43:03 GMT+0200 (Eastern European Standard Time)</time> |
-| [westcoast]({{ "tags/westcoast" | relative_url }}) | <time datetime="2025-12-04T10:42:56.909Z">Thu Dec 04 2025 12:42:56 GMT+0200 (Eastern European Standard Time)</time> |
-| [drone metal]({{ "tags/drone-metal" | relative_url }}) | <time datetime="2025-12-04T10:42:51.387Z">Thu Dec 04 2025 12:42:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [latvian]({{ "tags/latvian" | relative_url }}) | <time datetime="2025-12-04T10:42:45.892Z">Thu Dec 04 2025 12:42:45 GMT+0200 (Eastern European Standard Time)</time> |
-| [tenor]({{ "tags/tenor" | relative_url }}) | <time datetime="2025-12-04T10:42:19.446Z">Thu Dec 04 2025 12:42:19 GMT+0200 (Eastern European Standard Time)</time> |
-| [hymns]({{ "tags/hymns" | relative_url }}) | <time datetime="2025-12-04T10:42:04.811Z">Thu Dec 04 2025 12:42:04 GMT+0200 (Eastern European Standard Time)</time> |
-| [experimental pop]({{ "tags/experimental-pop" | relative_url }}) | <time datetime="2025-12-04T10:09:49.058Z">Thu Dec 04 2025 12:09:49 GMT+0200 (Eastern European Standard Time)</time> |
-| [viola da gamba]({{ "tags/viola-da-gamba" | relative_url }}) | <time datetime="2025-12-04T10:09:43.215Z">Thu Dec 04 2025 12:09:43 GMT+0200 (Eastern European Standard Time)</time> |

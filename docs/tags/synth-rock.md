@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T10:43:03.667Z
+date: 2025-12-06T22:18:32.899Z
 permalink: tags/synth-rock
 title: synth rock
 ---
 
 ## synth rock
 
-Last updated: <time datetime="2025-12-04T10:43:03.667Z">Thu Dec 04 2025 12:43:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T22:18:32.899Z">Sun Dec 07 2025 00:18:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,9 +81,9 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       <td>
         <ul>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 4</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 8</li>
             <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 11</li>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 16</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -142,8 +142,8 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 27</li>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 65</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -203,7 +203,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 74</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 27</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 84</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 85</li>
         </ul>
@@ -503,9 +503,9 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 30</li>
-            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 45</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 56</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 67</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -548,11 +548,11 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 25</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 41</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 46</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 54</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 47</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 67</li>
-            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -612,7 +612,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 3</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -718,7 +718,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 52</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 49</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 59</li>
         </ul>
       </td>
@@ -916,10 +916,10 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 33</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 43</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 38</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 58</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 59</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 59</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 62</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 67</li>
         </ul>
       </td>
@@ -943,7 +943,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 20</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1031,14 +1031,14 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 8</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 26</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 46</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 37</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 55</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 56</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 62</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 63</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 63</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1057,7 +1057,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 47</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1093,8 +1093,8 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 23</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 54</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 53</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1161,12 +1161,12 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 26</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 28</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 33</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 62</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 39</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 65</li>
             <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 67</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1237,9 +1237,9 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 34</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 77</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 67</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 77</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1380,9 +1380,9 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 35</li>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 45</li>
             <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 57</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 66</li>
             <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 67</li>
         </ul>
       </td>
@@ -1447,7 +1447,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 47</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 54</li>
             <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 73</li>
         </ul>
       </td>
@@ -1526,7 +1526,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
         <ul>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 17</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 35</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1550,7 +1550,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       <td>
         <ul>
             <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 4</li>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 79</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1611,7 +1611,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 81</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1707,9 +1707,9 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 23</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 50</li>
             <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 74</li>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2087,6 +2087,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jay-z" | relative_url }}">jay z</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
@@ -2099,6 +2100,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jay-z" | relative_url }}">jay z</a> # 8</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 55</li>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 82</li>
         </ul>
@@ -2122,6 +2124,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jay-z" | relative_url }}">jay z</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
@@ -2132,6 +2135,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jay-z" | relative_url }}">jay z</a> # 9</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 57</li>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 85</li>
         </ul>
@@ -2151,6 +2155,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jay-z" | relative_url }}">jay z</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
@@ -2161,6 +2166,7 @@ Synth rock blends the energy and structure of rock music with prominent synthesi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jay-z" | relative_url }}">jay z</a> # 15</li>
             <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 32</li>
         </ul>
       </td>
