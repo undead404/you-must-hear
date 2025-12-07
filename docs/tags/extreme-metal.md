@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T01:11:46.349Z
+date: 2025-12-07T13:51:42.958Z
 permalink: tags/extreme-metal
 title: extreme metal
 ---
 
 ## extreme metal
 
-Last updated: <time datetime="2025-12-05T01:11:46.349Z">Fri Dec 05 2025 03:11:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T13:51:42.958Z">Sun Dec 07 2025 15:51:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -201,7 +201,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       <td>
         <ul>
             <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 30</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 71</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 30</li>
             <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 82</li>
         </ul>
       </td>
@@ -223,7 +223,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 3</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 39</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 62</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 96</li>
         </ul>
       </td>
@@ -246,7 +246,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
         <ul>
             <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 2</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 15</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 80</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -441,7 +441,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 68</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 69</li>
             <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 77</li>
         </ul>
       </td>
@@ -601,10 +601,10 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 2</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 8</li>
             <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 38</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 86</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -645,7 +645,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 75</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -703,8 +703,8 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
             <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 8</li>
             <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 25</li>
             <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 29</li>
+            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 30</li>
             <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 34</li>
-            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -730,7 +730,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       <td>
         <ul>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 34</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 54</li>
             <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 74</li>
         </ul>
       </td>
@@ -828,7 +828,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 88</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -852,7 +852,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 53</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -983,9 +983,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       <td>
         <ul>
             <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 5</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 19</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 8</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 27</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 93</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1034,7 +1034,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-thrash-metal" | relative_url }}">death-thrash metal</a> # 10</li>
+            <li> <a href="{{ "/tags/death-thrash-metal" | relative_url }}">death-thrash metal</a> # 9</li>
             <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 61</li>
         </ul>
       </td>
@@ -1055,7 +1055,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 83</li>
+            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1077,7 +1077,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 69</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1108,7 +1108,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       <td>
         <ul>
             <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 16</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 47</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1437,7 +1437,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 63</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1475,7 +1475,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
             <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 7</li>
             <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 18</li>
             <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 42</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 51</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 49</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 73</li>
         </ul>
       </td>
@@ -1517,9 +1517,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 21</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 26</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 64</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 75</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1541,7 +1541,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 26</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1672,7 +1672,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1741,7 +1741,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       <td>
         <ul>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 47</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 48</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1845,9 +1845,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 2</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 58</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 64</li>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2000,7 +2000,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 64</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2024,7 +2024,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 68</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2107,7 +2107,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 77</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -2129,7 +2129,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 25</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 76</li>
         </ul>
       </td>
     </tr>

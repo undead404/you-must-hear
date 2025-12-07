@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T01:03:45.974Z
+date: 2025-12-07T12:16:51.551Z
 permalink: tags/acid-rock
 title: acid rock
 ---
 
 ## acid rock
 
-Last updated: <time datetime="2025-12-05T01:03:45.974Z">Fri Dec 05 2025 03:03:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T12:16:51.551Z">Sun Dec 07 2025 14:16:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -79,7 +79,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 72</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -387,7 +387,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 41</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -537,7 +537,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 95</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -670,7 +670,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 6</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -744,7 +744,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 70</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -768,8 +768,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 79</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 82</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 19</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -822,8 +822,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 36</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 45</li>
-            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -920,7 +920,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 97</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1055,8 +1055,8 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 39</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 81</li>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1235,9 +1235,9 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 2</li>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 61</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 90</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 40</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 91</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1277,7 +1277,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 91</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1740,9 +1740,9 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 11</li>
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 12</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 35</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 37</li>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 39</li>
             <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 56</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 61</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 64</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 87</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 90</li>
         </ul>
@@ -1851,13 +1851,13 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 9</li>
             <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 11</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 14</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 15</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 39</li>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 41</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 43</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 50</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 51</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 51</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 62</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 63</li>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 84</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 87</li>
         </ul>
       </td>
@@ -1975,7 +1975,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 2</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 86</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2034,7 +2034,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 1</li>
-            <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 28</li>
+            <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2058,7 +2058,7 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 3</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 30</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 70</li>
             <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 88</li>
         </ul>
       </td>
@@ -2138,12 +2138,12 @@ Acid rock emerged in the mid-1960s as a psychedelic-influenced style characteriz
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 12</li>
             <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 25</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 34</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 48</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 54</li>
             <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 71</li>
-            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 89</li>
         </ul>
       </td>
     </tr>

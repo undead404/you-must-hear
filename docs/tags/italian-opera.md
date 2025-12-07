@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T01:00:47.420Z
+date: 2025-12-07T12:05:56.846Z
 permalink: tags/italian-opera
 title: italian opera
 ---
 
 ## italian opera
 
-Last updated: <time datetime="2025-12-05T01:00:47.420Z">Fri Dec 05 2025 03:00:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T12:05:56.846Z">Sun Dec 07 2025 14:05:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -228,22 +228,6 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
-      <td>
-      </td>
-      <td>1963</td>
-      <td>Luigi Alva</td>
-      <td>ROSSINI: Barbiere de Siviglia (Il) (Callas, Gobbi) (1956)</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>
@@ -729,6 +713,23 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>1985</td>
+      <td>Renata Scotto</td>
+      <td>Bellini-Zaira</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>7</td>
       <td>
           <img src="https://i.discogs.com/yWyO4le9pJkuK4FJ_L-7UH8v2Yik1KSyAl1q-nqdCpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ2/NDIzLTE1MTY0ODAx/MDMtMzY1Ni5qcGVn.jpeg" alt="Cover for I vespri siciliani" style="max-width:120px; height:auto;" />
@@ -865,40 +866,6 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>95</td>
-      <td>
-      </td>
-      <td>1990</td>
-      <td>Arturo Toscanini</td>
-      <td>Verdi:Otello</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-      </td>
-      <td>1990</td>
-      <td>Orchestra &amp; Coro del Teatro La Fenice di Venezia</td>
-      <td>Leoncavallo: La Boheme</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>92</td>
       <td>
           <img src="https://i.discogs.com/jUPuRwrN0r7hw7bO3XteT4DGxnIa_wGAA5Ym7JL8u5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM5/MjI0LTE1Nzg2OTMw/MjMtMTczOS5qcGVn.jpeg" alt="Cover for Bellini: La Sonnambula - Melodramma in due atti di Felice Romani" style="max-width:120px; height:auto;" />
@@ -991,7 +958,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>99</td>
       <td>
       </td>
       <td>1995</td>
@@ -1500,13 +1467,29 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/qjIA6aYm6z08xtvOlkUQnuWeD8cdmHSCpt9qFIr2Vm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/MjkwLTE1OTg3MDkz/NzUtMjg4Ny5qcGVn.jpeg" alt="Cover for Rossini, G.: Aureliano in Palmira" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Gioachino Rossini</td>
       <td>Rossini, G.: Aureliano in Palmira</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>2018</td>
+      <td>Gioachino Rossini</td>
+      <td>Rossini, G.: The Barber of Seville [Opera]</td>
       <td>
         <ul>
         </ul>
@@ -1699,12 +1682,29 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Orchestra Camerata Musicale</td>
+      <td>Rossini: La Pietra Del Paragone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>94</td>
       <td>
       </td>
       <td></td>
-      <td>Orchestra &amp; Coro della RTSI</td>
-      <td>Rossini: La Gazzetta</td>
+      <td>Orchestra e Coro dell&#39; E.A.R.  Teatro Bellini</td>
+      <td>Bellini: Adelson &amp; Salvini</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
@@ -1720,8 +1720,8 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
       </td>
       <td></td>
-      <td>Orchestra e Coro dell&#39; E.A.R.  Teatro Bellini</td>
-      <td>Bellini: Adelson &amp; Salvini</td>
+      <td>Orchestra &amp; Coro della RTSI</td>
+      <td>Rossini: La Gazzetta</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
@@ -1845,12 +1845,12 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>97</td>
       <td>
       </td>
       <td></td>
-      <td>Orchestra &amp; Coro del Teatro La Fenice di Venezia, Jan Latham Koenig, Lucia Mazzaria, Jonathan Summers, Martha Senn, Mario Malagnini, Bruno Praticò, Silvano Pagliuca , Pietro Spagnoli, Romano Emili, Giampaolo Grazioli, Cinzia De Mola</td>
-      <td>La Bohème</td>
+      <td>Ferdinando Fontana</td>
+      <td>Puccini, G.: Villi (Le) [Opera]</td>
       <td>
         <ul>
         </ul>

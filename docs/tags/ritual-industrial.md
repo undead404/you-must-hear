@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T02:47:17.800Z
+date: 2025-12-07T13:54:41.144Z
 permalink: tags/ritual-industrial
 title: ritual industrial
 ---
 
 ## ritual industrial
 
-Last updated: <time datetime="2025-12-05T02:47:17.800Z">Fri Dec 05 2025 04:47:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T13:54:41.144Z">Sun Dec 07 2025 15:54:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -225,7 +225,7 @@ Ritual industrial is a genre of music that blends elements of industrial music, 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td>1987</td>
@@ -980,7 +980,7 @@ Ritual industrial is a genre of music that blends elements of industrial music, 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/SnoS3LKaO1LAtufBTcmSmWTyns3Qooywhxzo0FQNjGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTM5/My0xMTk1NjU5MTk2/LmpwZWc.jpeg" alt="Cover for Yndalongg" style="max-width:120px; height:auto;" />
       </td>
@@ -1313,17 +1313,17 @@ Ritual industrial is a genre of music that blends elements of industrial music, 
         <ul>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 4</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 4</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 8</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 9</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 9</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 9</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 14</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 27</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 38</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fd4439ac908c125954e4a22877852d0.png" alt="Cover for Dogs Blood Rising" style="max-width:120px; height:auto;" />
       </td>
@@ -1393,7 +1393,6 @@ Ritual industrial is a genre of music that blends elements of industrial music, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 5</li>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 7</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 9</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 14</li>
@@ -1401,6 +1400,7 @@ Ritual industrial is a genre of music that blends elements of industrial music, 
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 20</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 36</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 41</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1427,7 +1427,7 @@ Ritual industrial is a genre of music that blends elements of industrial music, 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5522804c818a4009b50ab1e945cbf343.png" alt="Cover for 5# (((ozercanie" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,7 +1466,7 @@ Ritual industrial is a genre of music that blends elements of industrial music, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 18</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1610,7 +1610,7 @@ Ritual industrial is a genre of music that blends elements of industrial music, 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/g_v5vI2XEYespF9rRC4BGHqXYOvKCzsfIW4g3qV9Io0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQy/NDM3LTE1Njg2MjU0/ODItNzM1NC5qcGVn.jpeg" alt="Cover for Roi Perdu" style="max-width:120px; height:auto;" />
       </td>
@@ -1817,7 +1817,7 @@ Ritual industrial is a genre of music that blends elements of industrial music, 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/zLJXup142kHHMgkTUpFl2doo_M78PKvJlhrR249fPC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzYz/MTQtMTUzODg1Njky/My05ODU1LmpwZWc.jpeg" alt="Cover for Deathward, To The Womb" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,13 +1877,13 @@ Ritual industrial is a genre of music that blends elements of industrial music, 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 6</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 8</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 17</li>
             <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 18</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 24</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 24</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 31</li>
-            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 95</li>
         </ul>
       </td>
     </tr>

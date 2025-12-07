@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T00:48:45.937Z
+date: 2025-12-07T11:16:02.957Z
 permalink: tags/rockabilly
 title: rockabilly
 ---
 
 ## rockabilly
 
-Last updated: <time datetime="2025-12-05T00:48:45.937Z">Fri Dec 05 2025 02:48:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T11:16:02.957Z">Sun Dec 07 2025 13:16:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
   </thead>
   <tbody>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/ReRj1X3GbF6VhpjrEbeomO39_GlXR2fu0dh-SocDuew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDY5/ODItMTQ5Nzg5Njg0/Mi02MjE1LmpwZWc.jpeg" alt="Cover for If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/0XlDNiL_ClUYkVtQSZ9YXVQ4RWhGSFclo2qs5ibkja4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzAx/NjMtMTM3NjEwMzQ4/OC02NzA1LmpwZWc.jpeg" alt="Cover for The Best Of Buddy Knox" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/RkvNPt6-nYcawE5si2Eav6GOnwbv9UCeHlYb1WuB-Q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDg2/MjUtMTM0NTU2NjE0/MS05ODM5LmpwZWc.jpeg" alt="Cover for Especially for You" style="max-width:120px; height:auto;" />
       </td>
@@ -94,7 +94,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>1958-11-13</td>
@@ -113,13 +113,13 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/rtTJyDyMe3ZonhwJMsgHfRTZYfVRJKAAendTylH2ZnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTc5/NzItMTM3NDU3NDQ1/Mi02MjQxLmpwZWc.jpeg" alt="Cover for Chantilly Lace" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/pbR8BVlQlFKb59HP4zIHC9zHhqudxEVZ0xCUS6iCbfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTgx/Mi0xMjk2Njc3NzAx/LmpwZWc.jpeg" alt="Cover for Somethin&#39; Else" style="max-width:120px; height:auto;" />
       </td>
       <td>1959</td>
-      <td>The Big Bopper</td>
-      <td>Chantilly Lace</td>
+      <td>Eddie Cochran</td>
+      <td>Somethin&#39; Else</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
@@ -131,7 +131,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/TrdQizQwQ_naSMTAEPbWUSE1UxI8jTw5c0-t7G89iGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODE0/NzktMTQ2MDYzNjAw/NC02NjU3LmpwZWc.jpeg" alt="Cover for Beatnik Fly" style="max-width:120px; height:auto;" />
       </td>
@@ -150,13 +150,13 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/pbR8BVlQlFKb59HP4zIHC9zHhqudxEVZ0xCUS6iCbfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTgx/Mi0xMjk2Njc3NzAx/LmpwZWc.jpeg" alt="Cover for Somethin&#39; Else" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/rtTJyDyMe3ZonhwJMsgHfRTZYfVRJKAAendTylH2ZnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTc5/NzItMTM3NDU3NDQ1/Mi02MjQxLmpwZWc.jpeg" alt="Cover for Chantilly Lace" style="max-width:120px; height:auto;" />
       </td>
       <td>1959</td>
-      <td>Eddie Cochran</td>
-      <td>Somethin&#39; Else</td>
+      <td>The Big Bopper</td>
+      <td>Chantilly Lace</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
@@ -168,7 +168,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd2a3fae7cad4e4c41cb7484591a8fed.png" alt="Cover for Runaway With Del Shannon" style="max-width:120px; height:auto;" />
       </td>
@@ -189,7 +189,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/-Mnl8Fgy90Io0R6TDWkfWwM1ZUar5S_FkcZU_GlEIm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTUx/MjQtMTU0Njg1NTgz/Mi05NjExLmpwZWc.jpeg" alt="Cover for Bop-A-Lena" style="max-width:120px; height:auto;" />
       </td>
@@ -207,7 +207,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/9e4bBUgXQQya7sNdhIrlp7fdRotcg3cueQgZXHpakr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTYz/NTEtMTQ3NDAzNDMx/OS00ODgxLmpwZWc.jpeg" alt="Cover for Home and Away: The Complete Recordings 1960-1970" style="max-width:120px; height:auto;" />
       </td>
@@ -226,7 +226,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
       </td>
       <td>1969-03</td>
@@ -250,7 +250,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
       </td>
       <td>1972-06</td>
@@ -267,7 +267,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27ce41c5df26a6260ef8df6597a05f38.png" alt="Cover for Elvis" style="max-width:120px; height:auto;" />
       </td>
@@ -287,7 +287,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/kResB-lqpzryDZLhJYfFxb0InUn8KA9IqtibXcglg5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njg4/NjktMTI5MTIxNjU1/MC5qcGVn.jpeg" alt="Cover for Moondog Matinee" style="max-width:120px; height:auto;" />
       </td>
@@ -308,7 +308,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
       </td>
       <td>1979</td>
@@ -325,7 +325,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>1980</td>
@@ -342,25 +342,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86345a7476cc1ef2b31fd6b9ef21070a.png" alt="Cover for Gonna Ball" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1981</td>
-      <td>Stray Cats</td>
-      <td>Gonna Ball</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/750b31217c538609cea9dcdc68c08da3.png" alt="Cover for Stray Cats" style="max-width:120px; height:auto;" />
       </td>
@@ -378,7 +360,25 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86345a7476cc1ef2b31fd6b9ef21070a.png" alt="Cover for Gonna Ball" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Stray Cats</td>
+      <td>Gonna Ball</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/9ji6-hjAd8eww3GxdA6AHWwVYTu8Zl_UgNkJLqwFFRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMz/MzItMTQxNTg0Njk3/NS0xMjI2LmpwZWc.jpeg" alt="Cover for Built For Speed" style="max-width:120px; height:auto;" />
       </td>
@@ -396,7 +396,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
       </td>
       <td>1983</td>
@@ -413,7 +413,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/769d5e59b806ba631c1254c048fae3d8.png" alt="Cover for Rant N&#39; Rave With the Stray Cats" style="max-width:120px; height:auto;" />
       </td>
@@ -431,7 +431,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab9551f93921c262447286b018d6ad23.png" alt="Cover for Silvertone" style="max-width:120px; height:auto;" />
       </td>
@@ -449,7 +449,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c526c6b4fd28b7e2a6d70633700286bc.png" alt="Cover for Carl Perkins" style="max-width:120px; height:auto;" />
       </td>
@@ -467,7 +467,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba84f23d5050456e906f0d79ac24a7ca.png" alt="Cover for Original Sun Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -486,60 +486,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>
-          <img src="https://i.discogs.com/UVuEbPFL0VNffZH_SK__izpsCH5ltzzn3PiCbIHMhSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMx/MTk0LTE0OTIxODY2/ODUtNDk3OC5qcGVn.jpeg" alt="Cover for Dance to the Bop" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1987</td>
-      <td>Gene Vincent</td>
-      <td>Dance to the Bop</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td>1987</td>
-      <td>Charlie Feathers</td>
-      <td>Jungle Fever</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
-      <td>
-          <img src="https://i.discogs.com/9AsiwdWFRCZ43PXZm6-I2ckhCvN6L-H-CI4tSmClUic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzc5/NjEtMTM5MDkyMDE5/MS04MzM3LmdpZg.jpeg" alt="Cover for Bluejean Bop!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1987</td>
-      <td>Gene Vincent</td>
-      <td>Bluejean Bop!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12f647ec8c3c4243af7fb85ee21546df.png" alt="Cover for Jerry Lee&#39;s Greatest" style="max-width:120px; height:auto;" />
       </td>
@@ -558,7 +505,60 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/9AsiwdWFRCZ43PXZm6-I2ckhCvN6L-H-CI4tSmClUic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzc5/NjEtMTM5MDkyMDE5/MS04MzM3LmdpZg.jpeg" alt="Cover for Bluejean Bop!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Gene Vincent</td>
+      <td>Bluejean Bop!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td>1987</td>
+      <td>Charlie Feathers</td>
+      <td>Jungle Fever</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/UVuEbPFL0VNffZH_SK__izpsCH5ltzzn3PiCbIHMhSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMx/MTk0LTE0OTIxODY2/ODUtNDk3OC5qcGVn.jpeg" alt="Cover for Dance to the Bop" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Gene Vincent</td>
+      <td>Dance to the Bop</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2243346ae46c498098cea361be628b83.png" alt="Cover for Mystery Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -578,7 +578,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/IbzKlWloLCM47paJf90m6B2BBW2iJ2XnVNssuoVPIMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTk0/ODEtMTU2NzUyMDEw/OC0xNjIzLmpwZWc.jpeg" alt="Cover for Let&#39;s Have a Party" style="max-width:120px; height:auto;" />
       </td>
@@ -596,7 +596,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96d61c68eb3045f085c7fd9f8db440e4.png" alt="Cover for American Originals" style="max-width:120px; height:auto;" />
       </td>
@@ -619,7 +619,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da5fd9a8bf1e4027c0014ec6f9760a9a.png" alt="Cover for Love Me Tender" style="max-width:120px; height:auto;" />
       </td>
@@ -640,7 +640,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/524cf31b83014fcd8db3d83dfcf7eaf0.png" alt="Cover for Heart Shaped World" style="max-width:120px; height:auto;" />
       </td>
@@ -654,14 +654,14 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 1</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 17</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 61</li>
-            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/KlPgI958lBpaktLUsN9OsrpHB9r2ZkHXZHngbTgIVHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTY2/MjYtMTM0OTk3Nzg1/MS0yMzI2LmpwZWc.jpeg" alt="Cover for Classic Recordings 56-60" style="max-width:120px; height:auto;" />
       </td>
@@ -679,7 +679,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3d09539affa4160a4024a6b7e9515aa.png" alt="Cover for The Best Of Chuck Berry" style="max-width:120px; height:auto;" />
       </td>
@@ -700,7 +700,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
       </td>
       <td>1991-10-22</td>
@@ -717,7 +717,25 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2722fd56098d39bf5010256988997a84.png" alt="Cover for Buddy Holly" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Buddy Holly</td>
+      <td>Buddy Holly</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/yFsk_YPSuocSUJfibY-rSCX9ktWfLz-7OA4xqlgzRQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTE3/MC0xMzgxNTE4NTY4/LTQxMzMuanBlZw.jpeg" alt="Cover for San Fransisco Days" style="max-width:120px; height:auto;" />
       </td>
@@ -736,25 +754,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>98</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2722fd56098d39bf5010256988997a84.png" alt="Cover for Buddy Holly" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Buddy Holly</td>
-      <td>Buddy Holly</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/yFsk_YPSuocSUJfibY-rSCX9ktWfLz-7OA4xqlgzRQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTE3/MC0xMzgxNTE4NTY4/LTQxMzMuanBlZw.jpeg" alt="Cover for San Francisco Days" style="max-width:120px; height:auto;" />
       </td>
@@ -773,7 +773,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27895d03df524cceb3fbc6edd7d883bc.png" alt="Cover for Rumble! The Best of Link Wray" style="max-width:120px; height:auto;" />
       </td>
@@ -792,7 +792,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/318a8943455039ebe1ca9ec0da6ade3b.png" alt="Cover for La Espada &amp; la Pared" style="max-width:120px; height:auto;" />
       </td>
@@ -814,41 +814,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td>1996</td>
-      <td>Stray Cats</td>
-      <td>Runaway Boys: A Retrospective &#39;81-&#39;92</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-      </td>
-      <td>1996</td>
-      <td>Eddie Cochran</td>
-      <td>Summertime Blues</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
       </td>
       <td>1996</td>
@@ -865,7 +831,41 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>79</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Eddie Cochran</td>
+      <td>Summertime Blues</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Stray Cats</td>
+      <td>Runaway Boys: A Retrospective &#39;81-&#39;92</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69d47b5a119bea55d62164313f73ce46.png" alt="Cover for The Best Of Buddy Holly" style="max-width:120px; height:auto;" />
       </td>
@@ -887,7 +887,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
       </td>
       <td>1998-06-23</td>
@@ -908,7 +908,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb675e7d5f8e4bad971c2e5c1a2a7a09.png" alt="Cover for Under the Influences" style="max-width:120px; height:auto;" />
       </td>
@@ -927,7 +927,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70764639a5ea3534fb759e6647058989.png" alt="Cover for Cheating At Solitaire" style="max-width:120px; height:auto;" />
       </td>
@@ -946,7 +946,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
       </td>
       <td>1999-04-20</td>
@@ -960,12 +960,12 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 68</li>
+            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/221ae75aefa846df93dd7434ac12c445.png" alt="Cover for Risin&#39; Outlaw" style="max-width:120px; height:auto;" />
       </td>
@@ -987,7 +987,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
       </td>
       <td>1999-10-04</td>
@@ -1006,7 +1006,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b79fba1922f748679463b8a7e9a4c399.png" alt="Cover for Queen of Rockabilly" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,11 +1020,12 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/old" | relative_url }}">old</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c31e8b114244a832ea7b380c04f99416.png" alt="Cover for The Essential Roy Orbison" style="max-width:120px; height:auto;" />
       </td>
@@ -1042,7 +1043,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>2000-07-26</td>
@@ -1061,7 +1062,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/obkRvEunmakkIAXewMGa7Fl-Z2scx3jp3eObcJKoGHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTQ1/MDUtMTE5NjU1MDYx/Ny5qcGVn.jpeg" alt="Cover for Komety" style="max-width:120px; height:auto;" />
       </td>
@@ -1077,31 +1078,13 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 71</li>
+            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 29</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3bcc0c17aaf4e9892c1905f8b1f141f.png" alt="Cover for Queen of Pain" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Devil Doll</td>
-      <td>Queen of Pain</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
       </td>
       <td>2002</td>
@@ -1119,6 +1102,24 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
     </tr>
     <tr>
       <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3bcc0c17aaf4e9892c1905f8b1f141f.png" alt="Cover for Queen of Pain" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Devil Doll</td>
+      <td>Queen of Pain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ef08aa549204a38a8433aa2263fdea0.png" alt="Cover for Walking To New Orleans" style="max-width:120px; height:auto;" />
       </td>
@@ -1138,7 +1139,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/LBZm9HULJNgLHZrl16GpI9BLaKo3v6Ye1wLFOgXo7tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjcw/NzY4LTE2Nzc2OTk5/MjEtMTIxNi5qcGVn.jpeg" alt="Cover for Boogie Woogie Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -1157,7 +1158,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
       </td>
       <td>2003</td>
@@ -1172,13 +1173,13 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 36</li>
             <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 42</li>
-            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cfd955f2cdc4b449b33fb646494cc79.png" alt="Cover for Heart Trouble" style="max-width:120px; height:auto;" />
       </td>
@@ -1196,7 +1197,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6a2c75f70354b53cb68668482bc4def.png" alt="Cover for Introducing the Hillbilly Moon Explosion" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,7 +1215,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
       </td>
       <td>2003-08-12</td>
@@ -1233,7 +1234,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/sUNnBpacOmVuBvSkbyjm2JGL0_sA3jXkr-UFxQtSSAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg0/MDMtMTU5NzA4MzUz/OS0xODczLmpwZWc.jpeg" alt="Cover for Nitro Burnin&#39; Funny Daddy" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1252,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/tr30Xwz-wIgxzl0_LRwy9d95ery3pSzmByspH8ieqlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMz/MjYtMTMzMjU5MzQ1/OC5qcGVn.jpeg" alt="Cover for Twin Best Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,7 +1271,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2d93717538d474ca3192e59975c419b.png" alt="Cover for Something Else" style="max-width:120px; height:auto;" />
       </td>
@@ -1290,7 +1291,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/jPDE62v49_vYv18m0mjvqvatdCzp5Jyihu3ZRC3MJlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzg3/NC0xNDI5NjIwNTc3/LTQxNTAuanBlZw.jpeg" alt="Cover for Ghost Tigers Rise" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,12 +1307,12 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 90</li>
+            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58b0fe779eaa5488aaf18558bddd882d.png" alt="Cover for III: Ghost Tigers Rise" style="max-width:120px; height:auto;" />
       </td>
@@ -1327,12 +1328,12 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 86</li>
+            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/450bee666a1d4d75b596f55332392be7.png" alt="Cover for Elvis At Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,7 +1352,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e04d23858901486ac8cb1d3d4396d393.png" alt="Cover for Via Ardiente" style="max-width:120px; height:auto;" />
       </td>
@@ -1367,12 +1368,12 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 63</li>
+            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b59bf0757591ac18904983f2f2ef888.png" alt="Cover for The Very Best of Buddy Holly" style="max-width:120px; height:auto;" />
       </td>
@@ -1391,7 +1392,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54e0255f1f1e5f3ef897f5641b1e87c1.png" alt="Cover for Bring It On!" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,12 +1407,12 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 94</li>
+            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/HUMuIQ5UqBbneoJbB2R21rwQz_nS6tm-cz-IbnV1crs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDA0/ODUtMTM5NjAyMjY1/Mi03MzAzLmpwZWc.jpeg" alt="Cover for The Strength&#x2F;The Sound&#x2F;The Songs [UK]" style="max-width:120px; height:auto;" />
       </td>
@@ -1429,7 +1430,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/uv7kiBT3Whm-KDvP-2EZHzDi2WGiwfYuPOSROk7H7bA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDQ2/Ni0xMjc3OTEzNDMz/LmpwZWc.jpeg" alt="Cover for State of Emergency" style="max-width:120px; height:auto;" />
       </td>
@@ -1447,7 +1448,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a4198795a766eebc1e8dae219ae020f.png" alt="Cover for Music From Regions Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -1461,12 +1462,12 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 92</li>
+            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>78</td>
       <td>
       </td>
       <td>2008</td>
@@ -1483,7 +1484,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bacd3a1a78d542c3c2d2d353cc394944.png" alt="Cover for Kiss Kiss Kill Kill" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,12 +1499,12 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 85</li>
+            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bb072779d314b0db3517b4732debf79.png" alt="Cover for Kitty, Daisy &amp; Lewis" style="max-width:120px; height:auto;" />
       </td>
@@ -1520,7 +1521,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/481b5d4780a244b9c49f31df7323f8a0.png" alt="Cover for Guitar Gangsters &amp; Cadillac Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -1534,12 +1535,12 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 14</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/487855e4202f4cdcbfa750e3082725c2.png" alt="Cover for Love Tattoo" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,7 +1559,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0afc97508bd9a2d9548fbcd2506aeb8.png" alt="Cover for Rock Around the Clock" style="max-width:120px; height:auto;" />
       </td>
@@ -1575,7 +1576,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f31760bfbb92e129bb3aeeacb00f288.png" alt="Cover for Strike" style="max-width:120px; height:auto;" />
       </td>
@@ -1594,7 +1595,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8ea0353b12e61bc56b76183102ef98e.png" alt="Cover for Mean Old Man" style="max-width:120px; height:auto;" />
       </td>
@@ -1615,7 +1616,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18648f9ba1064518884d62f61708d407.png" alt="Cover for Midnight Soul Serenade" style="max-width:120px; height:auto;" />
       </td>
@@ -1637,7 +1638,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/sWGseguxOCB2e74yQ-6VSouiGI8WLT0gcpNZ-FFqLIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDgy/ODEtMTMwMzgyMTg0/MS5qcGVn.jpeg" alt="Cover for Signs &amp; Signifiers" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,26 +1660,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://i.discogs.com/4TeJcU7FeL0lYEVTeii_7gZA19ro_wF8lLbZ095PLA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTcy/MjAtMTYyMTUyODA2/OS03MzY5LmpwZWc.jpeg" alt="Cover for Elv1s: 30 #1 Hits" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Elvis Presley</td>
-      <td>Elv1s: 30 #1 Hits</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/619627d21b024e62a98397ad2bdba5a3.png" alt="Cover for Beyond hell above heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,7 +1680,26 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/4TeJcU7FeL0lYEVTeii_7gZA19ro_wF8lLbZ095PLA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTcy/MjAtMTYyMTUyODA2/OS03MzY5LmpwZWc.jpeg" alt="Cover for Elv1s: 30 #1 Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Elvis Presley</td>
+      <td>Elv1s: 30 #1 Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de8288304fa26e5efb6af03236dcd143.png" alt="Cover for Beyond Hell &#x2F; Above Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,12 +1713,12 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 27</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/051a327d27484be8a4703f81f1195874.png" alt="Cover for Hard Times and Nursery Rhymes (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1737,7 +1738,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13b094e52ace4fc5ba1580217f67ede5.png" alt="Cover for Strings &#39;n&#39; Stripes" style="max-width:120px; height:auto;" />
       </td>
@@ -1756,7 +1757,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/ZfdttW0dUDtNHC-jKh5b2RdyjKnq2OgTKq7OsMuGxbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzk4/NjktMTYzMjk2MjYw/NS01Mzg0LmpwZWc.jpeg" alt="Cover for Rockabilly Dynamite in Hamburg (live)" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,7 +1775,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5915abe0f589e6a240bfc532199b30bf.png" alt="Cover for Outlaw Gentlemen &amp; Shady Ladies" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,12 +1789,12 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 47</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/5GepRvv9VACy6IDYk_gAw9I9k1EEiPaqtf81Y1mO-sA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTgy/NTQtMTY1MDUzOTUx/Ni00NTM0LmpwZWc.jpeg" alt="Cover for Chupacabra" style="max-width:120px; height:auto;" />
       </td>
@@ -1808,12 +1809,12 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 34</li>
+            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/m3DNgGA99rHDuOruWQLQt29ivrL1D4Fm3Gdfxwc7ABs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjcz/NzI2LTE1NzEyMjUy/MzQtMTE4MC5qcGVn.jpeg" alt="Cover for The &quot;Chirping&quot; Crickets" style="max-width:120px; height:auto;" />
       </td>
@@ -1832,7 +1833,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/655022d0f950c5c52a9e173540f16dd4.png" alt="Cover for Thank You (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,7 +1852,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/BjlFNdAWJRQ7xH01n-Oxuat8LrIqIJttLdhBHGxru-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTk5/MDQtMTQ2NDg2MjM1/MS05Njg5LmpwZWc.jpeg" alt="Cover for Seal The Deal &amp; Let&#39;s Boogie (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1871,7 +1872,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12f4d0ae95cb496e02a637db004482f8.png" alt="Cover for Sinner&#39;s Syndrome" style="max-width:120px; height:auto;" />
       </td>
@@ -1893,7 +1894,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c6e15f26d3345758050db5ea4d7c08e.png" alt="Cover for Sex, Love and Rock &#39;n&#39; Roll" style="max-width:120px; height:auto;" />
       </td>
@@ -1910,7 +1911,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/FiaCU8PHl-cZJlojtPnK3H_IgUAtj2mVSiCMp7ApARU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE0/MDA5LTE1OTg4MDk2/NjktODAzMC5qcGVn.jpeg" alt="Cover for The Abtomatic Miesterzinger Mambo Chic" style="max-width:120px; height:auto;" />
       </td>
@@ -1928,7 +1929,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
       </td>
       <td></td>

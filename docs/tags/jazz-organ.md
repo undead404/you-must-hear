@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T01:01:45.899Z
+date: 2025-12-07T12:06:02.670Z
 permalink: tags/jazz-organ
 title: jazz organ
 ---
 
 ## jazz organ
 
-Last updated: <time datetime="2025-12-05T01:01:45.899Z">Fri Dec 05 2025 03:01:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T12:06:02.670Z">Sun Dec 07 2025 14:06:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -525,7 +525,7 @@ Jazz organ music is a genre of jazz that features the Hammond organ as the prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 75</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -673,7 +673,7 @@ Jazz organ music is a genre of jazz that features the Hammond organ as the prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 60</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1273,8 +1273,8 @@ Jazz organ music is a genre of jazz that features the Hammond organ as the prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 53</li>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 83</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 52</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1369,8 +1369,8 @@ Jazz organ music is a genre of jazz that features the Hammond organ as the prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 31</li>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 38</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 30</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1461,7 +1461,7 @@ Jazz organ music is a genre of jazz that features the Hammond organ as the prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 71</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1595,7 +1595,7 @@ Jazz organ music is a genre of jazz that features the Hammond organ as the prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 20</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1617,7 +1617,7 @@ Jazz organ music is a genre of jazz that features the Hammond organ as the prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 79</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1730,7 +1730,7 @@ Jazz organ music is a genre of jazz that features the Hammond organ as the prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 80</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1804,7 +1804,7 @@ Jazz organ music is a genre of jazz that features the Hammond organ as the prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 62</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 61</li>
         </ul>
       </td>
     </tr>

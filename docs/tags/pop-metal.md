@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T01:08:46.165Z
+date: 2025-12-07T13:34:01.713Z
 permalink: tags/pop-metal
 title: pop metal
 ---
 
 ## pop metal
 
-Last updated: <time datetime="2025-12-05T01:08:46.165Z">Fri Dec 05 2025 03:08:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T13:34:01.713Z">Sun Dec 07 2025 15:34:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
       </td>
       <td>1978-07-28</td>
@@ -51,43 +51,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbefe10b286f9f0d209fce7e7bb92469.png" alt="Cover for Midnight Madness" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1983</td>
-      <td>Night Ranger</td>
-      <td>Midnight Madness</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>
-          <img src="https://i.discogs.com/jmwuIWg534DvzMrdRrG9msByaxsqwsOMLWS9cFTsMrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDM5/OC0xNDk3OTA4MzQ0/LTQ3OTMuanBlZw.jpeg" alt="Cover for SUBJECT.....ALDO NOVA" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1983</td>
-      <td>Aldo Nova</td>
-      <td>SUBJECT.....ALDO NOVA</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/9BMXTBZX6augoGg8cmHp99leTqt0vmK4N7-2NIabcOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTgz/MzEtMTYyMDE1MDk4/Mi02Mjc0LmpwZWc.jpeg" alt="Cover for 1st" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +70,43 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/jmwuIWg534DvzMrdRrG9msByaxsqwsOMLWS9cFTsMrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDM5/OC0xNDk3OTA4MzQ0/LTQ3OTMuanBlZw.jpeg" alt="Cover for SUBJECT.....ALDO NOVA" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Aldo Nova</td>
+      <td>SUBJECT.....ALDO NOVA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbefe10b286f9f0d209fce7e7bb92469.png" alt="Cover for Midnight Madness" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Night Ranger</td>
+      <td>Midnight Madness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/ofbnMv2albUzrk4RLUkoWPTAsrokEqp6gJJw0jm8RTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njg1/MzQtMTMyNzkwNjcx/Ni5qcGVn.jpeg" alt="Cover for 9.5.-N.A.S.T.Y." style="max-width:120px; height:auto;" />
       </td>
@@ -127,7 +127,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/936fdea54c1b1cbd7d6a5e2c775aedeb.png" alt="Cover for Thrill Of A Lifetime" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +144,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/374348aae0ba6265a59b36e7c9377891.png" alt="Cover for The Final Countdown" style="max-width:120px; height:auto;" />
       </td>
@@ -163,7 +163,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fb00f906684156c9960e4339c794032.png" alt="Cover for Power Love" style="max-width:120px; height:auto;" />
       </td>
@@ -184,7 +184,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa6118daf460177db7f8c6cf7b4df28a.png" alt="Cover for Look What the Cat Dragged In" style="max-width:120px; height:auto;" />
       </td>
@@ -203,7 +203,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/sAsewx1rC08mcDgAcpgJtNohaFAqOaZmWBocvOh2Rs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjI3/MzktMTQ0Mzk3NDEy/MS0yNDM4LmpwZWc.jpeg" alt="Cover for Da Vinci" style="max-width:120px; height:auto;" />
       </td>
@@ -225,7 +225,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33b47c07494c424196e08fd73c0ba606.png" alt="Cover for Crazy Nights" style="max-width:120px; height:auto;" />
       </td>
@@ -243,7 +243,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27408ef6eefcb0fb48cdc5c799e9062c.png" alt="Cover for Fire Works" style="max-width:120px; height:auto;" />
       </td>
@@ -260,7 +260,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9132e69d78e427fc27d7315d5f0c064.png" alt="Cover for Over The Edge" style="max-width:120px; height:auto;" />
       </td>
@@ -278,7 +278,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8115b760eefa4bca8e7995d911d6925e.png" alt="Cover for Open Up And Say.. Ahh!" style="max-width:120px; height:auto;" />
       </td>
@@ -300,7 +300,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/056c16f21ba84d77b137a7d496a5f427.png" alt="Cover for Vreme Je Za Nas" style="max-width:120px; height:auto;" />
       </td>
@@ -321,7 +321,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
       </td>
       <td>1989-10-17</td>
@@ -334,12 +334,12 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 9</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2686120c2f7a3b884ae5f81702d399e1.png" alt="Cover for Slip Of The Tongue" style="max-width:120px; height:auto;" />
       </td>
@@ -357,7 +357,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79d79b69d623b1f1ed050f45125f847b.png" alt="Cover for Cherry Pie" style="max-width:120px; height:auto;" />
       </td>
@@ -376,7 +376,27 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>32</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/030670cb577a966cfbc1adc8df09e06b.png" alt="Cover for Slave To The Thrill" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Hurricane</td>
+      <td>Slave To The Thrill</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
       <td>
       </td>
       <td>1990</td>
@@ -397,27 +417,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>68</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/030670cb577a966cfbc1adc8df09e06b.png" alt="Cover for Slave To The Thrill" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1990</td>
-      <td>Hurricane</td>
-      <td>Slave To The Thrill</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/9lv9QhLNv_qib4ZN3GHij0GDe7uWUzv0HZljhXCjd9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEx/MjUtMTYzMTM2Mzk1/MS00MTQ1LmpwZWc.jpeg" alt="Cover for u snovima" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +438,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb990b8482224a9fbfaaf0a717939a73.png" alt="Cover for Vault" style="max-width:120px; height:auto;" />
       </td>
@@ -455,7 +455,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/J24dMjaACdN2y73SoRXnF9CfthuTrMDIBdcmdhLhqNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjMw/NDUtMTU5ODIxMjA4/NS04NTYyLmpwZWc.jpeg" alt="Cover for The Storyteller" style="max-width:120px; height:auto;" />
       </td>
@@ -473,7 +473,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec847a35ca8ee0a2fffa8f3cd83e94ff.png" alt="Cover for The Silence Is Broken" style="max-width:120px; height:auto;" />
       </td>
@@ -495,7 +495,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/gZPjp1clyGBo04PjTmgSveVt47SbpUR0c1uCoknmTUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTQ3/ODktMTM5Nzc3NzU2/My0xNTI0LmpwZWc.jpeg" alt="Cover for Moments from the Fringe" style="max-width:120px; height:auto;" />
       </td>
@@ -513,7 +513,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97fd1f4b615c1385a6144477db1bd532.png" alt="Cover for Cher" style="max-width:120px; height:auto;" />
       </td>
@@ -535,7 +535,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26dceaac062346f8bdfc25ea28e3bd3e.png" alt="Cover for Into the Void" style="max-width:120px; height:auto;" />
       </td>
@@ -559,7 +559,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/Agq1DXmg8Xchg6nZoo4S9vbVdC2r7pBq2O_xKW7vZWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzU0/MC0xMTc5NTIxNDEw/LmpwZWc.jpeg" alt="Cover for Party Til You Puke" style="max-width:120px; height:auto;" />
       </td>
@@ -581,7 +581,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>20</td>
       <td>
       </td>
       <td>2001-10-22</td>
@@ -600,7 +600,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/7SYnWgy0j9ERgDPRoQ6MEW_-u8HuZ_Z4-tZ7wmhA2Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTI5/MDktMTYwNjQ3Njgw/OC0zOTA2LmpwZWc.jpeg" alt="Cover for We Want Fun" style="max-width:120px; height:auto;" />
       </td>
@@ -620,7 +620,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/VaDhQ9CTblfpLmcUnV7xoG1jqAny_gpF_MvVk7de9zM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ0/MDEtMTQ5NjQwMjM0/Mi04ODA2LmpwZWc.jpeg" alt="Cover for She Is Beautiful" style="max-width:120px; height:auto;" />
       </td>
@@ -640,7 +640,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/acQ-bGwvU5M49KaKiPEGVd4uhj7zqRT4zBusKEJZjiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDMy/OTctMTY0NDQyMTIw/Mi00Mjk4LmpwZWc.jpeg" alt="Cover for Numb" style="max-width:120px; height:auto;" />
       </td>
@@ -660,7 +660,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/-dGtUlXtM5hakY4CrgOQVaNZCIgr6ivh7sgUIxfCOes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTU0/NzgtMTMyODczODYx/MC5qcGVn.jpeg" alt="Cover for Best Of Motley Crue" style="max-width:120px; height:auto;" />
       </td>
@@ -678,7 +678,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0efeaa5b9a584fd8b05f7b8430fda54e.png" alt="Cover for Hysteria 2013 (Re-Recorded Version) - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -701,7 +701,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/1FFVvxhwjcRsw_GywFPhNpM0u4ZsKwD8lbMtVGkqTug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjc5/NTYtMTI2NTU0NjE1/NC5qcGVn.jpeg" alt="Cover for Girl Can Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -724,7 +724,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5822fc79d4d04652ad2833fe656fae76.png" alt="Cover for Traces of Sadness" style="max-width:120px; height:auto;" />
       </td>
@@ -741,7 +741,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/kL2ZZMCzg_LnjSRVCfJ9I5w3Fv5dwmUDRb6LByuQkJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE3/NzctMTM2MTMzMjEy/Mi0zNzg1LmpwZWc.jpeg" alt="Cover for We&#39;re All To Blame" style="max-width:120px; height:auto;" />
       </td>
@@ -765,7 +765,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a60c7db5f45214b0da0d1386248e1c9.png" alt="Cover for Nobody Loves Me" style="max-width:120px; height:auto;" />
       </td>
@@ -785,7 +785,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>2006-01-01</td>
@@ -803,7 +803,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aea6d8cb554ef0797d46fcccdbff4920.png" alt="Cover for Funeral for Yesterday" style="max-width:120px; height:auto;" />
       </td>
@@ -820,7 +820,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
       </td>
       <td>2007-02-23</td>
@@ -833,12 +833,12 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 84</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/IUDfFTPkhaP5xZMaKC0qv4dlYRUIOFPf5FEPfy5BlLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjA4/MjAtMTM0OTI4Mjg0/Mi02NTQ0LmpwZWc.jpeg" alt="Cover for Andrew W.K. Premium Collection - The Very Best So Far" style="max-width:120px; height:auto;" />
       </td>
@@ -858,7 +858,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d19113774fe2ccd07841ec5e4a5e8b10.png" alt="Cover for Dead by April" style="max-width:120px; height:auto;" />
       </td>
@@ -876,7 +876,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54bedc6a728f4866c887166d9859d30d.png" alt="Cover for Addicted" style="max-width:120px; height:auto;" />
       </td>
@@ -895,7 +895,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/q5mWmT37-oYpe4_TKXtB-j4KR2wzJ2A7xgEZV_uXoa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTg5/MDUtMTI1ODE3NTUx/Ni5qcGVn.jpeg" alt="Cover for ADDICTED!" style="max-width:120px; height:auto;" />
       </td>
@@ -913,7 +913,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1331cefc402e43bab4537a81901f3a09.png" alt="Cover for Дорога Домой" style="max-width:120px; height:auto;" />
       </td>
@@ -932,7 +932,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d153bb02769455397c8b460eacd4f61.png" alt="Cover for Fever" style="max-width:120px; height:auto;" />
       </td>
@@ -948,13 +948,13 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
         <ul>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 6</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 23</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 76</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 25</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>38</td>
       <td>
       </td>
       <td>2010-08-10</td>
@@ -975,7 +975,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89531a2239cb416eb0a6bd8a4d2ff3d6.png" alt="Cover for The Enigma of Life" style="max-width:120px; height:auto;" />
       </td>
@@ -993,7 +993,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29c2d785db02f31867c21fc0edcbc6f7.png" alt="Cover for Amaranthe" style="max-width:120px; height:auto;" />
       </td>
@@ -1011,7 +1011,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e30b400ff0746abb8c2abff474c618a.png" alt="Cover for Within My Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1037,7 +1037,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9a52dceac950fec6ad024cc61a13dac.png" alt="Cover for Epsilon" style="max-width:120px; height:auto;" />
       </td>
@@ -1054,7 +1054,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9373d0ea8ad9f96fa7f100f7ae48331f.png" alt="Cover for Incomparable" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,7 +1072,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e52b140a736e419d94febb101056f96b.png" alt="Cover for Comeblack" style="max-width:120px; height:auto;" />
       </td>
@@ -1091,7 +1091,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/465b403186d0a7c16f417d9b19af7b64.png" alt="Cover for Incomparable (Mystery Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,7 +1109,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5942933771004b78a60116a0745e0e1a.png" alt="Cover for Rocket Sister" style="max-width:120px; height:auto;" />
       </td>
@@ -1127,7 +1127,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c9043d39c864cb1b4175f4c765c97a8.png" alt="Cover for Classics" style="max-width:120px; height:auto;" />
       </td>
@@ -1150,7 +1150,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/605d6d4a1b1f4e66a8d2322492231cf9.png" alt="Cover for The Nexus" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,7 +1169,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/FP30QJUr6Zo35MAQH6hBWuJ-qKV2Mz2Er82uCdQADpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjU5/MjMtMTM3NDgyOTk1/NS05MDkxLnBuZw.jpeg" alt="Cover for Action" style="max-width:120px; height:auto;" />
       </td>
@@ -1191,7 +1191,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c6ed0e4a6c72a4c5a8728f33f428974.png" alt="Cover for Super Collider" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,7 +1210,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ab56ebf6b7843e1c34ea1c2257dec60.png" alt="Cover for Let The World Know" style="max-width:120px; height:auto;" />
       </td>
@@ -1228,7 +1228,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b873d3257c445d0c526d6100802ff28.png" alt="Cover for Siren Charms" style="max-width:120px; height:auto;" />
       </td>
@@ -1247,7 +1247,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/defabcffcf9745eec5d366aec9f0b84d.png" alt="Cover for Massive Addictive" style="max-width:120px; height:auto;" />
       </td>
@@ -1266,7 +1266,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db5893b7b54f4282c2d8584275162552.png" alt="Cover for Massive Addictive [Bonus Tracks]" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,7 +1289,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb11c09144482b026642b30089bdef2c.png" alt="Cover for Unwanted Today" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1310,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2db6ffc514faa95ffaa64d2d801c52fd.png" alt="Cover for Flash Back" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,7 +1329,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/GUNfrnax45W28K9faB6Wag8Q9EpohaPXJJ442x45w5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mzc0/MjYtMTQ0NTY3NTk3/OS02MzExLmpwZWc.jpeg" alt="Cover for Innuendo" style="max-width:120px; height:auto;" />
       </td>
@@ -1349,7 +1349,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/711aead71b4e414e061bda836566325c.png" alt="Cover for Moonbathers (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,7 +1372,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/553d7cba675fc2fc78e0daeeffe25374.png" alt="Cover for Maximalism" style="max-width:120px; height:auto;" />
       </td>
@@ -1391,7 +1391,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06bc5800b9c853f27aa6bf3e59b40f4b.png" alt="Cover for Maximalism (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,7 +1412,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6de3fabebb4dbdc79dcf59e44818892.png" alt="Cover for Different Animals" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,13 +1426,13 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 21</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 81</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 20</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de47f3cef272b580d05de5af2f56152d.png" alt="Cover for Kimi Terasu Sairiumu" style="max-width:120px; height:auto;" />
       </td>
@@ -1463,7 +1463,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a40079803647db0b4c8b8e6950c001b.png" alt="Cover for Verehrt und verdammt" style="max-width:120px; height:auto;" />
       </td>
@@ -1481,7 +1481,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ac607f260569fb3f467cf26ae7bc6f0.png" alt="Cover for Berserker" style="max-width:120px; height:auto;" />
       </td>
@@ -1501,7 +1501,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14a0c1d56225361f512f61d14481e5bd.png" alt="Cover for Vicious" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,27 +1519,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>75</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/488dfb80c18274eb49c1d0ed417b79a4.png" alt="Cover for Animal" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-10-19</td>
-      <td>Shining</td>
-      <td>Animal</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 41</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c41a2763db8cb0ddf0c67ae695093b18.png" alt="Cover for 365" style="max-width:120px; height:auto;" />
       </td>
@@ -1568,7 +1548,27 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/488dfb80c18274eb49c1d0ed417b79a4.png" alt="Cover for Animal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-19</td>
+      <td>Shining</td>
+      <td>Animal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09ed765ae90981d8d2dc83cb1ca227f8.png" alt="Cover for The Goat" style="max-width:120px; height:auto;" />
       </td>
@@ -1585,7 +1585,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b21495764846227e3e05cf09deffbb0.png" alt="Cover for Resist (Extended Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1603,7 +1603,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0803812dc6afc031f788f160534a3b1.png" alt="Cover for From Hell With Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1622,7 +1622,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3244b14252272c321ea930e69b390b9a.png" alt="Cover for Super Human" style="max-width:120px; height:auto;" />
       </td>
@@ -1640,7 +1640,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/485828defd6b7008c85af06c11927446.png" alt="Cover for Worldwide Torture" style="max-width:120px; height:auto;" />
       </td>
@@ -1663,7 +1663,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a74796650781034d862975df0282b64a.png" alt="Cover for I Disagree" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,14 +1677,14 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 11</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 12</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 34</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/628bbb8b50b7edf04819337b3e1eff6e.png" alt="Cover for The Collection II" style="max-width:120px; height:auto;" />
       </td>
@@ -1701,7 +1701,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01788a6a4fda7962622b8a515181cd77.png" alt="Cover for Initiation" style="max-width:120px; height:auto;" />
       </td>
@@ -1722,7 +1722,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5c5c0684b20f45712881feaa77cdaab.png" alt="Cover for Neon Noir" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,7 +1745,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca948ae32a239a23563ed249664a8ea2.png" alt="Cover for A Sign of Things to Come" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,7 +1763,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/uOjePUT-Fd7kXxa-NsdQ20XYOSX_wB7UZHqLkQa2MUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgy/MzQ2LTE1OTU4MzM0/OTctMzY2Mi5qcGVn.jpeg" alt="Cover for Культ" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,7 +1782,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/-vw5mS52AbRuJ1vLd_EQ0WAUYyVvP9tDuSs37Go2dRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDgy/NDA2LTE3MDE0NzYx/MzUtNTE1Ni5qcGVn.jpeg" alt="Cover for What If I Break?" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,7 +1802,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8076d6588bd52dadb5723ba6cea3c67.png" alt="Cover for The Catalyst" style="max-width:120px; height:auto;" />
       </td>
@@ -1821,7 +1821,67 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ce22e752e12b82992160fadd4cdf483.png" alt="Cover for I Will Destroy You, Myself, and Everything I&#39;ve Ever Loved." style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>ZOMBIESHARK!</td>
+      <td>I Will Destroy You, Myself, and Everything I&#39;ve Ever Loved.</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/486c4d208316c0c62c77ad86cb52e4db.png" alt="Cover for BORN FROM A WISH" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>ZOMBIESHARK!</td>
+      <td>BORN FROM A WISH</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3559a1f702b4cf8a0dca702ea53557d.png" alt="Cover for Down to Earth" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Ozzy Osbourne</td>
+      <td>Down to Earth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
       </td>
       <td></td>
@@ -1866,140 +1926,14 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3559a1f702b4cf8a0dca702ea53557d.png" alt="Cover for Down to Earth" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Ozzy Osbourne</td>
-      <td>Down to Earth</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 25</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/486c4d208316c0c62c77ad86cb52e4db.png" alt="Cover for BORN FROM A WISH" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>ZOMBIESHARK!</td>
-      <td>BORN FROM A WISH</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ce22e752e12b82992160fadd4cdf483.png" alt="Cover for I Will Destroy You, Myself, and Everything I&#39;ve Ever Loved." style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>ZOMBIESHARK!</td>
-      <td>I Will Destroy You, Myself, and Everything I&#39;ve Ever Loved.</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 51</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
-      <td>ZOMBIESHARK!</td>
-      <td>Born From a Wish - EP</td>
+      <td>The Day We Left Earth</td>
+      <td>The Day We Left Earth</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Egan Solo</td>
-      <td>Still</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td></td>
-      <td>ZOMBIESHARK!</td>
-      <td>GRIM REAPER GUTTERS</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b9b15129f35b955e18645f1f6631fad.png" alt="Cover for SMILE SUPPORT SOCIETY" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>ZOMBIESHARK!</td>
-      <td>SMILE SUPPORT SOCIETY</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a></li>
         </ul>
       </td>
@@ -2029,14 +1963,80 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b9b15129f35b955e18645f1f6631fad.png" alt="Cover for SMILE SUPPORT SOCIETY" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>ZOMBIESHARK!</td>
+      <td>SMILE SUPPORT SOCIETY</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
       <td>
       </td>
       <td></td>
-      <td>The Day We Left Earth</td>
-      <td>The Day We Left Earth</td>
+      <td>ZOMBIESHARK!</td>
+      <td>GRIM REAPER GUTTERS</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Egan Solo</td>
+      <td>Still</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td></td>
+      <td>ZOMBIESHARK!</td>
+      <td>Born From a Wish - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a></li>
         </ul>
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T00:58:45.964Z
+date: 2025-12-07T11:49:56.986Z
 permalink: tags/tango
 title: tango
 ---
 
 ## tango
 
-Last updated: <time datetime="2025-12-05T00:58:45.964Z">Fri Dec 05 2025 02:58:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T11:49:56.986Z">Sun Dec 07 2025 13:49:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -135,8 +135,8 @@ Tango is a passionate music and dance genre that originated in late 19th-century
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 15</li>
             <li> <a href="{{ "/tags/tango-argentino" | relative_url }}">tango argentino</a> # 17</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 86</li>
         </ul>
       </td>
     </tr>

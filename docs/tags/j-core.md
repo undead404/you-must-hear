@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T00:44:46.027Z
+date: 2025-12-07T11:06:56.437Z
 permalink: tags/j-core
 title: j-core
 ---
 
 ## j-core
 
-Last updated: <time datetime="2025-12-05T00:44:46.027Z">Fri Dec 05 2025 02:44:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T11:06:56.437Z">Sun Dec 07 2025 13:06:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1414,6 +1414,7 @@ J-core (Japanese core) is a subgenre of electronic dance music that originated i
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a></li>
@@ -1422,6 +1423,7 @@ J-core (Japanese core) is a subgenre of electronic dance music that originated i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a> # 52</li>
             <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 67</li>
         </ul>
       </td>
