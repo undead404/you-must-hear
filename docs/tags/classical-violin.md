@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:22:03.032Z
+date: 2025-12-07T16:24:54.635Z
 permalink: tags/classical-violin
 title: classical violin
 ---
 
 ## classical violin
 
-Last updated: <time datetime="2025-12-05T04:22:03.032Z">Fri Dec 05 2025 06:22:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T16:24:54.635Z">Sun Dec 07 2025 18:24:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -258,7 +258,7 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 39</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -315,7 +315,7 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 31</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -352,7 +352,7 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 52</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -375,7 +375,7 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 9</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -471,7 +471,7 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>
         <ul>
             <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 40</li>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 42</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 59</li>
             <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 93</li>
         </ul>
       </td>
@@ -549,7 +549,7 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 29</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -602,8 +602,8 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 13</li>
             <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 80</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -874,7 +874,7 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 36</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1281,7 +1281,7 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 19</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1377,8 +1377,8 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 4</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 39</li>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1399,8 +1399,8 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 5</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 72</li>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1419,10 +1419,10 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 10</li>
             <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 11</li>
             <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 60</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 66</li>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1445,8 +1445,8 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 13</li>
             <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 21</li>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1465,8 +1465,8 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 25</li>
             <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 35</li>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1486,7 +1486,7 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 60</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1506,7 +1506,7 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 21</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1525,7 +1525,7 @@ Classical violin music refers to music composed for and played on the violin in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 15</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 86</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:17:56.901Z
+date: 2025-12-07T15:11:55.513Z
 permalink: tags/east-coast
 title: east coast
 ---
 
 ## east coast
 
-Last updated: <time datetime="2025-12-05T04:17:56.901Z">Fri Dec 05 2025 06:17:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T15:11:55.513Z">Sun Dec 07 2025 17:11:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -229,7 +229,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
         <ul>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 5</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 49</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 83</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -489,7 +489,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
         <ul>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 10</li>
             <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 11</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 42</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1128,7 +1128,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       <td>
         <ul>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 76</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 90</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1460,6 +1460,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jay-z" | relative_url }}">jay z</a> # 13</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 16</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 38</li>
         </ul>
@@ -1503,7 +1504,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       <td>
         <ul>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 2</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 95</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1547,8 +1548,8 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 44</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 48</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 57</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 63</li>
         </ul>
       </td>
@@ -1681,7 +1682,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 72</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1808,6 +1809,25 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Gatsby Gets The Green Light</td>
+      <td>Choose Your Own Adventure</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/maryland" | relative_url }}">maryland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/maryland" | relative_url }}">maryland</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>77</td>
       <td>
       </td>
@@ -1820,6 +1840,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a> # 21</li>
             <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 39</li>
             <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 53</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 94</li>
@@ -2035,23 +2056,6 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       <td>
         <ul>
             <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 77</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Gatsby Gets The Green Light</td>
-      <td>Choose Your Own Adventure</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
