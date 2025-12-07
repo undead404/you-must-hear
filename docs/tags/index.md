@@ -1,18 +1,25 @@
 ---
 category: list
-date: 2025-12-07T13:56:11.939Z
+date: 2025-12-07T14:52:55.819Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-07T13:56:11.939Z">Sun Dec 07 2025 15:56:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T14:52:55.819Z">Sun Dec 07 2025 16:52:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [mediterranean]({{ "tags/mediterranean" | relative_url }}) | <time datetime="2025-12-07T14:52:55.819Z">Sun Dec 07 2025 16:52:55 GMT+0200 (Eastern European Standard Time)</time> |
+| [alternative rnb]({{ "tags/alternative-rnb" | relative_url }}) | <time datetime="2025-12-07T14:52:47.952Z">Sun Dec 07 2025 16:52:47 GMT+0200 (Eastern European Standard Time)</time> |
+| [classical composer]({{ "tags/classical-composer" | relative_url }}) | <time datetime="2025-12-07T14:19:28.943Z">Sun Dec 07 2025 16:19:28 GMT+0200 (Eastern European Standard Time)</time> |
+| [surf]({{ "tags/surf" | relative_url }}) | <time datetime="2025-12-07T14:19:22.603Z">Sun Dec 07 2025 16:19:22 GMT+0200 (Eastern European Standard Time)</time> |
+| [depressive black metal]({{ "tags/depressive-black-metal" | relative_url }}) | <time datetime="2025-12-07T14:18:50.631Z">Sun Dec 07 2025 16:18:50 GMT+0200 (Eastern European Standard Time)</time> |
+| [classical christmas]({{ "tags/classical-christmas" | relative_url }}) | <time datetime="2025-12-07T14:13:41.340Z">Sun Dec 07 2025 16:13:41 GMT+0200 (Eastern European Standard Time)</time> |
+| [pagan metal]({{ "tags/pagan-metal" | relative_url }}) | <time datetime="2025-12-07T14:13:33.584Z">Sun Dec 07 2025 16:13:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [gothic metal]({{ "tags/gothic-metal" | relative_url }}) | <time datetime="2025-12-07T13:56:11.939Z">Sun Dec 07 2025 15:56:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [protest]({{ "tags/protest" | relative_url }}) | <time datetime="2025-12-07T13:56:06.464Z">Sun Dec 07 2025 15:56:06 GMT+0200 (Eastern European Standard Time)</time> |
 | [euro house]({{ "tags/euro-house" | relative_url }}) | <time datetime="2025-12-07T13:55:36.581Z">Sun Dec 07 2025 15:55:36 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1384,10 +1391,3 @@ Last updated: <time datetime="2025-12-07T13:56:11.939Z">Sun Dec 07 2025 15:56:11
 | [east coast]({{ "tags/east-coast" | relative_url }}) | <time datetime="2025-12-05T04:17:56.901Z">Fri Dec 05 2025 06:17:56 GMT+0200 (Eastern European Standard Time)</time> |
 | [tropicalia]({{ "tags/tropicalia" | relative_url }}) | <time datetime="2025-12-05T04:17:50.939Z">Fri Dec 05 2025 06:17:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [danish]({{ "tags/danish" | relative_url }}) | <time datetime="2025-12-05T04:00:31.770Z">Fri Dec 05 2025 06:00:31 GMT+0200 (Eastern European Standard Time)</time> |
-| [mediterranean]({{ "tags/mediterranean" | relative_url }}) | <time datetime="2025-12-05T04:00:26.185Z">Fri Dec 05 2025 06:00:26 GMT+0200 (Eastern European Standard Time)</time> |
-| [alternative rnb]({{ "tags/alternative-rnb" | relative_url }}) | <time datetime="2025-12-05T04:00:20.477Z">Fri Dec 05 2025 06:00:20 GMT+0200 (Eastern European Standard Time)</time> |
-| [classical composer]({{ "tags/classical-composer" | relative_url }}) | <time datetime="2025-12-05T04:00:11.640Z">Fri Dec 05 2025 06:00:11 GMT+0200 (Eastern European Standard Time)</time> |
-| [surf]({{ "tags/surf" | relative_url }}) | <time datetime="2025-12-05T03:44:05.428Z">Fri Dec 05 2025 05:44:05 GMT+0200 (Eastern European Standard Time)</time> |
-| [depressive black metal]({{ "tags/depressive-black-metal" | relative_url }}) | <time datetime="2025-12-05T03:43:39.926Z">Fri Dec 05 2025 05:43:39 GMT+0200 (Eastern European Standard Time)</time> |
-| [classical christmas]({{ "tags/classical-christmas" | relative_url }}) | <time datetime="2025-12-05T03:43:34.226Z">Fri Dec 05 2025 05:43:34 GMT+0200 (Eastern European Standard Time)</time> |
-| [pagan metal]({{ "tags/pagan-metal" | relative_url }}) | <time datetime="2025-12-05T03:43:28.565Z">Fri Dec 05 2025 05:43:28 GMT+0200 (Eastern European Standard Time)</time> |
