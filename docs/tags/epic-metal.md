@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T00:23:45.917Z
+date: 2025-12-07T10:32:33.782Z
 permalink: tags/epic-metal
 title: epic metal
 ---
 
 ## epic metal
 
-Last updated: <time datetime="2025-12-05T00:23:45.917Z">Fri Dec 05 2025 02:23:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T10:32:33.782Z">Sun Dec 07 2025 12:32:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
   </thead>
   <tbody>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e46c93329bc46af4cd6f2570fa7683c2.png" alt="Cover for Crystal Logic" style="max-width:120px; height:auto;" />
       </td>
@@ -43,12 +43,12 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/us-power-metal" | relative_url }}">us power metal</a> # 17</li>
+            <li> <a href="{{ "/tags/us-power-metal" | relative_url }}">us power metal</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/973b4de86aa04b0db47aab4dd79901b0.png" alt="Cover for The Etruscan Prophecy" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,26 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/idcefbxKDONwflpVmOwyPLVkLttrvmeYEg3GXvevgy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzM4/MDEtMTM2OTA5NzAy/OS03NDIwLmpwZWc.jpeg" alt="Cover for Rata Blanca" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988-10</td>
+      <td>Rata Blanca</td>
+      <td>Rata Blanca</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3bdc8199ec66acb2430f6cfad738468.png" alt="Cover for Age of Consent" style="max-width:120px; height:auto;" />
       </td>
@@ -86,26 +105,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>90</td>
-      <td>
-          <img src="https://i.discogs.com/idcefbxKDONwflpVmOwyPLVkLttrvmeYEg3GXvevgy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzM4/MDEtMTM2OTA5NzAy/OS03NDIwLmpwZWc.jpeg" alt="Cover for Rata Blanca" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1988-10</td>
-      <td>Rata Blanca</td>
-      <td>Rata Blanca</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94dd95e630d264cf74f1bebd141ff5a0.png" alt="Cover for Imaginations From The Other Side" style="max-width:120px; height:auto;" />
       </td>
@@ -125,7 +125,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f630fd5fcb2ab84223ae4b0414db0eee.png" alt="Cover for Endless Dreams Of Sadness" style="max-width:120px; height:auto;" />
       </td>
@@ -150,12 +150,12 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 46</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2796a8375d3449c0c9eb4207f83182b6.png" alt="Cover for The Forgotten Tales" style="max-width:120px; height:auto;" />
       </td>
@@ -174,26 +174,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>58</td>
-      <td>
-          <img src="https://i.discogs.com/DK66wMrh8p1snsR61oaCPZ1YpXk3unI6iOM7U-E2iJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDI4/MC0xMTI0MjA3ODAy/LmpwZw.jpeg" alt="Cover for Starfire Burning Upon The Ice Veiled Throne Of Ultima Thule" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996-11-25</td>
-      <td>Bal-Sagoth</td>
-      <td>Starfire Burning Upon The Ice Veiled Throne Of Ultima Thule</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba3afecbd518788b99643b91f3ada749.png" alt="Cover for Starfire Burning Upon the Ice-Veiled Throne of Ultima Thule" style="max-width:120px; height:auto;" />
       </td>
@@ -212,7 +193,26 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/DK66wMrh8p1snsR61oaCPZ1YpXk3unI6iOM7U-E2iJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDI4/MC0xMTI0MjA3ODAy/LmpwZw.jpeg" alt="Cover for Starfire Burning Upon The Ice Veiled Throne Of Ultima Thule" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-11-25</td>
+      <td>Bal-Sagoth</td>
+      <td>Starfire Burning Upon The Ice Veiled Throne Of Ultima Thule</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/HMJpIWfbDDRWWOApteDOjIkHbiWLN408fz9NTUALwC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTcy/ODUtMTI4NzI0OTg5/Ni5qcGVn.jpeg" alt="Cover for Champion Eternal" style="max-width:120px; height:auto;" />
       </td>
@@ -232,7 +232,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>1997-10-22</td>
@@ -246,14 +246,14 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 26</li>
             <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 40</li>
             <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 71</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1ab8bb986f84836bcc4eb75d717ec85.png" alt="Cover for Invictus" style="max-width:120px; height:auto;" />
       </td>
@@ -272,7 +272,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>1998-10-05</td>
@@ -293,7 +293,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d17e6a4094984fd8884e4549cba7db91.png" alt="Cover for Battle Magic" style="max-width:120px; height:auto;" />
       </td>
@@ -312,7 +312,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
       </td>
       <td>1999</td>
@@ -331,7 +331,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td>1999</td>
@@ -348,7 +348,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/nAHfaO4KfYqt6yvmivPTw_fV-ZTIkRjBNCFdWie4n6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODI4/NC0xNDc3OTUzOTQz/LTM4OTkuanBlZw.jpeg" alt="Cover for Millenium Metal - Chapter One" style="max-width:120px; height:auto;" />
       </td>
@@ -366,7 +366,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/W8IjZCkgcA7_28dI18GuWaNwm9ofqcFbzXXelLd2fr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjMx/MC0xNDE0MTk3NzU3/LTU1MjIuanBlZw.jpeg" alt="Cover for King of the Nordic Twilight" style="max-width:120px; height:auto;" />
       </td>
@@ -385,7 +385,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>63</td>
       <td>
       </td>
       <td>1999-10-11</td>
@@ -407,7 +407,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/_DSWDbGugYWICR5BtriLYvu6alwb5-IV3SbzTlrPn-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NzEtMTE5MjAyNzIw/Ny5qcGVn.jpeg" alt="Cover for The Ancient Forest of Elves" style="max-width:120px; height:auto;" />
       </td>
@@ -425,7 +425,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa97f553c4b4bf96baf2fc8a03e07b51.png" alt="Cover for Dawn of Victory" style="max-width:120px; height:auto;" />
       </td>
@@ -447,7 +447,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b135bec8c34f87ec31df5ed3dd8ace58.png" alt="Cover for Hymns to Victory" style="max-width:120px; height:auto;" />
       </td>
@@ -468,7 +468,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>60</td>
       <td>
       </td>
       <td>2001</td>
@@ -487,7 +487,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>2001-04-17</td>
@@ -509,7 +509,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/NdDyuqYHNGU2ZC12l9PCb_IuuKbKl3x2g-cok8a860k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTUy/NC0xMjQ1NDQ2OTA3/LmpwZWc.jpeg" alt="Cover for Rain of a Thousand Flames" style="max-width:120px; height:auto;" />
       </td>
@@ -531,7 +531,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/MZ7UROgJHoGBAetlUfyBK663aT0M8dR7VpRdC8eKKds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTk0/Mi0xMTI3MDM2ODcz/LmpwZWc.jpeg" alt="Cover for Let Mortal Heroes Sing Your Fame" style="max-width:120px; height:auto;" />
       </td>
@@ -554,7 +554,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/shvi50LkzjhXjV7OzUpWJCiDXL0kf6lWdum1xREgWYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTc1/NC0xMTU2OTQwMTY3/LmpwZWc.jpeg" alt="Cover for At The Gates Of Utopia" style="max-width:120px; height:auto;" />
       </td>
@@ -575,7 +575,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2737f772e8ba34027759c40cba6ebad.png" alt="Cover for ...Where the Shadows Lie" style="max-width:120px; height:auto;" />
       </td>
@@ -593,7 +593,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1a0d59047f6ebcc79e1a80f900aa5a7.png" alt="Cover for A Night at the Opera" style="max-width:120px; height:auto;" />
       </td>
@@ -612,7 +612,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
       </td>
       <td>2002-02-25</td>
@@ -629,7 +629,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c399b69dc3db3e2df585d656dfc5289.png" alt="Cover for Power of the Dragonflame" style="max-width:120px; height:auto;" />
       </td>
@@ -652,7 +652,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70045c55c18ac02e19574cdca3bf522f.png" alt="Cover for Warriors of the World" style="max-width:120px; height:auto;" />
       </td>
@@ -668,13 +668,13 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       <td>
         <ul>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 33</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 35</li>
             <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 61</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/bkZqgEw4eCaliqCneMX4xYcR1gZl7AJuDV0A6MDNnAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQz/NzQtMTU2NDg0NTY3/My01MzkyLmpwZWc.jpeg" alt="Cover for Wizard" style="max-width:120px; height:auto;" />
       </td>
@@ -692,7 +692,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/2STPSeRjurNBX7DhSaNyyZ8mUQCdntH-6hJYkQyywlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NzQtMTE5MjAyNzQy/OS5qcGVn.jpeg" alt="Cover for Demonheart" style="max-width:120px; height:auto;" />
       </td>
@@ -711,7 +711,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e053a57e1d228859255bba7f699b05cc.png" alt="Cover for Prophet of The Last Eclipse" style="max-width:120px; height:auto;" />
       </td>
@@ -731,7 +731,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/TTAe3CO44jPQKDhCPB7glOnRJfy4WlA5NPYE8vLbxuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjAy/MTEtMTM4MTU4MjY4/Ni0zMjE4LmpwZWc.jpeg" alt="Cover for Starfire Burning Upon the Ice Veiled Throne of Ultima Thule" style="max-width:120px; height:auto;" />
       </td>
@@ -750,7 +750,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3234105b51a4b8ba5c23b4a957fd211.png" alt="Cover for Handmade Essence" style="max-width:120px; height:auto;" />
       </td>
@@ -768,7 +768,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b44ca6b08f36c9344b6b1e868e366e4.png" alt="Cover for Sword&#39;s Song" style="max-width:120px; height:auto;" />
       </td>
@@ -782,14 +782,14 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 17</li>
             <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 47</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 84</li>
             <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/aRgtM8NpoIrYvfcmE9Hob0c3-hd5r_H01XF6FjtZzN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTQ0/NDUtMTM4NTk3NjU1/NC0zMzY1LmpwZWc.jpeg" alt="Cover for Seisen no Iberia" style="max-width:120px; height:auto;" />
       </td>
@@ -809,7 +809,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e202e55b94e14a269cd38746ac655b63.png" alt="Cover for L&#39;Armata del Metallo" style="max-width:120px; height:auto;" />
       </td>
@@ -829,7 +829,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7aa47f76b9d04f52cfabebe0142c0d7d.png" alt="Cover for Tales From the Emerald Sword Saga" style="max-width:120px; height:auto;" />
       </td>
@@ -850,7 +850,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3baf4fd7e3634250b4f05bf1256634f6.png" alt="Cover for The Gorgon Cult" style="max-width:120px; height:auto;" />
       </td>
@@ -870,7 +870,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c971abd13dc44fdb113c77b595db239.png" alt="Cover for Third Age of the Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -884,14 +884,14 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 1</li>
             <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 52</li>
             <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 92</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5a61f0e16d646ba8f32a2eddf7878e3.png" alt="Cover for Gates of Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -911,7 +911,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e555eb9167345a9bc7c4c38c7cdf99c.png" alt="Cover for Jeanne D&#39;Arc" style="max-width:120px; height:auto;" />
       </td>
@@ -930,7 +930,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90ec6467090543cdc399ba42ecd0ed72.png" alt="Cover for Complications: Trilogy of Intricacy" style="max-width:120px; height:auto;" />
       </td>
@@ -966,12 +966,12 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
         <ul>
             <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 24</li>
             <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 38</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 56</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>2005-10-17</td>
@@ -988,7 +988,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/pK9zVTl9SNa-ePq52AE10ELqmEw4Cm62scG1F92moUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjc4/MzctMTI5Mzk3ODQ2/OC5qcGVn.jpeg" alt="Cover for The Pnakotic Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,7 +1007,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
       </td>
       <td>2006-01-23</td>
@@ -1026,7 +1026,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
       </td>
       <td>2006-03-10</td>
@@ -1046,7 +1046,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68537e7633b6474dc72e5f87dd237742.png" alt="Cover for Oath Bound" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,7 +1068,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ca1499a97a44031a4ecf9abaa68c9c9.png" alt="Cover for A Twist in the Myth" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,7 +1087,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4c83a3085fa5b5a9d150e90759ead63.png" alt="Cover for Devour The Power" style="max-width:120px; height:auto;" />
       </td>
@@ -1110,7 +1110,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="http://coverartarchive.org/release/1c236486-4e13-3f6e-91e0-4c04981564af/4310979390-250.jpg" alt="Cover for Triumph or Agony" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,7 +1133,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c966e81662048c3c8ff6a20a9d46221.png" alt="Cover for 薔薇獄乙女" style="max-width:120px; height:auto;" />
       </td>
@@ -1156,7 +1156,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98f55d20b09d09b74eace641a78ce659.png" alt="Cover for Evernight" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,13 +1170,13 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 15</li>
             <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 56</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2825e27f0b6d4160c182a13ab6b68f76.png" alt="Cover for Gods of War" style="max-width:120px; height:auto;" />
       </td>
@@ -1196,7 +1196,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0e4859e7cff4cddac5abbc165797dfa.png" alt="Cover for Still At War" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,7 +1214,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c098e010eb7c93013a39dde8aa83935.png" alt="Cover for Somewhere Far Beyond (Remastered 2007)" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,7 +1237,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bc1b70990549ba66faac3e2fbdbd5ef.png" alt="Cover for Medievil" style="max-width:120px; height:auto;" />
       </td>
@@ -1256,7 +1256,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36ea0c732f0135e630cbf70d11a04bf3.png" alt="Cover for The Forgotten Tales (Remastered 2007)" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,7 +1281,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8535a38b10382577448fdd70208503ee.png" alt="Cover for Warchest" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,7 +1299,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
       </td>
       <td>2007-11-11</td>
@@ -1318,7 +1318,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a9ba221097246d0a02ac8c3d74f001d.png" alt="Cover for Global Warning" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,7 +1338,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac1d37c75a4c249a1a2edc9112a01e4c.png" alt="Cover for To Death and Beyond..." style="max-width:120px; height:auto;" />
       </td>
@@ -1356,7 +1356,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
       </td>
       <td>2008-06-27</td>
@@ -1376,7 +1376,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48e54a65f6fe47e49b1ac22ef998aae2.png" alt="Cover for Licht" style="max-width:120px; height:auto;" />
       </td>
@@ -1397,7 +1397,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a70db4f15b3aaa8bd3cfba6595b771bb.png" alt="Cover for Vengeance" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,7 +1419,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b56100741684570afdc9712ebfe69e2.png" alt="Cover for Moira" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,7 +1438,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a04b1d77e423f41f5dc3e69daf7149f5.png" alt="Cover for The Last Alliance" style="max-width:120px; height:auto;" />
       </td>
@@ -1458,7 +1458,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/m6Jp_Qikroo5njxAxDC1HEy0L5tIzu2Y-_ivJ2xgPyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDM0/ODEtMTQ1OTk2NTE5/OS0yNTQwLmpwZWc.jpeg" alt="Cover for Shadowheart" style="max-width:120px; height:auto;" />
       </td>
@@ -1476,7 +1476,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/mbtBu-aWMm49DiaDJG9kgdxeUFrqFWcc4ixI6ejIMNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDY4/MTYtMTUwNTIzNTcz/NS0xNDQyLmpwZWc.jpeg" alt="Cover for Mysticism" style="max-width:120px; height:auto;" />
       </td>
@@ -1495,12 +1495,12 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
         <ul>
             <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 3</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 17</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 20</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
       </td>
       <td>2009-05-22</td>
@@ -1519,7 +1519,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39261097bc434a209c6ad4fe0c9129a0.png" alt="Cover for Heavy Metal Thunder" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,7 +1539,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d0e51b704cb402182e80cf0d4e5d9e1.png" alt="Cover for The Alliance Of The Kings" style="max-width:120px; height:auto;" />
       </td>
@@ -1562,7 +1562,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd4a15766ce14fcecf5cf35aed52a3ef.png" alt="Cover for The Frozen Tears Of Angels" style="max-width:120px; height:auto;" />
       </td>
@@ -1584,7 +1584,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75f7db92b5bb44bbb2a7df1e7359cb21.png" alt="Cover for Live in the USA" style="max-width:120px; height:auto;" />
       </td>
@@ -1609,7 +1609,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e5fa7c8dd1023cdb5295bb08b7a1c22.png" alt="Cover for Rekreatur" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,7 +1628,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/898d6b01316e4950b04bd6d91ece48e3.png" alt="Cover for 刀と鞘" style="max-width:120px; height:auto;" />
       </td>
@@ -1651,7 +1651,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
       </td>
       <td>2010-10-15</td>
@@ -1667,12 +1667,12 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       <td>
         <ul>
             <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 11</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 11</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f9e1ab39e5bdc5f56d4da80ca7047ab.png" alt="Cover for Fear Of Infinity" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,7 +1692,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
       </td>
       <td>2011-07-13</td>
@@ -1711,7 +1711,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5354a7981f1c48e3bbee46682576644d.png" alt="Cover for Time I" style="max-width:120px; height:auto;" />
       </td>
@@ -1728,12 +1728,12 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
         <ul>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 25</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 40</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 78</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/lqhB99WGpnI43Ka01cuZyD4W9LXPwyj7B_3Ep1mUiO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/MTI4LTE2Nzk1Njc1/NjMtNzIxNi5qcGVn.jpeg" alt="Cover for Heart of the Android" style="max-width:120px; height:auto;" />
       </td>
@@ -1749,12 +1749,12 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 99</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>2013-03-29</td>
@@ -1773,7 +1773,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>59</td>
       <td>
       </td>
       <td>2013-05-03</td>
@@ -1794,7 +1794,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
       </td>
       <td>2013-10-04</td>
@@ -1812,7 +1812,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/rOwbaPnuMKH3T_AilsmEcO9I1Tme5CH-0ncufEnVXmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjg4/MDMtMTMwMjg5MTUz/My5qcGVn.jpeg" alt="Cover for Titan (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1830,7 +1830,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
       </td>
       <td>2014-06-06</td>
@@ -1848,7 +1848,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>2014-12-05</td>
@@ -1866,7 +1866,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/12i8AwCRz-5UfnK0sSJJ1AqapzQ40OHdYfXsNpc-Bkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODYz/MDEtMTQ3MTAwMDk0/MC02MjcwLmpwZWc.jpeg" alt="Cover for Armageddon" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,7 +1885,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd26e670d1ad29b7e44d820058f1e911.png" alt="Cover for The Armor Of Ire" style="max-width:120px; height:auto;" />
       </td>
@@ -1905,7 +1905,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/yxl9LzEaDOiarBjiqAnFv4fzjDU7lCQEhf2ZSj28YYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTkw/NjEtMTQ4ODU1MDgx/My03ODE5LmpwZWc.jpeg" alt="Cover for Endless Dream Of Sadness" style="max-width:120px; height:auto;" />
       </td>
@@ -1930,13 +1930,13 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 47</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 54</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c329ec3577ffb7b8313ae188a2c5ff2b.png" alt="Cover for Follow the Blind (Remastered 2017)" style="max-width:120px; height:auto;" />
       </td>
@@ -1961,7 +1961,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/4oiwHmm6U0fwyasfGHvbEbYe-rQGaN9VZZ85srclbBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIx/NTQ1LTE1NTM2ODU0/OTgtNjEzMy5qcGVn.jpeg" alt="Cover for Malady X" style="max-width:120px; height:auto;" />
       </td>
@@ -1979,7 +1979,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/3pz6KarN9Fpf32TLIsI_XgtNpGGhUDVQlyQanH-52S0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQz/NDMzLTE1NjY3MDA4/OTQtMzAzNS5qcGVn.jpeg" alt="Cover for Renegades" style="max-width:120px; height:auto;" />
       </td>
@@ -1997,7 +1997,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>2022</td>
@@ -2015,7 +2015,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/AlNKdOORXxLDXbf5Y5oJ-OHNySYOYihqIU4e9MSrJ5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDgz/NTI4LTE2NzEzNDY3/NjAtOTI4OC5qcGVn.jpeg" alt="Cover for Legend of Valley Doom, Pt. 3" style="max-width:120px; height:auto;" />
       </td>
@@ -2032,7 +2032,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40938eecde4f9c9f7d346c5a338b2ddd.png" alt="Cover for Warfront" style="max-width:120px; height:auto;" />
       </td>
@@ -2057,7 +2057,7 @@ Epic metal is a theatrical subgenre of heavy metal characterized by orchestral a
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/hK_QTlgFyZPlOlnB66_UPE_OeS4iADASyJuRucK0n2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjAx/NTQ1LTE3MDM1MTkw/NzktMzQxMy5qcGVn.jpeg" alt="Cover for Leviathan III" style="max-width:120px; height:auto;" />
       </td>

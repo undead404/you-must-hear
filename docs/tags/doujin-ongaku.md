@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T23:50:52.149Z
+date: 2025-12-07T10:15:27.771Z
 permalink: tags/doujin-ongaku
 title: doujin ongaku
 ---
 
 ## doujin ongaku
 
-Last updated: <time datetime="2025-12-04T23:50:52.149Z">Fri Dec 05 2025 01:50:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T10:15:27.771Z">Sun Dec 07 2025 12:15:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
   </thead>
   <tbody>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d476c796f95fae995213a912bf7370d4.png" alt="Cover for Harmonoize" style="max-width:120px; height:auto;" />
       </td>
@@ -47,13 +47,13 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a> # 78</li>
+            <li> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a> # 23</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for 07-20-2012-1999" style="max-width:120px; height:auto;" />
       </td>
@@ -71,7 +71,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/NenBKNWXsreTbk7TN60RuYicV2899SM3WZX_ONGNjLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTMy/MTUtMTM0MTc4ODg4/Ny03OTExLmpwZWc.jpeg" alt="Cover for FULL OPEN" style="max-width:120px; height:auto;" />
       </td>
@@ -89,7 +89,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/RM0prqiJMpV4n-cGtyzRB2oFvprr4SKucU434jJYSRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjMw/NjctMTIzNTM0MTI5/MC5qcGVn.jpeg" alt="Cover for tour" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/0_ALgDYL3y3EcSgHvtPlT5bFZFtz8NloaSIOExiplwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzAz/NDMtMTQyODM5NjQ3/OC05MTMxLmpwZWc.jpeg" alt="Cover for Harmony" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +126,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce7336a817f32bbf95678c350a9612ac.png" alt="Cover for 月の蝕" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +144,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/221e83d49b3140ecb4c6202da05212fe.png" alt="Cover for 13-The wing I was given-" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3e9905acece07f2a332cf09a8bdf24c.png" alt="Cover for All Things Are Quite Silent" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +185,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/afy7hDmy-4Y9XQj8TubSIeHO7_jA74JIU8Nq1qR7vqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk5/LTE1Mzg2NjIxNTQt/NDU3Ni5qcGVn.jpeg" alt="Cover for Dystopia" style="max-width:120px; height:auto;" />
       </td>
@@ -205,7 +205,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>1997</td>
@@ -246,7 +246,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/YSfEBzUzv_s2bmtNh4zRa8or_3QBpHnA6VUrHgS_tSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ1/OTYtMTMyMTY1MTM1/NC5qcGVn.jpeg" alt="Cover for Booted And Spurred" style="max-width:120px; height:auto;" />
       </td>
@@ -265,26 +265,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>37</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fc4ad9139c34f78ab3de2ebcbbb80c5.png" alt="Cover for Umbalance" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Ether</td>
-      <td>Umbalance</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/YSfEBzUzv_s2bmtNh4zRa8or_3QBpHnA6VUrHgS_tSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ1/OTYtMTMyMTY1MTM1/NC5qcGVn.jpeg" alt="Cover for Gan ainm" style="max-width:120px; height:auto;" />
       </td>
@@ -303,7 +284,26 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fc4ad9139c34f78ab3de2ebcbbb80c5.png" alt="Cover for Umbalance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Ether</td>
+      <td>Umbalance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
       <td>
       </td>
       <td>1998-02</td>
@@ -348,7 +348,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cbb57388dfd49a4a43dc7aa79dfb365.png" alt="Cover for Thanks &#x2F; you" style="max-width:120px; height:auto;" />
       </td>
@@ -368,7 +368,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
       </td>
       <td>2006-12-31</td>
@@ -391,7 +391,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/LI6RbvPRynL25pOF323ZycDxNcr9yngi4zb-9accMuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDc2/MDctMTQwMzIxNTY3/NC0zNzIxLmpwZWc.jpeg" alt="Cover for Ma France À Moi" style="max-width:120px; height:auto;" />
       </td>
@@ -426,7 +426,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>2007-05-20</td>
@@ -443,7 +443,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>2007-08-17</td>
@@ -461,7 +461,24 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>71</td>
+      <td>
+      </td>
+      <td>2008-12-29</td>
+      <td>白いしましまうさぎ</td>
+      <td>東方和楽・通</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/-8lzTSUaQMgt_nLK6HsZvrY4M6c4eKz8h3oXAEpY8CQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzAz/NzEtMTM0NzU0Nzgx/OC05Mjg3LmpwZWc.jpeg" alt="Cover for Touhou Just A Moment" style="max-width:120px; height:auto;" />
       </td>
@@ -479,24 +496,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>
-      </td>
-      <td>2008-12-29</td>
-      <td>白いしましまうさぎ</td>
-      <td>東方和楽・通</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d40f93dbff649a5bfea072051823f2f.png" alt="Cover for Vivid Colors" style="max-width:120px; height:auto;" />
       </td>
@@ -515,7 +515,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/fWaIXsu3TG_yKWpnNz34ABpGovFchNzABHTTeDiftzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/ODI3LTE1Mzk5NTcw/OTktNTc0Ni5qcGVn.jpeg" alt="Cover for 紅魔館にピアノなんかあったっけ？" style="max-width:120px; height:auto;" />
       </td>
@@ -537,7 +537,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/ka1rf02Eo7BV5IswPjQNi3TyV1LrT08aVIOtwpRNL5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDk3/OTYtMTM1ODYxOTM2/My0zODM0LmpwZWc.jpeg" alt="Cover for 惨劇の血に赫く染まった愛と絶望の黒い死とが紡ぐ最期の物語" style="max-width:120px; height:auto;" />
       </td>
@@ -559,7 +559,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/rfnMWbdakrtYaNYaka69hA8aJaHBYKTCktHAgigROJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzU0/NTc3LTE1MTQ4Mjg0/NTktOTc2Ni5qcGVn.jpeg" alt="Cover for Air Groove" style="max-width:120px; height:auto;" />
       </td>
@@ -580,7 +580,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/-SmqgFyLohzfLxMxJz-cnqiF_sGh9HsyD072kIY1krc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTE3/NjgyLTE2OTQ5Nzgw/MzItMjA4Ny5wbmc.jpeg" alt="Cover for 幻想の境界 -the Garden of phantasmagoria-" style="max-width:120px; height:auto;" />
       </td>
@@ -598,7 +598,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/YSfEBzUzv_s2bmtNh4zRa8or_3QBpHnA6VUrHgS_tSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ1/OTYtMTMyMTY1MTM1/NC5qcGVn.jpeg" alt="Cover for The Story to Come" style="max-width:120px; height:auto;" />
       </td>
@@ -617,7 +617,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/XqbOE_55kVR1GdH-O_vLMFpSD68rCLv4qfLD-Otri60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTc3/MTItMTY5Mzg0NjQ2/OC0zNzI4LmpwZWc.jpeg" alt="Cover for 新選組散華録" style="max-width:120px; height:auto;" />
       </td>
@@ -633,12 +633,12 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 14</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1afe4b8d05041bb87cc965de2b06566.png" alt="Cover for Collapse of the sky" style="max-width:120px; height:auto;" />
       </td>
@@ -659,7 +659,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>2010-12-30</td>
@@ -677,7 +677,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>2010-12-31</td>
@@ -697,7 +697,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/Pnxo0vKQISWoAspTDEgwlI3wQ0zItFVIeMrng49TGSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTE3/MjgtMTMzMDg5NDkw/My5qcGVn.jpeg" alt="Cover for Satanic Verses" style="max-width:120px; height:auto;" />
       </td>
@@ -738,7 +738,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/0GMEWEAK1Lgt3PR9VEqg0pBxsx98X0wC5wKuVc8Xoro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzA0/NjgyLTE2MzIxNTQ0/MjktOTE1MS5qcGVn.jpeg" alt="Cover for SWING HOLIC VOL.8" style="max-width:120px; height:auto;" />
       </td>
@@ -757,46 +757,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/hBD27cJVQ3hDYwoxoGwiIEri1aGy1XbgK71YmuihWEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY4/OTAxLTE1NDkyMzE4/NzktNDY1Ni5qcGVn.jpeg" alt="Cover for Marionette Opera" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-10-30</td>
-      <td>Evergrace</td>
-      <td>Marionette Opera</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-          <img src="https://i.discogs.com/9HQVG20oaTR36WLWKcBRFsQa8r_uNiwuSCWh-nn3Yxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODYy/MDA5LTE2NDk4MzAx/OTAtMTA0Mi5qcGVn.jpeg" alt="Cover for Colo-RS" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-10-30</td>
-      <td>LC:AZE</td>
-      <td>Colo-RS</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a2d96ea6764079f4cbd057cc66c921e.png" alt="Cover for 愛憎悲哀カタルシス" style="max-width:120px; height:auto;" />
       </td>
@@ -817,7 +778,46 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/9HQVG20oaTR36WLWKcBRFsQa8r_uNiwuSCWh-nn3Yxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODYy/MDA5LTE2NDk4MzAx/OTAtMTA0Mi5qcGVn.jpeg" alt="Cover for Colo-RS" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-10-30</td>
+      <td>LC:AZE</td>
+      <td>Colo-RS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/hBD27cJVQ3hDYwoxoGwiIEri1aGy1XbgK71YmuihWEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY4/OTAxLTE1NDkyMzE4/NzktNDY1Ni5qcGVn.jpeg" alt="Cover for Marionette Opera" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-10-30</td>
+      <td>Evergrace</td>
+      <td>Marionette Opera</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
       </td>
       <td>2011-12-31</td>
@@ -836,7 +836,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/335ad8795a094dcbcde7a7331016fa54.png" alt="Cover for Michno-sequence" style="max-width:120px; height:auto;" />
       </td>
@@ -859,7 +859,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/yNgN94NdYGyLApPSmzKSHbyI-q7l4o3QmBzvtXbCdO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjUx/NjgtMTQxMDE2MTg5/My02MDIyLmpwZWc.jpeg" alt="Cover for さよならの森" style="max-width:120px; height:auto;" />
       </td>
@@ -878,7 +878,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34cc17617edf468daa435d1be9ed6c57.png" alt="Cover for 幻葬図書館" style="max-width:120px; height:auto;" />
       </td>
@@ -898,7 +898,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/w73rml1rTzqZLKwAZQQXsmcLRyNeFTjlGlwatNe-GP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzU4/MjQtMTY1MDc0NjIy/NC03MTc5LmpwZWc.jpeg" alt="Cover for Devil Music" style="max-width:120px; height:auto;" />
       </td>
@@ -941,7 +941,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/9pecywxUw-TKs-lDs4weAIHlPbRqjWF4RcunZiv9kjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzc1/MzI2LTE2OTAyNTU3/MTgtMzU2Ny5qcGVn.jpeg" alt="Cover for Reception for witnesses" style="max-width:120px; height:auto;" />
       </td>
@@ -961,7 +961,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/257051cca9584820c8005b9da4ee8147.png" alt="Cover for RAVER&#39;S NEST 1 TOHO RAVE PARTY" style="max-width:120px; height:auto;" />
       </td>
@@ -982,7 +982,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/d7lfCQwg7F1MoQ7kBJuhBXdHazgNxeYrNBiYk0OxP9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDA3/NTk5LTE2MTkwOTMw/ODktODI3Ni5qcGVn.jpeg" alt="Cover for Elysha" style="max-width:120px; height:auto;" />
       </td>
@@ -1002,7 +1002,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97c6a1197509400ab3cd6ee9312a1574.png" alt="Cover for Persona" style="max-width:120px; height:auto;" />
       </td>
@@ -1021,7 +1021,25 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/UFLa0fkmaijpRvhoXE7-hE6f6_9Hl7yyUQESrUTRxhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDAz/MTktMTQxNjg1NTA3/Ny0yMTM3LmpwZWc.jpeg" alt="Cover for 感情ケミストリー" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-12-30</td>
+      <td>Senya</td>
+      <td>感情ケミストリー</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1faec1e0e2ad4bd5cbbcd01597b9c281.png" alt="Cover for RAVER&#39;S NEST 2 TOHO RAVE PARTY" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,25 +1061,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>75</td>
-      <td>
-          <img src="https://i.discogs.com/UFLa0fkmaijpRvhoXE7-hE6f6_9Hl7yyUQESrUTRxhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDAz/MTktMTQxNjg1NTA3/Ny0yMTM3LmpwZWc.jpeg" alt="Cover for 感情ケミストリー" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-12-30</td>
-      <td>Senya</td>
-      <td>感情ケミストリー</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a0b4d0cb42a43ec8b523311ccc962f4.png" alt="Cover for Gebet" style="max-width:120px; height:auto;" />
       </td>
@@ -1078,12 +1078,12 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 27</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/i50Fq49zwSsGhc8FC9N7MMu0Lr7esDvoWiqRrEIYGDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgy/Mzg5LTE2OTEwNzUx/MzAtOTMwMS5qcGVn.jpeg" alt="Cover for 兵-つはもの-" style="max-width:120px; height:auto;" />
       </td>
@@ -1104,7 +1104,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/QSzncdsSrU4upg7atrAPC2WFbjaumrCFLX9P0wZZXrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTAy/MzI1LTE2MTE2MDU4/OTktNjk4OC5qcGVn.jpeg" alt="Cover for Touhou Project pops arranged instruments 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,7 +1124,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/yU54F4eL4wMyc8JdqMwamMfwvO-sLQEVQvI2YIth35Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU5/NDMxLTE1MTA5NTU4/NzYtMzk1NS5qcGVn.jpeg" alt="Cover for ぬくもりクレイル" style="max-width:120px; height:auto;" />
       </td>
@@ -1145,7 +1145,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a4765189f3f4effceb34374fbca4f0b.png" alt="Cover for RAVER&#39;S NEST 3 TOHO RAVE PARTY" style="max-width:120px; height:auto;" />
       </td>
@@ -1168,7 +1168,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd4b2709716141d0acb95c95f7b037a2.png" alt="Cover for the note of satanism" style="max-width:120px; height:auto;" />
       </td>
@@ -1188,7 +1188,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/qm-9cudk0d0Dgt1Ytrl8p-QJAI6KAfuivHmzx8gYw-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY0/OTQ5LTE1MDM5MTM3/MzMtNDI3OC5qcGVn.jpeg" alt="Cover for amorphous" style="max-width:120px; height:auto;" />
       </td>
@@ -1209,25 +1209,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-          <img src="https://i.discogs.com/sUhxnMlq4LjYN9WXl7mNU-Vo1tMgC-_fh3tfUXoMzwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgy/ODkxLTE1NzE0MDg1/NTYtNTIzNC5wbmc.jpeg" alt="Cover for AMARETTO" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-08-10</td>
-      <td>Satella</td>
-      <td>AMARETTO</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/aEZBuVdy0dIw9nbdZzAxGpdkzE8ilHOnVCgkznFuSaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/MzcyLTE1MzUyMjk4/NzctMzMwMC5qcGVn.jpeg" alt="Cover for &quot;Activity&quot; Case:05 -Forgotten Paradise-" style="max-width:120px; height:auto;" />
       </td>
@@ -1245,7 +1227,25 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/sUhxnMlq4LjYN9WXl7mNU-Vo1tMgC-_fh3tfUXoMzwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgy/ODkxLTE1NzE0MDg1/NTYtNTIzNC5wbmc.jpeg" alt="Cover for AMARETTO" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-10</td>
+      <td>Satella</td>
+      <td>AMARETTO</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/LoiOthlkuElJZfIK5Kr7JmpEVhNE2J-vH8aeMMKMIt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI4/MTcyLTE1ODIzODQx/NjItMTY0My5qcGVn.jpeg" alt="Cover for 幻想郷の夢幻即興録" style="max-width:120px; height:auto;" />
       </td>
@@ -1264,7 +1264,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e7c1199df4046589a03d04af647ed8e.png" alt="Cover for Soralis" style="max-width:120px; height:auto;" />
       </td>
@@ -1282,7 +1282,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/z7U874Iwm_EAnbi3IxVI-FkNXfSf8ts0zymbIAWr61g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI5/NTA5LTE1NzIzNDg0/MTAtNjE2Ny5wbmc.jpeg" alt="Cover for Chronologue" style="max-width:120px; height:auto;" />
       </td>
@@ -1300,7 +1300,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/V6Vq0xTkhBRdkvpLVcVkfv_CFMOFA1r8ncVPFVrZzvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTUz/ODU1LTE2MTk5MzQ5/NDctOTE5OS5qcGVn.jpeg" alt="Cover for Elysion~楽園への前奏曲~" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,7 +1320,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/TpKqpdiv2GlA3rkjRD-UqNdMO98AvhtJkZZ-XmcDuj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDI1/NTg2LTE2NTQwNDI2/MDQtNjU5Ny5qcGVn.jpeg" alt="Cover for Still Dying" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,7 +1338,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89026267ed28fc74f923fc655c00d9f5.png" alt="Cover for the cherry blossom tree" style="max-width:120px; height:auto;" />
       </td>
@@ -1364,47 +1364,113 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
-      <td>電子音響音楽応用解析研究所</td>
-      <td>EMERALD An-Punch</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 12</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Lemon Room Project</td>
-      <td>sleeping forest ～ORIGINAL ORGEL WORKS～</td>
+      <td>東京アクティブNEETs</td>
+      <td>東方爆音ジャズ6</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 87</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c491ca0f17c45f7b3417230ed38a7fc.png" alt="Cover for napitas" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Pulot</td>
+      <td>napitas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Octaferista</td>
+      <td>Symposium Sacrificium</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Lemon Room Project</td>
+      <td>Orgel Remixes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td></td>
+      <td>asusen project</td>
+      <td>The Chronicles ～アスダン戦記オリジナルサウンドトラック～</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22a43168edd84a28ca27cc2a03ee6d4c.png" alt="Cover for DANCE with WOLVES" style="max-width:120px; height:auto;" />
       </td>
@@ -1427,255 +1493,55 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>80</td>
-      <td>
-      </td>
-      <td></td>
-      <td>asusen project</td>
-      <td>The Chronicles ～アスダン戦記オリジナルサウンドトラック～</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 24</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
       <td>Lemon Room Project</td>
-      <td>Orgel Remixes</td>
+      <td>sleeping forest ～ORIGINAL ORGEL WORKS～</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 51</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Octaferista</td>
-      <td>Symposium Sacrificium</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 45</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c491ca0f17c45f7b3417230ed38a7fc.png" alt="Cover for napitas" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Pulot</td>
-      <td>napitas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 44</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>89</td>
       <td>
       </td>
       <td></td>
-      <td>東京アクティブNEETs</td>
-      <td>東方爆音ジャズ6</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 34</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td></td>
-      <td>霜月はるか</td>
-      <td>ひぐらしのなく頃に イメージアルバム - かけらむすび</td>
+      <td>電子音響音楽応用解析研究所</td>
+      <td>EMERALD An-Punch</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d5552ce95c34728a147b45dc3422a75.png" alt="Cover for 箱庭トライアングル" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>星名優子</td>
-      <td>箱庭トライアングル</td>
+      <td>Yonder Voice</td>
+      <td>千ノ縁</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-      </td>
-      <td></td>
-      <td>little white snow</td>
-      <td>Last Layer 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a05deba672e409ce0c12a9fd9e53c58.png" alt="Cover for To be continued" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Armelyrics</td>
-      <td>To be continued</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Laqshe</td>
-      <td>電子の夢</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>
-      </td>
-      <td></td>
-      <td>うんちく商事</td>
-      <td>幺快遊戯</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-      </td>
-      <td></td>
-      <td>うさ</td>
-      <td>ローレライ</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88ecafd24a5c490aa942ff53f5fb9db9.png" alt="Cover for 空の足あと" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>空色絵本</td>
-      <td>空の足あと</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
         </ul>
       </td>
       <td>
@@ -1688,29 +1554,12 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       <td>
       </td>
       <td></td>
-      <td>元就</td>
-      <td>幻想の境界 -the Garden of phantasmagoria-</td>
+      <td>星猫音楽</td>
+      <td>旅鳥音楽</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-      </td>
-      <td></td>
-      <td>上海アリス幻樂団</td>
-      <td>Touhou Tenkuushou ~ Hidden Star in Four Seasons</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
         </ul>
       </td>
       <td>
@@ -1723,122 +1572,10 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       <td>
       </td>
       <td></td>
-      <td>TAM×Gin</td>
-      <td>東方四重奏6</td>
+      <td>天門</td>
+      <td>悠久の老木 Lost Empire Saga</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Atelier Oguu</td>
-      <td>幻想響楽祭</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e59755d0f1dd4e668087b56a83a744dd.png" alt="Cover for Ale &amp; Malt" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Casket &amp; 荒御霊</td>
-      <td>Ale &amp; Malt</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-      </td>
-      <td></td>
-      <td>MUSIRISCA</td>
-      <td>Anemone</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td>
-      </td>
-      <td></td>
-      <td>YUY</td>
-      <td>幻想の境界 -the Garden of phantasmagoria-</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79e408813c5aa9b7fdb72de3bc6f2ca9.png" alt="Cover for wired" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>anoare</td>
-      <td>wired</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>
-      </td>
-      <td></td>
-      <td>little white snow</td>
-      <td>relation</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
@@ -1851,76 +1588,18 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>31</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0e62e59afa14a4a9d460d290183c71e.png" alt="Cover for a la mode" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>葉月ゆら×月子 (La Bella Luna)</td>
-      <td>a la mode</td>
+      <td>櫻井アンナ</td>
+      <td>夢想演舞 月之理</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e30026cf32b14e299b8c22900184a1d8.png" alt="Cover for ファンシー★エレクトリカルパレード！" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Highend Color</td>
-      <td>ファンシー★エレクトリカルパレード！</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/541149f00af7c44ed20c8ae5eef3cba2.png" alt="Cover for 天の極み 海の深さ" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>黒百合姉妹</td>
-      <td>天の極み 海の深さ</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-      </td>
-      <td></td>
-      <td>RESOUND WAV.</td>
-      <td>The sound story of impression I [CLANNAD]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -1929,12 +1608,12 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
-      <td>久遠</td>
-      <td>天威夢方</td>
+      <td>suim</td>
+      <td>replica</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
@@ -1946,42 +1625,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>56</td>
-      <td>
-      </td>
-      <td></td>
-      <td>黒百合姉妹</td>
-      <td>星のひとみ</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
-      <td>
-      </td>
-      <td></td>
-      <td>やなぎなぎ</td>
-      <td>Re:collection</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5717e2da1f64ee9e5dcd098d1b82c0c6.png" alt="Cover for AMETHYST" style="max-width:120px; height:auto;" />
       </td>
@@ -2002,12 +1646,47 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
-      <td>suim</td>
-      <td>replica</td>
+      <td>やなぎなぎ</td>
+      <td>Re:collection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td></td>
+      <td>黒百合姉妹</td>
+      <td>星のひとみ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td></td>
+      <td>久遠</td>
+      <td>天威夢方</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
@@ -2019,18 +1698,191 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>52</td>
       <td>
       </td>
       <td></td>
-      <td>櫻井アンナ</td>
-      <td>夢想演舞 月之理</td>
+      <td>RESOUND WAV.</td>
+      <td>The sound story of impression I [CLANNAD]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/541149f00af7c44ed20c8ae5eef3cba2.png" alt="Cover for 天の極み 海の深さ" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>黒百合姉妹</td>
+      <td>天の極み 海の深さ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e30026cf32b14e299b8c22900184a1d8.png" alt="Cover for ファンシー★エレクトリカルパレード！" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Highend Color</td>
+      <td>ファンシー★エレクトリカルパレード！</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0e62e59afa14a4a9d460d290183c71e.png" alt="Cover for a la mode" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>葉月ゆら×月子 (La Bella Luna)</td>
+      <td>a la mode</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td></td>
+      <td>little white snow</td>
+      <td>relation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79e408813c5aa9b7fdb72de3bc6f2ca9.png" alt="Cover for wired" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>anoare</td>
+      <td>wired</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td></td>
+      <td>YUY</td>
+      <td>幻想の境界 -the Garden of phantasmagoria-</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td></td>
+      <td>MUSIRISCA</td>
+      <td>Anemone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e59755d0f1dd4e668087b56a83a744dd.png" alt="Cover for Ale &amp; Malt" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Casket &amp; 荒御霊</td>
+      <td>Ale &amp; Malt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Atelier Oguu</td>
+      <td>幻想響楽祭</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
         </ul>
       </td>
       <td>
@@ -2043,13 +1895,28 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       <td>
       </td>
       <td></td>
-      <td>天門</td>
-      <td>悠久の老木 Lost Empire Saga</td>
+      <td>TAM×Gin</td>
+      <td>東方四重奏6</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td></td>
+      <td>上海アリス幻樂団</td>
+      <td>Touhou Tenkuushou ~ Hidden Star in Four Seasons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
         </ul>
       </td>
@@ -2063,12 +1930,125 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       <td>
       </td>
       <td></td>
-      <td>星猫音楽</td>
-      <td>旅鳥音楽</td>
+      <td>元就</td>
+      <td>幻想の境界 -the Garden of phantasmagoria-</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88ecafd24a5c490aa942ff53f5fb9db9.png" alt="Cover for 空の足あと" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>空色絵本</td>
+      <td>空の足あと</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td></td>
+      <td>うさ</td>
+      <td>ローレライ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td></td>
+      <td>うんちく商事</td>
+      <td>幺快遊戯</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Laqshe</td>
+      <td>電子の夢</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a05deba672e409ce0c12a9fd9e53c58.png" alt="Cover for To be continued" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Armelyrics</td>
+      <td>To be continued</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td></td>
+      <td>little white snow</td>
+      <td>Last Layer 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
         </ul>
       </td>
       <td>
@@ -2079,10 +2059,30 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d5552ce95c34728a147b45dc3422a75.png" alt="Cover for 箱庭トライアングル" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Yonder Voice</td>
-      <td>千ノ縁</td>
+      <td>星名優子</td>
+      <td>箱庭トライアングル</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td></td>
+      <td>霜月はるか</td>
+      <td>ひぐらしのなく頃に イメージアルバム - かけらむすび</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a></li>

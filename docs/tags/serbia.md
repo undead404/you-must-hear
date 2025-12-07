@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T22:58:34.354Z
+date: 2025-12-07T09:49:09.502Z
 permalink: tags/serbia
 title: serbia
 ---
 
 ## serbia
 
-Last updated: <time datetime="2025-12-04T22:58:34.354Z">Fri Dec 05 2025 00:58:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T09:49:09.502Z">Sun Dec 07 2025 11:49:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
   </thead>
   <tbody>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for V.A. - Fusion Mutation" style="max-width:120px; height:auto;" />
       </td>
@@ -51,7 +51,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/e47lblA7pcTm706RD0y-V6_J0CL0jDDGlQETbtWc-Jg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk1/MzMtMTIxMzYwMTc3/MS5qcGVn.jpeg" alt="Cover for Povratak" style="max-width:120px; height:auto;" />
       </td>
@@ -72,41 +72,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td>1977</td>
-      <td>Various Artists</td>
-      <td>Beovizija 2008</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td>1977</td>
-      <td>Various Artists</td>
-      <td>Beosong 2013</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Beovizija 2020" style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +90,41 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>96</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Beosong 2013</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Beovizija 2008</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/VZvh35rq0F0ihwiiojLLxD1vdYlAHF70qR-E75F4aUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MzAtMTI5MTkzMDkx/OS5qcGVn.jpeg" alt="Cover for trubaci" style="max-width:120px; height:auto;" />
       </td>
@@ -147,7 +147,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/OjXBMVVzwmmn1LiNIA9-k9eUtC8xjITVhKObSMx9Wvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTI0/MC0xMTc4NTI3NTEy/LmpwZWc.jpeg" alt="Cover for Demo Top 10 Ventilator 202 Vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -168,7 +168,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98c48e7d7a1ba4f0cdb1c7593bfa80fd.png" alt="Cover for Srećno" style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +188,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/Vr2fATnEMAvbfEm1z9xdgEU_pskOLT2F6vC0DXXJQEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzg0/MDItMTQyNDQ1Mjk0/OS0yOTM1LmpwZWc.jpeg" alt="Cover for Zlatne Trube Guce" style="max-width:120px; height:auto;" />
       </td>
@@ -210,7 +210,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/eWiCGS13Cp5X2bmPQG-dNAhV_uSUQcvKn44zeYMV8k0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ4/MzM0LTE1NzQ3MTM3/NzMtMzMzNy5qcGVn.jpeg" alt="Cover for Najbolje trube Srbije" style="max-width:120px; height:auto;" />
       </td>
@@ -232,7 +232,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35b8d602c6944aac95e75843984def46.png" alt="Cover for Excursion" style="max-width:120px; height:auto;" />
       </td>
@@ -256,7 +256,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3a34f57bd704ff49668edd31ca0d714.png" alt="Cover for Traumatic Memories" style="max-width:120px; height:auto;" />
       </td>
@@ -276,7 +276,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eaa313dccda4453cc52076221f9f71e7.png" alt="Cover for The Upcoming Devastation" style="max-width:120px; height:auto;" />
       </td>
@@ -296,7 +296,43 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/teQFrAWA_QdA01fMry9aGUTkIlSGf5h6F97NS5NWuNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODg4/MS0xMTc5MDg3MTcy/LmpwZWc.jpeg" alt="Cover for U Nedogled" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Darkwood Dub</td>
+      <td>U Nedogled</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/0v82RFfgZx6n9G0WOgCk5f6vOQqTTFlcBP7vOe4Cr7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTk5/My0xNTgyMDYwNzcy/LTI0NDUuanBlZw.jpeg" alt="Cover for Najbolje" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Bs</td>
+      <td>Najbolje</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5bc4d01b1d54f258d4c898625bb840f.png" alt="Cover for Who Fired The Workers Of Happiness Factory ?" style="max-width:120px; height:auto;" />
       </td>
@@ -317,43 +353,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://i.discogs.com/0v82RFfgZx6n9G0WOgCk5f6vOQqTTFlcBP7vOe4Cr7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTk5/My0xNTgyMDYwNzcy/LTI0NDUuanBlZw.jpeg" alt="Cover for Najbolje" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Bs</td>
-      <td>Najbolje</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
-      <td>
-          <img src="https://i.discogs.com/teQFrAWA_QdA01fMry9aGUTkIlSGf5h6F97NS5NWuNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODg4/MS0xMTc5MDg3MTcy/LmpwZWc.jpeg" alt="Cover for U Nedogled" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Darkwood Dub</td>
-      <td>U Nedogled</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>1999</td>
@@ -371,7 +371,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/kFo4VRUzh8JoOQKldCVbtZMZKBaFj5G6AzgE4mvoLY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDg5/ODctMTQzNjIwNDcz/Ni05NDc0LmpwZWc.jpeg" alt="Cover for Srce Cigansko" style="max-width:120px; height:auto;" />
       </td>
@@ -385,15 +385,15 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 37</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 19</li>
             <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 43</li>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 63</li>
             <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 64</li>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/E82uA1haKcBv4TFQup4YwccTmjR8kwKUCH_wqcrmexU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjE3/NjEtMTYxMzQwMzEw/Mi02NDEwLmpwZWc.jpeg" alt="Cover for Vreteno" style="max-width:120px; height:auto;" />
       </td>
@@ -412,7 +412,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/E9m8-_tczg0zbduiUGm5Q4dvSXWKltjywL9iNYgs_Yo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgw/NTE0LTE1NzEzNDk0/NzMtMjIwNy5qcGVn.jpeg" alt="Cover for Balkanska Rumba 2002" style="max-width:120px; height:auto;" />
       </td>
@@ -431,13 +431,13 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       <td>
         <ul>
             <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 13</li>
-            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 65</li>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 65</li>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 35</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/EyzK66OHDD-Ch4lLN0Kfbtx8vtNihl14UymsmBq0FXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzc5/MTgtMTQwOTQ3Mjc5/NS0zMDkwLmpwZWc.jpeg" alt="Cover for Hand Made" style="max-width:120px; height:auto;" />
       </td>
@@ -456,7 +456,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
       </td>
       <td>2003</td>
@@ -478,7 +478,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c08399b9e3cec907181848e332b86e15.png" alt="Cover for Stani , stani Ibar vodo" style="max-width:120px; height:auto;" />
       </td>
@@ -495,7 +495,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/Fy2hnqUZewWk_ITRifIa3c-klWWno4aRyCH2jv5ly-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcw/NDYtMTMxMTEwNTQ3/OS5qcGVn.jpeg" alt="Cover for Lira Vega" style="max-width:120px; height:auto;" />
       </td>
@@ -519,7 +519,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/pAa59NgG4esVeHR2FiaQVGVEYcY6Kc8jDkPmgRYjvXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ3/MjAtMTY0MTQ0OTE3/OC04MDA5LmpwZWc.jpeg" alt="Cover for Bankina" style="max-width:120px; height:auto;" />
       </td>
@@ -541,7 +541,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/nT1TYxPBisvU4E_LzZnh4LSrIfJx8JoskEEJ5-pGS2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzYz/OTEtMTQxMDQ0NDQ3/MS04OTg2LmpwZWc.jpeg" alt="Cover for Anger Will Remain" style="max-width:120px; height:auto;" />
       </td>
@@ -561,7 +561,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>2007</td>
@@ -575,12 +575,12 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 36</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/QKTy3miYtjNwHgDIiL-EdbcNuy1LWQnIAgT-NyBuJ1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDM4/ODktMTMzNzAyMjU3/MC01OTQ5LmpwZWc.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
       </td>
@@ -603,7 +603,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f18f02ca67e4610a552b5032c5f1af8.png" alt="Cover for Water" style="max-width:120px; height:auto;" />
       </td>
@@ -622,7 +622,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/jeIv_rJNyllDCCJQmQgxmco3geOxqB86mtu3LxiqyTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/NTMtMTI2NDEwMDUy/MC5qcGVn.jpeg" alt="Cover for Dažd" style="max-width:120px; height:auto;" />
       </td>
@@ -641,7 +641,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/BfRwCrg3ExC-fxaoLE0RvlVdnqf5-WnMuYRgAuNZ5r8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzM2/OTgtMTI0MzUwOTU4/OS5qcGVn.jpeg" alt="Cover for Eleven Axis" style="max-width:120px; height:auto;" />
       </td>
@@ -665,13 +665,13 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 51</li>
-            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 77</li>
+            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 24</li>
+            <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12d4581973d8a02d425031017a62ed53.png" alt="Cover for Manifest za radio i TV" style="max-width:120px; height:auto;" />
       </td>
@@ -690,7 +690,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/Ck32puDuDiTIB4eDJaMhqIe0_486pUH5j_uTv_HEbJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDcy/NzAtMTI2NjU4MTY5/OC5qcGVn.jpeg" alt="Cover for Twelve" style="max-width:120px; height:auto;" />
       </td>
@@ -712,7 +712,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/379e5224128b43b7860a80496b881b6f.png" alt="Cover for From Morph" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +736,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/lc2woXTSStccbv1Rcea2MLphnDotNNdK-kj8NJElKKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mzkw/ODMtMTUyNjg0NjIw/My01Mjg5LmpwZWc.jpeg" alt="Cover for live album" style="max-width:120px; height:auto;" />
       </td>
@@ -756,7 +756,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2863c1592084679bf9e8e8ccfce7892.png" alt="Cover for Almost" style="max-width:120px; height:auto;" />
       </td>
@@ -774,7 +774,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/c1M3z9sre1XnbSV6ruyb5aoLOKH1f6d8A3T3plprdhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTIz/MTYtMTMxODE3NjQy/NS5qcGVn.jpeg" alt="Cover for Everlasting Genocide" style="max-width:120px; height:auto;" />
       </td>
@@ -794,7 +794,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/HZ9fSuQUBk8jM2hihLjQuThxEFJRYV8vKojOlvZGF8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTQ2/NjQtMTMyMjUzMzkz/MC5qcGVn.jpeg" alt="Cover for Indikacije, kontraindikacije i neželjena dejstva" style="max-width:120px; height:auto;" />
       </td>
@@ -811,7 +811,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/rN-ki7Hcu_7xhq1mG8H81GJGo6nWJyVXkK8Sv7-ZxZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzUw/OTgtMTMyMzQ3ODk4/NC5qcGVn.jpeg" alt="Cover for Razum trazi razloge" style="max-width:120px; height:auto;" />
       </td>
@@ -831,7 +831,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/3zIbava000osGWXLxK8L8XWpxCa55-pK-oeORyDW6xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM4/NDY4LTE1NjAwOTEz/OTctNTU2NC5qcGVn.jpeg" alt="Cover for Inverse Midas" style="max-width:120px; height:auto;" />
       </td>
@@ -852,7 +852,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/CD8DoGufaqyVCOwtKqNkI2DxibQ0bgKeaY6310KrhAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM1/NTEtMTQ2MzUxNzE5/NC02NDgyLmpwZWc.jpeg" alt="Cover for Mi smo u parku" style="max-width:120px; height:auto;" />
       </td>
@@ -871,7 +871,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/zO1P8M2Sw9jLe9oVp1daZkXyorKI8Siz8YHH0AKktxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTEy/OTktMTQ2MDcxNjk3/MS02NjM5LmpwZWc.jpeg" alt="Cover for Untitled" style="max-width:120px; height:auto;" />
       </td>
@@ -901,13 +901,13 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 41</li>
-            <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 50</li>
+            <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 49</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c482fb50a0314af9963ab692fa2ca4ec.png" alt="Cover for Od svega samo aut" style="max-width:120px; height:auto;" />
       </td>
@@ -929,7 +929,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b63a798b9624fa29a6d0d87e2d88e8c.png" alt="Cover for Eclectic Youth" style="max-width:120px; height:auto;" />
       </td>
@@ -951,12 +951,12 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 57</li>
+            <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d88e73297eb4300c3c772d381f1d2a5.png" alt="Cover for Speed Metal Je Živ" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +978,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/-ZuUeFSSTlpGYaAsMD3eYaNCvjJ9orsLtAVG7Romlzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mjgy/MjItMTM3OTY5NzQy/Mi04MDcyLmpwZWc.jpeg" alt="Cover for Anamneza" style="max-width:120px; height:auto;" />
       </td>
@@ -997,7 +997,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/V1e7Idg2gQW0Atvqyj4_LYkiaWxsqh7OjrvW2miN68c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDM5/ODM3LTE1ODU4NjYx/NzgtMzYxMS5qcGVn.jpeg" alt="Cover for nihil ex nihilo" style="max-width:120px; height:auto;" />
       </td>
@@ -1017,7 +1017,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/cZ1Pft6uFLw_AxEpoXLfXNP4Z12JL5p6vC4TYjJ8bEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDMw/NjctMTQwMTQyODQ3/MS03OTQ1LmpwZWc.jpeg" alt="Cover for Unveiling the Origin" style="max-width:120px; height:auto;" />
       </td>
@@ -1038,45 +1038,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>
-      </td>
-      <td>2015</td>
-      <td>Jovana Nikolić</td>
-      <td>Najbolja</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5845c2c29efd9ab3c6af2810d6213842.png" alt="Cover for One More Time" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015</td>
-      <td>Enemy Inside</td>
-      <td>One More Time</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/TAHf0w3PU6nYvgo9aWxWYY1FXTsE8sb1joIIKflvm60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njgx/MDUtMTQ2MjE5Njg1/Ni00OTQyLmpwZWc.jpeg" alt="Cover for Life Survival Tips" style="max-width:120px; height:auto;" />
       </td>
@@ -1095,7 +1057,45 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5845c2c29efd9ab3c6af2810d6213842.png" alt="Cover for One More Time" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Enemy Inside</td>
+      <td>One More Time</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>2015</td>
+      <td>Jovana Nikolić</td>
+      <td>Najbolja</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c0f554b3401c3f11b66c64375f3c46b.png" alt="Cover for Kraljica U Zlatu" style="max-width:120px; height:auto;" />
       </td>
@@ -1117,7 +1117,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/hyo5LywNGzeeYrCKbAF_SY-fIt2jyGSS5Ic-lm16cCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDg1/NDgtMTQ2OTU0MjQz/MC03OTQyLmpwZWc.jpeg" alt="Cover for Demo 2014" style="max-width:120px; height:auto;" />
       </td>
@@ -1136,7 +1136,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/jwzf2RV_OTEIq6gKuPNsbsguOzPUPeYR_ak-VlHCMwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjI2/NjgtMTQ0NzQ0NzE4/My00MjE5LmpwZWc.jpeg" alt="Cover for U Transu Sa Nepoznatim Siluetama" style="max-width:120px; height:auto;" />
       </td>
@@ -1155,7 +1155,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b8021b3d54e2628bbe8e8162565b994.png" alt="Cover for Carstvo" style="max-width:120px; height:auto;" />
       </td>
@@ -1180,7 +1180,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02a6191a37bbb47e1eaa73baeabbd4ab.png" alt="Cover for Gde ćeš" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,7 +1201,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/YA9BUfggdU_hh_d-JwEamFwi4ZPAsIkuNP5ljdXnRHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDU2/NTEtMTM1OTU3ODM1/My04ODgyLmpwZWc.jpeg" alt="Cover for Oni su EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1222,7 +1222,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b608e88cac5879f83c6d95fe87e4db27.png" alt="Cover for Moderna Žena" style="max-width:120px; height:auto;" />
       </td>
@@ -1241,13 +1241,13 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 33</li>
-            <li> <a href="{{ "/tags/croatia" | relative_url }}">croatia</a> # 96</li>
+            <li> <a href="{{ "/tags/croatia" | relative_url }}">croatia</a> # 5</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5144487ee85ad1d055c47112b8244fb.png" alt="Cover for Ja Repujem" style="max-width:120px; height:auto;" />
       </td>
@@ -1266,7 +1266,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a5b814f906b041e79c00e0633f9bf94.png" alt="Cover for Lunar &#x2F; Solar" style="max-width:120px; height:auto;" />
       </td>
@@ -1284,12 +1284,12 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 58</li>
+            <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62e3b79eaaf2b4f4720e9f4e40d8d11f.png" alt="Cover for Ona Nekad" style="max-width:120px; height:auto;" />
       </td>
@@ -1312,7 +1312,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c691d5e5c31aa1b81c180dbdd6ce20b.png" alt="Cover for Bensedini" style="max-width:120px; height:auto;" />
       </td>
@@ -1333,7 +1333,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/y-RYKZxV1zv1dzFwl1Lx2oWJkqaugaKhXMxQwZQrgWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQy/NTczLTE0OTk1NjAx/MzktNTE1Ny5qcGVn.jpeg" alt="Cover for No Answer" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,43 +1352,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/LGWDb0KywOeJ3OHN9lLrDnxgSBqpcUGdGlkmfzcGdd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE1/MTA1LTE1MjMyOTk3/NDEtNTYzNC5qcGVn.jpeg" alt="Cover for Artistry in Broken Rhythm" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018</td>
-      <td>Nikolov-Ivanovic Undectet</td>
-      <td>Artistry in Broken Rhythm</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-          <img src="https://i.discogs.com/HKDm4XaoZDRwAtfvQyMUT0IXAZ6DjdFvieZpRWhxWpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTE0/ODU5LTE2NTgwODAw/MzQtNDgxNi5qcGVn.jpeg" alt="Cover for Sve će biti u najboljem redu" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018</td>
-      <td>Fish In Oil</td>
-      <td>Sve će biti u najboljem redu</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/AOk8mL1E5iL27gb5qmMXWcTzoZulNQcf0UtrUWfx75Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM2/Nzc3LTE1MTk4MjI3/MDItNDgyOC5qcGVn.jpeg" alt="Cover for Live At Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1407,7 +1371,43 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/HKDm4XaoZDRwAtfvQyMUT0IXAZ6DjdFvieZpRWhxWpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTE0/ODU5LTE2NTgwODAw/MzQtNDgxNi5qcGVn.jpeg" alt="Cover for Sve će biti u najboljem redu" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Fish In Oil</td>
+      <td>Sve će biti u najboljem redu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/LGWDb0KywOeJ3OHN9lLrDnxgSBqpcUGdGlkmfzcGdd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE1/MTA1LTE1MjMyOTk3/NDEtNTYzNC5qcGVn.jpeg" alt="Cover for Artistry in Broken Rhythm" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Nikolov-Ivanovic Undectet</td>
+      <td>Artistry in Broken Rhythm</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/2QPgNWhXoeBXxlgKfyXu3Nd0KWPMhPNuSfDNvxm5StE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjA4/MTA0LTE2MjQxODUy/MjAtNTU5MS5qcGVn.jpeg" alt="Cover for Dve Vatre" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,7 +1425,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e0ec46a38483a4c61a3832e12e27ce6.png" alt="Cover for Pra Sila - Vukov Totem" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,7 +1451,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/GqEmPnK9PwDC8fLNvlI-s1pDsZP4OVYfUl1940qulQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTcw/MDQwLTE1NjUxNjc4/MzYtNTg5MC5qcGVn.jpeg" alt="Cover for Srce cigansko" style="max-width:120px; height:auto;" />
       </td>
@@ -1465,15 +1465,15 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 36</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 20</li>
             <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 44</li>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 64</li>
             <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 65</li>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10547750f47da358b3c492d3ca77d05e.png" alt="Cover for Nikad Satisfied" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,7 +1492,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/2-B8TDz4QnzNz0Dji7rWuocs3qOW84ScryPYwiYHKfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk0/MjE0LTE1Njg1Njc1/NjMtODI2OS5qcGVn.jpeg" alt="Cover for Izgubljeno proleće" style="max-width:120px; height:auto;" />
       </td>
@@ -1514,7 +1514,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/787a018cab4a1e7ee6f7688b4bdfd53a.png" alt="Cover for Najbolji svet" style="max-width:120px; height:auto;" />
       </td>
@@ -1535,7 +1535,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/RwBVJrdBoP2ekWz71LWtXXogPcFrC6vyDskU3odfPu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODUy/MzMzLTE1ODI4Mjk2/MzMtOTc3MC5qcGVn.jpeg" alt="Cover for Escape from Urumchi" style="max-width:120px; height:auto;" />
       </td>
@@ -1554,7 +1554,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/1fs5GR998l6p5OqloSTyF2Z5Clq-n7o-_Mf1Ebakc2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI1/NjIwLTE1Nzg0MjQ2/MTAtOTcxOC5qcGVn.jpeg" alt="Cover for The Eight Noble Virtues of a Samurai" style="max-width:120px; height:auto;" />
       </td>
@@ -1573,7 +1573,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/x4TI9TbYbPrJ96BqZBKY3FnugsmXoQ3jVdIDfSmg1lM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAw/MDk1LTE1Nzk5MDEy/NzEtNDM2My5qcGVn.jpeg" alt="Cover for Devojka Tvog Druga" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,25 +1598,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>40</td>
-      <td>
-          <img src="https://i.discogs.com/2xKCNzYfmIcVVfuQrJC-uWAYF9blJaokazzJkvJhuOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjM5/NzM5LTE2MjA0NzAx/MTEtNjIwMi5qcGVn.jpeg" alt="Cover for n&#x2F;a" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-03-20</td>
-      <td>the Root out</td>
-      <td>n&#x2F;a</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/uYQwxFypG6yCi9gWx_uDHHAO2DOsM6Z9eWsPdx0cYFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDE5/MDEzLTE1ODU1Nzk5/NzYtNDYwOC5qcGVn.jpeg" alt="Cover for The Ancient Arts of Self-Discipline" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,7 +1617,25 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/2xKCNzYfmIcVVfuQrJC-uWAYF9blJaokazzJkvJhuOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjM5/NzM5LTE2MjA0NzAx/MTEtNjIwMi5qcGVn.jpeg" alt="Cover for n&#x2F;a" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-20</td>
+      <td>the Root out</td>
+      <td>n&#x2F;a</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/UJTAyNzuUjJYLr0wDGEQbdEZVu5toCX1GsXAaKRzuMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjA5/OTgtMTQ1MDM2ODk4/MS01NDgyLmpwZWc.jpeg" alt="Cover for Niko nije savršen" style="max-width:120px; height:auto;" />
       </td>
@@ -1653,7 +1653,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/B_ufsErDA3QblNo-2jYiV6XedS10xbWDEpnt112YbRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMz/MjMwLTE2NjgxOTY4/NjEtMTYwMS5qcGVn.jpeg" alt="Cover for Dark Litanies of Terra" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,7 +1672,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/B0MaSqgqmIp7MyJU6X_zAo7cB08i-KZ9TVBjJ9gKVj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjA5/NjIzLTE2Mzg1MjY5/NDgtMjY5NS5qcGVn.jpeg" alt="Cover for Chants of Liberation" style="max-width:120px; height:auto;" />
       </td>
@@ -1691,7 +1691,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/wDW3HFXZGpW1VFCLRnrelLiObNX3jYlW-ke7ZFVv3TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTgw/NDI1LTE2NDM3MjQy/OTctNzIzNS5qcGVn.jpeg" alt="Cover for Noćne priče" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,12 +1709,12 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatia" | relative_url }}">croatia</a> # 89</li>
+            <li> <a href="{{ "/tags/croatia" | relative_url }}">croatia</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/63y2HtX2xxMvhFGJwtHUP0VxPiq41OEnaerjaD9Iins/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjEx/NTEtMTM4NjE2Mjg3/My05MTY3LmpwZWc.jpeg" alt="Cover for Down the Blade, Down the Spiral" style="max-width:120px; height:auto;" />
       </td>
@@ -1731,7 +1731,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/mZhEZHoLMqn2wc_j1edhyMzn4vr2Z2X_toDe6qtNezo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIx/MzY5LTE1NzYyNTc1/NDctNDAzNS5qcGVn.jpeg" alt="Cover for Second Trip" style="max-width:120px; height:auto;" />
       </td>
@@ -1755,7 +1755,25 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Pesma za Evroviziju 2022" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Pesma za Evroviziju 2022</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
       <td>
       </td>
       <td>2023</td>
@@ -1778,24 +1796,6 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Pesma za Evroviziju 2022" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023</td>
-      <td>Various Artists</td>
-      <td>Pesma za Evroviziju 2022</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
           <img src="https://i.discogs.com/tKj551Z7j8LqzCQXHPAmngByU7KKDUH65z5phTXOr3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzIx/MjMxLTE2NzgwODUy/MzYtNzQzOS5qcGVn.jpeg" alt="Cover for Sve ili ništa" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-05</td>
@@ -1812,7 +1812,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Oe56el5Ok9YMrjeG2qu6ni-3F6UBEKlneiX9CvXCnuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODc5/NjYtMTQ3MjgyODA5/Ny04ODYzLmpwZWc.jpeg" alt="Cover for Jav, Prav, Nav" style="max-width:120px; height:auto;" />
       </td>
@@ -1829,7 +1829,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/bFkOOmzqdnUZuUBAM6DSlgS3SsxP8dErpselB_TIBcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzY0/MTc3LTE1ODExNTkx/ODAtNTQ1OS5qcGVn.jpeg" alt="Cover for Frame and Curiosity" style="max-width:120px; height:auto;" />
       </td>
@@ -1847,7 +1847,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td></td>
@@ -1866,16 +1866,15 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>49</td>
       <td>
       </td>
       <td></td>
-      <td>Siempre Peligroso</td>
-      <td>Razor</td>
+      <td>Black Ark Crew</td>
+      <td>Jam Session</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
         </ul>
       </td>
@@ -1885,18 +1884,15 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>50</td>
       <td>
       </td>
       <td></td>
-      <td>Splins</td>
-      <td>EP + Basement Tapes</td>
+      <td>Orkestar Sesnaesta</td>
+      <td>Sesnaesta Krajiska</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
@@ -1905,39 +1901,33 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>55</td>
       <td>
       </td>
       <td></td>
-      <td>Blehmuzika</td>
-      <td>Svetozar Lazovic</td>
+      <td>EJO</td>
+      <td>Ptica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Goran Aleksic</td>
+      <td>Evil clown</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dead6a2492e6f114d551aa63d9acbbf.png" alt="Cover for Povracanje proslosti" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Neuspeh</td>
-      <td>Povracanje proslosti</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
         </ul>
       </td>
@@ -1947,46 +1937,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-      </td>
-      <td></td>
-      <td>jetra</td>
-      <td>Zapisi iz podzemlja</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td></td>
-      <td>JAYUS JAZZ</td>
-      <td>Trial &amp; Error</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
       </td>
       <td></td>
@@ -2007,17 +1958,79 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>73</td>
       <td>
       </td>
       <td></td>
-      <td>Goran Aleksic</td>
-      <td>Evil clown</td>
+      <td>JAYUS JAZZ</td>
+      <td>Trial &amp; Error</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td></td>
+      <td>jetra</td>
+      <td>Zapisi iz podzemlja</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dead6a2492e6f114d551aa63d9acbbf.png" alt="Cover for Povracanje proslosti" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Neuspeh</td>
+      <td>Povracanje proslosti</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Blehmuzika</td>
+      <td>Svetozar Lazovic</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a></li>
         </ul>
       </td>
       <td>
@@ -2026,15 +2039,18 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>92</td>
       <td>
       </td>
       <td></td>
-      <td>EJO</td>
-      <td>Ptica</td>
+      <td>Splins</td>
+      <td>EP + Basement Tapes</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
@@ -2043,32 +2059,16 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>94</td>
       <td>
       </td>
       <td></td>
-      <td>Orkestar Sesnaesta</td>
-      <td>Sesnaesta Krajiska</td>
+      <td>Siempre Peligroso</td>
+      <td>Razor</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Black Ark Crew</td>
-      <td>Jam Session</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
         </ul>
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T20:48:13.919Z
+date: 2025-12-07T09:02:42.536Z
 permalink: tags/tribal-industrial
 title: tribal industrial
 ---
 
 ## tribal industrial
 
-Last updated: <time datetime="2025-12-04T20:48:13.919Z">Thu Dec 04 2025 22:48:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T09:02:42.536Z">Sun Dec 07 2025 11:02:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
   </thead>
   <tbody>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e68bef588c87480fb5b50763ebc8a8b9.png" alt="Cover for fase" style="max-width:120px; height:auto;" />
       </td>
@@ -51,7 +51,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/hTP9Pzbc7xdYcQaP6uvzkI6TcUI6y_e0-VvdZU9UxO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Nzcy/LTE0NjY3MzQzMzIt/NTk4OC5qcGVn.jpeg" alt="Cover for Nomad Souls" style="max-width:120px; height:auto;" />
       </td>
@@ -72,7 +72,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>1984-12</td>
@@ -89,7 +89,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/e2CmE36agkMJECm0v3DgyTQ1uDfkxXqQnhYLRDaAowA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTQz/MjctMTMyODcwNTgy/Ny5qcGVn.jpeg" alt="Cover for Breathe" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
       </td>
       <td>1986</td>
@@ -125,7 +125,25 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/t_hO5InZ5L32r8HF13y1WnteEo9QMXUa9KBWax-5n1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODEx/OC0xMjAxOTgwNTI1/LmpwZWc.jpeg" alt="Cover for This" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Crash Worship</td>
+      <td>This</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
       <td>
       </td>
       <td>1987</td>
@@ -145,25 +163,27 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/t_hO5InZ5L32r8HF13y1WnteEo9QMXUa9KBWax-5n1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODEx/OC0xMjAxOTgwNTI1/LmpwZWc.jpeg" alt="Cover for This" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa468087f38fca34340648c8ab00f5d3.png" alt="Cover for Terra Firma" style="max-width:120px; height:auto;" />
       </td>
-      <td>1987</td>
-      <td>Crash Worship</td>
-      <td>This</td>
+      <td>1988</td>
+      <td>Test Dept.</td>
+      <td>Terra Firma</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/JpHkz5EK18SLQWPLZ1I5DUtOctmDdYnghXUfpVqB6iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzgz/MS0xNDAwMzgyMDAx/LTI0ODkuanBlZw.jpeg" alt="Cover for Mkwaju" style="max-width:120px; height:auto;" />
       </td>
@@ -188,27 +208,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>77</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa468087f38fca34340648c8ab00f5d3.png" alt="Cover for Terra Firma" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1988</td>
-      <td>Test Dept.</td>
-      <td>Terra Firma</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20b3d7d7ef8645babcd7e1b27cfb56d5.png" alt="Cover for Far From The Eyes Of The World" style="max-width:120px; height:auto;" />
       </td>
@@ -229,7 +229,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b6ad280a955cb7d04bca81a610baa02.png" alt="Cover for What So Ever Thy Hand Findeth - Do It With All Thine Might" style="max-width:120px; height:auto;" />
       </td>
@@ -251,7 +251,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/YbJiS1wk3QyY2eidNA28jhVbnxqQdz4jLUB0gIEhpdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODk4/My0xNDEyNjQwMTYz/LTI4MTQuanBlZw.jpeg" alt="Cover for Kondole" style="max-width:120px; height:auto;" />
       </td>
@@ -270,7 +270,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
       </td>
       <td>1990</td>
@@ -287,7 +287,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da745062d95492aed21a357b643df2b3.png" alt="Cover for Cold Dark Matter" style="max-width:120px; height:auto;" />
       </td>
@@ -307,7 +307,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dba37a8e52c436dbeb25e86a302b450.png" alt="Cover for Psychick Warriors Ov Gaia" style="max-width:120px; height:auto;" />
       </td>
@@ -330,7 +330,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/r-H9-WsP5v0Oc_zriuOBVq0DGOAn1ckN2GwvnLiF05k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzcw/MC0xNTI3NDc1MTg0/LTU0OTQuanBlZw.jpeg" alt="Cover for Triple Mania II" style="max-width:120px; height:auto;" />
       </td>
@@ -348,7 +348,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80a5237c6df1b001d30ecc404327b5f6.png" alt="Cover for Hebron Massacre" style="max-width:120px; height:auto;" />
       </td>
@@ -369,7 +369,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07b17cc9167398e2a7e0c9cbdf9cecc8.png" alt="Cover for Silknoose" style="max-width:120px; height:auto;" />
       </td>
@@ -393,7 +393,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8933e05ec02543478266be459e0329cc.png" alt="Cover for Tribal Apocalyptic Trance" style="max-width:120px; height:auto;" />
       </td>
@@ -413,7 +413,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e58c8bc5190043caa47b732547281e7c.png" alt="Cover for Izlamaphobia" style="max-width:120px; height:auto;" />
       </td>
@@ -432,7 +432,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc8fae8d829009b236425f30ad7a3c75.png" alt="Cover for A Night in Fear" style="max-width:120px; height:auto;" />
       </td>
@@ -454,45 +454,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d485dfff484d48ef81327e0dd0525524.png" alt="Cover for 1 200 000 Dead Tibetans" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>1 200 000 Dead Tibetans</td>
-      <td>1 200 000 Dead Tibetans</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>
-          <img src="https://i.discogs.com/dRHfBaASO0XIDiFPE3L9dC7BP2jWvJnUJJvXRDGEeMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY1/Ni0xMDc3NzU2NDQw/LmpwZw.jpeg" alt="Cover for Totality 1 &amp; 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Test Dept.</td>
-      <td>Totality 1 &amp; 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7c71579757e4070a790f7be5e4e7d72.png" alt="Cover for Cortex Stimulation" style="max-width:120px; height:auto;" />
       </td>
@@ -511,7 +473,63 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/dRHfBaASO0XIDiFPE3L9dC7BP2jWvJnUJJvXRDGEeMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY1/Ni0xMDc3NzU2NDQw/LmpwZw.jpeg" alt="Cover for Totality 1 &amp; 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Test Dept.</td>
+      <td>Totality 1 &amp; 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d485dfff484d48ef81327e0dd0525524.png" alt="Cover for 1 200 000 Dead Tibetans" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>1 200 000 Dead Tibetans</td>
+      <td>1 200 000 Dead Tibetans</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6031cabc0c9b25b086ed6a32da71f2d.png" alt="Cover for Nezeru Enti Sebauem Neterxertet" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>This Morn&#39; Omina</td>
+      <td>Nezeru Enti Sebauem Neterxertet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/fo1lvYgkCUVjvDarLT4zwW9S8KhWRtp4sX28DBFlNWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDg0/NC0xMTY3Njc3NjMx/LmpwZWc.jpeg" alt="Cover for The Dark is Light Enough" style="max-width:120px; height:auto;" />
       </td>
@@ -531,25 +549,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>71</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6031cabc0c9b25b086ed6a32da71f2d.png" alt="Cover for Nezeru Enti Sebauem Neterxertet" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>This Morn&#39; Omina</td>
-      <td>Nezeru Enti Sebauem Neterxertet</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>1997-03-03</td>
@@ -570,7 +570,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e5f5ca51b22241b50bec42cd5f76ad0.png" alt="Cover for the hegira trilogy 1 - nezeru enti sebauem neterxertet. the first cycle" style="max-width:120px; height:auto;" />
       </td>
@@ -590,25 +590,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>60</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1821faab84818273a3d4a5bb52f494c.png" alt="Cover for Em Sauf Haa-Heru" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>This Morn&#39; Omina</td>
-      <td>Em Sauf Haa-Heru</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/gpHTjd-0F8Zc5fCM4Q3hIW8Ig3ve92alBS5V3KUwtSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzUx/My0xMzIwNjcwMDMw/LmpwZWc.jpeg" alt="Cover for Seething" style="max-width:120px; height:auto;" />
       </td>
@@ -628,7 +610,25 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1821faab84818273a3d4a5bb52f494c.png" alt="Cover for Em Sauf Haa-Heru" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>This Morn&#39; Omina</td>
+      <td>Em Sauf Haa-Heru</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57c2765f3ba74b3c9df8735b31fd5c7a.png" alt="Cover for Tactics For Evolution" style="max-width:120px; height:auto;" />
       </td>
@@ -649,7 +649,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
       </td>
       <td>1998-06</td>
@@ -669,25 +669,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td>1999</td>
-      <td>Hybryds</td>
-      <td>mythical music from the 21st century</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd5ccbc1f81d4480a412d28de9528375.png" alt="Cover for Vita Mediativa" style="max-width:120px; height:auto;" />
       </td>
@@ -707,7 +689,25 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>78</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Hybryds</td>
+      <td>mythical music from the 21st century</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9afd64a9986e450fb2b7dea3ff5a0f3d.png" alt="Cover for Observe with Sadiq Bey" style="max-width:120px; height:auto;" />
       </td>
@@ -725,7 +725,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e87f0501f74408aabb06f7fe61bc257.png" alt="Cover for Lo-Fi India Abuse" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +744,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
       </td>
       <td>2001</td>
@@ -765,7 +765,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2001</td>
@@ -783,7 +783,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/oySNbVXVgFO02siQk2kuyr_gSdlYdTnk6zsD_1Wfc-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzI2/NDMtMTUzMTM4MjY5/MS00ODU3LmpwZWc.jpeg" alt="Cover for Tjukurrpa (Part Three: Rhythms and Pulsations)" style="max-width:120px; height:auto;" />
       </td>
@@ -803,27 +803,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-          <img src="https://i.discogs.com/k-o_knUO6Z43Igoa7qsI1DnhmIhpLgJ6CzvxXeRgVoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjAw/MC0xMjMwOTg3MTU4/LmpwZWc.jpeg" alt="Cover for Marches and meditations" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>C.O.T.A</td>
-      <td>Marches and meditations</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 74</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/k-o_knUO6Z43Igoa7qsI1DnhmIhpLgJ6CzvxXeRgVoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjAw/MC0xMjMwOTg3MTU4/LmpwZWc.jpeg" alt="Cover for Marches and meditations" style="max-width:120px; height:auto;" />
       </td>
@@ -843,7 +823,27 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/k-o_knUO6Z43Igoa7qsI1DnhmIhpLgJ6CzvxXeRgVoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjAw/MC0xMjMwOTg3MTU4/LmpwZWc.jpeg" alt="Cover for Marches and meditations" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>C.O.T.A</td>
+      <td>Marches and meditations</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/768ba78be4badd1bc3955423d017f461.png" alt="Cover for Hamas Cinema Gaza Strip" style="max-width:120px; height:auto;" />
       </td>
@@ -861,7 +861,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/o-5avpbZkWQ_PNjTR1m1jCqXlaDmb5zhH4ySwFZzjVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODYz/MC0xMTY5OTcxNTE4/LmpwZWc.jpeg" alt="Cover for 7 Years of Famine" style="max-width:120px; height:auto;" />
       </td>
@@ -879,7 +879,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/xADJbDTI4BHBHyuX2MwLxoQBQK8aIcxy2CZtnEVuQic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODcw/ODktMTIzNDAyMDMx/OC5qcGVn.jpeg" alt="Cover for Le Serpent Blanc" style="max-width:120px; height:auto;" />
       </td>
@@ -898,7 +898,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2003</td>
@@ -915,7 +915,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/m47zDHTjKTMvHUwQTaPkqLJLC88sUJjdZmLddTYCbHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU4/NC0xMTA0NTAwOTI5/LmpwZw.jpeg" alt="Cover for Serpenta" style="max-width:120px; height:auto;" />
       </td>
@@ -933,7 +933,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/HWg_6i-ndknU07D1w8O-_gkeSKuvgGwC3mNehn1zYrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTkw/Ny0xMTk5MDU3MDg0/LmpwZWc.jpeg" alt="Cover for Hai!" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +952,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>2004-03-25</td>
@@ -969,7 +969,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/Mq5nzbCfiY1higWol2kzAhrz-3plSNPgz8YkRBScasM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTQ0/My0xNTI3MDk4MjQ1/LTMwNDUuanBlZw.jpeg" alt="Cover for Aswad" style="max-width:120px; height:auto;" />
       </td>
@@ -987,7 +987,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3ff74a3b6e9d16bd8ab1faabdf88439.png" alt="Cover for Seven Veils of Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -1005,7 +1005,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbadb498295de318f38a1032213c535c.png" alt="Cover for Sa&#39;Iyr a Tribal Metamorphosis" style="max-width:120px; height:auto;" />
       </td>
@@ -1023,7 +1023,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
       </td>
       <td>2005-04-01</td>
@@ -1042,7 +1042,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8381c567d8a846bca71408518b5022f2.png" alt="Cover for Bad Karma" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,7 +1060,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dda7cfba45c462d8dbed1fd3638cfce.png" alt="Cover for Khaos De Viscera" style="max-width:120px; height:auto;" />
       </td>
@@ -1080,15 +1080,15 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 65</li>
+            <li> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a> # 6</li>
+            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 9</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 35</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 73</li>
-            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 92</li>
-            <li> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/1rt6f8vE_m1VPoRnnDA84UJETWr1HrYI1sq7brKTtks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc0/MDI0LTE1MDkzNjY2/OTAtMTI2Ny5qcGVn.jpeg" alt="Cover for Les Passages Jumeaux : Le 25ième Degré ~ Le 33ième Degré" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,7 +1109,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
       </td>
       <td>2007</td>
@@ -1128,7 +1128,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>2008</td>
@@ -1146,7 +1146,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90943fdb6ff6045558bdd5c1fdcbc826.png" alt="Cover for HAAB&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,7 +1164,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7079993db4e44ccc4827851310190ab.png" alt="Cover for Ni prédateur ni proie" style="max-width:120px; height:auto;" />
       </td>
@@ -1184,7 +1184,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be0b0838eec7a37ca937ccf65e4d5bf6.png" alt="Cover for Wooden Veil" style="max-width:120px; height:auto;" />
       </td>
@@ -1207,7 +1207,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/SMLBx6-1lsUR7c3Uz-4r9kFEQ7xtlU3101kMI0CnLkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ3/MTQtMTY1MzIyNzE0/NS01MTQ3LmpwZWc.jpeg" alt="Cover for O N A N I - [Practice Makes Perfect]" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,7 +1226,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>2009-04-17</td>
@@ -1244,7 +1244,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
       </td>
       <td>2009-08-14</td>
@@ -1265,7 +1265,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60ee33ed146b3743a69cc041bf6ecfe8.png" alt="Cover for 64 Light Years Away" style="max-width:120px; height:auto;" />
       </td>
@@ -1283,7 +1283,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/943081b7c1f0470f9c24cafe7b8ed879.png" alt="Cover for The Goddess of Atvatabar" style="max-width:120px; height:auto;" />
       </td>
@@ -1304,7 +1304,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/gbfslY4STFo4E2PL0FEmpni1YE4NDtk2NUg8lu_tEbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODc2/NzE3LTE2ODI0MTYx/MTUtMTEyMC5qcGVn.jpeg" alt="Cover for H-21" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,7 +1329,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
       </td>
       <td>2010-11-26</td>
@@ -1350,7 +1350,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/B58CtLhumoZMx8TwYNTrTna2zsZ2JZRJAXeEQTBHMyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjUy/ODUtMTMzODM4MjMy/Ni0yMzE0LmpwZWc.jpeg" alt="Cover for WARN-U" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,7 +1369,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da455700a5274a76b94ffe5a88859d75.png" alt="Cover for Primate" style="max-width:120px; height:auto;" />
       </td>
@@ -1390,7 +1390,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eccbe7f3db224814bab47ffd6905a80b.png" alt="Cover for Amygdala" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,7 +1414,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
       </td>
       <td>2011-11-23</td>
@@ -1431,7 +1431,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/sU7SRU0ZtAeD8NRFuvdKDgKfVZdLv4ZVACSbIg8bYBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTM2/NDUtMTM5NDQ2NDUz/NC04NzY3LmpwZWc.jpeg" alt="Cover for The Night of the Burning" style="max-width:120px; height:auto;" />
       </td>
@@ -1450,7 +1450,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2012-05-14</td>
@@ -1469,7 +1469,26 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/xehGdQpV1nquPkyxJRK2axShyxI7W4C4KACwYb6E4P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTAy/NjYtMTM3OTMyMTUw/NS0xMjQ0LmpwZWc.jpeg" alt="Cover for Anāgāmi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-11-06</td>
+      <td>Worms of the Earth</td>
+      <td>Anāgāmi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09491888cb7d6792aea4174a913be325.png" alt="Cover for Anagami" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,26 +1508,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>53</td>
-      <td>
-          <img src="https://i.discogs.com/xehGdQpV1nquPkyxJRK2axShyxI7W4C4KACwYb6E4P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTAy/NjYtMTM3OTMyMTUw/NS0xMjQ0LmpwZWc.jpeg" alt="Cover for Anāgāmi" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-11-06</td>
-      <td>Worms of the Earth</td>
-      <td>Anāgāmi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
       </td>
       <td>2012-11-16</td>
@@ -1527,7 +1527,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c7ce2f922b4cf47ff0a73c14e491ed3.png" alt="Cover for Discharge Mountain" style="max-width:120px; height:auto;" />
       </td>
@@ -1548,7 +1548,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td>2013-08-19</td>
@@ -1568,7 +1568,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
       </td>
       <td>2013-10-09</td>
@@ -1586,7 +1586,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/-RWCfPtJ56ARYbc2R3VsvkLx6zmz_syl5G_02n7SMO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzY4/NTMtMTM5MzI2NTY2/MC00NzU4LmpwZWc.jpeg" alt="Cover for Nagash" style="max-width:120px; height:auto;" />
       </td>
@@ -1606,7 +1606,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34fcfb1aa26746f7c69b69ff8c0c0514.png" alt="Cover for Cannula Coma Legio" style="max-width:120px; height:auto;" />
       </td>
@@ -1629,7 +1629,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/cGvCjQo8DvPVfcGNvgyerbLrQN_kA62Gdg54M4dqb_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDcw/NTItMTQwMDQ4NjI1/My02NjMzLmpwZWc.jpeg" alt="Cover for tremors" style="max-width:120px; height:auto;" />
       </td>
@@ -1648,7 +1648,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58f935784a332452c6a826f822f63b25.png" alt="Cover for Themes of Carnal Empowerment Pt.3: Penance" style="max-width:120px; height:auto;" />
       </td>
@@ -1669,33 +1669,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://i.discogs.com/48BPHbyMT-_tbxsuHE4andxfqJH8f6QEspImM9o6U2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDg0/MzYtMTQ1NTI5NzMz/NS0yNjgxLmpwZWc.jpeg" alt="Cover for Moaan Exis" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-02-01</td>
-      <td>Moaan Exis</td>
-      <td>Moaan Exis</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 37</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/9jwiXBZdhZYv9yZDzHdVZIYJr-dpKZhHb48CN1tVvkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA3/MDY5LTE1NjE1NTc4/NzEtODMzNC5qcGVn.jpeg" alt="Cover for POSTMODERN THERAPY" style="max-width:120px; height:auto;" />
       </td>
@@ -1723,7 +1697,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 56</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 44</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 62</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 74</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 83</li>
@@ -1731,7 +1705,33 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/48BPHbyMT-_tbxsuHE4andxfqJH8f6QEspImM9o6U2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDg0/MzYtMTQ1NTI5NzMz/NS0yNjgxLmpwZWc.jpeg" alt="Cover for Moaan Exis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-02-01</td>
+      <td>Moaan Exis</td>
+      <td>Moaan Exis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/BSjJLij-NeAtZB8x9S5jirn345pBWq06BL4vKh_o92s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDA3/NjgtMTQ1NzAyNDc4/MS0xMTcxLmpwZWc.jpeg" alt="Cover for Неявленное" style="max-width:120px; height:auto;" />
       </td>
@@ -1750,7 +1750,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/ti9X1Xa7Kx6J4QVUtg2Vu9A_pKs9lPSQa5HbGXEYLTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTkx/MjEtMTM0ODY4ODk4/MC04MzE0LmpwZWc.jpeg" alt="Cover for Exstinctio Conscientia" style="max-width:120px; height:auto;" />
       </td>
@@ -1770,7 +1770,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/I9Wd48klPIw98nSKIy-K6f5tNj1c5hJAT5NZOjbHVAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjY3/NTEtMTQ3NDE5MDk5/NS05MzQyLmpwZWc.jpeg" alt="Cover for INVOK" style="max-width:120px; height:auto;" />
       </td>
@@ -1791,17 +1791,17 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 8</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 12</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 13</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 17</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 21</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 47</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/ZdgCK7_e7yJfHJzT9P1YFVi_G8uz2fy5HTYNA3PqpBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjgw/MjgtMTUxODI2NjY1/OC04MTc5LmpwZWc.jpeg" alt="Cover for Old Earth Voodoo" style="max-width:120px; height:auto;" />
       </td>
@@ -1820,7 +1820,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54c4e6cc1105b5901cbfd75c3647ca41.png" alt="Cover for metameat" style="max-width:120px; height:auto;" />
       </td>
@@ -1840,7 +1840,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/R_5SiQh5J2KKokL8jxhPh5dsdw8HmWhmDMJC_n2wCMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODg1/MTYtMTUyNTQ4NDY3/MC04MzY3LmpwZWc.jpeg" alt="Cover for S&#x2F;T" style="max-width:120px; height:auto;" />
       </td>
@@ -1860,7 +1860,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/_L8P7TPBBzzl06mbgMkReTfp7MMdE4plYYPUMZXOdaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQ2/NDYyLTE1MzczNjg5/NTEtODE1Ny5qcGVn.jpeg" alt="Cover for The Jericho Records" style="max-width:120px; height:auto;" />
       </td>
@@ -1893,7 +1893,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1e4aa7fe337753fec88ce597cfa76dc.png" alt="Cover for Uzbekistani Bizzare And Souk" style="max-width:120px; height:auto;" />
       </td>
@@ -1915,7 +1915,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/gfz7N_4Dhko7k3TCj_iP0k7t5M_ew7Nky8yh5dssy9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE2/Nzg5LTE2MDU0MzYz/NTAtMzU5MS5qcGVn.jpeg" alt="Cover for Necessary Violences" style="max-width:120px; height:auto;" />
       </td>
@@ -1942,14 +1942,14 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 54</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 46</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 63</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5207a1a790e3192cc6449dd8578f2969.png" alt="Cover for Maha" style="max-width:120px; height:auto;" />
       </td>
@@ -1969,7 +1969,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5cf7a2ce2cbb0af288ea670733826ba.png" alt="Cover for Aethyr Abyss Void" style="max-width:120px; height:auto;" />
       </td>
@@ -1995,7 +1995,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/GVdxiBW5ADTkffPMTOSmVxDMO_X4lm3LYvY4SDPsLGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjU5/Ny0xMjA1MDc4MjU4/LmpwZWc.jpeg" alt="Cover for Nomad Souls LP W&#x2F;Bonus Tribal Warning Shot EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2016,17 +2016,15 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>38</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aabe8319b1d765089f6a16b895a28578.png" alt="Cover for Subjugation" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Beautifully Dead</td>
-      <td>Subjugation</td>
+      <td>Current 93 &#x2F; HÖH</td>
+      <td>Island</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
         </ul>
       </td>
@@ -2036,7 +2034,7 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
       </td>
       <td></td>
@@ -2053,15 +2051,17 @@ Tribal industrial is a genre of music that combines elements of industrial music
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aabe8319b1d765089f6a16b895a28578.png" alt="Cover for Subjugation" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Current 93 &#x2F; HÖH</td>
-      <td>Island</td>
+      <td>Beautifully Dead</td>
+      <td>Subjugation</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a></li>
         </ul>
       </td>
