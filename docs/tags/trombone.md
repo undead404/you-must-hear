@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T10:58:56.823Z
+date: 2025-12-06T22:19:00.038Z
 permalink: tags/trombone
 title: trombone
 ---
 
 ## trombone
 
-Last updated: <time datetime="2025-12-04T10:58:56.823Z">Thu Dec 04 2025 12:58:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T22:19:00.038Z">Sun Dec 07 2025 00:19:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
   </thead>
   <tbody>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/8foTTQHBZonNsfsjepiV4ndkU4Oh7JNfAdU_If_C-MY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODMz/NjgtMTUwNDU1NTQ5/OC03OTUxLmpwZWc.jpeg" alt="Cover for Lindberg, Christian: 10-Year Jubilee" style="max-width:120px; height:auto;" />
       </td>
@@ -46,7 +46,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>1958</td>
@@ -63,7 +63,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
       </td>
       <td>1958-03-23</td>
@@ -80,7 +80,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/HBPPfZlOouzfCuCrDVMF4WHVUNbcgLDwKHEra-GAwcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTcw/ODYtMTU2MzUxNjI3/NC03NTA5LmpwZWc.jpeg" alt="Cover for Mis&#39;ry and the Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -98,7 +98,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/Nc63sdGD-_zx-5UWP8OL_ovGQCPyin3vKf9IEk3XrK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjI1/Ny0xMTA3ODEyMDU2/LmpwZw.jpeg" alt="Cover for Some Other Stuff (Rudy Van Gelder Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -117,7 +117,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/ChWb4L6QOh_MYCgixPUQzdSgGKtt1Fc1JYQN5n6G7gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDk0/NTEtMTUyODExNTAz/My0yMDgwLmpwZWc.jpeg" alt="Cover for Walkin&#39; And Talkin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -135,7 +135,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/y0Kf5S2kcNXHSPe5UWBlXg-upBqhkivV_CiFeUc_Qpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjA4/My0xMzQwMDE0MzQ2/LTU2MTMuanBlZw.jpeg" alt="Cover for Poem for Malcom" style="max-width:120px; height:auto;" />
       </td>
@@ -154,7 +154,64 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>29</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Trombone Concertos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50a06942abe44012c0e77800617e7fb5.png" alt="Cover for Procrastination IIV" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Albatros</td>
+      <td>Procrastination IIV</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/IJbKSn3Oe4OtNHM5WW-vXnKxAtVHOxdff_MQqJ8LKlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODU1/NzQtMTQ1MTMzOTU4/NS0zNDE0LmpwZWc.jpeg" alt="Cover for American Music for Bass Trombone" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Charles Vernon</td>
+      <td>American Music for Bass Trombone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/UqvUMpIQ6KkWMIvgiacDugG-U6iUVrFOV9aYV7PEGlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzU0/OTktMTI5NDAwMzMx/OC5qcGVn.jpeg" alt="Cover for Just a Gigolo" style="max-width:120px; height:auto;" />
       </td>
@@ -179,64 +236,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-          <img src="https://i.discogs.com/IJbKSn3Oe4OtNHM5WW-vXnKxAtVHOxdff_MQqJ8LKlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODU1/NzQtMTQ1MTMzOTU4/NS0zNDE0LmpwZWc.jpeg" alt="Cover for American Music for Bass Trombone" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Charles Vernon</td>
-      <td>American Music for Bass Trombone</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50a06942abe44012c0e77800617e7fb5.png" alt="Cover for Procrastination IIV" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Albatros</td>
-      <td>Procrastination IIV</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
-      <td>
-      </td>
-      <td>1977</td>
-      <td>Various Artists</td>
-      <td>Trombone Concertos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/be35mh7jWCeQW1p8qkQkDTJ1xbcKBwO0efl5t5ara6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjg2/NDMzLTE1MzIxODY4/OTAtMTM3My5qcGVn.jpeg" alt="Cover for Sea Jam Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -254,7 +254,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/FT1lJ4aXnSsTCsugcbqFQMap19si75bydNIjHIiUJAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzcy/Nzc0LTE2NDI0MTgx/NTMtODU2NC5qcGVn.jpeg" alt="Cover for Tenderly" style="max-width:120px; height:auto;" />
       </td>
@@ -277,7 +277,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cf49e9cf9044b0395f8aa4a0a682f5f.png" alt="Cover for Soul Clap Its Hands" style="max-width:120px; height:auto;" />
       </td>
@@ -296,7 +296,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/NWuG0TsT3bzqsCCdIBK7ZGQ_9VSgDRbaodrZq8Wod_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTU3/NzUtMTU1MjkyNjMy/My05MjE1LmpwZWc.jpeg" alt="Cover for BERIO &#x2F; XENAKIS &#x2F; KAGEL &#x2F; CAGE: Works for Solo Trombone" style="max-width:120px; height:auto;" />
       </td>
@@ -315,7 +315,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/Exm9fx1HbNhaVI65FyRSOi8MLquYXhuTcB-R9DOst2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTQ2/MjktMTY2Mzk2OTkz/MC04Mjk5LmpwZWc.jpeg" alt="Cover for LINDBERG, Christian: THE ROMANTIC TROMBONE" style="max-width:120px; height:auto;" />
       </td>
@@ -332,7 +332,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>83</td>
       <td>
       </td>
       <td>1988</td>
@@ -350,7 +350,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
       </td>
       <td>1990</td>
@@ -367,7 +367,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/ndbw6uCvK1KAVp2ZroycbrtSYXJumPcwiFFGO9oP8yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzg1/NDctMTMzMTk5MzUz/OS5qcGVn.jpeg" alt="Cover for Dizzy Atmosphere" style="max-width:120px; height:auto;" />
       </td>
@@ -387,7 +387,25 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/iBYE-I0wmVvLMpumYVNFv06R09a_fYUezg8_Hk7Hu0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjUw/MzAtMTMzMzgwMTI5/MC5qcGVn.jpeg" alt="Cover for Comme Ci Comme Ca" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Fred Wesley</td>
+      <td>Comme Ci Comme Ca</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/WlJ7VraiGhfln_5PMczd5-Q4Xvj_H1MkjP3D3O2GTjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODY2/My0xNzMwMTQwNjE3/LTg1MTIuanBlZw.jpeg" alt="Cover for Karma" style="max-width:120px; height:auto;" />
       </td>
@@ -406,25 +424,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>61</td>
-      <td>
-          <img src="https://i.discogs.com/iBYE-I0wmVvLMpumYVNFv06R09a_fYUezg8_Hk7Hu0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjUw/MzAtMTMzMzgwMTI5/MC5qcGVn.jpeg" alt="Cover for Comme Ci Comme Ca" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Fred Wesley</td>
-      <td>Comme Ci Comme Ca</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
+      <td>69</td>
       <td>
       </td>
       <td>1991-09-24</td>
@@ -441,7 +441,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/YN3ybHLotXGGNU_jm_DbLmyeLzz29Eema5RP4Zj6mxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzc4/Ni0xNTc3NDU0MDI2/LTY4MDMuanBlZw.jpeg" alt="Cover for Lost Terrain" style="max-width:120px; height:auto;" />
       </td>
@@ -463,7 +463,41 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>31</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Bill Watrous</td>
+      <td>A Time For Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Fred Wesley</td>
+      <td>Swing &amp; Be Funky</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/WHOQoijWngHgnwqyXxkpOyfFEqzSX5kiJA3fxwdOkZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjU3/NzYtMTYxMjA0OTkz/NS04NDk0LmpwZWc.jpeg" alt="Cover for Plays The Music Of Mickey Katz" style="max-width:120px; height:auto;" />
       </td>
@@ -481,41 +515,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>67</td>
-      <td>
-      </td>
-      <td>1993</td>
-      <td>Fred Wesley</td>
-      <td>Swing &amp; Be Funky</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
-      <td>
-      </td>
-      <td>1993</td>
-      <td>Bill Watrous</td>
-      <td>A Time For Love</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/GesXq5q3yMKkR3i24Kp_jiJxrbz2Kn7jA6bDqyaNfjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE1/MjIzLTE1MDgyNjc0/MDMtMjk4MC5qcGVn.jpeg" alt="Cover for DESPREZ, F. &#x2F; BOZZA &#x2F; PRAETORIUS: Trombone Music" style="max-width:120px; height:auto;" />
       </td>
@@ -532,7 +532,60 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>48</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Fred Wesley</td>
+      <td>Amalgamation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Glenn Miller</td>
+      <td>We&#39;re Still in Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-band" | relative_url }}">big band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Robin Eubanks</td>
+      <td>Mental Images</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db06882206ca607ec72a4dbce1441e02.png" alt="Cover for Evanescence" style="max-width:120px; height:auto;" />
       </td>
@@ -555,60 +608,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-      </td>
-      <td>1994</td>
-      <td>Robin Eubanks</td>
-      <td>Mental Images</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
-      <td>
-      </td>
-      <td>1994</td>
-      <td>Glenn Miller</td>
-      <td>We&#39;re Still in Love</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-band" | relative_url }}">big band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
-      <td>
-      </td>
-      <td>1994</td>
-      <td>Fred Wesley</td>
-      <td>Amalgamation</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>1995</td>
@@ -625,7 +625,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>1995-03-21</td>
@@ -642,7 +642,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/nAQlD_2D7OikwBUAXRU0bxqbY39dwzEy1o3OhUuykSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzE4/ODg0LTE2NjE1MDY1/NjktMzQ2My5qcGVn.jpeg" alt="Cover for The Essential Vic Dickenson" style="max-width:120px; height:auto;" />
       </td>
@@ -660,7 +660,45 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/Mip0hmafQQndtYsprX2cC_a_4iNQ0UvWoSGD07v2vmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDM1/NzQtMTU2MjQ5NTM4/OC00MjMwLmpwZWc.jpeg" alt="Cover for Fond Memories Of . . ." style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Frank Rosolino</td>
+      <td>Fond Memories Of . . .</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/Go7qjyVGX_zijhQ8C_69_68UERT0JRH30L9gnA-8NAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTA5/ODYzLTE2MDM2NDQz/OTAtODU0Ny5qcGVn.jpeg" alt="Cover for David Maslanka: Symphony No. 8" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>David Maslanka</td>
+      <td>David Maslanka: Symphony No. 8</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/v6rU-Mg9rCVstIOL-ChHV7qKa3EtkMCDxGsw629twT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzUy/NTItMTU2NDQxNTcz/NS03NTE4LmpwZWc.jpeg" alt="Cover for Dance Of The Penguins" style="max-width:120px; height:auto;" />
       </td>
@@ -682,31 +720,12 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/Go7qjyVGX_zijhQ8C_69_68UERT0JRH30L9gnA-8NAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTA5/ODYzLTE2MDM2NDQz/OTAtODU0Ny5qcGVn.jpeg" alt="Cover for David Maslanka: Symphony No. 8" style="max-width:120px; height:auto;" />
       </td>
-      <td>1996</td>
-      <td>David Maslanka</td>
-      <td>David Maslanka: Symphony No. 8</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
-      <td>
-          <img src="https://i.discogs.com/Mip0hmafQQndtYsprX2cC_a_4iNQ0UvWoSGD07v2vmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDM1/NzQtMTU2MjQ5NTM4/OC00MjMwLmpwZWc.jpeg" alt="Cover for Fond Memories Of . . ." style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Frank Rosolino</td>
-      <td>Fond Memories Of . . .</td>
+      <td>1997</td>
+      <td>Steve Turre</td>
+      <td>Steve Turre</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a></li>
@@ -720,7 +739,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>73</td>
       <td>
       </td>
       <td>1997</td>
@@ -738,26 +757,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>75</td>
-      <td>
-      </td>
-      <td>1997</td>
-      <td>Steve Turre</td>
-      <td>Steve Turre</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/_3eYBh8m6UWxDOoIR3PW2Mq4siErpPij_-U1WGnBR8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjg3/MTMtMTU4OTU2NDIz/OC0zNzIxLmpwZWc.jpeg" alt="Cover for Soneando Trombon" style="max-width:120px; height:auto;" />
       </td>
@@ -784,7 +784,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/voiXB88yBab7NY2uxzPAg3j9xzeULnpeTX9HDB7XaY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjMy/Ny0xNTM1ODcyODI2/LTU5MzkuanBlZw.jpeg" alt="Cover for Full Circle: From Be Bop to Hip-Hop" style="max-width:120px; height:auto;" />
       </td>
@@ -802,7 +802,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/bmN2mnQ0XlsUBwQgognwfhCu7RyK_IoMJ7jdjZzYeVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ3/OTctMTIxNzczNDkw/MC5qcGVn.jpeg" alt="Cover for Mixed (Cecil Taylor Unit &#x2F; Roswell Rudd Sextet)" style="max-width:120px; height:auto;" />
       </td>
@@ -821,7 +821,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2be39d0a2f244e55a420b6bceadeea2e.png" alt="Cover for The Complete Recordings 1941-1947" style="max-width:120px; height:auto;" />
       </td>
@@ -840,12 +840,49 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 85</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/lqJCYz0TWwhcpvpRaAWLasFmzycVo1nApjQRNwxOolU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc5/NzM0LTE1MTg4NjM3/MTctNDA0OS5qcGVn.jpeg" alt="Cover for Fred Wesley&#39;s Life Is Wonderful" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Fred Wesley</td>
+      <td>Fred Wesley&#39;s Life Is Wonderful</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/Fi071QoCI5RHWKlHzdc-EM8ti9Frl6318KGDyUvrsMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQy/NDItMTUwMjUxODcw/OS02NDY1LmpwZWc.jpeg" alt="Cover for Lotus Flower" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Steve Turre</td>
+      <td>Lotus Flower</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/NWlb8B1anAdiYlvEE7s07oR-eLfljW0XEFzikd5f9Lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODQw/MjgtMTQ2NDUzMTg5/Ni04MTkzLmpwZWc.jpeg" alt="Cover for Live At The North Sea Jazz Festival" style="max-width:120px; height:auto;" />
       </td>
@@ -865,44 +902,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/Fi071QoCI5RHWKlHzdc-EM8ti9Frl6318KGDyUvrsMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQy/NDItMTUwMjUxODcw/OS02NDY1LmpwZWc.jpeg" alt="Cover for Lotus Flower" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Steve Turre</td>
-      <td>Lotus Flower</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-          <img src="https://i.discogs.com/lqJCYz0TWwhcpvpRaAWLasFmzycVo1nApjQRNwxOolU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc5/NzM0LTE1MTg4NjM3/MTctNDA0OS5qcGVn.jpeg" alt="Cover for Fred Wesley&#39;s Life Is Wonderful" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Fred Wesley</td>
-      <td>Fred Wesley&#39;s Life Is Wonderful</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
       </td>
       <td>1999-10-01</td>
@@ -918,12 +918,32 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 60</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/1OiVqRVyO58alaR96YUhQ8i2Lp0SOVCYUJ5KhFRSoOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDE4/NzEtMTQ0NDkyMDcx/Ny05ODQ1LmpwZWc.jpeg" alt="Cover for RIMSKY-KORSAKOV &#x2F; HOLST &#x2F; BOURGEOUS: Trombone Concertos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Christian Lindberg</td>
+      <td>RIMSKY-KORSAKOV &#x2F; HOLST &#x2F; BOURGEOUS: Trombone Concertos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f771d2a4858523440e016e23bc1202d3.png" alt="Cover for Allégresse" style="max-width:120px; height:auto;" />
       </td>
@@ -951,33 +971,12 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/1OiVqRVyO58alaR96YUhQ8i2Lp0SOVCYUJ5KhFRSoOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDE4/NzEtMTQ0NDkyMDcx/Ny05ODQ1LmpwZWc.jpeg" alt="Cover for RIMSKY-KORSAKOV &#x2F; HOLST &#x2F; BOURGEOUS: Trombone Concertos" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
-      <td>Christian Lindberg</td>
-      <td>RIMSKY-KORSAKOV &#x2F; HOLST &#x2F; BOURGEOUS: Trombone Concertos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 46</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-          <img src="https://i.discogs.com/1OiVqRVyO58alaR96YUhQ8i2Lp0SOVCYUJ5KhFRSoOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDE4/NzEtMTQ0NDkyMDcx/Ny05ODQ1LmpwZWc.jpeg" alt="Cover for BANDIDOS (LOS) - The Criminal Trombone No. 2 1&#x2F;2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Christian Lindberg</td>
-      <td>BANDIDOS (LOS) - The Criminal Trombone No. 2 1&#x2F;2</td>
+      <td>Steve Turre</td>
+      <td>In The Spur Of The Moment</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
@@ -989,7 +988,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/1OiVqRVyO58alaR96YUhQ8i2Lp0SOVCYUJ5KhFRSoOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDE4/NzEtMTQ0NDkyMDcx/Ny05ODQ1LmpwZWc.jpeg" alt="Cover for RIMSKY-KORSAKOV &#x2F; TOMASI &#x2F; ROTA: Trombone Concertos" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,12 +1006,13 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>95</td>
       <td>
+          <img src="https://i.discogs.com/1OiVqRVyO58alaR96YUhQ8i2Lp0SOVCYUJ5KhFRSoOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDE4/NzEtMTQ0NDkyMDcx/Ny05ODQ1LmpwZWc.jpeg" alt="Cover for BANDIDOS (LOS) - The Criminal Trombone No. 2 1&#x2F;2" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
-      <td>Steve Turre</td>
-      <td>In The Spur Of The Moment</td>
+      <td>Christian Lindberg</td>
+      <td>BANDIDOS (LOS) - The Criminal Trombone No. 2 1&#x2F;2</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
@@ -1024,7 +1024,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/imp4i549ybY_cWAvqLdqQEwKJxkz-53fTH2tjo0hcSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTY4/MzgtMTU0NTUxMDY5/My0xMDUxLmpwZWc.jpeg" alt="Cover for Tribute To Don Drummond" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1043,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b74cc3897d7546a19021d892b97cf155.png" alt="Cover for Layers Of Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,6 +1064,25 @@ Trombone music refers to any music that features the trombone as a prominent ins
     </tr>
     <tr>
       <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/Jp8DO-TGIvrCEDBT-UyqP7YkiJmtXH3v4yj-73O3zXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg1/NzkxLTE1NDE5MTA5/NDAtOTcyOC5qcGVn.jpeg" alt="Cover for Trombonastics" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Joseph Alessi</td>
+      <td>Trombonastics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/6EH5I9noTBNdiviXOTygVYmLcbcXi0o9P_y_CXgIGbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzkw/NDYtMTYzMjMyNDk1/OS03NzUwLmpwZWc.jpeg" alt="Cover for Music Makers" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,16 +1106,14 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/Jp8DO-TGIvrCEDBT-UyqP7YkiJmtXH3v4yj-73O3zXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg1/NzkxLTE1NDE5MTA5/NDAtOTcyOC5qcGVn.jpeg" alt="Cover for Trombonastics" style="max-width:120px; height:auto;" />
       </td>
-      <td>2002</td>
-      <td>Joseph Alessi</td>
-      <td>Trombonastics</td>
+      <td>2003</td>
+      <td>Fred Wesley</td>
+      <td>Wuda Cuda Shuda</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
         </ul>
       </td>
@@ -1106,7 +1123,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/hIaVk1ITvpeOYrkP9lyvr4Z7W_-UE4_8Dq0PVVMfUv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDQ4/MTAtMTMwMzY2MjA2/OC5qcGVn.jpeg" alt="Cover for One 4 J" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,24 +1141,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>86</td>
-      <td>
-      </td>
-      <td>2003</td>
-      <td>Fred Wesley</td>
-      <td>Wuda Cuda Shuda</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2003-06-06</td>
@@ -1158,7 +1158,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/wiDe2T-TZJ_rNX34G6puSYQQHeWKldC0QmU9gvsS1qQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDg2/Mi0xMjY1OTEwMzQw/LmpwZWc.jpeg" alt="Cover for One4J: Paying Homage to J.J. Johnson" style="max-width:120px; height:auto;" />
       </td>
@@ -1176,7 +1176,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/EIvEkGd-LPCedszJAC62fMBcM5-sQLoT6a0syGiwhXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDQ4/MDMtMTMwMzY2MTk2/MS5qcGVn.jpeg" alt="Cover for The Spirits Up Above" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,7 +1194,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/350910bb5eaa454ec529ddbb7598305c.png" alt="Cover for Creole Love Call" style="max-width:120px; height:auto;" />
       </td>
@@ -1215,7 +1215,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/S-YoyKyNBjUzdLf45ty6zvz-oFZKbH2l2y7_fi3peUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTcy/NjItMTM0NDg3MTA3/NC0zNDQyLmpwZWc.jpeg" alt="Cover for Decade Of Perdition" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,13 +1238,13 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a> # 52</li>
+            <li> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a> # 48</li>
             <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/6tl9b_h9Wh0jEemccKGZU37NAfe-ht5edep02KJGqOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzEy/ODEtMTMyMDY3MjAx/My5qcGVn.jpeg" alt="Cover for Tango Saloon" style="max-width:120px; height:auto;" />
       </td>
@@ -1266,31 +1266,12 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 7</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-          <img src="https://i.discogs.com/ZWY0YVAotLHb0PHNGohqF5_5rkMS06kyVdQqafysLwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjIy/NTEtMTM2Mjg1MjY2/Mi03OTAzLmpwZWc.jpeg" alt="Cover for Procès Verbal" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Larsen Rupin</td>
-      <td>Procès Verbal</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/M5qWaF7rFrhpGroxjd35riiCo7pHeiv-0NQdCB3BU3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjIw/NTkyLTE0OTM2MjQw/NzktMTkyMy5qcGVn.jpeg" alt="Cover for Shoutin&#39; Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,7 +1297,26 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/ZWY0YVAotLHb0PHNGohqF5_5rkMS06kyVdQqafysLwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjIy/NTEtMTM2Mjg1MjY2/Mi03OTAzLmpwZWc.jpeg" alt="Cover for Procès Verbal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Larsen Rupin</td>
+      <td>Procès Verbal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/065022797ec743edc31cc4bea0a16181.png" alt="Cover for The Horseshoe Curve" style="max-width:120px; height:auto;" />
       </td>
@@ -1342,7 +1342,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e2e5135f9d34a639764a640706e7454.png" alt="Cover for Transylvania" style="max-width:120px; height:auto;" />
       </td>
@@ -1365,13 +1365,13 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 13</li>
             <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 23</li>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/Gm_X1Q_6KReC1F6NN11qTzmnxGfDoKS_yWPefsL4ADQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/NjUxLTE1Mzc1Njky/OTYtNDgzNS5qcGVn.jpeg" alt="Cover for Madrona" style="max-width:120px; height:auto;" />
       </td>
@@ -1396,14 +1396,14 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 10</li>
             <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 44</li>
             <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 50</li>
+            <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/lAug38NamEcRrb2beZP9Hz2XPOl1vHxWJYctrqaw-To/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTY3/MzAtMTMwMjM1MzU3/NC5qcGVn.jpeg" alt="Cover for Jay &amp; Kai" style="max-width:120px; height:auto;" />
       </td>
@@ -1422,7 +1422,27 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/eMCePolkDvM_7fXfkEQ7mnjuZ9oDaVH37iQVPZlYR7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDA2/Njk2LTE2MTkxMDc3/MTEtNTg0MC5qcGVn.jpeg" alt="Cover for nur ein blick * just one look" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-19</td>
+      <td>Toeppel Butera</td>
+      <td>nur ein blick * just one look</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/eMCePolkDvM_7fXfkEQ7mnjuZ9oDaVH37iQVPZlYR7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDA2/Njk2LTE2MTkxMDc3/MTEtNTg0MC5qcGVn.jpeg" alt="Cover for Songs of Fish and Women" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,27 +1466,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>68</td>
-      <td>
-          <img src="https://i.discogs.com/eMCePolkDvM_7fXfkEQ7mnjuZ9oDaVH37iQVPZlYR7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDA2/Njk2LTE2MTkxMDc3/MTEtNTg0MC5qcGVn.jpeg" alt="Cover for nur ein blick * just one look" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-06-19</td>
-      <td>Toeppel Butera</td>
-      <td>nur ein blick * just one look</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/zSKADKP_GC_SmVURbOeE296W0Mluq9S7YYaCsM8879o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDI2/MDIxLTE2NzA3MDAx/NTAtNDQ3OS5qcGVn.jpeg" alt="Cover for Never Alone" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,7 +1485,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f4dcc4c1e4b42bbba752adcb1ff66e0.png" alt="Cover for Backatown" style="max-width:120px; height:auto;" />
       </td>
@@ -1505,7 +1505,28 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbdfae37f8d043fa93eae841d25ce6ef.png" alt="Cover for Seven Seas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Avishai Cohen</td>
+      <td>Seven Seas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/dbaZGCldEqHtO55OlJH9xg__toc3clWExu0oeE4S14M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE4/ODMyLTE1NDQ1MTgy/MTktMzgzNC5qcGVn.jpeg" alt="Cover for A Different Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1533,34 +1554,13 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 46</li>
-            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 57</li>
+            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 44</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbdfae37f8d043fa93eae841d25ce6ef.png" alt="Cover for Seven Seas" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Avishai Cohen</td>
-      <td>Seven Seas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 23</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/T5_MPSTMspCCeSgqe6WiljX2oCN63Vd6X6jPZLh3J6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM5/Mjc3LTE1NzY2MjA3/MTYtMzg4MS5qcGVn.jpeg" alt="Cover for End Of The Tunnel" style="max-width:120px; height:auto;" />
       </td>
@@ -1579,7 +1579,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/TX-NaPPuV2Z6dtAObR5jtkiYz8Nah8AtdwughQg8w8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTYw/Mjg1LTE1MTg1MDkw/MDMtMTY4Mi5qcGVn.jpeg" alt="Cover for A Voice Trough The Door" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,7 +1598,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>2013-04-23</td>
@@ -1622,7 +1622,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/-vOh1YOuYnifDIlgK4Hdy1hbtFAhKxz3fpR09muO-NI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI3/MTc5LTE1OTMwMzI1/MDctNzI0NS5qcGVn.jpeg" alt="Cover for Barren Serenade" style="max-width:120px; height:auto;" />
       </td>
@@ -1641,7 +1641,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2015</td>
@@ -1655,12 +1655,12 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 92</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/dVk4wCZ4sRHUNTBRasweGL7ihdYARmL7Kz6OkxN8boI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEy/NzAxLTE2NTg5MjI0/NTktMTQ2MC5qcGVn.jpeg" alt="Cover for Triton Trombone Quartet: German Trombone Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1679,7 +1679,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/LqZAKZv1bwia3ZOL-kGV594SqTxiPJqb7hwiu9fhvvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjgy/ODgyLTE1MTMzNzUy/NDMtNTI3MS5qcGVn.jpeg" alt="Cover for friday &#x2F; featuring Tom Smith" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,13 +1698,13 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 20</li>
             <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 33</li>
-            <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/Zj9gWChzyn5VRwI2ctI9aV_ImhKn4GcmcIQYSZ0J_YY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NTMxLTE2NTI3MDUy/ODYtMjkzOC5qcGVn.jpeg" alt="Cover for Murmurs" style="max-width:120px; height:auto;" />
       </td>
@@ -1722,7 +1722,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/aCfibGqJ5W8o9SeYZY1ekfn9AGy7ekacm6zO0rZgen0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTUx/Mzk3LTE3MDIxMTU1/MDMtOTI1NC5qcGVn.jpeg" alt="Cover for Sincere Insanity" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,7 +1741,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/brBvwOFxunCuq6xSwyTzuO28NgrcDQ3CxFQRyPu65MM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDM1/NzYzLTE3MjQ5NjA5/NzgtNTE0MC5qcGVn.jpeg" alt="Cover for Quando Menino" style="max-width:120px; height:auto;" />
       </td>
@@ -1760,7 +1760,177 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>19</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Blechbläserensemble pro musica sacra</td>
+      <td>Bilder einer Blechausstellung</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horn" | relative_url }}">horn</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 15</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Blechbläserensemble pro musica sacra</td>
+      <td>petit &quot;toot&quot; suite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horn" | relative_url }}">horn</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 24</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Blechbläserensemble pro musica sacra</td>
+      <td>Sweet Suite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horn" | relative_url }}">horn</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 30</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bill Lepage</td>
+      <td>Good-bye, Chunky Rice Part 2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Prollchor</td>
+      <td>Take28</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horn" | relative_url }}">horn</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Haraldur Thrastarson</td>
+      <td>Eitt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bill Lepage</td>
+      <td>Good-bye, Chunky Rice</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 49</li>
+            <li> <a href="{{ "/tags/american-classical" | relative_url }}">american classical</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td></td>
+      <td>factore-reset</td>
+      <td>Barbanza</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-band" | relative_url }}">big band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
       <td>
       </td>
       <td></td>
@@ -1782,177 +1952,60 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>78</td>
       <td>
       </td>
       <td></td>
-      <td>factore-reset</td>
-      <td>Barbanza</td>
+      <td>Troy &quot;Trombone Shorty&quot; Andrews &amp; Orleans Avenue</td>
+      <td>Orleans and Claiborne</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-band" | relative_url }}">big band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>80</td>
       <td>
       </td>
       <td></td>
-      <td>Bill Lepage</td>
-      <td>Good-bye, Chunky Rice</td>
+      <td>Robin Eubanks and EB3</td>
+      <td>Live - Volume 1</td>
       <td>
         <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/american-classical" | relative_url }}">american classical</a> # 16</li>
-            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 49</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Haraldur Thrastarson</td>
-      <td>Eitt</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>81</td>
       <td>
       </td>
       <td></td>
-      <td>Prollchor</td>
-      <td>Take28</td>
+      <td>The Finch Cycle</td>
+      <td>Crossing Enemy Lines</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horn" | relative_url }}">horn</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Bill Lepage</td>
-      <td>Good-bye, Chunky Rice Part 2</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 37</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Blechbläserensemble pro musica sacra</td>
-      <td>Sweet Suite</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horn" | relative_url }}">horn</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 71</li>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Blechbläserensemble pro musica sacra</td>
-      <td>petit &quot;toot&quot; suite</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horn" | relative_url }}">horn</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 66</li>
-            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 77</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Blechbläserensemble pro musica sacra</td>
-      <td>Bilder einer Blechausstellung</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horn" | relative_url }}">horn</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 40</li>
-            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
       </td>
       <td></td>
@@ -1975,60 +2028,7 @@ Trombone music refers to any music that features the trombone as a prominent ins
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-      </td>
-      <td></td>
-      <td>The Finch Cycle</td>
-      <td>Crossing Enemy Lines</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Robin Eubanks and EB3</td>
-      <td>Live - Volume 1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Troy &quot;Trombone Shorty&quot; Andrews &amp; Orleans Avenue</td>
-      <td>Orleans and Claiborne</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>

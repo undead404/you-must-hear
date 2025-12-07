@@ -1,18 +1,26 @@
 ---
 category: list
-date: 2025-12-06T22:18:32.899Z
+date: 2025-12-06T22:30:39.854Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-06T22:18:32.899Z">Sun Dec 07 2025 00:18:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T22:30:39.854Z">Sun Dec 07 2025 00:30:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [southern rap]({{ "tags/southern-rap" | relative_url }}) | <time datetime="2025-12-06T22:30:39.854Z">Sun Dec 07 2025 00:30:39 GMT+0200 (Eastern European Standard Time)</time> |
+| [belarus]({{ "tags/belarus" | relative_url }}) | <time datetime="2025-12-06T22:22:14.233Z">Sun Dec 07 2025 00:22:14 GMT+0200 (Eastern European Standard Time)</time> |
+| [hardcore techno]({{ "tags/hardcore-techno" | relative_url }}) | <time datetime="2025-12-06T22:22:11.179Z">Sun Dec 07 2025 00:22:11 GMT+0200 (Eastern European Standard Time)</time> |
+| [garage house]({{ "tags/garage-house" | relative_url }}) | <time datetime="2025-12-06T22:20:48.627Z">Sun Dec 07 2025 00:20:48 GMT+0200 (Eastern European Standard Time)</time> |
+| [post-grunge]({{ "tags/post-grunge" | relative_url }}) | <time datetime="2025-12-06T22:20:25.000Z">Sun Dec 07 2025 00:20:25 GMT+0200 (Eastern European Standard Time)</time> |
+| [beastie boys]({{ "tags/beastie-boys" | relative_url }}) | <time datetime="2025-12-06T22:19:53.907Z">Sun Dec 07 2025 00:19:53 GMT+0200 (Eastern European Standard Time)</time> |
+| [nigeria]({{ "tags/nigeria" | relative_url }}) | <time datetime="2025-12-06T22:19:03.282Z">Sun Dec 07 2025 00:19:03 GMT+0200 (Eastern European Standard Time)</time> |
+| [trombone]({{ "tags/trombone" | relative_url }}) | <time datetime="2025-12-06T22:19:00.038Z">Sun Dec 07 2025 00:19:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [synth rock]({{ "tags/synth-rock" | relative_url }}) | <time datetime="2025-12-06T22:18:32.899Z">Sun Dec 07 2025 00:18:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [westcoast]({{ "tags/westcoast" | relative_url }}) | <time datetime="2025-12-06T22:18:29.766Z">Sun Dec 07 2025 00:18:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [drone metal]({{ "tags/drone-metal" | relative_url }}) | <time datetime="2025-12-06T22:02:57.852Z">Sun Dec 07 2025 00:02:57 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1381,10 +1389,3 @@ Last updated: <time datetime="2025-12-06T22:18:32.899Z">Sun Dec 07 2025 00:18:32
 | [piano trio]({{ "tags/piano-trio" | relative_url }}) | <time datetime="2025-12-04T11:34:07.177Z">Thu Dec 04 2025 13:34:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [traditional heavy metal]({{ "tags/traditional-heavy-metal" | relative_url }}) | <time datetime="2025-12-04T11:34:02.195Z">Thu Dec 04 2025 13:34:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [brostep]({{ "tags/brostep" | relative_url }}) | <time datetime="2025-12-04T11:33:56.865Z">Thu Dec 04 2025 13:33:56 GMT+0200 (Eastern European Standard Time)</time> |
-| [southern rap]({{ "tags/southern-rap" | relative_url }}) | <time datetime="2025-12-04T11:33:50.827Z">Thu Dec 04 2025 13:33:50 GMT+0200 (Eastern European Standard Time)</time> |
-| [belarus]({{ "tags/belarus" | relative_url }}) | <time datetime="2025-12-04T11:16:41.123Z">Thu Dec 04 2025 13:16:41 GMT+0200 (Eastern European Standard Time)</time> |
-| [hardcore techno]({{ "tags/hardcore-techno" | relative_url }}) | <time datetime="2025-12-04T11:16:35.703Z">Thu Dec 04 2025 13:16:35 GMT+0200 (Eastern European Standard Time)</time> |
-| [garage house]({{ "tags/garage-house" | relative_url }}) | <time datetime="2025-12-04T11:16:29.618Z">Thu Dec 04 2025 13:16:29 GMT+0200 (Eastern European Standard Time)</time> |
-| [post-grunge]({{ "tags/post-grunge" | relative_url }}) | <time datetime="2025-12-04T11:16:20.720Z">Thu Dec 04 2025 13:16:20 GMT+0200 (Eastern European Standard Time)</time> |
-| [nigeria]({{ "tags/nigeria" | relative_url }}) | <time datetime="2025-12-04T10:59:29.243Z">Thu Dec 04 2025 12:59:29 GMT+0200 (Eastern European Standard Time)</time> |
-| [trombone]({{ "tags/trombone" | relative_url }}) | <time datetime="2025-12-04T10:58:56.823Z">Thu Dec 04 2025 12:58:56 GMT+0200 (Eastern European Standard Time)</time> |
