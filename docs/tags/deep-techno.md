@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:45:45.048Z
+date: 2025-12-06T19:06:57.255Z
 permalink: tags/deep-techno
 title: deep techno
 ---
 
 ## deep techno
 
-Last updated: <time datetime="2025-12-04T09:45:45.048Z">Thu Dec 04 2025 11:45:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T19:06:57.255Z">Sat Dec 06 2025 21:06:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -194,8 +194,8 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 23</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 29</li>
             <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 62</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -220,8 +220,8 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 70</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 72</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 29</li>
+            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -241,7 +241,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 72</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -307,7 +307,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 73</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -433,8 +433,8 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 12</li>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 42</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 59</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -544,7 +544,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       <td>
         <ul>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 15</li>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 52</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -607,7 +607,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a> # 57</li>
+            <li> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a> # 43</li>
             <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 90</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 97</li>
         </ul>
@@ -719,7 +719,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 9</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 11</li>
             <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 38</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 55</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -814,9 +814,9 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deep-dubstep" | relative_url }}">deep dubstep</a> # 6</li>
             <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 9</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 24</li>
-            <li> <a href="{{ "/tags/deep-dubstep" | relative_url }}">deep dubstep</a> # 95</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -836,7 +836,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 66</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -924,7 +924,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
         <ul>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 32</li>
             <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 35</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 59</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1165,7 +1165,7 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 63</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 38</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 69</li>
         </ul>
       </td>
@@ -1385,9 +1385,9 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       <td>
         <ul>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 35</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 39</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 52</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 61</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 62</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 97</li>
         </ul>
       </td>
@@ -1430,16 +1430,16 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       <td>
         <ul>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 2</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 3</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 3</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 4</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 4</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 4</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 13</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 17</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 38</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 79</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 80</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 87</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 96</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1557,12 +1557,12 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 15</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 46</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 51</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 55</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 58</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 71</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 79</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1879,9 +1879,9 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 29</li>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 71</li>
             <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 72</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 72</li>
+            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1917,8 +1917,8 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 10</li>
             <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 86</li>
+            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 91</li>
             <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 99</li>
         </ul>
       </td>
@@ -2011,8 +2011,8 @@ Deep techno is a hypnotic and atmospheric subgenre that emphasizes spacious soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 4</li>
             <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 91</li>
+            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 97</li>
         </ul>
       </td>
     </tr>

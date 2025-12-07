@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:45:50.849Z
+date: 2025-12-06T19:07:21.794Z
 permalink: tags/dark-industrial
 title: dark industrial
 ---
 
 ## dark industrial
 
-Last updated: <time datetime="2025-12-04T09:45:50.849Z">Thu Dec 04 2025 11:45:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T19:07:21.794Z">Sat Dec 06 2025 21:07:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -77,11 +77,11 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 3</li>
+            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 17</li>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 30</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 45</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 64</li>
-            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 84</li>
-            <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -208,7 +208,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 77</li>
+            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -282,7 +282,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 61</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -458,7 +458,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 42</li>
+            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -515,8 +515,8 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 4</li>
             <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 21</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -947,13 +947,13 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 4</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 4</li>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 6</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 8</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 9</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 9</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 27</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 38</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 92</li>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 97</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1101,8 +1101,8 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 25</li>
             <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 54</li>
-            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1152,11 +1152,11 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 43</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 49</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 38</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 52</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 58</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 59</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 59</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 62</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 67</li>
         </ul>
       </td>
@@ -1277,14 +1277,14 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 8</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 46</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 37</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 40</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 55</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 56</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 61</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 62</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 63</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 63</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1306,7 +1306,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 80</li>
+            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1367,8 +1367,8 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 10</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 42</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 59</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 91</li>
             <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 97</li>
         </ul>
       </td>
@@ -1409,8 +1409,8 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 18</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 50</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 51</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 83</li>
             <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 91</li>
         </ul>
       </td>
@@ -1451,7 +1451,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 35</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 66</li>
             <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 100</li>
         </ul>
       </td>
@@ -1492,8 +1492,8 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 15</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 47</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 54</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 86</li>
             <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 94</li>
         </ul>
       </td>
@@ -1534,8 +1534,8 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 26</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 60</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 41</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 75</li>
             <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 85</li>
         </ul>
       </td>
@@ -1577,9 +1577,9 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 22</li>
-            <li> <a href="{{ "/tags/haiti" | relative_url }}">haiti</a> # 30</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 54</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 47</li>
+            <li> <a href="{{ "/tags/haiti" | relative_url }}">haiti</a> # 71</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 79</li>
             <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 90</li>
         </ul>
       </td>
@@ -1622,9 +1622,9 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 12</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 44</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 57</li>
             <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 86</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 89</li>
             <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 95</li>
         </ul>
       </td>
@@ -1662,14 +1662,14 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 5</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 7</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 9</li>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 9</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 14</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 16</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 36</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 41</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 87</li>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 94</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1797,7 +1797,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 77</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 24</li>
             <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 91</li>
         </ul>
       </td>
@@ -1824,7 +1824,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 61</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1848,7 +1848,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 69</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1874,7 +1874,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 65</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1901,7 +1901,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 66</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1928,8 +1928,8 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 29</li>
             <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 65</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 72</li>
             <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 96</li>
         </ul>
       </td>
@@ -1957,7 +1957,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 64</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1984,7 +1984,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 70</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 31</li>
             <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 92</li>
             <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 100</li>
         </ul>
@@ -2055,7 +2055,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 3</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2287,11 +2287,11 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 2</li>
+            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 16</li>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 28</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 43</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 61</li>
-            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 85</li>
-            <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2338,7 +2338,7 @@ Dark industrial fuses aggressive electronic beats with harsh, distorted soundsca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 28</li>
+            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 73</li>
         </ul>
       </td>
     </tr>

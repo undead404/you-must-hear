@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:47:37.005Z
+date: 2025-12-06T19:24:35.634Z
 permalink: tags/sufi
 title: sufi
 ---
 
 ## sufi
 
-Last updated: <time datetime="2025-12-04T09:47:37.005Z">Thu Dec 04 2025 11:47:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T19:24:35.634Z">Sat Dec 06 2025 21:24:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
   </thead>
   <tbody>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/DnoU-mT-EUzb-C1kGEazNqh3YT7sBRO7cPk9kmNqCK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUz/NTA1LTE2MTY5Mzg1/MDgtNDY4My5qcGVn.jpeg" alt="Cover for Bewafa" style="max-width:120px; height:auto;" />
       </td>
@@ -45,12 +45,12 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 70</li>
+            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/v4GLkYvhA5W8XKNEI5rGLOQGhOdsxtQrF3zpaFPUM1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTI0/NDYyLTE2NTgxNjAz/MzAtOTMyNC5qcGVn.jpeg" alt="Cover for Rendan e Mast" style="max-width:120px; height:auto;" />
       </td>
@@ -69,16 +69,16 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 32</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 40</li>
             <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 48</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 61</li>
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 69</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 69</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/v4GLkYvhA5W8XKNEI5rGLOQGhOdsxtQrF3zpaFPUM1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTI0/NDYyLTE2NTgxNjAz/MzAtOTMyNC5qcGVn.jpeg" alt="Cover for Delshodeghan" style="max-width:120px; height:auto;" />
       </td>
@@ -101,7 +101,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e09cfe8ac74a906833e2cefea7019001.png" alt="Cover for Sufi Music of Turkey" style="max-width:120px; height:auto;" />
       </td>
@@ -125,7 +125,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/ioveYpxlRWydTfkHzRjH5geyzbyulYejcUFI7odkjbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODg3/ODQtMTY0Nzg4NDk4/MS0xNjc4LmpwZWc.jpeg" alt="Cover for Sufis Vision" style="max-width:120px; height:auto;" />
       </td>
@@ -143,7 +143,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>1992</td>
@@ -159,13 +159,49 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 7</li>
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 56</li>
-            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/rurq-CDedYcporyw2974ig3aVdT6Vv7OzDc63XsvRg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUw/NDQtMTUxMDk3OTMw/Ni03OTUzLmpwZWc.jpeg" alt="Cover for Devotional and Love Songs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Nusrat Fateh Ali Khan &amp; Party</td>
+      <td>Devotional and Love Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/GjquqozHgaqpS00K_8eQZKsiv1djCRp-2WLk0kDH9ZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzAz/MTgtMTQ4ODczNDg5/MC01MTI3LmpwZWc.jpeg" alt="Cover for Devotional Songs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Nusrat Fateh Ali Khan &amp; Party</td>
+      <td>Devotional Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/2-Kntdojj0tKNXmmSHxe2x3Uka_SL01k8bEoa1cYqOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODI0/MDMtMTM0ODkzOTcz/My03MzgzLmpwZWc.jpeg" alt="Cover for Love Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -184,43 +220,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://i.discogs.com/GjquqozHgaqpS00K_8eQZKsiv1djCRp-2WLk0kDH9ZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzAz/MTgtMTQ4ODczNDg5/MC01MTI3LmpwZWc.jpeg" alt="Cover for Devotional Songs" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Nusrat Fateh Ali Khan &amp; Party</td>
-      <td>Devotional Songs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
-      <td>
-          <img src="https://i.discogs.com/rurq-CDedYcporyw2974ig3aVdT6Vv7OzDc63XsvRg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUw/NDQtMTUxMDk3OTMw/Ni03OTUzLmpwZWc.jpeg" alt="Cover for Devotional and Love Songs" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Nusrat Fateh Ali Khan &amp; Party</td>
-      <td>Devotional and Love Songs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>1992-11-03</td>
@@ -244,7 +244,26 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a3a45a81fc64fa4cf3ca833dd3a406f.png" alt="Cover for Moon Shines at Night" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Djivan Gasparyan</td>
+      <td>Moon Shines at Night</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/SaiDgccMVMxhF3N7bxnjZlgjKUG3K6iDmosKTL_CIQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI0/ODIwLTE2NTk4NTMw/ODEtNTY0Ny5qcGVn.jpeg" alt="Cover for Under the Cutting Blade (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -265,20 +284,19 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 22</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 36</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 65</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 79</li>
             <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>8</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a3a45a81fc64fa4cf3ca833dd3a406f.png" alt="Cover for Moon Shines at Night" style="max-width:120px; height:auto;" />
       </td>
-      <td>1993</td>
-      <td>Djivan Gasparyan</td>
-      <td>Moon Shines at Night</td>
+      <td>1994</td>
+      <td>Omar Faruk Tekbilek</td>
+      <td>Whirling</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
@@ -286,12 +304,29 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/dw3jyw-aHcEG2VAeVG-a6YrKtgEfV3FvVMHTTQzLBQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTA4/OC0xMzg4MDU2MDg2/LTU4NjEuanBlZw.jpeg" alt="Cover for Fire Dance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Omar Faruk Tekbilek</td>
+      <td>Fire Dance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/VT_ICH_L7dRNIJ8yb1yRZsnl9zmJ5YX23QejhsTJqRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDgz/My0xMjM0ODY1NTA4/LmpwZWc.jpeg" alt="Cover for Longing" style="max-width:120px; height:auto;" />
       </td>
@@ -311,42 +346,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://i.discogs.com/dw3jyw-aHcEG2VAeVG-a6YrKtgEfV3FvVMHTTQzLBQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTA4/OC0xMzg4MDU2MDg2/LTU4NjEuanBlZw.jpeg" alt="Cover for Fire Dance" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Omar Faruk Tekbilek</td>
-      <td>Fire Dance</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
-      <td>
-      </td>
-      <td>1994</td>
-      <td>Omar Faruk Tekbilek</td>
-      <td>Whirling</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/vwbN6Zs4zMPeljq0v97nPjMFuNGfpApK7cizSyldY2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTc2/NTUtMTU2MzI2NzYx/Ni03NDUyLmpwZWc.jpeg" alt="Cover for Iranian Percussions" style="max-width:120px; height:auto;" />
       </td>
@@ -366,15 +366,15 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 15</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 29</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 57</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 72</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 86</li>
             <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>1995</td>
@@ -391,7 +391,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
       </td>
       <td>1995-08-22</td>
@@ -408,7 +408,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/WPlSurEf8PnxDPwL9WMg7V_KwxgTehb8LBLuXGK2yHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjE1/Mi0xNDYyMDcyMDQ1/LTIwNDQuanBlZw.jpeg" alt="Cover for Sufi Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -428,7 +428,61 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/0JzDAhYVSzGYG3DcDYCEB7e-uE2-EEj131Ew5asaJss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUy/NDY5LTE1NjQ3Nzg0/OTQtNDY3OS5qcGVn.jpeg" alt="Cover for Beyzade" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Kudsi Erguner</td>
+      <td>Beyzade</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/tjnP9r1VEd3TvnLYn7g-0BQ7m8-y3wfiKNosIdtJaZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTI1/MTMtMTQ0ODg3MTMx/MC02MTk0LmpwZWc.jpeg" alt="Cover for Jaran" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Ahura</td>
+      <td>Jaran</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/tjnP9r1VEd3TvnLYn7g-0BQ7m8-y3wfiKNosIdtJaZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTI1/MTMtMTQ0ODg3MTMx/MC02MTk0LmpwZWc.jpeg" alt="Cover for Shadi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Ahura</td>
+      <td>Shadi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/4TA0vsbITA1vi138cyf06U_ah5zEwc-ndJBgMDz_wyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDAx/OTEtMTQwMTM1ODc3/OC04MTg0LmpwZWc.jpeg" alt="Cover for Whirling" style="max-width:120px; height:auto;" />
       </td>
@@ -447,61 +501,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://i.discogs.com/tjnP9r1VEd3TvnLYn7g-0BQ7m8-y3wfiKNosIdtJaZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTI1/MTMtMTQ0ODg3MTMx/MC02MTk0LmpwZWc.jpeg" alt="Cover for Shadi" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Ahura</td>
-      <td>Shadi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>
-          <img src="https://i.discogs.com/tjnP9r1VEd3TvnLYn7g-0BQ7m8-y3wfiKNosIdtJaZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTI1/MTMtMTQ0ODg3MTMx/MC02MTk0LmpwZWc.jpeg" alt="Cover for Jaran" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Ahura</td>
-      <td>Jaran</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-          <img src="https://i.discogs.com/0JzDAhYVSzGYG3DcDYCEB7e-uE2-EEj131Ew5asaJss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUy/NDY5LTE1NjQ3Nzg0/OTQtNDY3OS5qcGVn.jpeg" alt="Cover for Beyzade" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Kudsi Erguner</td>
-      <td>Beyzade</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>1996-02-15</td>
@@ -518,7 +518,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/QxoKPgwaim1ExAc3SSciqQnpf3NkV1Ykf_JZ85oKfAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTI0/MTktMTQ1NzM2ODA3/Ni05OTYxLmpwZWc.jpeg" alt="Cover for Greatest Hits Vol 2" style="max-width:120px; height:auto;" />
       </td>
@@ -536,14 +536,14 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 68</li>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 70</li>
-            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 83</li>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 18</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 31</li>
+            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/QqjznUeCut3laH5HgL_A-VSH3pzbrxZu8ZCJLuvkZAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA0/ODM2LTE1Nzk5OTE5/MDYtNTQwNC5qcGVn.jpeg" alt="Cover for Himma" style="max-width:120px; height:auto;" />
       </td>
@@ -561,32 +561,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-      </td>
-      <td>1998</td>
-      <td>Minoo Javan</td>
-      <td>Persian Folk Songs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 20</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 34</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>1998</td>
@@ -606,17 +581,42 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 22</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 28</li>
             <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 36</li>
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 48</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 50</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 73</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 79</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>66</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Minoo Javan</td>
+      <td>Persian Folk Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 67</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 81</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
       <td>
       </td>
       <td>1998-12-08</td>
@@ -633,7 +633,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/djmN_DjNi0dJb34-CORTjvhamQpprTEcXHnUnZQ12fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk3/MDU1LTE1OTc5NTk1/MzAtMjQ3Ni5qcGVn.jpeg" alt="Cover for Music of North Khorassan" style="max-width:120px; height:auto;" />
       </td>
@@ -652,14 +652,14 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 21</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 35</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 66</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 80</li>
             <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/jbmDMuR5rYr6AWh0I9pSdEeNh5SpNXWKda27xTYt7o4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDg2/MjktMTQ1OTg1ODEz/Ni00MDY4LmpwZWc.jpeg" alt="Cover for Journeys of a Dervish" style="max-width:120px; height:auto;" />
       </td>
@@ -677,43 +677,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/005395e99338a436e21ea94b07bac121.png" alt="Cover for Sufi" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Al Gromer Khan</td>
-      <td>Sufi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-          <img src="https://i.discogs.com/yHdSzoi5pIckmDUqX3b2C-CCRW6k-drkY1J0r1GfKV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjA4/MjQtMTYxMTA4NjAz/My04MzU4LmpwZWc.jpeg" alt="Cover for Dust to Gold" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Nusrat Fateh Ali Khan &amp; Party</td>
-      <td>Dust to Gold</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/9X4plAezsgJmdvlJVMPq77kIfsezbEByhfdr71uEJ8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM1/NTI1LTE2MjE2OTc0/OTktNDYyMi5qcGVn.jpeg" alt="Cover for Taj Mahal" style="max-width:120px; height:auto;" />
       </td>
@@ -731,7 +695,43 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/yHdSzoi5pIckmDUqX3b2C-CCRW6k-drkY1J0r1GfKV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjA4/MjQtMTYxMTA4NjAz/My04MzU4LmpwZWc.jpeg" alt="Cover for Dust to Gold" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Nusrat Fateh Ali Khan &amp; Party</td>
+      <td>Dust to Gold</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/005395e99338a436e21ea94b07bac121.png" alt="Cover for Sufi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Al Gromer Khan</td>
+      <td>Sufi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/5XYo7u74d8sl3ebtF4pATUevKFB2YfNHQJ7XMpB3d-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTA1/Mi0xMTYzNDEzMjQz/LmpwZWc.jpeg" alt="Cover for Master Musicians of Jajouka feat. Bachir Attar" style="max-width:120px; height:auto;" />
       </td>
@@ -749,31 +749,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-          <img src="https://i.discogs.com/UVPgxd62_nPP85M6eNiRXJMOxs-VOrspQpFFRLqNPBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODAy/NDc3LTE2NDYyMzc4/ODAtMjk2My5qcGVn.jpeg" alt="Cover for Parishaan - Flowers of the Desert" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Sima Bina</td>
-      <td>Parishaan - Flowers of the Desert</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 11</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a81697ff8520457b99cb7a742a7ed7d4.png" alt="Cover for Electric Sufi" style="max-width:120px; height:auto;" />
       </td>
@@ -794,7 +770,49 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/UVPgxd62_nPP85M6eNiRXJMOxs-VOrspQpFFRLqNPBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODAy/NDc3LTE2NDYyMzc4/ODAtMjk2My5qcGVn.jpeg" alt="Cover for Parishaan - Flowers of the Desert" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Sima Bina</td>
+      <td>Parishaan - Flowers of the Desert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d5ec3ef27324b2aa037f60f9f40fe84.png" alt="Cover for Seyahatname" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Mercan Dede</td>
+      <td>Seyahatname</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/lvFbJ4rWEKPp8s8p9IdSvDBf5KvpY_NnBoh4_0SX18o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzEy/ODYtMTE4OTkzOTYw/NS5qcGVn.jpeg" alt="Cover for Supreme Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -813,25 +831,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>98</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d5ec3ef27324b2aa037f60f9f40fe84.png" alt="Cover for Seyahatname" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Mercan Dede</td>
-      <td>Seyahatname</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/VO0scNUBaq0R7jutGKTfkLB2HqJiVwWem3Hr7CRe8AQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzc4/NTAtMTY2NDY0ODQy/NC0yMDk3LmpwZWc.jpeg" alt="Cover for Islam Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -849,7 +849,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
       </td>
       <td>2001-06-08</td>
@@ -863,12 +863,12 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 92</li>
+            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/mhL7DnBLtDdS4NYFGJ3ZKguitU2Z14w5taTbCzh-wlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDky/MzcwLTE2Njc4NzMz/NTYtNzIwNy5qcGVn.jpeg" alt="Cover for Sufi Splendor - Music for Whirling Meditation" style="max-width:120px; height:auto;" />
       </td>
@@ -886,7 +886,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2002-06-22</td>
@@ -903,7 +903,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/CXCA9O4eQl7bwBq6XBYJcXRjRCH-VnlB2uhuO1M9i48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUw/OTE1LTE2MDI1NTcx/MzMtNTY2Ny5qcGVn.jpeg" alt="Cover for Farid" style="max-width:120px; height:auto;" />
       </td>
@@ -922,12 +922,12 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punjabi-folk" | relative_url }}">punjabi folk</a> # 100</li>
+            <li> <a href="{{ "/tags/punjabi-folk" | relative_url }}">punjabi folk</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7a71e28141cf4cdc2cd9ecb89f6956f.png" alt="Cover for Sampooran" style="max-width:120px; height:auto;" />
       </td>
@@ -943,12 +943,12 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 79</li>
+            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
       </td>
       <td>2003</td>
@@ -965,7 +965,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/wrhCMAwVdBl2-ZZ3rNBj5Ks0PkemNcXLXPDJdLOqlTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzcw/NTc2LTE1ODEyNjMx/MTktODI2My5qcGVn.jpeg" alt="Cover for The Best Of Abida Parveen" style="max-width:120px; height:auto;" />
       </td>
@@ -984,7 +984,25 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/6NHc-lQ1GAu5J2JfCdU91G6o-KgqHx-mdUgYtQqYv08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTIx/MTUtMTQ2OTQ1MjYy/OC04OTMwLmpwZWc.jpeg" alt="Cover for Makin Mabuk (Even More Drunk)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Debu</td>
+      <td>Makin Mabuk (Even More Drunk)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/rKratHsHlKzRq5Njosu2c80xL2fvZfw6joZ-LXW5D9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTMx/OTgtMTYxMjg4MDM1/My05MTc4LmpwZWc.jpeg" alt="Cover for Elaheh Naz - Persian Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,25 +1025,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>44</td>
-      <td>
-          <img src="https://i.discogs.com/6NHc-lQ1GAu5J2JfCdU91G6o-KgqHx-mdUgYtQqYv08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTIx/MTUtMTQ2OTQ1MjYy/OC04OTMwLmpwZWc.jpeg" alt="Cover for Makin Mabuk (Even More Drunk)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Debu</td>
-      <td>Makin Mabuk (Even More Drunk)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1f03421172f404cc04e815fa637ca0c.png" alt="Cover for Feast Of Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -1040,15 +1040,15 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 24</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 25</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 37</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 56</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 76</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d882bd464fe62e6d86270be3cb404a2.png" alt="Cover for Bass Sweat &amp; Tears" style="max-width:120px; height:auto;" />
       </td>
@@ -1073,7 +1073,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/lgYJfCRFSoEJqp-82PTVPf3pY3FxrwiKtz3K9bKlZ1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDky/MzMtMTM0MzQyNDcy/MC03ODg5LmpwZWc.jpeg" alt="Cover for Voices Have Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -1106,7 +1106,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/SP8VZaL_JDHIhchlJDHmLlolWI5e_IpCTK2vVz2XjJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODIz/OTgtMTQ2MjQ3NTIz/MS00Mjc0LmpwZWc.jpeg" alt="Cover for Neyestan" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,7 +1124,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/HpeeBmr_ntUziMstNAp9JECg3jk1qdIiaFrao5HPez8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzQz/OTEtMTM5MzI2Mzg4/Mi0xMzA4LmpwZWc.jpeg" alt="Cover for KEANE, Brian &#x2F; TEKBILEK, Omar Faruk: Fire Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -1141,7 +1141,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/gKyqCoe11uVRDzmax_wh4O1VN1LxqL7m8EMnb85-bNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY5/OTA2LTE2MzkzMTYw/MjYtODg2OS5qcGVn.jpeg" alt="Cover for Kailaasa" style="max-width:120px; height:auto;" />
       </td>
@@ -1162,25 +1162,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-          <img src="https://i.discogs.com/cKDS7yg36nkXh3Hw1IUtdNEZ5rjd9LoRorQvevvSwYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTc0/MTgtMTU2MzI2NDAx/MS03Njc5LmpwZWc.jpeg" alt="Cover for Jhoomo Re" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Kailash Kher</td>
-      <td>Jhoomo Re</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/Nyi-bh8w0_NJuan-pD5LINIcIVdN8TTsqXhOxqUES5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTYz/ODg0LTE2MzY4MTUz/NjYtMjc0Mi5qcGVn.jpeg" alt="Cover for Ahura Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1198,7 +1180,25 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/cKDS7yg36nkXh3Hw1IUtdNEZ5rjd9LoRorQvevvSwYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTc0/MTgtMTU2MzI2NDAx/MS03Njc5LmpwZWc.jpeg" alt="Cover for Jhoomo Re" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Kailash Kher</td>
+      <td>Jhoomo Re</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b10454e32c1846978ef9edd884f90117.png" alt="Cover for Breath" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,7 +1219,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c46ba3ed0ace4be49a1e7541e850ea12.png" alt="Cover for Nefes" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,7 +1237,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
       </td>
       <td>2007-10-24</td>
@@ -1254,26 +1254,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-      </td>
-      <td>2008</td>
-      <td>Shafqat Amanat Ali</td>
-      <td>Kyun Dooriyan</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/4EGCIpfkviD37XNgHn9ABQSNecllQdZJHNreMl_NQ-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU2/NTA5LTE1Mzk0NTYz/MjMtNDYzNS5qcGVn.jpeg" alt="Cover for Rabbi - Avengi Ja Nahi" style="max-width:120px; height:auto;" />
       </td>
@@ -1293,14 +1274,33 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 1</li>
-            <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 37</li>
+            <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 64</li>
             <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 97</li>
+            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>86</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Shafqat Amanat Ali</td>
+      <td>Kyun Dooriyan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
       <td>
       </td>
       <td>2008</td>
@@ -1317,7 +1317,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/5_mf7SUyiKlxL1TfdrQJl8Xu9swbIa-3_wy04vuRa5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTU1/MTQtMTM3ODEyNTE3/Ny0yNjQ3LmpwZWc.jpeg" alt="Cover for Long Live Palestine Parts 1 &amp; 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,7 +1336,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2009</td>
@@ -1352,31 +1352,13 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 70</li>
-            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 82</li>
+            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 19</li>
+            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
-      <td>
-      </td>
-      <td>2009</td>
-      <td>Lowkey</td>
-      <td>Uncensored</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/DEw0aMqAoKj2F2GSmJaQdRpDSSDAWT4QZhRrYgFrbH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjE3/MjMtMTQwNzU0MDc4/MS03Njk2LmpwZWc.jpeg" alt="Cover for Yatra (Nomadic Souls)" style="max-width:120px; height:auto;" />
       </td>
@@ -1394,7 +1376,25 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>21</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Lowkey</td>
+      <td>Uncensored</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>
       </td>
       <td>2010-10-23</td>
@@ -1412,25 +1412,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>
-          <img src="https://i.discogs.com/raVDsucW8cnC-JxQ1YWN76E95ql3CmdNKPu3HpQyo_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM0/MjA5LTE2NDIxNzQ3/NDAtNTE5MC5qcGVn.jpeg" alt="Cover for Greatest Collection - Rahat Fateh Ali Khan" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Rahat Fateh Ali Khan</td>
-      <td>Greatest Collection - Rahat Fateh Ali Khan</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69f8de134047397e15fc7facd51dcf66.png" alt="Cover for Alif: Love Supreme" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,7 +1430,25 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/raVDsucW8cnC-JxQ1YWN76E95ql3CmdNKPu3HpQyo_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM0/MjA5LTE2NDIxNzQ3/NDAtNTE5MC5qcGVn.jpeg" alt="Cover for Greatest Collection - Rahat Fateh Ali Khan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Rahat Fateh Ali Khan</td>
+      <td>Greatest Collection - Rahat Fateh Ali Khan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
       </td>
       <td>2012-03-24</td>
@@ -1466,16 +1466,16 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 3</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 6</li>
             <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 7</li>
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 11</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 12</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 95</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04fe59ddfec845efbd357da8e3349744.png" alt="Cover for Sumud" style="max-width:120px; height:auto;" />
       </td>
@@ -1497,7 +1497,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/Y1iVDOHK6MqtdPGtzOiyaFj-LGIxVl3stKBs8Wg9cPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDk2/MTY1LTE1NTUyODM0/NTEtNTE3NC5qcGVn.jpeg" alt="Cover for Ghoghaye Setaregan" style="max-width:120px; height:auto;" />
       </td>
@@ -1520,364 +1520,7 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Abida Parween</td>
-      <td>Songs of the Mystics</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 21</li>
-            <li> <a href="{{ "/tags/ghazal" | relative_url }}">ghazal</a> # 72</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Saad Al Ghamidi</td>
-      <td>Al Rahman</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 58</li>
-            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 64</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Shakila</td>
-      <td>Shakila Live In Concert - Persian Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 1</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Parviz Meshkatian</td>
-      <td>20 Years With Parviz Meshkatian II</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 4</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Golpa</td>
-      <td>Ghahro Naz</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 9</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Pouran</td>
-      <td>Molla Mammad Jaan - Persian Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 2</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 16</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mohammad Reza Shajarian</td>
-      <td>Beyade Aref, Shajarian 4 - Persian Music</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 3</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 17</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Aziz Mian</td>
-      <td>Shikwa Jawab Shikwa</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Houshmand Aghili</td>
-      <td>Houshmand Aghili, Vol. 5 - Persian Music</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 14</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 28</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Om Hellenkamp</td>
-      <td>Rinzai Meets Rumi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 40</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mohammad Reza Shajarian</td>
-      <td>Bote Chin, Shajarian 1 - Persian Music</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 16</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 30</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alireza Eftekhari</td>
-      <td>Sayyad(Hunter)-Iranian Classical Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 48</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 57</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 65</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 88</li>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mohammad Nouri</td>
-      <td>Jaane Maryam - Persian Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 55</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 57</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 65</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 76</li>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alireza Ghorbani</td>
-      <td>Rosvaye Zamaneh</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 50</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 59</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 67</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 71</li>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 74</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Haj Ghorban Soleimani</td>
-      <td>Music of the Bards From Iran</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 72</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alireza Eftekhari</td>
-      <td>Navay -e Asatid (The Tunes of the Masters)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 42</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 60</li>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 63</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 66</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 74</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -1897,65 +1540,21 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 15</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 18</li>
             <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 23</li>
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 28</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 32</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 83</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Parviz Meshkatian</td>
-      <td>Dawn</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mohammad Motamedi</td>
-      <td>Iran: Chant Classique</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>40</td>
       <td>
       </td>
       <td></td>
       <td>Alireza Eftekhari</td>
-      <td>In the Memory of the Master - Yad-e-Ostad</td>
+      <td>Navay -e Asatid (The Tunes of the Masters)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
@@ -1968,16 +1567,40 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 27</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 35</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 42</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 60</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
-      <td>Elaheh</td>
-      <td>Parandoosh - Persian Music</td>
+      <td>Haj Ghorban Soleimani</td>
+      <td>Music of the Bards From Iran</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alireza Ghorbani</td>
+      <td>Rosvaye Zamaneh</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
@@ -1990,16 +1613,168 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 34</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 42</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 50</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 71</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>44</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mohammad Nouri</td>
+      <td>Jaane Maryam - Persian Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 36</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 44</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 55</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 76</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alireza Eftekhari</td>
+      <td>Sayyad(Hunter)-Iranian Classical Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 44</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 53</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 65</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 88</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
       </td>
       <td></td>
       <td>Mohammad Reza Shajarian</td>
-      <td>Delshodegan</td>
+      <td>Bote Chin, Shajarian 1 - Persian Music</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 71</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 85</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Om Hellenkamp</td>
+      <td>Rinzai Meets Rumi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Houshmand Aghili</td>
+      <td>Houshmand Aghili, Vol. 5 - Persian Music</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 73</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 87</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Aziz Mian</td>
+      <td>Shikwa Jawab Shikwa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mohammad Reza Shajarian</td>
+      <td>Beyade Aref, Shajarian 4 - Persian Music</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 84</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Pouran</td>
+      <td>Molla Mammad Jaan - Persian Music</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
@@ -2012,11 +1787,202 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 85</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Golpa</td>
+      <td>Ghahro Naz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Parviz Meshkatian</td>
+      <td>20 Years With Parviz Meshkatian II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Shakila</td>
+      <td>Shakila Live In Concert - Persian Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Saad Al Ghamidi</td>
+      <td>Al Rahman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 37</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Abida Parween</td>
+      <td>Songs of the Mystics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ghazal" | relative_url }}">ghazal</a> # 29</li>
+            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Serkan Süleymaniye</td>
+      <td>aşk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Grup Yansimalar</td>
+      <td>Pervane</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sadreddin Ozcimi</td>
+      <td>Kubbe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41a6b67b90296486c0155b26114ba71b.png" alt="Cover for mcr" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Serkan Süleymaniye</td>
+      <td>mcr</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
       </td>
       <td></td>
@@ -2038,19 +2004,20 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>92</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41a6b67b90296486c0155b26114ba71b.png" alt="Cover for mcr" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Serkan Süleymaniye</td>
-      <td>mcr</td>
+      <td>Mohammad Reza Shajarian</td>
+      <td>Delshodegan</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
         </ul>
       </td>
       <td>
@@ -2059,16 +2026,20 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>93</td>
       <td>
       </td>
       <td></td>
-      <td>Sadreddin Ozcimi</td>
-      <td>Kubbe</td>
+      <td>Elaheh</td>
+      <td>Parandoosh - Persian Music</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
         </ul>
       </td>
       <td>
@@ -2077,17 +2048,20 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>95</td>
       <td>
       </td>
       <td></td>
-      <td>Grup Yansimalar</td>
-      <td>Pervane</td>
+      <td>Alireza Eftekhari</td>
+      <td>In the Memory of the Master - Yad-e-Ostad</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
         </ul>
       </td>
       <td>
@@ -2096,16 +2070,42 @@ Sufi music is a genre of devotional music inspired by the works of Sufi poets li
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>96</td>
       <td>
       </td>
       <td></td>
-      <td>Serkan Süleymaniye</td>
-      <td>aşk</td>
+      <td>Mohammad Motamedi</td>
+      <td>Iran: Chant Classique</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Parviz Meshkatian</td>
+      <td>Dawn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
         </ul>
       </td>
       <td>

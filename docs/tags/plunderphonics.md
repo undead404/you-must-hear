@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:49:00.089Z
+date: 2025-12-06T19:29:08.292Z
 permalink: tags/plunderphonics
 title: plunderphonics
 ---
 
 ## plunderphonics
 
-Last updated: <time datetime="2025-12-04T09:49:00.089Z">Thu Dec 04 2025 11:49:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T19:29:08.292Z">Sat Dec 06 2025 21:29:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
   </thead>
   <tbody>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/MKfyFRsUmZ_Itp57urwUR2GB3EWjZp4CxyWiU_uwrqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTc1/Nzg4LTE2OTM5MDQ0/NjctNzA1MS5qcGVn.jpeg" alt="Cover for Paul&#39;s Boutique (20th Anniversary Remastered Edition)[Bonus B-Boy Bouillabaisse]" style="max-width:120px; height:auto;" />
       </td>
@@ -51,7 +51,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>1987</td>
@@ -70,7 +70,24 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>47</td>
+      <td>
+      </td>
+      <td>1991</td>
+      <td>Negativland</td>
+      <td>U2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1a88a8b5c03ff65ac5995296d6b66dd.png" alt="Cover for Grayfolded - Mirror Ashes" style="max-width:120px; height:auto;" />
       </td>
@@ -92,24 +109,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-      </td>
-      <td>1991</td>
-      <td>Negativland</td>
-      <td>U2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a55305475bef8cc8ddae64477e9f6c4.png" alt="Cover for Groove Tube" style="max-width:120px; height:auto;" />
       </td>
@@ -129,13 +129,13 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       <td>
         <ul>
             <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 47</li>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 51</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 49</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
       </td>
       <td>1993</td>
@@ -155,7 +155,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b87483e5a492a7b47b58a9d5479bbc6.png" alt="Cover for True False" style="max-width:120px; height:auto;" />
       </td>
@@ -176,7 +176,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
       </td>
       <td>1995</td>
@@ -196,7 +196,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c973571c6d1b0ce55351095510712149.png" alt="Cover for Doopee Time" style="max-width:120px; height:auto;" />
       </td>
@@ -218,7 +218,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8792784aab5c4aeab78ad8525c1c2440.png" alt="Cover for Endtroducing....." style="max-width:120px; height:auto;" />
       </td>
@@ -234,14 +234,14 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       <td>
         <ul>
             <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 7</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 19</li>
             <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 54</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 66</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c378994800ba8ccee41b59a4602d03ac.png" alt="Cover for Dispepsi" style="max-width:120px; height:auto;" />
       </td>
@@ -262,7 +262,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
       </td>
       <td>1997-09-23</td>
@@ -279,7 +279,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e80f5974de2e4cb28e1953f75b1330de.png" alt="Cover for El Producto" style="max-width:120px; height:auto;" />
       </td>
@@ -303,7 +303,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/9V4SYCE7VYF1odPyyGugk64YqIBtyWqyyju_ywyTrQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA1/My0xNTMyNzgzMDk4/LTE2OTAucG5n.jpeg" alt="Cover for No Hesitation" style="max-width:120px; height:auto;" />
       </td>
@@ -323,7 +323,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83f16d352da8e6e4fd0cb32c49bf9cfc.png" alt="Cover for Since I Left You" style="max-width:120px; height:auto;" />
       </td>
@@ -343,7 +343,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2001-04</td>
@@ -361,7 +361,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af2d5d105f5f41e7d37849323b92ac0f.png" alt="Cover for Since I Left You (20th Anniversary Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -380,7 +380,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/Az5L6LTll2N3BpNEdjG-l00U56SeRjZW336qFq5dEnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTE0/MjgtMTQ2ODA2ODcz/Ny00NjI5LmpwZWc.jpeg" alt="Cover for Endtroducing... [Deluxe Edition]" style="max-width:120px; height:auto;" />
       </td>
@@ -398,7 +398,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/808a8146b33bef2cab866294563a76b8.png" alt="Cover for Endtroducing (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -415,7 +415,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/ootgT9JV8btY_7r8YrP5_E1g2blAig36jQaRhNYUXpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAx/OTIwLTE1NzE4NTM4/MjAtODM5MC5qcGVn.jpeg" alt="Cover for The World Will Decide" style="max-width:120px; height:auto;" />
       </td>
@@ -436,7 +436,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/954ccffca43551bbcd3991f92dd49a1a.png" alt="Cover for Symbol" style="max-width:120px; height:auto;" />
       </td>
@@ -454,7 +454,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/h-zwe7KMKGz8HdAHe4qKIMPthxNmOoUjcUXYBspXacc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTIz/Mi0xMjY2NDcyMjI3/LmpwZWc.jpeg" alt="Cover for MM..Food" style="max-width:120px; height:auto;" />
       </td>
@@ -474,12 +474,12 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 77</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 88</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 90</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 97</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/_bl6ftKJEUGqrcgUywhN878K1y5dx7WlsgrScEzPpig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjk1/My0xMTcxMDU3NzY3/LmpwZWc.jpeg" alt="Cover for Ouroborindra" style="max-width:120px; height:auto;" />
       </td>
@@ -500,7 +500,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f5eb95d8de4652a2b8d5b5e26719a22.png" alt="Cover for Donuts" style="max-width:120px; height:auto;" />
       </td>
@@ -521,7 +521,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/vE8-B1JsFOedc5h1-ziKaR61omaiGQ44THvaSfDroWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTQw/Ni0xMTY2NDYwMTcx/LmpwZWc.jpeg" alt="Cover for CURSEBREAKER X" style="max-width:120px; height:auto;" />
       </td>
@@ -542,7 +542,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a3148b9fbf24f02a0557ca22cab5309.png" alt="Cover for Person Pitch" style="max-width:120px; height:auto;" />
       </td>
@@ -557,15 +557,15 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 12</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 25</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 35</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 64</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 66</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
       </td>
       <td>2007-03-25</td>
@@ -580,13 +580,13 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 18</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 75</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d7bc59a4e374264aa910db6b6710e16.png" alt="Cover for Dormant Mirrors &#x2F; Drum" style="max-width:120px; height:auto;" />
       </td>
@@ -607,7 +607,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d45f5bbfa1445be5e3393551ead5e2a6.png" alt="Cover for What Does It All Mean? - 1983-2006 Retrospective" style="max-width:120px; height:auto;" />
       </td>
@@ -624,13 +624,13 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 20</li>
             <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 81</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08614ac61ce268eee0d066fb46013637.png" alt="Cover for Forensic Follies" style="max-width:120px; height:auto;" />
       </td>
@@ -653,7 +653,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb80da047ac543c19b2181fd8bd10665.png" alt="Cover for Caveman Smack" style="max-width:120px; height:auto;" />
       </td>
@@ -675,7 +675,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdf7157f58dfa214a812778b5b30d96f.png" alt="Cover for The Way Out" style="max-width:120px; height:auto;" />
       </td>
@@ -693,25 +693,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>73</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eaa274990b2590e1e2e08fdde798c4ca.png" alt="Cover for Chuck Person&#39;s Eccojams Vol. 1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-08</td>
-      <td>Chuck Person</td>
-      <td>Chuck Person&#39;s Eccojams Vol. 1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/domf6QMYfhybzv0Snl28FxfZ-38WT44Kdv4_FWkwLKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTc1/NzItMTUxMzc3Njk3/Mi0yNjU0LmpwZWc.jpeg" alt="Cover for Chuck Person&#39;s Eccojams Vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -729,7 +711,25 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eaa274990b2590e1e2e08fdde798c4ca.png" alt="Cover for Chuck Person&#39;s Eccojams Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-08</td>
+      <td>Chuck Person</td>
+      <td>Chuck Person&#39;s Eccojams Vol. 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
       <td>
       </td>
       <td>2010-09-06</td>
@@ -749,7 +749,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/5lE7kHBIkTzxfXWIxPpWYeTleic8-pYkiL1AfarJCDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ2/NzE1LTE3MDgyNTMw/ODMtNTkxNS5qcGVn.jpeg" alt="Cover for DREAMCAST SUMMER SONGS" style="max-width:120px; height:auto;" />
       </td>
@@ -765,13 +765,13 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 7</li>
             <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 13</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66681bf6dd25fb5848b7ef663d5406fe.png" alt="Cover for Escape to the Cloud Forest" style="max-width:120px; height:auto;" />
       </td>
@@ -786,12 +786,12 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 55</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50adb01e09544db0aa048ebd8abd8a74.png" alt="Cover for Higher Ground" style="max-width:120px; height:auto;" />
       </td>
@@ -815,14 +815,14 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       <td>
         <ul>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 24</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 25</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 28</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 76</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5b5e9a95a77ad52f88b958651074c90.png" alt="Cover for Replica" style="max-width:120px; height:auto;" />
       </td>
@@ -835,12 +835,12 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 25</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3dae1d5d18c3060b5be7fb6d17e1e8e.png" alt="Cover for Best Night Ever" style="max-width:120px; height:auto;" />
       </td>
@@ -864,7 +864,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a91c40d2c71c4e46ce0b872671cef2c2.png" alt="Cover for The Redeemer" style="max-width:120px; height:auto;" />
       </td>
@@ -878,13 +878,13 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 32</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 40</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/338dee0139464ae3ad721eeb12abee02.png" alt="Cover for Summer Paradise" style="max-width:120px; height:auto;" />
       </td>
@@ -897,12 +897,12 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 73</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
       </td>
       <td>2013-09-03</td>
@@ -921,7 +921,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fcc2c76045ca9c26cb02d849c7867db.png" alt="Cover for R Plus Seven" style="max-width:120px; height:auto;" />
       </td>
@@ -934,13 +934,13 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 12</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 92</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 9</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f801aaafd9a449c8c9fc11654e0a9329.png" alt="Cover for Initiation Tape: Isle of Avalon Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -961,7 +961,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44d63eeae0f14c09cc5f39e7020f89c2.png" alt="Cover for Mouth Sounds" style="max-width:120px; height:auto;" />
       </td>
@@ -975,12 +975,12 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 79</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
       </td>
       <td>2014-07-19</td>
@@ -994,12 +994,12 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 72</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/Tu3KNowbpYEKb7a1jZ98JTliuVcOlhRw67WryJzrrmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzI3/ODMtMTU0OTk5NTU2/Mi03Mzk4LmpwZWc.jpeg" alt="Cover for Perception" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,7 +1020,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/NfgXOocaRwTkkph8BshqCjU9lDe3uLPk_eC01cFlEcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzU0/NTUtMTQ0OTgwNjk3/My05Mzk2LmpwZWc.jpeg" alt="Cover for Pink Dance EP ピンクのダンス" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1043,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5f81028282f018f2f93e67b7afb01d4.png" alt="Cover for Life Strategies" style="max-width:120px; height:auto;" />
       </td>
@@ -1063,7 +1063,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/Dntk-Q1WF_BOZ-rt2P6GHpLs6NE6WNSPU1TdTU4iQH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzY4/ODItMTQzNjgzNDQx/OC01MzY0LmpwZWc.jpeg" alt="Cover for Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1081,7 +1081,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/LupX6ihza_LcoHCGA2tr-izL5LN9Caglno0TBXxcwgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI3/ODczLTE1NTk4NjMx/MzQtODkyNS5qcGVn.jpeg" alt="Cover for Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,7 +1102,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4255ae69ea06f4edf88ed00095707e36.png" alt="Cover for Cortex Rampage" style="max-width:120px; height:auto;" />
       </td>
@@ -1123,15 +1123,15 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 49</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 29</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 52</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 68</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79f7b18fab9b9298b93b31296dfb9b09.png" alt="Cover for Wildflower" style="max-width:120px; height:auto;" />
       </td>
@@ -1150,7 +1150,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/ka5lgT2sVW9lCiEyimLw-ehpvkdcKqfxKvAad3uLfTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA4/OTA2LTE1MTM5MDA0/MTktOTgxMy5qcGVn.jpeg" alt="Cover for أسلحة ضخ جاف حدب" style="max-width:120px; height:auto;" />
       </td>
@@ -1167,14 +1167,14 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 8</li>
             <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 19</li>
             <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 27</li>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/-s3QYPq1YoGQypVR8ff9RuiVbsaU37ekWdNsgz29Zwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTY0/MjctMTQ4NTIzODI0/OC00NTYxLmpwZWc.jpeg" alt="Cover for Mouth Moods" style="max-width:120px; height:auto;" />
       </td>
@@ -1189,12 +1189,12 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 85</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/626e675ba8c96c4790f0a700206f7477.png" alt="Cover for Children of Alice" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,13 +1211,13 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 5</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 36</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fc54064be871ab437f6cab1093c2e8f.png" alt="Cover for Soft Channel" style="max-width:120px; height:auto;" />
       </td>
@@ -1236,7 +1236,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/zNQV1_AEYo_tupc0CYesWvMM5PdUvzJ2ZSrGqt9Uwbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUw/NzMxLTE1MzEzNTA0/MDctNjc2My5wbmc.jpeg" alt="Cover for スタートキーを押し" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,7 +1255,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/Ur9GJSDj9pNpeSI1w_GfqDsk3bjCJHaEfW3lunokmLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjU4/ODItMTQ0ODMxNDcy/Ny02Nzc1LmpwZWc.jpeg" alt="Cover for Hi-Fi" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,7 +1273,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/ztlysdfdW2a2rPfsUjaM9h20ZOD2e-bLKo6bRukl8Fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjYy/OTgwLTE1Mzk1ODY3/NjUtODk0MC5qcGVn.jpeg" alt="Cover for Limp Pumpo" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,7 +1291,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/bWcAH82irdw2iaJShEFYKStG42tTf3OXVBLWbEOIrpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY2/MzIwLTE1ODg5MjA3/MDItNzMzNC5qcGVn.jpeg" alt="Cover for Teenage Poetry" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,7 +1309,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/0GLE3rcbP2b6RWSMVI90Q3oaPmtYLM0iO5fecczQ608/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI5/ODAtMTU0NzE3MDQw/NS03NDExLmpwZWc.jpeg" alt="Cover for Palm Mall" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,7 +1328,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/cWAYxl0rwS2pcqBetnA3YrykqfMhBtBeiL0Zrrc9sz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA1/Mzc2LTE1NDQyMzYz/MDktMjgxNi5qcGVn.jpeg" alt="Cover for 13th Month" style="max-width:120px; height:auto;" />
       </td>
@@ -1348,7 +1348,24 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>27</td>
+      <td>
+      </td>
+      <td>2019</td>
+      <td>Charlie toØ Human</td>
+      <td>wat.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/mizL7ddmTV-H4gPgsMZfXenyypKkAXgnMBkOqWOFyhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODEx/ODgyLTE1NjM5MTQx/MzEtODM0My5qcGVn.jpeg" alt="Cover for Cease &amp; Desist" style="max-width:120px; height:auto;" />
       </td>
@@ -1366,24 +1383,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>74</td>
-      <td>
-      </td>
-      <td>2019</td>
-      <td>Charlie toØ Human</td>
-      <td>wat.</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96994903125c27f52291b7d781f02d9b.png" alt="Cover for Iconic Bitch" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,7 +1406,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7123151de4f53ef6a30bbbca1bccf1b7.png" alt="Cover for Advanced Memory Suite" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,7 +1430,26 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b6a8ad55cdb89dfc184f4a7dba0862f.png" alt="Cover for Old Tunes Vol. 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-11-15</td>
+      <td>Boards of Canada</td>
+      <td>Old Tunes Vol. 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d7756e7041a39e7b414b4d5c23be70c.png" alt="Cover for Old Tunes Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,26 +1470,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>41</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b6a8ad55cdb89dfc184f4a7dba0862f.png" alt="Cover for Old Tunes Vol. 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-11-15</td>
-      <td>Boards of Canada</td>
-      <td>Old Tunes Vol. 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d6a71f95547f0ba6d662f8fd4b9b909.png" alt="Cover for The Shape of a Burning Credit Card" style="max-width:120px; height:auto;" />
       </td>
@@ -1483,13 +1483,36 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 22</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 50</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 51</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/eSSBMgT2jms0z0aW9SI1VvjixK0jWUes_z2q2KYlNaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM5/NzczLTE2NDk2NTg3/NzQtODQ1Mi5qcGVn.jpeg" alt="Cover for A Quiet Farwell, 2016–2018 (Crater Speak)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020</td>
+      <td>slauson malone</td>
+      <td>A Quiet Farwell, 2016–2018 (Crater Speak)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 3</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 4</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 18</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 22</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/pePJtM8EOuC3_oRMltCpZDA9ife2-v4jrA88f54MVRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ2/NzMxLTE1ODU5Njgy/MjctOTI0OS5qcGVn.jpeg" alt="Cover for THE ROCKWOOD ESCAPE PLAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1514,30 +1537,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>92</td>
-      <td>
-          <img src="https://i.discogs.com/eSSBMgT2jms0z0aW9SI1VvjixK0jWUes_z2q2KYlNaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM5/NzczLTE2NDk2NTg3/NzQtODQ1Mi5qcGVn.jpeg" alt="Cover for A Quiet Farwell, 2016–2018 (Crater Speak)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020</td>
-      <td>slauson malone</td>
-      <td>A Quiet Farwell, 2016–2018 (Crater Speak)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 3</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 4</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 16</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 22</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 61</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc2b33577c4135d50649f7a0ce570211.png" alt="Cover for We Will Always Love You" style="max-width:120px; height:auto;" />
       </td>
@@ -1560,7 +1560,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/MTEz2VmACwPhnL6Bx_CRSIFh1vJibC18_jcCr7Uu0bY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDcx/NTg4LTE1OTIwODE3/MTgtNDMzMS5qcGVn.jpeg" alt="Cover for Tangram" style="max-width:120px; height:auto;" />
       </td>
@@ -1578,7 +1578,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ccfb82d395a8b06ddc9ba55a28290b57.png" alt="Cover for Pharma" style="max-width:120px; height:auto;" />
       </td>
@@ -1596,7 +1596,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/SaLX894dxq0GzbbJh_3uBVOt0Mv0raLJyyrkySwFV9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzc0/NDg1LTE2MDk3NDMy/MjEtOTIzNS5qcGVn.jpeg" alt="Cover for FOAR EVERYWUN FRUM MIMI" style="max-width:120px; height:auto;" />
       </td>
@@ -1613,14 +1613,14 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 2</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 15</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 17</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 86</li>
-            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7fd19682504f8b1cde8edc5042a054d.png" alt="Cover for The Consuming Flame: Open Exercises in Group Form" style="max-width:120px; height:auto;" />
       </td>
@@ -1644,14 +1644,14 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 2</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 5</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 8</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 9</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 32</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 88</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/t81xAK8RXYWCj4jhne6XO-efVTy4o2z_gW2WekjxHsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg3/ODcxLTE2MDY3Nzc0/MzYtNDM5OS5qcGVn.jpeg" alt="Cover for Kofū" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,7 +1672,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/tv4sH8KeMXyc95Kv1FXS2H8rVXGNtyIQ1ZIJrHCY8A0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTky/NjQ3LTE2MDE1MTk3/MzYtMTg5My5qcGVn.jpeg" alt="Cover for Mouth Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1686,12 +1686,12 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 47</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39166ff008993942f8b5bda582ff8247.png" alt="Cover for for a while" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,12 +1715,12 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 5</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 23</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 32</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 37</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f914641eb16d2d99141289d8fbd3e6.png" alt="Cover for Komachi" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,7 +1745,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84fbc7f0189941dbc11d4097cf447e91.png" alt="Cover for NONE OF THIS IS REAL" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,7 +1763,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/70jL2C3sgMIimyLUKZTYJKq4AXK_tbnz08tLDJ6fzvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY5/MDQyLTE2Mjc1NzUz/NjEtMzAzOC5qcGVn.jpeg" alt="Cover for End Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,7 +1782,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fa4eb6a638133dbe39a76b6fb1646c2.png" alt="Cover for VIRTUAL DEATH 9 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,7 +1805,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/r9ceaW9ZvlygTgGl4EW94GePgJE45rFsgsmApnjqBGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTA2/NzI1LTE2MzY0MzAz/NDEtNjkzNy5qcGVn.jpeg" alt="Cover for Nymphlight" style="max-width:120px; height:auto;" />
       </td>
@@ -1824,7 +1824,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9e39de49624c3c0abf91d1b26d9b08d.png" alt="Cover for FLORAL SHOPPE 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1850,7 +1850,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f055df1b74575e13eb0591b9243a02b1.png" alt="Cover for a couple of good days" style="max-width:120px; height:auto;" />
       </td>
@@ -1869,12 +1869,12 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       <td>
         <ul>
             <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 16</li>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 64</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b39c6e33d4bb6941ce0cf322a7b8c757.png" alt="Cover for i believe the world would be a better place without you" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,14 +1895,14 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 23</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 78</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 97</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/zt3GJfHoIXYYaWPw5tfRYr_T0J1rKcrq1buoW-CUYLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjYw/MjY2LTE2NjUwNzIx/NTItNTA2NC5qcGVn.jpeg" alt="Cover for Bewitched!" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,44 +1920,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa8f39a97fe5c880b407bfa238b2e439.png" alt="Cover for Faith in Persona" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-09-23</td>
-      <td>death&#39;s dynamic shroud</td>
-      <td>Faith in Persona</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 14</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ef9b096e18b39983191a7c575666c3e.png" alt="Cover for I&#39;ll Try Living Like This" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-09-23</td>
-      <td>death&#39;s dynamic shroud</td>
-      <td>I&#39;ll Try Living Like This</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 19</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 57</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/42080c2f251c98ed9360acaa41766a0e.png" alt="Cover for Darklife" style="max-width:120px; height:auto;" />
       </td>
@@ -1978,16 +1941,54 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 13</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 16</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 23</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 40</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 51</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 61</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 78</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 85</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ef9b096e18b39983191a7c575666c3e.png" alt="Cover for I&#39;ll Try Living Like This" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-23</td>
+      <td>death&#39;s dynamic shroud</td>
+      <td>I&#39;ll Try Living Like This</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a> # 23</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 44</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa8f39a97fe5c880b407bfa238b2e439.png" alt="Cover for Faith in Persona" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-23</td>
+      <td>death&#39;s dynamic shroud</td>
+      <td>Faith in Persona</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e36edcf6b673070c7d33599f9cf6663d.png" alt="Cover for dq" style="max-width:120px; height:auto;" />
       </td>
@@ -2011,7 +2012,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td>2024-03-08</td>
@@ -2029,27 +2030,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01c4e5cd291564b117083bae4ab75b71.png" alt="Cover for Pink Dance EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Future Girlfriend Music</td>
-      <td>Pink Dance EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 66</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 77</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -2066,36 +2047,52 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 1</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 26</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 75</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 98</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>95</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a6f48eacf5541413d86986421e0312d.png" alt="Cover for (hushwave) - 治愈它" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01c4e5cd291564b117083bae4ab75b71.png" alt="Cover for Pink Dance EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>b e g o t t e n 自杀</td>
-      <td>(hushwave) - 治愈它</td>
+      <td>Future Girlfriend Music</td>
+      <td>Pink Dance EP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 24</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>45</td>
+      <td>
+      </td>
+      <td></td>
+      <td>lexycat</td>
+      <td>flowerfield</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
       <td>
       </td>
       <td></td>
@@ -2112,16 +2109,20 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a6f48eacf5541413d86986421e0312d.png" alt="Cover for (hushwave) - 治愈它" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>lexycat</td>
-      <td>flowerfield</td>
+      <td>b e g o t t e n 自杀</td>
+      <td>(hushwave) - 治愈它</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
         </ul>
       </td>
       <td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:48:14.259Z
+date: 2025-12-06T19:28:33.822Z
 permalink: tags/bagpipes
 title: bagpipes
 ---
 
 ## bagpipes
 
-Last updated: <time datetime="2025-12-04T09:48:14.259Z">Thu Dec 04 2025 11:48:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T19:28:33.822Z">Sat Dec 06 2025 21:28:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
   </thead>
   <tbody>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/SeCpueR8IZ3H7sJyYuUSdV6AENQlIGmL4LvYmGHcxH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDEz/ODgtMTM4NTYwNTY4/Mi02NzMxLmpwZWc.jpeg" alt="Cover for Sotto L&#39;imperio del Possente Prince: Hommage Music of the 14th and Early 15th Century" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
       </td>
       <td>1973</td>
@@ -67,7 +67,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/PCRsu3z-G_mnggtX6Xe2cEQ3uwjz6qsNroNq-nfUkcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTYx/NjctMTQ4NDI3MDQ0/NC04NjQ5LmpwZWc.jpeg" alt="Cover for Pacific Standard Time" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/5hj_R2QWtr-RiVHmZ05g475qILVRuo1_7s1cg94xePg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDg1/MDUtMTQ2Mzk5MTM2/OS0zNzMwLmpwZWc.jpeg" alt="Cover for Mester de Juglaría" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +107,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/57jAfU25LFeN0AfMZGNFZ3b-EnlLI8by9ILBp3H62gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjIy/MDktMTM5Mjk1Njky/Ny04MjYyLmpwZWc.jpeg" alt="Cover for The NORTHUMBRIAN Small Pipes" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +126,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/y9KR3RFVSuhrSiEZ9_Z0KQ3hhYiFw_lZ1ntYl5sPmeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY3/MzgyLTE2MDQ2NjQ3/MTEtNTIzOC5tcG8.jpeg" alt="Cover for Magnificent Music of the Bagpipes" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +144,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/zJIY_gtOTTKcs9PuEtoQhXEsoZxHP5Qz68BiSw0x5Zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjc2/OTgtMTM4NzQ5MjY3/MC05NTU2LmpwZWc.jpeg" alt="Cover for Synthesis" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/5r2tsEO3m2TAJQt26CojHwb9aCQe5zNyhvTBfztRH_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ2/MjI5LTE0OTk2MzI2/MTAtMzk0NC5qcGVn.jpeg" alt="Cover for De Foliada En San Pedro De Vilas" style="max-width:120px; height:auto;" />
       </td>
@@ -181,12 +181,12 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/galiza" | relative_url }}">galiza</a> # 31</li>
+            <li> <a href="{{ "/tags/galiza" | relative_url }}">galiza</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/u1k_su77dZQ5XjMiqB4w7oWMs7NjHvxx5QnnxIeyiEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODkz/NjgtMTIzMDU5NjAw/NC5qcGVn.jpeg" alt="Cover for The Military Band Pipes And Drums Of The Gordon Highlanders" style="max-width:120px; height:auto;" />
       </td>
@@ -207,7 +207,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/aT3Ajz1Fb-KnrxVsR4S83Znqg76sNQcFvdBhS4lG1xQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzQ5/MTgtMTQxMTkyOTAx/My0yNDYzLmpwZWc.jpeg" alt="Cover for Live in the Rockies" style="max-width:120px; height:auto;" />
       </td>
@@ -226,7 +226,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>1992</td>
@@ -299,16 +299,16 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 6</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 19</li>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 24</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 71</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 77</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 78</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 81</li>
+            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/hEM5VPFPZZWUaUPA32kPbZSF-E-C8444qVLN0GMOu78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODg4/MzUtMTU1ODI2MzU1/Ny0zOTYzLmpwZWc.jpeg" alt="Cover for Flower Of Scotland" style="max-width:120px; height:auto;" />
       </td>
@@ -327,7 +327,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>1993</td>
@@ -349,25 +349,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-      </td>
-      <td>1993</td>
-      <td>The Royal Scots Dragoon Guards</td>
-      <td>The Best Of</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
       </td>
       <td>1993</td>
@@ -387,7 +369,25 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>86</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>The Royal Scots Dragoon Guards</td>
+      <td>The Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
       <td>
       </td>
       <td>1994</td>
@@ -410,7 +410,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/r7vkhuP1aYE41emShjsTnKJUiXnBboJFah-V9l0qbiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY2/NDY5LTE1OTAzNjg2/MjctMTQzMi5qcGVn.jpeg" alt="Cover for Live In Ireland" style="max-width:120px; height:auto;" />
       </td>
@@ -429,7 +429,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/Oivk0QRIQWLv2lwSPFAWu9QZG_Cs31oQ4PSsI5bkol0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA0/ODgyLTE1NDgxMzIz/MDItNzYxOS5qcGVn.jpeg" alt="Cover for Exit From Screechville" style="max-width:120px; height:auto;" />
       </td>
@@ -453,16 +453,15 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>31</td>
       <td>
       </td>
       <td>1995</td>
-      <td>Morituri</td>
-      <td>Morituri</td>
+      <td>The Scottish National Pipe &amp; Drum Corps And Military Band</td>
+      <td>The Music Of Scotland</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
@@ -471,7 +470,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/L02Q91Z-ppefTMZTIDQG4ldSSh4Vx4wtAsJ_PIEFFCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjUy/MTEtMTMwNzU3NTY3/NS5qcGVn.jpeg" alt="Cover for Auld Lang Syne" style="max-width:120px; height:auto;" />
       </td>
@@ -492,15 +491,16 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>66</td>
       <td>
       </td>
       <td>1995</td>
-      <td>The Scottish National Pipe &amp; Drum Corps And Military Band</td>
-      <td>The Music Of Scotland</td>
+      <td>Morituri</td>
+      <td>Morituri</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
@@ -509,7 +509,27 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/IgAofHF9BZhCvFFq0NwnKOv1UX1eVJUY4ina0A-xY3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzU0/MTEtMTI5NDMyOTUz/Ny5qcGVn.jpeg" alt="Cover for Ca&#39; Nos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Fernhill</td>
+      <td>Ca&#39; Nos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
       </td>
       <td>1996</td>
@@ -532,27 +552,25 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/IgAofHF9BZhCvFFq0NwnKOv1UX1eVJUY4ina0A-xY3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzU0/MTEtMTI5NDMyOTUz/Ny5qcGVn.jpeg" alt="Cover for Ca&#39; Nos" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
-      <td>Fernhill</td>
-      <td>Ca&#39; Nos</td>
+      <td>Carlos Núñez</td>
+      <td>Brotherhood of Stars</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/lJL9Tpelwm7WniZ2pW5zWalhi4-oDcroJrAB6ySKX7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDYy/NTc1LTE1Mjc1MzU5/MzItMTE3Ny5qcGVn.jpeg" alt="Cover for The Spirit Of Scotland" style="max-width:120px; height:auto;" />
       </td>
@@ -573,25 +591,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>66</td>
-      <td>
-      </td>
-      <td>1996</td>
-      <td>Carlos Núñez</td>
-      <td>Brotherhood of Stars</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/o_Fe_Zw9tcTEwGv-7GDp0JSzZSLYNn5utDZbPmBOTss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDcz/ODItMTM4MTk3MjQ0/My01ODkwLmpwZWc.jpeg" alt="Cover for The Digging Bone" style="max-width:120px; height:auto;" />
       </td>
@@ -615,24 +615,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>44</td>
-      <td>
-      </td>
-      <td>1997</td>
-      <td>Trio Patrick Bouffard</td>
-      <td>Rabaterie</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
       </td>
       <td>1997</td>
@@ -649,7 +632,24 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>57</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Trio Patrick Bouffard</td>
+      <td>Rabaterie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/KtIguFe9BwNuVGxjF7KKVkUZFDwtQDDCKcpG6qzKYw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzU0/NTYtMTI5NDMzMDc5/Ny5qcGVn.jpeg" alt="Cover for Llatai" style="max-width:120px; height:auto;" />
       </td>
@@ -669,17 +669,15 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/eBa1ltqErxylPDv1Dbsvgtc-mkw1JwqzRA-pbMPPKi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODMw/Mzg2LTE1NjIwODM1/MjUtMjU3Mi5qcGVn.jpeg" alt="Cover for Flame Of Wrath" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
-      <td>The 78th Fraser Highlanders Pipe Band</td>
-      <td>Flame Of Wrath</td>
+      <td>The Royal Scots Dragoon Guards</td>
+      <td>Highland Cathedral</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
         </ul>
       </td>
       <td>
@@ -688,7 +686,28 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/Nt4ak-INcpczbuM6iDmCywiR-UNpvzXoF9199Sw95tM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjIz/MTEtMTU4NjYyNTI4/OC0zNjAzLmpwZWc.jpeg" alt="Cover for The Piper&#39;s Call" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Liam O&#39;Flynn</td>
+      <td>The Piper&#39;s Call</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Nt4ak-INcpczbuM6iDmCywiR-UNpvzXoF9199Sw95tM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjIz/MTEtMTU4NjYyNTI4/OC0zNjAzLmpwZWc.jpeg" alt="Cover for World Network Ireland" style="max-width:120px; height:auto;" />
       </td>
@@ -710,19 +729,17 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/Nt4ak-INcpczbuM6iDmCywiR-UNpvzXoF9199Sw95tM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjIz/MTEtMTU4NjYyNTI4/OC0zNjAzLmpwZWc.jpeg" alt="Cover for The Piper&#39;s Call" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/eBa1ltqErxylPDv1Dbsvgtc-mkw1JwqzRA-pbMPPKi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODMw/Mzg2LTE1NjIwODM1/MjUtMjU3Mi5qcGVn.jpeg" alt="Cover for Flame Of Wrath" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
-      <td>Liam O&#39;Flynn</td>
-      <td>The Piper&#39;s Call</td>
+      <td>The 78th Fraser Highlanders Pipe Band</td>
+      <td>Flame Of Wrath</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
         </ul>
       </td>
       <td>
@@ -731,24 +748,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>95</td>
-      <td>
-      </td>
-      <td>1998</td>
-      <td>The Royal Scots Dragoon Guards</td>
-      <td>Highland Cathedral</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>1998-10-30</td>
@@ -765,7 +765,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a26ba7cdf7a20ba2cdac52f76fb07ef3.png" alt="Cover for Times of Grace" style="max-width:120px; height:auto;" />
       </td>
@@ -787,27 +787,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>36</td>
-      <td>
-          <img src="https://i.discogs.com/MM3AJNg8jEc3w8rsTINyfOYeU1oBHF0kJz0bLdt9KlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk5/NjIyLTE1ODUzMjQw/MTAtOTU4Ny5qcGVn.jpeg" alt="Cover for A Celtic Peace" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Todd Denman</td>
-      <td>A Celtic Peace</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/DAsm37v_Ss13e862VrZKrRM9vbLKBPHo2sRWUTeKrO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODM3/NDYxLTE1ODI1NDY1/MzQtNzk2OC5qcGVn.jpeg" alt="Cover for Finlay Macdonald" style="max-width:120px; height:auto;" />
       </td>
@@ -828,7 +808,27 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/MM3AJNg8jEc3w8rsTINyfOYeU1oBHF0kJz0bLdt9KlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk5/NjIyLTE1ODUzMjQw/MTAtOTU4Ny5qcGVn.jpeg" alt="Cover for A Celtic Peace" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Todd Denman</td>
+      <td>A Celtic Peace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e402b67acbb492f88f2767d9840ee9e.png" alt="Cover for J&#39;ai enterré ma femme et j&#39;ai dansé sur sa tombe" style="max-width:120px; height:auto;" />
       </td>
@@ -850,7 +850,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/L7pcUbvV_q3dSRm2xfXsVHwmgDxnPPPx1Bs0SvlsrW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njc2/MDYtMTYyMTY4MjIz/My03MTUzLmpwZWc.jpeg" alt="Cover for Walther von der Vogelweide" style="max-width:120px; height:auto;" />
       </td>
@@ -868,7 +868,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>2001-09-28</td>
@@ -887,16 +887,15 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>12</td>
       <td>
       </td>
       <td>2002</td>
-      <td>Pipedown</td>
-      <td>The First Measure</td>
+      <td>The Royal Scots Dragoon Guards</td>
+      <td>Parallel Tracks</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
         </ul>
       </td>
       <td>
@@ -905,7 +904,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61d45b55d8464bb39aaebd970a811dbc.png" alt="Cover for Cançó de Dona i Home" style="max-width:120px; height:auto;" />
       </td>
@@ -923,15 +922,16 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>48</td>
       <td>
       </td>
       <td>2002</td>
-      <td>The Royal Scots Dragoon Guards</td>
-      <td>Parallel Tracks</td>
+      <td>Pipedown</td>
+      <td>The First Measure</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
         </ul>
       </td>
       <td>
@@ -940,7 +940,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4d6774bb40f82fb53d0f9254c766349.png" alt="Cover for Narrenkönig" style="max-width:120px; height:auto;" />
       </td>
@@ -958,16 +958,17 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/7_GGdCDPr4k7x9auufD-thDNggyr4e1TaJ4XZFtgvl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDA1/MzU0LTE0OTAwMTE5/MDEtMTQ5MS5qcGVn.jpeg" alt="Cover for Carduelis" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/kxasR1MewaGTkVRQ3KJNAi8maOeGRBY8GI8DGs3kyDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTM5/NjktMTQ4MjYyNTE4/My0zNTQzLmpwZWc.jpeg" alt="Cover for Banger For Breakfast" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
-      <td>Amorroma</td>
-      <td>Carduelis</td>
+      <td>Wicked Tinkers</td>
+      <td>Banger For Breakfast</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
         </ul>
       </td>
       <td>
@@ -976,7 +977,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/_L8fpEKgqpSKRS7-4VKyqNHnhxZcYlb116d8mn6cOK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM5/MjQyLTE1Nzg2OTI5/MjgtMzM2Ny5tcG8.jpeg" alt="Cover for The Circular Breath" style="max-width:120px; height:auto;" />
       </td>
@@ -996,17 +997,16 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/kxasR1MewaGTkVRQ3KJNAi8maOeGRBY8GI8DGs3kyDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTM5/NjktMTQ4MjYyNTE4/My0zNTQzLmpwZWc.jpeg" alt="Cover for Banger For Breakfast" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/7_GGdCDPr4k7x9auufD-thDNggyr4e1TaJ4XZFtgvl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDA1/MzU0LTE0OTAwMTE5/MDEtMTQ5MS5qcGVn.jpeg" alt="Cover for Carduelis" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
-      <td>Wicked Tinkers</td>
-      <td>Banger For Breakfast</td>
+      <td>Amorroma</td>
+      <td>Carduelis</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
         </ul>
       </td>
       <td>
@@ -1015,7 +1015,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
       </td>
       <td>2004</td>
@@ -1032,13 +1032,31 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bulgarian" | relative_url }}">bulgarian</a> # 25</li>
-            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 48</li>
+            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 53</li>
+            <li> <a href="{{ "/tags/bulgarian" | relative_url }}">bulgarian</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/RZo1jHY5cQlM5hcDTFCbb7Ynzb18s3VPbSoFwW0wh-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzAw/NjQtMTQ2NzUyODAw/OC0xNDE3LmpwZWc.jpeg" alt="Cover for Sacra Losna - 2004" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Barbarian Pipe Band</td>
+      <td>Sacra Losna - 2004</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef700cc32767476bb42ec32bb012389f.png" alt="Cover for The Dark Island" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,25 +1077,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>81</td>
-      <td>
-          <img src="https://i.discogs.com/RZo1jHY5cQlM5hcDTFCbb7Ynzb18s3VPbSoFwW0wh-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzAw/NjQtMTQ2NzUyODAw/OC0xNDE3LmpwZWc.jpeg" alt="Cover for Sacra Losna - 2004" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Barbarian Pipe Band</td>
-      <td>Sacra Losna - 2004</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/tOl74o3WH3Dprq0Toi_nGdt30pJgBMmfD3GjMbe__Ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQ0/MTgtMTMwOTQzOTg1/NC5qcGVn.jpeg" alt="Cover for Sendzirdēju" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,33 +1097,15 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latvian" | relative_url }}">latvian</a> # 8</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 11</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 26</li>
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 33</li>
-            <li> <a href="{{ "/tags/latvian" | relative_url }}">latvian</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>
-      </td>
-      <td>2007</td>
-      <td>Gordon Duncan</td>
-      <td>Just For Gordon</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/P-3nHejtSSTB3GABWyzJZHknkqPOqGSjRBfK3LbLSSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDgy/MjItMTYzNDgwNzU4/MS00ODAxLmpwZWc.jpeg" alt="Cover for The Flower Of Scotland" style="max-width:120px; height:auto;" />
       </td>
@@ -1141,7 +1123,25 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>56</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Gordon Duncan</td>
+      <td>Just For Gordon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>
       </td>
       <td>2007-11-12</td>
@@ -1160,7 +1160,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/6X9oJHaMhfQydG7JeLYNNpXulkhkLpoXeRM7qVaIudo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/MTUtMTIwOTQ2MTEy/OS5qcGVn.jpeg" alt="Cover for アナタボシ" style="max-width:120px; height:auto;" />
       </td>
@@ -1178,7 +1178,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>2008-10</td>
@@ -1197,7 +1197,29 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53289430e03d4b99cb578913eee330aa.png" alt="Cover for Bagpipe Rock!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Red Hot Chilli Pipers</td>
+      <td>Bagpipe Rock!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99f7b6c91a67427a81ca9bdc9123f1d6.png" alt="Cover for The Stomp (Scottish Pipes and Drums Untamed)" style="max-width:120px; height:auto;" />
       </td>
@@ -1220,29 +1242,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>84</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53289430e03d4b99cb578913eee330aa.png" alt="Cover for Bagpipe Rock!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Red Hot Chilli Pipers</td>
-      <td>Bagpipe Rock!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
       </td>
       <td>2010-09-15</td>
@@ -1260,7 +1260,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/w8AjpCCDLsdqaRQFcWcRb-HDtpP-F1ogtUTjwHUAME4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDUw/MDEtMTQ0NzA5MzE0/OC04MTUxLmpwZWc.jpeg" alt="Cover for Rockin&#39; the 6 Nations - Live at Murrayfield Stadium" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,7 +1278,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16037b6be5c7f249800c569100473821.png" alt="Cover for Etnotranss" style="max-width:120px; height:auto;" />
       </td>
@@ -1296,7 +1296,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2011</td>
@@ -1311,12 +1311,12 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 51</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/gn17kOFNp2aA2jW9reWVKlWdNc5exoACrIIwMO5lKqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjE2/MzAxLTE1Mzg2Njkw/ODQtMjYxNi5qcGVn.jpeg" alt="Cover for Rogues, Outlaws &amp; Drunks" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,31 +1329,12 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 29</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/NMNLSv33PKwjAaXeyjq-oPpnSw4jvL1-QsDda5al3uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzE3/NTQyLTE2Nzk1MzE2/MjgtNzg1MC5qcGVn.jpeg" alt="Cover for Aufbruch" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Feitel</td>
-      <td>Aufbruch</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
       </td>
       <td>2012</td>
@@ -1374,7 +1355,26 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/NMNLSv33PKwjAaXeyjq-oPpnSw4jvL1-QsDda5al3uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzE3/NTQyLTE2Nzk1MzE2/MjgtNzg1MC5qcGVn.jpeg" alt="Cover for Aufbruch" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Feitel</td>
+      <td>Aufbruch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/300f9a88699fd61ffcacf3fe734a2587.png" alt="Cover for James Duncan Mackenzie" style="max-width:120px; height:auto;" />
       </td>
@@ -1396,7 +1396,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07142f19a53b47d6c7a3fdf18b86c030.png" alt="Cover for Libertas" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1420,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7448120e885bffc8df465ca85995c697.png" alt="Cover for Outlander" style="max-width:120px; height:auto;" />
       </td>
@@ -1442,7 +1442,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/001d59fa8b754e63cefe94733744b6b2.png" alt="Cover for The Celtic Collection II" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,7 +1466,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64f57419a6d4a975bb8f69239c407fbd.png" alt="Cover for Pipe Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,7 +1492,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cec589874220af7497695675ca5f130f.png" alt="Cover for Order of the Stag" style="max-width:120px; height:auto;" />
       </td>
@@ -1515,7 +1515,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5d69abac7d77dd2cadadacb266a2eb1.png" alt="Cover for Battle of Kings" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,7 +1537,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/28N0XpKiNOoxwHLWvBBzNkgulVHRZMM9fWHuh4uIqCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg1/NDk5LTE2MjE3ODM2/NTItMTYxOC5qcGVn.jpeg" alt="Cover for Another Way to Fly" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,7 +1559,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ad4414a17f7c739bb1cfa3140308e19.png" alt="Cover for Pirates of the Carribeann Theme" style="max-width:120px; height:auto;" />
       </td>
@@ -1579,7 +1579,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for The Best Bagpipe Moments Ever" style="max-width:120px; height:auto;" />
       </td>
@@ -1597,7 +1597,88 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>26</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Angus MacColl, Gordon Walker, Stuart Sheddon And John Spoore</td>
+      <td>Lone Pipers: Monument To Perfection</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Grupo didáctico-musical do Obradoiro, Escola de gaitas e zanfonas Universidade Popular do Concello de Vigo</td>
+      <td>Instrumentos Musicales Populares Gallegos (Galician Popular Musical Instruments)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/galiza" | relative_url }}">galiza</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bagad Kadoudal de la Kevrenn de Rennes</td>
+      <td>Bretagne : Binious &amp; bombardes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04906be6505f444ec40f68fe9559ffc3.png" alt="Cover for Where the Winds Are Clawed (Demo)" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Gavranar</td>
+      <td>Where the Winds Are Clawed (Demo)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/recorder" | relative_url }}">recorder</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/recorder" | relative_url }}">recorder</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
       <td>
       </td>
       <td></td>
@@ -1619,66 +1700,210 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04906be6505f444ec40f68fe9559ffc3.png" alt="Cover for Where the Winds Are Clawed (Demo)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d953dd2e8f68319878e2084aedf9bf92.png" alt="Cover for Shipping up to Boston &#x2F; Enter Sandman" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Gavranar</td>
-      <td>Where the Winds Are Clawed (Demo)</td>
+      <td>Goddesses of Bagpipes</td>
+      <td>Shipping up to Boston &#x2F; Enter Sandman</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/recorder" | relative_url }}">recorder</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/recorder" | relative_url }}">recorder</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39381b2135897e8914e72e9b8d9668a0.png" alt="Cover for Magnificent Music of the Bagpipes" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Bagad Kadoudal de la Kevrenn de Rennes</td>
-      <td>Bretagne : Binious &amp; bombardes</td>
+      <td>The Auld Town Band &amp; Pipes</td>
+      <td>Magnificent Music of the Bagpipes</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
-      <td>Grupo didáctico-musical do Obradoiro, Escola de gaitas e zanfonas Universidade Popular do Concello de Vigo</td>
-      <td>Instrumentos Musicales Populares Gallegos (Galician Popular Musical Instruments)</td>
+      <td>Eliot Grasso</td>
+      <td>Standing Room Only</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/galiza" | relative_url }}">galiza</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bonnie Rideout Scottish Trio with Guest Piper Jerry O&#39;Sullivan</td>
+      <td>Live-the barns at wolf trap</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jim Motherwell</td>
+      <td>The Queen&#39;s Piper</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Brian Boru Irish Pipe Band</td>
+      <td>Brian Boru Irish Pipe Band 40th Anniversary</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Daughters Of Elvin</td>
+      <td>Galdrbok - Medieval Songs of Love and Enchantment</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Goddesses of Bagpipe</td>
+      <td>Shipping Up to Enter Sandman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Field Marshal Montgomery Pipe Band</td>
+      <td>Field Marshal Montgomery Pipe Band Live</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Haggis Rampant</td>
+      <td>Haggis Rampant</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sean Folsom</td>
+      <td>Bagpipes of the World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1687,30 +1912,30 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       <td>
       </td>
       <td></td>
-      <td>Angus MacColl, Gordon Walker, Stuart Sheddon And John Spoore</td>
-      <td>Lone Pipers: Monument To Perfection</td>
+      <td>Daughters Of Elvin</td>
+      <td>Garden Of Earthly Delights</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>80</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1e4298f223a1294e97d64c2185aace9.png" alt="Cover for In Search Of Grace" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>All Hail The Queen</td>
-      <td>In Search Of Grace</td>
+      <td>Gord Taylor</td>
+      <td>Gord Taylor Featuring Patrick Kaczor-Santos</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
@@ -1719,7 +1944,101 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>83</td>
+      <td>
+      </td>
+      <td></td>
+      <td>blackwater irishconnection</td>
+      <td>dead and breakfast</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Field Marshal Montgomery Pipe Band</td>
+      <td>Debut</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tom Clough</td>
+      <td>The Northumbrian Small Pipes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The House of Scotland Pipe Band</td>
+      <td>Taigh na h-Alba</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Daughters Of Elvin</td>
+      <td>John Barleycorn Reborn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d087dd6bb630c8e2589fe37faabe035.png" alt="Cover for You Are What You Hear" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,336 +2059,17 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1e4298f223a1294e97d64c2185aace9.png" alt="Cover for In Search Of Grace" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Daughters Of Elvin</td>
-      <td>John Barleycorn Reborn</td>
+      <td>All Hail The Queen</td>
+      <td>In Search Of Grace</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td></td>
-      <td>The House of Scotland Pipe Band</td>
-      <td>Taigh na h-Alba</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Tom Clough</td>
-      <td>The Northumbrian Small Pipes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Field Marshal Montgomery Pipe Band</td>
-      <td>Debut</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-      </td>
-      <td></td>
-      <td>blackwater irishconnection</td>
-      <td>dead and breakfast</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Gord Taylor</td>
-      <td>Gord Taylor Featuring Patrick Kaczor-Santos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Daughters Of Elvin</td>
-      <td>Garden Of Earthly Delights</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Sean Folsom</td>
-      <td>Bagpipes of the World</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Haggis Rampant</td>
-      <td>Haggis Rampant</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Field Marshal Montgomery Pipe Band</td>
-      <td>Field Marshal Montgomery Pipe Band Live</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Goddesses of Bagpipe</td>
-      <td>Shipping Up to Enter Sandman</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Daughters Of Elvin</td>
-      <td>Galdrbok - Medieval Songs of Love and Enchantment</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Brian Boru Irish Pipe Band</td>
-      <td>Brian Boru Irish Pipe Band 40th Anniversary</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Jim Motherwell</td>
-      <td>The Queen&#39;s Piper</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Bonnie Rideout Scottish Trio with Guest Piper Jerry O&#39;Sullivan</td>
-      <td>Live-the barns at wolf trap</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Eliot Grasso</td>
-      <td>Standing Room Only</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39381b2135897e8914e72e9b8d9668a0.png" alt="Cover for Magnificent Music of the Bagpipes" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>The Auld Town Band &amp; Pipes</td>
-      <td>Magnificent Music of the Bagpipes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d953dd2e8f68319878e2084aedf9bf92.png" alt="Cover for Shipping up to Boston &#x2F; Enter Sandman" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Goddesses of Bagpipes</td>
-      <td>Shipping up to Boston &#x2F; Enter Sandman</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
         </ul>
       </td>
       <td>

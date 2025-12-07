@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T09:45:29.331Z
+date: 2025-12-06T19:06:49.189Z
 permalink: tags/soulful-house
 title: soulful house
 ---
 
 ## soulful house
 
-Last updated: <time datetime="2025-12-04T09:45:29.331Z">Thu Dec 04 2025 11:45:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T19:06:49.189Z">Sat Dec 06 2025 21:06:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
   </thead>
   <tbody>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/8hZODb2BVwLgcMonOah7CN5_tw_fR0e-73rX15YUy28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ3/NzUxLTE2MTAxOTg0/MTAtNjY0Mi5qcGVn.jpeg" alt="Cover for My Heart Belongs To You" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for WMC Sampler 2008" style="max-width:120px; height:auto;" />
       </td>
@@ -80,7 +80,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/qK8IMeEf_gswAyyKqz7O-dYUn1KmEl9yDzfo_mh_k0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQ4/ODA4LTE1ODczMDk4/MzYtMjk5Mi5qcGVn.jpeg" alt="Cover for Deep Music" style="max-width:120px; height:auto;" />
       </td>
@@ -108,25 +108,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/V0HY-x0AdcSMSfXRpmf4e6f8ma9b8XN_c6ssk3-dMUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTY1/MTYtMTU4ODcwNjMx/Mi01ODUwLmpwZWc.jpeg" alt="Cover for Deep Soulful House 1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Soul-Ty</td>
-      <td>Deep Soulful House 1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/W4uvKKiw69Pb--YxeZbZad8tsWvYxSMh0s-e4ab1byE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzkw/LTE2MTY4MzI5NDkt/ODIyOS5qcGVn.jpeg" alt="Cover for Passion" style="max-width:120px; height:auto;" />
       </td>
@@ -144,13 +126,13 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>99</td>
       <td>
-          <img src="https://i.discogs.com/v-l_THjRlJS0zVUdWfwqh-VCdOGG1Omqs4SDRrktgp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njcx/Mi0xMzEyNjQ1NzI1/LmpwZWc.jpeg" alt="Cover for So Far" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/V0HY-x0AdcSMSfXRpmf4e6f8ma9b8XN_c6ssk3-dMUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTY1/MTYtMTU4ODcwNjMx/Mi01ODUwLmpwZWc.jpeg" alt="Cover for Deep Soulful House 1" style="max-width:120px; height:auto;" />
       </td>
-      <td>1995</td>
-      <td>The Realm</td>
-      <td>So Far</td>
+      <td>1992</td>
+      <td>Soul-Ty</td>
+      <td>Deep Soulful House 1</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
@@ -162,7 +144,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/M5jRiqbzRe9Juef78TfJ7PkdQwLDsXHY_cwZKIER9bQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDMz/NzUtMTIyMDAyODk1/MC5qcGVn.jpeg" alt="Cover for LOVE IS ON MY SIDE" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +167,25 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/v-l_THjRlJS0zVUdWfwqh-VCdOGG1Omqs4SDRrktgp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njcx/Mi0xMzEyNjQ1NzI1/LmpwZWc.jpeg" alt="Cover for So Far" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>The Realm</td>
+      <td>So Far</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a3b8283361fe00095c41afa6d10193f.png" alt="Cover for Land Of The Living" style="max-width:120px; height:auto;" />
       </td>
@@ -203,7 +203,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c10790ec80aefc9c3d14f5541457129.png" alt="Cover for Dance &amp; Electronic" style="max-width:120px; height:auto;" />
       </td>
@@ -219,12 +219,12 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 48</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/0FQJMh4B91e2-XBZtNMXqEQK534eatmhKYB1tIQFaSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjA1/LTE0MTQwNTQxODUt/Nzc1Mi5qcGVn.jpeg" alt="Cover for French Sessions - To House Vol. 5" style="max-width:120px; height:auto;" />
       </td>
@@ -243,7 +243,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9e2ea1ff41aa5924d9e2e70d51a01b9.png" alt="Cover for Here Comes the Sunburst Band" style="max-width:120px; height:auto;" />
       </td>
@@ -266,7 +266,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>1999-11-29</td>
@@ -283,7 +283,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/1uec8TovTYg0P0LIC8dGx7Py9eTa2P_TQebqFE39VHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDc3/MTAtMTQwMDU3NDM2/Ny03NzYyLmpwZWc.jpeg" alt="Cover for The Soulful House Experience 3" style="max-width:120px; height:auto;" />
       </td>
@@ -302,7 +302,25 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2000-06-12</td>
+      <td>Kings Of Tomorrow</td>
+      <td>It&#39;s In the Lifestyle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/BSQv3wPXq4ICTWJLGau73eTpesqW3girIXqEHf0Se3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDA3/LTEzNzc2Mjk4MjYt/NjgxMS5qcGVn.jpeg" alt="Cover for Defected In The House: Eivissa 2008" style="max-width:120px; height:auto;" />
       </td>
@@ -321,25 +339,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>87</td>
-      <td>
-      </td>
-      <td>2000-06-12</td>
-      <td>Kings Of Tomorrow</td>
-      <td>It&#39;s In the Lifestyle</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/638ff487e64d10eb7b6f6659215ff602.png" alt="Cover for Defected Presents House Masters - Frankie Knuckles" style="max-width:120px; height:auto;" />
       </td>
@@ -359,7 +359,43 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f5c7098723102ec98f3e3098ba1fd2d.png" alt="Cover for Our Time Is Coming" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Masters at Work</td>
+      <td>Our Time Is Coming</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/cJXsNCFGFH4iEa01EOZ4rEWVOMgBKTJ7SbGniJ1TPKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjY2/My0xNTcyMzg0ODQz/LTYwMDUuanBlZw.jpeg" alt="Cover for Just for You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Soul Mecca</td>
+      <td>Just for You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/206badfea7ea43b395feaae1a68c2c36.png" alt="Cover for Sereia" style="max-width:120px; height:auto;" />
       </td>
@@ -379,43 +415,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>70</td>
-      <td>
-          <img src="https://i.discogs.com/cJXsNCFGFH4iEa01EOZ4rEWVOMgBKTJ7SbGniJ1TPKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjY2/My0xNTcyMzg0ODQz/LTYwMDUuanBlZw.jpeg" alt="Cover for Just for You" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Soul Mecca</td>
-      <td>Just for You</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f5c7098723102ec98f3e3098ba1fd2d.png" alt="Cover for Our Time Is Coming" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Masters at Work</td>
-      <td>Our Time Is Coming</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/1_xazAj1u06quD3-XIcD_DrEwcTHNR4QggQCi1FeRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc2/NTEtMTI3MjIwNjQ4/MC5qcGVn.jpeg" alt="Cover for Corporate Butcher" style="max-width:120px; height:auto;" />
       </td>
@@ -453,32 +453,15 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 33</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 60</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 68</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 84</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-      </td>
-      <td>2002</td>
-      <td>Dj Sunmoon</td>
-      <td>Deep Soulful House</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08d427b846dace18113407b0f4f94a15.png" alt="Cover for For Those Who Like to Get Down" style="max-width:120px; height:auto;" />
       </td>
@@ -496,7 +479,24 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Dj Sunmoon</td>
+      <td>Deep Soulful House</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17baab2e27564aedca02c98c20f70e32.png" alt="Cover for Beautiful Tomorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -518,7 +518,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/853a9ca94170d5040f6d088098e0e7ad.png" alt="Cover for Colorful You" style="max-width:120px; height:auto;" />
       </td>
@@ -534,12 +534,12 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 87</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/QwrMLeSb3mrl5SqrxJgjKwF-hq1WJSkGnc6RLDHQ-So/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDMx/LTE0Njg1OTU3MzQt/NzQ0NS5qcGVn.jpeg" alt="Cover for Journeys By DJ: Desert Island Mix" style="max-width:120px; height:auto;" />
       </td>
@@ -591,7 +591,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>2003</td>
@@ -608,25 +608,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>77</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42aa257a7fcb4b63b4ec04ac2ed00de0.png" alt="Cover for Ugly Edits" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Theo Parrish</td>
-      <td>Ugly Edits</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/jkfBLj6-zjmM-fNRGcj7qg-aBZzZMt18PfnU3DG78M4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTUz/NS0xMjQwNzgyOTU3/LmpwZWc.jpeg" alt="Cover for Bar Groove EP" style="max-width:120px; height:auto;" />
       </td>
@@ -652,7 +634,25 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42aa257a7fcb4b63b4ec04ac2ed00de0.png" alt="Cover for Ugly Edits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Theo Parrish</td>
+      <td>Ugly Edits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
       <td>
       </td>
       <td>2003</td>
@@ -668,7 +668,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/ilJxtrJsudWCI0Kjdgh1MAtBfXq-gzKr3Q5pd2fm-cI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc5/MS0xNDc3MjU0MTQy/LTQ2NjMuanBlZw.jpeg" alt="Cover for Feelin Love (Vinyl)" style="max-width:120px; height:auto;" />
       </td>
@@ -686,7 +686,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Mix The Vibe: Louie Vega - For The Love Of King Street" style="max-width:120px; height:auto;" />
       </td>
@@ -704,7 +704,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1be6de336b528b3df9c5b9ae14e38b2b.png" alt="Cover for Strange Flower" style="max-width:120px; height:auto;" />
       </td>
@@ -722,7 +722,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/7YBE_L-nhPFthh0KhYA3GqeTnH4YRAA9EFe0L0g0AM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODIx/Ni0xNTIzMDQ0NDU2/LTk1MjAuanBlZw.jpeg" alt="Cover for House Masters Sandy Rivera__Unmixed" style="max-width:120px; height:auto;" />
       </td>
@@ -740,7 +740,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/K_PFX75V50YLq5SXbJ_XzUFBjGuZmudqxFY4OZspMPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTcx/ODAtMTE5MjYxNDc5/MS5qcGVn.jpeg" alt="Cover for Euan Mitchell remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -762,15 +762,33 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 13</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 32</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 35</li>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 85</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/RH5DgoGtPUYWoIHsUx95eAt6yprIEQy52-DATa4Ygik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTI0/My0xMjcwMzY5Njc1/LmpwZWc.jpeg" alt="Cover for Rising Son" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Ski Oakenfull</td>
+      <td>Rising Son</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/K_PFX75V50YLq5SXbJ_XzUFBjGuZmudqxFY4OZspMPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTcx/ODAtMTE5MjYxNDc5/MS5qcGVn.jpeg" alt="Cover for Sole Classics Remastered 2012" style="max-width:120px; height:auto;" />
       </td>
@@ -790,25 +808,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>41</td>
-      <td>
-          <img src="https://i.discogs.com/RH5DgoGtPUYWoIHsUx95eAt6yprIEQy52-DATa4Ygik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTI0/My0xMjcwMzY5Njc1/LmpwZWc.jpeg" alt="Cover for Rising Son" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Ski Oakenfull</td>
-      <td>Rising Son</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/QIKyyL6zlUUTVUPC8h0g8Qot5uxTB8XfXJxF-rYALxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODA2/My0xMTgwMTQ2MjU1/LmpwZWc.jpeg" alt="Cover for This Is My Life" style="max-width:120px; height:auto;" />
       </td>
@@ -828,7 +828,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
       </td>
       <td>2006</td>
@@ -845,29 +845,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-          <img src="https://i.discogs.com/fyw336UJRu30dDXRGYQpVW-iVdEg8BuZDumPj46oYjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mjc3/NTUtMTQ0MzM0NTk4/Mi05ODgxLmpwZWc.jpeg" alt="Cover for Why b&#x2F;w Fall In Love" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Tortured Soul</td>
-      <td>Why b&#x2F;w Fall In Love</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/Y2JihLbFp9n5OM5aTAuG_sSYX7Yt7VlVhSG9ZCdYT7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MjQ0/MC0xMTQzNjIwODA3/LmpwZWc.jpeg" alt="Cover for Don&#39;t Hold Me Down" style="max-width:120px; height:auto;" />
       </td>
@@ -889,7 +867,29 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/fyw336UJRu30dDXRGYQpVW-iVdEg8BuZDumPj46oYjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mjc3/NTUtMTQ0MzM0NTk4/Mi05ODgxLmpwZWc.jpeg" alt="Cover for Why b&#x2F;w Fall In Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Tortured Soul</td>
+      <td>Why b&#x2F;w Fall In Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/Hu1LyWujWl38NVCFr-UwMcRulDjleCSoVrbaErsCQ68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDAy/NTgtMTQ2Njg4MDI4/Ni0xMTkxLmpwZWc.jpeg" alt="Cover for Borders Don&#39;t Matter" style="max-width:120px; height:auto;" />
       </td>
@@ -909,7 +909,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/312bd3aa1b5a45a79c34713c643633ca.png" alt="Cover for Freak" style="max-width:120px; height:auto;" />
       </td>
@@ -933,12 +933,12 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 74</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/NOAotCyJv924qcKTO69Ahs-q9JKsl0dm6vA1B3QcRoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njk3/NDcyLTE2NjQ3MjAw/NzItNTMxNC5qcGVn.jpeg" alt="Cover for In Transit - Advance EP" style="max-width:120px; height:auto;" />
       </td>
@@ -960,7 +960,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/IdiuDbeKRcJRmSp4WOuzhmwPjOtbjXDt9zEkkfor6Lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTAy/NjItMTIxMTg4NjA5/NS5qcGVn.jpeg" alt="Cover for Back 2 Deep EP Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -982,7 +982,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/p1uT6H_WzSayp46ZzmbgpzQUYPk0C4zl3S52GgyQGUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE3/MzItMTU1NjIwMDA3/My05NzQ3LmpwZWc.jpeg" alt="Cover for Your Dream is My Dream (Jon Cutler Mixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1004,7 +1004,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49a88bd4991a983b9dfc104515c888a1.png" alt="Cover for Simbad" style="max-width:120px; height:auto;" />
       </td>
@@ -1025,7 +1025,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f39fa75cd434782b2028aaec2fdf67c.png" alt="Cover for Everybodys Darling" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,7 +1068,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd5ba77ee45d71bbba72dd689127d2bd.png" alt="Cover for The Active Touch EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,7 +1097,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab886cf25b7f4c239b3f8a83521bd48d.png" alt="Cover for More Tales Remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -1117,7 +1117,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9073b3b8467141a684d9733f57f27d6f.png" alt="Cover for City Sound Berlin 2011" style="max-width:120px; height:auto;" />
       </td>
@@ -1160,7 +1160,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/fyw336UJRu30dDXRGYQpVW-iVdEg8BuZDumPj46oYjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mjc3/NTUtMTQ0MzM0NTk4/Mi05ODgxLmpwZWc.jpeg" alt="Cover for In My Fantasy - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1182,7 +1182,26 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/lfolrzSCzbXAFLYO8PAzfm1jjBOs716-2rLTaGOtiuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAy/OTAtMTQ0Mjk1OTc1/Ni01MTc0LmpwZWc.jpeg" alt="Cover for Seu Olhar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>De Madrugada</td>
+      <td>Seu Olhar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/BOMfyFLhDaWx3a5tCf58wUjyWwcO6oUKDuMNseM6e6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODEx/NTEtMTI3NDE5MzI5/Mi5qcGVn.jpeg" alt="Cover for Home To You EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1204,26 +1223,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>94</td>
-      <td>
-          <img src="https://i.discogs.com/lfolrzSCzbXAFLYO8PAzfm1jjBOs716-2rLTaGOtiuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAy/OTAtMTQ0Mjk1OTc1/Ni01MTc0LmpwZWc.jpeg" alt="Cover for Seu Olhar" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>De Madrugada</td>
-      <td>Seu Olhar</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93dae105355e87bfcf1b61c7673ed9c2.png" alt="Cover for Get Lifted" style="max-width:120px; height:auto;" />
       </td>
@@ -1240,44 +1240,12 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 63</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-          <img src="https://i.discogs.com/S4Rd99xq2gyEhXeU34ep7auZRnILAE4ffvxhBmDNMak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTA3/MjctMTM4NTg3MDgz/My0yMTExLmpwZWc.jpeg" alt="Cover for Beats Of My Heart" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-02-09</td>
-      <td>Hard Mix!</td>
-      <td>Beats Of My Heart</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/O5rZhbB5AD09OCG3YQ7B5iFkKD5OQpiQgDkDIEDvAC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzE2/Njg3LTE2MzUxMDMy/NzctMjEyNy5qcGVn.jpeg" alt="Cover for A Perfect Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,7 +1277,39 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/S4Rd99xq2gyEhXeU34ep7auZRnILAE4ffvxhBmDNMak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTA3/MjctMTM4NTg3MDgz/My0yMTExLmpwZWc.jpeg" alt="Cover for Beats Of My Heart" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-02-09</td>
+      <td>Hard Mix!</td>
+      <td>Beats Of My Heart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/E4Ny84A85h93ol4CHPnyM0ugRjcYKOM_QnpWIGtI1zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM1/MDQtMTI3NTAzMjkz/Ni5qcGVn.jpeg" alt="Cover for No Worries &#x2F; Tease Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,7 +1352,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/ec53wqIJ2dMLMGqNf9MXsFravJDiXnpW6YwJ5vthq54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzcx/MTMtMTI3NzkwNjk5/NC5qcGVn.jpeg" alt="Cover for Orange Mountains" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,12 +1369,12 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 9</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/oDGAEhY21KSBrqNYJGb-Wwj64NwF_1j2mciifVKFFCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njc1/NTMtMTI4NTY4NjQ3/My5qcGVn.jpeg" alt="Cover for Snatch007" style="max-width:120px; height:auto;" />
       </td>
@@ -1413,7 +1413,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/ueRn49GQMNGw1PklTuTRbxyMpBqr7I9J7P2uix5pN08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzg3/MzYtMTM4ODQyNDk4/NS03MjU2LmpwZWc.jpeg" alt="Cover for Brazilian House" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,7 +1446,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cde68dcb0477496d8fb766c25a3b7fd0.png" alt="Cover for Dandelion" style="max-width:120px; height:auto;" />
       </td>
@@ -1500,7 +1500,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/ATfipzXBdTtdTdLhWgtSIUgzNNcVrFDAbD0Aplz6WPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzAx/NzMtMTMyMTQ2NTIw/MC5qcGVn.jpeg" alt="Cover for Renegades" style="max-width:120px; height:auto;" />
       </td>
@@ -1529,7 +1529,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/c6jMhh42oxS1SCVZwwosPK2S6ctxpdEi0q1oeRhikYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTIw/NTItMTM3MzA2MTYy/My0yMzUwLmpwZWc.jpeg" alt="Cover for Let Me House You" style="max-width:120px; height:auto;" />
       </td>
@@ -1560,7 +1560,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3a5ab5db593474c90186f1d27675d4c.png" alt="Cover for When We On" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,7 +1580,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/yZXHCCMptQd4O43hjML9CKrReiVPrqpu-n9FIMDc7u4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjM5/ODI3LTE1ODg1MjU4/NTYtNjk4Ni5qcGVn.jpeg" alt="Cover for Moezart Dance Dubs" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,7 +1600,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d78ad359a35447cf8c0802bb7f25bc73.png" alt="Cover for Love In Me Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,7 +1635,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/S2A_7rU_pahDBMjR6ZsrUtcfYWW_e5HnwdtTgL939zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODE0/NzgtMTMyMzc3OTcx/My5qcGVn.jpeg" alt="Cover for Still Groovin" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,7 +1654,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/69QSzk-4X7QSSYGemn83o4YMbY5cZoON4WcR5OeB6oY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA5/OTAtMTMzOTcxMTA2/NS0zMDkwLmpwZWc.jpeg" alt="Cover for Perfect World" style="max-width:120px; height:auto;" />
       </td>
@@ -1679,7 +1679,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/4p3VGI4d7_y2KE0z8x0Ioq6ZOwaNpwv0-kEX9CE9-Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDU5/MDYtMTQ3MTk4OTQz/OC00MjUyLmpwZWc.jpeg" alt="Cover for Your Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -1713,7 +1713,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/H7HSnmsao4I8SwHFUYWHrGDyur5ADQIVBln7M5OAxiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTkw/MTMtMTQ4ODE3MTcw/OC05ODk3LmpwZWc.jpeg" alt="Cover for DV8 SET 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1734,13 +1734,13 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>30</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/708c8b0c391b4f048d699b6dee2a72d7.png" alt="Cover for CHILLECTRO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/875552b861914d62af8df13867797561.png" alt="Cover for MN8" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-24</td>
       <td>DJ Brody</td>
-      <td>CHILLECTRO</td>
+      <td>MN8</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
@@ -1755,7 +1755,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab3c27feb9574be8ac764e2cd9a43136.png" alt="Cover for SUNRISE" style="max-width:120px; height:auto;" />
       </td>
@@ -1778,13 +1778,13 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>91</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/875552b861914d62af8df13867797561.png" alt="Cover for MN8" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/708c8b0c391b4f048d699b6dee2a72d7.png" alt="Cover for CHILLECTRO" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-24</td>
       <td>DJ Brody</td>
-      <td>MN8</td>
+      <td>CHILLECTRO</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
@@ -1799,7 +1799,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/FcU0FjIzIOaVZYQ6w2udl5Q708jxFn2n0fApLZ77jfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTc3/NTQtMTM1NTE0OTI5/Ni01MTYyLmpwZWc.jpeg" alt="Cover for Lunar Escape EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1839,13 +1839,13 @@ Soulful House music is a subgenre of House music that is enriched with elements 
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 15</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 24</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 26</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 28</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 53</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ffedec608484b43cb7819906816ffaa.png" alt="Cover for Su Casa" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,7 +1866,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/A2vW5e6ikPdBXkwa_7bAdHnYJO8kuwgsfaYqWsLSNOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTg3/MzYtMTQwMDI1MjUz/Ny01MjYyLmpwZWc.jpeg" alt="Cover for Love Sublime" style="max-width:120px; height:auto;" />
       </td>
@@ -1903,21 +1903,21 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       <td>
         <ul>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 2</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 3</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 3</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 4</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 4</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 13</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 17</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 38</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 79</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 80</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 87</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 96</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/96vjgfd4zPw4O6ACPdSuG8J8oOEsMcv2Y8N_ZblcAso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Nzcz/MDgtMTQyMDIwMDcz/OC04MjE2LmpwZWc.jpeg" alt="Cover for Change My Heart - THE REMIXES" style="max-width:120px; height:auto;" />
       </td>
@@ -1937,51 +1937,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>43</td>
-      <td>
-          <img src="https://i.discogs.com/6WV1tmBQBDFyGHsqnOsFQ1TRutnhBVHR879ctGxIJh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDU5/MzMtMTQ3MTE5NTQz/MS0yMzA3LmpwZWc.jpeg" alt="Cover for fabric 82: Art Department" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014-11-06</td>
-      <td>Art Department</td>
-      <td>fabric 82: Art Department</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 4</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 15</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 46</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 51</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 71</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/5PPQBalXh7fdrQV_05vDJwCtRu1JrD6Kd2ARvyxod-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjM4/NzEtMTQxNjQ4MjI0/OC04NTg0LmpwZWc.jpeg" alt="Cover for Down From The Rafters Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -2015,13 +1971,57 @@ Soulful House music is a subgenre of House music that is enriched with elements 
         <ul>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 18</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 28</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 33</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 58</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/6WV1tmBQBDFyGHsqnOsFQ1TRutnhBVHR879ctGxIJh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDU5/MzMtMTQ3MTE5NTQz/MS0yMzA3LmpwZWc.jpeg" alt="Cover for fabric 82: Art Department" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-11-06</td>
+      <td>Art Department</td>
+      <td>fabric 82: Art Department</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 51</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 55</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 71</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 79</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 86</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/Lb4SSCSHpGkVmJIgW_OqKcHGiRPZIlGXIu0mEzUktds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjEx/ODYtMTQ1MjQ2NTAy/OS00NzI2LmpwZWc.jpeg" alt="Cover for DHS001" style="max-width:120px; height:auto;" />
       </td>
@@ -2041,7 +2041,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/oheYOKK2ovo9_1D3U2fSgasUX8ESlqjSQ0oXJ1OrWYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTM1/ODMtMTIxNzYyODI4/My5qcGVn.jpeg" alt="Cover for DHS001" style="max-width:120px; height:auto;" />
       </td>
@@ -2061,7 +2061,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/1vC7qmN1fhCINhqeTo4jFV-4Dkxz2RmwtlbdbWm-Z_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODgz/ODk4LTE2MTU5OTEx/MzctOTUyNi5qcGVn.jpeg" alt="Cover for Osmosis" style="max-width:120px; height:auto;" />
       </td>
@@ -2080,57 +2080,38 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>17</td>
       <td>
+          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Casasonica" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
-      <td>Deep House - Ministry of Sound</td>
+      <td>Casasonica</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 72</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 29</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-      </td>
-      <td>2023</td>
-      <td>Various Artists</td>
-      <td>Café del Mar, Volumen Dieciocho</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 26</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ea7865ffccc45d8ab53e694278a2281.png" alt="Cover for Impulsive! Revolutionary Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -2172,38 +2153,57 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Casasonica" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
-      <td>Casasonica</td>
+      <td>Café del Mar, Volumen Dieciocho</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 29</li>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 63</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>81</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Deep House - Ministry of Sound</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1a7a48d18f97cec29b42f99b74ffdff.png" alt="Cover for Always For Love" style="max-width:120px; height:auto;" />
       </td>
@@ -2225,126 +2225,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5c27884476f4b229d4fc1943bd68e8a.png" alt="Cover for Tunes 05-XX" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Junner</td>
-      <td>Tunes 05-XX</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 20</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9196721ae3814d44a2c906d3a76ef82d.png" alt="Cover for 2012 House Promos" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>KaneKong</td>
-      <td>2012 House Promos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f09207bada5b4d99b8430f65f9f4cc8d.png" alt="Cover for Soulful House Sessions" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>DJ Nreal</td>
-      <td>Soulful House Sessions</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-      </td>
-      <td></td>
-      <td>MoHo Allstars featuring Solara</td>
-      <td>Life Is What You Make It</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td></td>
-      <td>BAG 4 TWO</td>
-      <td>Can&#39;t Forget Your Smile</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 36</li>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2375,101 +2256,126 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
-      <td>Soulful Women</td>
-      <td>Deep Vocals 2</td>
+      <td>BAG 4 TWO</td>
+      <td>Can&#39;t Forget Your Smile</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Lars Behrenroth &amp; Sinan Baymak</td>
-      <td>I Miss The Things - Deeper Shades Recordings 003</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 36</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>61</td>
       <td>
       </td>
       <td></td>
-      <td>DJD &amp; Chaz Jankel</td>
-      <td>Into The Night</td>
+      <td>MoHo Allstars featuring Solara</td>
+      <td>Life Is What You Make It</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>63</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4121f1b7940ca1e7d27c0affbcf66a31.png" alt="Cover for After My Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f09207bada5b4d99b8430f65f9f4cc8d.png" alt="Cover for Soulful House Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Vincent Kwok Presents Morrison</td>
-      <td>After My Love</td>
+      <td>DJ Nreal</td>
+      <td>Soulful House Sessions</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9196721ae3814d44a2c906d3a76ef82d.png" alt="Cover for 2012 House Promos" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Andezzz</td>
-      <td>Electric Lov3</td>
+      <td>KaneKong</td>
+      <td>2012 House Promos</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5c27884476f4b229d4fc1943bd68e8a.png" alt="Cover for Tunes 05-XX" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Junner</td>
+      <td>Tunes 05-XX</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -2495,7 +2401,101 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>51</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Andezzz</td>
+      <td>Electric Lov3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4121f1b7940ca1e7d27c0affbcf66a31.png" alt="Cover for After My Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Vincent Kwok Presents Morrison</td>
+      <td>After My Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td></td>
+      <td>DJD &amp; Chaz Jankel</td>
+      <td>Into The Night</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Lars Behrenroth &amp; Sinan Baymak</td>
+      <td>I Miss The Things - Deeper Shades Recordings 003</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Soulful Women</td>
+      <td>Deep Vocals 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
       <td>
       </td>
       <td></td>
