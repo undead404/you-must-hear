@@ -1,18 +1,26 @@
 ---
 category: list
-date: 2025-12-07T04:03:53.033Z
+date: 2025-12-07T04:27:47.976Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-07T04:03:53.033Z">Sun Dec 07 2025 06:03:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T04:27:47.976Z">Sun Dec 07 2025 06:27:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [war metal]({{ "tags/war-metal" | relative_url }}) | <time datetime="2025-12-07T04:27:47.976Z">Sun Dec 07 2025 06:27:47 GMT+0200 (Eastern European Standard Time)</time> |
+| [indian classical]({{ "tags/indian-classical" | relative_url }}) | <time datetime="2025-12-07T04:27:42.198Z">Sun Dec 07 2025 06:27:42 GMT+0200 (Eastern European Standard Time)</time> |
+| [dark metal]({{ "tags/dark-metal" | relative_url }}) | <time datetime="2025-12-07T04:27:35.789Z">Sun Dec 07 2025 06:27:35 GMT+0200 (Eastern European Standard Time)</time> |
+| [buenos aires]({{ "tags/buenos-aires" | relative_url }}) | <time datetime="2025-12-07T04:06:05.528Z">Sun Dec 07 2025 06:06:05 GMT+0200 (Eastern European Standard Time)</time> |
+| [martial]({{ "tags/martial" | relative_url }}) | <time datetime="2025-12-07T04:05:09.418Z">Sun Dec 07 2025 06:05:09 GMT+0200 (Eastern European Standard Time)</time> |
+| [trap]({{ "tags/trap" | relative_url }}) | <time datetime="2025-12-07T04:05:03.459Z">Sun Dec 07 2025 06:05:03 GMT+0200 (Eastern European Standard Time)</time> |
+| [harsh noise]({{ "tags/harsh-noise" | relative_url }}) | <time datetime="2025-12-07T04:04:28.913Z">Sun Dec 07 2025 06:04:28 GMT+0200 (Eastern European Standard Time)</time> |
+| [electropop]({{ "tags/electropop" | relative_url }}) | <time datetime="2025-12-07T04:04:22.016Z">Sun Dec 07 2025 06:04:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [ambient pop]({{ "tags/ambient-pop" | relative_url }}) | <time datetime="2025-12-07T04:03:53.033Z">Sun Dec 07 2025 06:03:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [ethereal]({{ "tags/ethereal" | relative_url }}) | <time datetime="2025-12-07T04:03:47.523Z">Sun Dec 07 2025 06:03:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [china]({{ "tags/china" | relative_url }}) | <time datetime="2025-12-07T04:01:42.935Z">Sun Dec 07 2025 06:01:42 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1381,11 +1389,3 @@ Last updated: <time datetime="2025-12-07T04:03:53.033Z">Sun Dec 07 2025 06:03:53
 | [tango argentino]({{ "tags/tango-argentino" | relative_url }}) | <time datetime="2025-12-04T14:55:46.403Z">Thu Dec 04 2025 16:55:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [spiritual]({{ "tags/spiritual" | relative_url }}) | <time datetime="2025-12-04T14:55:17.232Z">Thu Dec 04 2025 16:55:17 GMT+0200 (Eastern European Standard Time)</time> |
 | [frenchcore]({{ "tags/frenchcore" | relative_url }}) | <time datetime="2025-12-04T14:50:59.425Z">Thu Dec 04 2025 16:50:59 GMT+0200 (Eastern European Standard Time)</time> |
-| [war metal]({{ "tags/war-metal" | relative_url }}) | <time datetime="2025-12-04T14:50:54.353Z">Thu Dec 04 2025 16:50:54 GMT+0200 (Eastern European Standard Time)</time> |
-| [indian classical]({{ "tags/indian-classical" | relative_url }}) | <time datetime="2025-12-04T14:50:48.852Z">Thu Dec 04 2025 16:50:48 GMT+0200 (Eastern European Standard Time)</time> |
-| [dark metal]({{ "tags/dark-metal" | relative_url }}) | <time datetime="2025-12-04T14:50:42.703Z">Thu Dec 04 2025 16:50:42 GMT+0200 (Eastern European Standard Time)</time> |
-| [buenos aires]({{ "tags/buenos-aires" | relative_url }}) | <time datetime="2025-12-04T14:50:17.323Z">Thu Dec 04 2025 16:50:17 GMT+0200 (Eastern European Standard Time)</time> |
-| [martial]({{ "tags/martial" | relative_url }}) | <time datetime="2025-12-04T14:35:03.149Z">Thu Dec 04 2025 16:35:03 GMT+0200 (Eastern European Standard Time)</time> |
-| [trap]({{ "tags/trap" | relative_url }}) | <time datetime="2025-12-04T14:34:53.948Z">Thu Dec 04 2025 16:34:53 GMT+0200 (Eastern European Standard Time)</time> |
-| [harsh noise]({{ "tags/harsh-noise" | relative_url }}) | <time datetime="2025-12-04T14:34:23.409Z">Thu Dec 04 2025 16:34:23 GMT+0200 (Eastern European Standard Time)</time> |
-| [electropop]({{ "tags/electropop" | relative_url }}) | <time datetime="2025-12-04T14:19:12.660Z">Thu Dec 04 2025 16:19:12 GMT+0200 (Eastern European Standard Time)</time> |
