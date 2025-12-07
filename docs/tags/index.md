@@ -1,18 +1,22 @@
 ---
 category: list
-date: 2025-12-07T00:31:45.938Z
+date: 2025-12-07T01:21:41.692Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-07T00:31:45.938Z">Sun Dec 07 2025 02:31:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T01:21:41.692Z">Sun Dec 07 2025 03:21:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [rapcore]({{ "tags/rapcore" | relative_url }}) | <time datetime="2025-12-07T01:21:41.692Z">Sun Dec 07 2025 03:21:41 GMT+0200 (Eastern European Standard Time)</time> |
+| [uk garage]({{ "tags/uk-garage" | relative_url }}) | <time datetime="2025-12-07T01:21:34.670Z">Sun Dec 07 2025 03:21:34 GMT+0200 (Eastern European Standard Time)</time> |
+| [symphonic metal]({{ "tags/symphonic-metal" | relative_url }}) | <time datetime="2025-12-07T01:05:04.682Z">Sun Dec 07 2025 03:05:04 GMT+0200 (Eastern European Standard Time)</time> |
+| [musique francaise]({{ "tags/musique-francaise" | relative_url }}) | <time datetime="2025-12-07T00:48:07.736Z">Sun Dec 07 2025 02:48:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [j-idol]({{ "tags/j-idol" | relative_url }}) | <time datetime="2025-12-07T00:31:45.938Z">Sun Dec 07 2025 02:31:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [schranz]({{ "tags/schranz" | relative_url }}) | <time datetime="2025-12-07T00:31:42.424Z">Sun Dec 07 2025 02:31:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [christian rap]({{ "tags/christian-rap" | relative_url }}) | <time datetime="2025-12-06T23:58:52.992Z">Sun Dec 07 2025 01:58:52 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1385,7 +1389,3 @@ Last updated: <time datetime="2025-12-07T00:31:45.938Z">Sun Dec 07 2025 02:31:45
 | [post-dubstep]({{ "tags/post-dubstep" | relative_url }}) | <time datetime="2025-12-04T12:09:36.712Z">Thu Dec 04 2025 14:09:36 GMT+0200 (Eastern European Standard Time)</time> |
 | [industrial noise]({{ "tags/industrial-noise" | relative_url }}) | <time datetime="2025-12-04T12:09:00.032Z">Thu Dec 04 2025 14:09:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [harmonica blues]({{ "tags/harmonica-blues" | relative_url }}) | <time datetime="2025-12-04T11:53:38.955Z">Thu Dec 04 2025 13:53:38 GMT+0200 (Eastern European Standard Time)</time> |
-| [rapcore]({{ "tags/rapcore" | relative_url }}) | <time datetime="2025-12-04T11:53:33.434Z">Thu Dec 04 2025 13:53:33 GMT+0200 (Eastern European Standard Time)</time> |
-| [uk garage]({{ "tags/uk-garage" | relative_url }}) | <time datetime="2025-12-04T11:53:28.421Z">Thu Dec 04 2025 13:53:28 GMT+0200 (Eastern European Standard Time)</time> |
-| [symphonic metal]({{ "tags/symphonic-metal" | relative_url }}) | <time datetime="2025-12-04T11:53:22.986Z">Thu Dec 04 2025 13:53:22 GMT+0200 (Eastern European Standard Time)</time> |
-| [musique francaise]({{ "tags/musique-francaise" | relative_url }}) | <time datetime="2025-12-04T11:52:47.499Z">Thu Dec 04 2025 13:52:47 GMT+0200 (Eastern European Standard Time)</time> |

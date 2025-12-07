@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T11:53:33.434Z
+date: 2025-12-07T01:21:41.692Z
 permalink: tags/rapcore
 title: rapcore
 ---
 
 ## rapcore
 
-Last updated: <time datetime="2025-12-04T11:53:33.434Z">Thu Dec 04 2025 13:53:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T01:21:41.692Z">Sun Dec 07 2025 03:21:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
   </thead>
   <tbody>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c259801fb08fbd7c9448b1aeefb84825.png" alt="Cover for HOT DEMON B!TCHES NEAR U ! ! !" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37f6b1f14ae88d70a7a09157f24685b0.png" alt="Cover for White Tee (Alternate Bass Boosted Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fd8abe279719d23c06e8229018158ba.png" alt="Cover for E-GIRLS ARE RUINING MY LIFE!" style="max-width:120px; height:auto;" />
       </td>
@@ -85,15 +85,15 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 1</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 1</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 1</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 5</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 95</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f25a0a061254740c74a40a4e16337d6.png" alt="Cover for Rage Against the Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -107,31 +107,12 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 6</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 68</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34db22461c7631fcae50f8b641f44d6f.png" alt="Cover for Cat Girls Are Ruining My Life!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Corpse</td>
-      <td>Cat Girls Are Ruining My Life!</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 22</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 28</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61c5453abb82afdf9532b94d06853902.png" alt="Cover for Miss YOU!" style="max-width:120px; height:auto;" />
       </td>
@@ -150,7 +131,26 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34db22461c7631fcae50f8b641f44d6f.png" alt="Cover for Cat Girls Are Ruining My Life!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Corpse</td>
+      <td>Cat Girls Are Ruining My Life!</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 22</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ac917c17ba84eaca744e4d62c02e210.png" alt="Cover for Deaf Dumb Blind" style="max-width:120px; height:auto;" />
       </td>
@@ -168,27 +168,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/915978d30b59e38bc10f29e85b9d0659.png" alt="Cover for Born Dead" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Body Count</td>
-      <td>Born Dead</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e2b2943c55d4c4fa468f7014c584ba3.png" alt="Cover for Potatoes For Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -206,13 +186,33 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 6</li>
             <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 38</li>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/915978d30b59e38bc10f29e85b9d0659.png" alt="Cover for Born Dead" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Body Count</td>
+      <td>Born Dead</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23f328eed4864871c8f118cd99816fae.png" alt="Cover for All Boro Kings" style="max-width:120px; height:auto;" />
       </td>
@@ -230,7 +230,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d4ee0bb62984b8baac9940f70a46ec9.png" alt="Cover for Do We Speak A Dead Language?" style="max-width:120px; height:auto;" />
       </td>
@@ -248,45 +248,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>71</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e49b712404ab22af61953e8ac07c822e.png" alt="Cover for Cabin Fever" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Corpse</td>
-      <td>Cabin Fever</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 33</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 33</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5563530edc715985d12aa83ab17cae43.png" alt="Cover for White Tee" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Corpse</td>
-      <td>White Tee</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 28</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 31</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88c928377ce053f476efa39b44dd7f23.png" alt="Cover for agoraphobic" style="max-width:120px; height:auto;" />
       </td>
@@ -306,7 +268,45 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5563530edc715985d12aa83ab17cae43.png" alt="Cover for White Tee" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Corpse</td>
+      <td>White Tee</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 28</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e49b712404ab22af61953e8ac07c822e.png" alt="Cover for Cabin Fever" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Corpse</td>
+      <td>Cabin Fever</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 33</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/943c00ab80d5d6064a694b2d69f3d13e.png" alt="Cover for Three Dollar Bill, Yall$" style="max-width:120px; height:auto;" />
       </td>
@@ -323,7 +323,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5573b49c36dc4fd6acaa267e281a0d41.png" alt="Cover for (hed)pe" style="max-width:120px; height:auto;" />
       </td>
@@ -341,7 +341,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6288a8b8d9834e3ece1cfb6d82416cee.png" alt="Cover for Clawfinger" style="max-width:120px; height:auto;" />
       </td>
@@ -358,7 +358,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4a1f0f8718d6247a10c10e67ce263b6.png" alt="Cover for Old Friends From Young Years" style="max-width:120px; height:auto;" />
       </td>
@@ -375,7 +375,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dba4cbd38da66afa0d7acfe20a13d154.png" alt="Cover for 5 Tracks Deep" style="max-width:120px; height:auto;" />
       </td>
@@ -394,7 +394,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c208a11cca604ee0a57b19f3ed880276.png" alt="Cover for The Fundamental Elements Of South" style="max-width:120px; height:auto;" />
       </td>
@@ -408,13 +408,13 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 5</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 67</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5847e094d2c44179cb9260d2b61a9c2.png" alt="Cover for Sideshow Freaks" style="max-width:120px; height:auto;" />
       </td>
@@ -432,7 +432,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c00f7b9cd94c2b6fbd7f12fc00bd8d2.png" alt="Cover for Significant Other" style="max-width:120px; height:auto;" />
       </td>
@@ -445,13 +445,13 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 11</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 11</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11df5e46c810493983feb65066b2e9d9.png" alt="Cover for The Battle of Los Angeles" style="max-width:120px; height:auto;" />
       </td>
@@ -465,13 +465,13 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 13</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 35</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 64</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e17e8ab11291469a84bc869d59b9cf09.png" alt="Cover for The Gift of Game" style="max-width:120px; height:auto;" />
       </td>
@@ -491,7 +491,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac093aa7e943d9db8a8c2040efd0ec05.png" alt="Cover for Methods Of Mayhem" style="max-width:120px; height:auto;" />
       </td>
@@ -508,7 +508,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8346d09b68601ef4ff91a142fa72cd1d.png" alt="Cover for Introduction To Mayhem" style="max-width:120px; height:auto;" />
       </td>
@@ -526,7 +526,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/daf0cdcbb7a34543ac4fcae67fe03347.png" alt="Cover for Buy Now... Saved Later" style="max-width:120px; height:auto;" />
       </td>
@@ -544,7 +544,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76d326bffab39dd6f19dbd06bb8042b4.png" alt="Cover for Infest" style="max-width:120px; height:auto;" />
       </td>
@@ -557,13 +557,13 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 87</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 14</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c21b3923a4d3ff5629996f3f8e178140.png" alt="Cover for Hybrid Theory" style="max-width:120px; height:auto;" />
       </td>
@@ -576,13 +576,13 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 3</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 70</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d68b2af8c78592338cdd8c5dab371eab.png" alt="Cover for Butterfly" style="max-width:120px; height:auto;" />
       </td>
@@ -601,7 +601,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8478d07d94dc6d60f1aa813cf7528a7.png" alt="Cover for Menace To Sobriety" style="max-width:120px; height:auto;" />
       </td>
@@ -618,7 +618,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/326a9167aa855af0f490a66731a13165.png" alt="Cover for Broke" style="max-width:120px; height:auto;" />
       </td>
@@ -635,7 +635,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9939a159279a21306d8d48a8562a5207.png" alt="Cover for Chocolate Starfish and the Hot Dog Flavored Water" style="max-width:120px; height:auto;" />
       </td>
@@ -649,13 +649,13 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 9</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 23</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/199c7b3cd31690b9c5c66272092482af.png" alt="Cover for Восставший Из Ада" style="max-width:120px; height:auto;" />
       </td>
@@ -692,7 +692,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/CDEdmVSVRRIukvZ6Wvtw2kWSfU3RaVOcHOTLI8BHvAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDU3/My0xMjk2NDE4NzE5/LmpwZWc.jpeg" alt="Cover for Satellite (U.S. Version Wea Distribution)" style="max-width:120px; height:auto;" />
       </td>
@@ -710,7 +710,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1a050a751f66159c49c0553ae2fa233.png" alt="Cover for Freedom Is A State Of Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -728,7 +728,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51d14dbf831a42e5c21f58d3e6034aa9.png" alt="Cover for Satellite" style="max-width:120px; height:auto;" />
       </td>
@@ -742,12 +742,12 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 21</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 53</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3eac94734e0943a8aaca285f72ba4427.png" alt="Cover for Stoned Raiders" style="max-width:120px; height:auto;" />
       </td>
@@ -767,7 +767,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d486f79c267453a3d026af3a61796e9a.png" alt="Cover for Dance And Dense Denso" style="max-width:120px; height:auto;" />
       </td>
@@ -786,7 +786,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bce17ec387b5c136fbc42c352abb692.png" alt="Cover for Pull Ya? Let it doll go" style="max-width:120px; height:auto;" />
       </td>
@@ -804,7 +804,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/875c278080d1863b36400d0cc36d68b9.png" alt="Cover for Transplants" style="max-width:120px; height:auto;" />
       </td>
@@ -824,7 +824,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e08ff4ca2f7ed7dd796770d24536054.png" alt="Cover for Darkhorse" style="max-width:120px; height:auto;" />
       </td>
@@ -841,7 +841,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/hAt3evPrN_2dvimSTVjzvHfD8pnBVx4zX13-ivzKde0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDMz/NzEtMTM1NTMzMTkz/MS01MzE4LmpwZWc.jpeg" alt="Cover for Rage Against The Machine&#x2F;Evil Empire" style="max-width:120px; height:auto;" />
       </td>
@@ -861,7 +861,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fee069a98672ac3719f6c766ff6f0f9c.png" alt="Cover for Meteora" style="max-width:120px; height:auto;" />
       </td>
@@ -876,14 +876,14 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 1</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 24</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 41</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 100</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4df5bf6ddc9809e08a277527af6d80d.png" alt="Cover for Results May Vary" style="max-width:120px; height:auto;" />
       </td>
@@ -896,12 +896,12 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 66</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>2003-06-02</td>
@@ -918,7 +918,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb2e5304e5684553c5e04cd31fdfe841.png" alt="Cover for MFZB" style="max-width:120px; height:auto;" />
       </td>
@@ -936,7 +936,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1205001291b142b0b02f205080b4a45f.png" alt="Cover for Eat You Alive" style="max-width:120px; height:auto;" />
       </td>
@@ -955,7 +955,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/522754df31197e1e9633feb51d025da5.png" alt="Cover for What You Thought You Heard" style="max-width:120px; height:auto;" />
       </td>
@@ -973,7 +973,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
       </td>
       <td>2004-05-10</td>
@@ -991,7 +991,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/D51X7Mt8GzO4R0R3eYTRkcwQ08skdxLgEKdDk684nZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjQw/MjAzLTE2NzI2NjM4/NTgtMzYxMS5qcGVn.jpeg" alt="Cover for Слышишь?!" style="max-width:120px; height:auto;" />
       </td>
@@ -1011,7 +1011,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>60</td>
       <td>
       </td>
       <td>2005-09-27</td>
@@ -1028,7 +1028,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b53443193e0c4b5d84acf6ee5cf821d1.png" alt="Cover for 9.0 Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1045,7 +1045,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf002e650cfd63417a2c18473e4975f9.png" alt="Cover for Greatest Hitz" style="max-width:120px; height:auto;" />
       </td>
@@ -1058,12 +1058,12 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 52</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>79</td>
       <td>
       </td>
       <td>2005-11-24</td>
@@ -1082,7 +1082,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2571aee95c0b43b397371fdf1908d4bd.png" alt="Cover for Testify" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,7 +1099,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2006-02-22</td>
@@ -1117,7 +1117,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e098ec3ae977925390c8f8a2fc92c36c.png" alt="Cover for Back 2 Base X" style="max-width:120px; height:auto;" />
       </td>
@@ -1135,7 +1135,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d2e05300e0c4c32b4d4b29bb0d5bcc9.png" alt="Cover for Everready" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,7 +1154,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f454fd5d589a4bb6b730a48b04cef3e7.png" alt="Cover for Greatest Hits (The Atlantic Years)" style="max-width:120px; height:auto;" />
       </td>
@@ -1171,7 +1171,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab23cfa6a182400d8467bd9393635efb.png" alt="Cover for Underground 6" style="max-width:120px; height:auto;" />
       </td>
@@ -1189,26 +1189,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/288e4a970c024bca87c57039d173d46f.png" alt="Cover for The End of the World" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Genuflect</td>
-      <td>The End of the World</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f14c9c1661344fd3cf9c632abc9c14aa.png" alt="Cover for Grant Mohrman Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,7 +1208,26 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/288e4a970c024bca87c57039d173d46f.png" alt="Cover for The End of the World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Genuflect</td>
+      <td>The End of the World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/584cb81f0b89bb9b7b790079afe14803.png" alt="Cover for Insomnia" style="max-width:120px; height:auto;" />
       </td>
@@ -1245,7 +1245,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bb98be573004e32ce2026300b1dd5f2.png" alt="Cover for Rage Against The Machine - XX (20th Anniversary Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1261,15 +1261,15 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 1</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 2</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 4</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 52</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 69</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 97</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f256ab6b29b54fb9a00dd7da419a2e7f.png" alt="Cover for Ratrace" style="max-width:120px; height:auto;" />
       </td>
@@ -1292,7 +1292,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fda8cdee93eab75b3df3d014d78d0c40.png" alt="Cover for The Greatest Hits Vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,7 +1309,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9172923e1ed49e68f5879bd99981526.png" alt="Cover for One Day as a Lion" style="max-width:120px; height:auto;" />
       </td>
@@ -1327,7 +1327,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79d315e009823751d61c5f0d6c8de8f1.png" alt="Cover for Swan Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,13 +1341,13 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 61</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 38</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9171a7496acc02cfd069370291684992.png" alt="Cover for Stay True" style="max-width:120px; height:auto;" />
       </td>
@@ -1364,7 +1364,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
       </td>
       <td>2009-05-04</td>
@@ -1381,7 +1381,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0333a7f7a88247f18233c46eb056157f.png" alt="Cover for Panik" style="max-width:120px; height:auto;" />
       </td>
@@ -1400,7 +1400,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e5fdf13d63a8d458338c60450624af2.png" alt="Cover for All For What..." style="max-width:120px; height:auto;" />
       </td>
@@ -1418,7 +1418,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/910c859d62ab456a9a93a49a904bc2dd.png" alt="Cover for Desperate Measures" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,7 +1438,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/288181581a184edfaa05f030067e1ef2.png" alt="Cover for The Chase" style="max-width:120px; height:auto;" />
       </td>
@@ -1457,7 +1457,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bb0bec7b861b08bcd439b20867dee02.png" alt="Cover for This One&#39;s for You" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1475,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d95e853d1ffbcd25ec1dff861e30e892.png" alt="Cover for Swan Songs (Collector’s Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,12 +1489,12 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 94</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a930a41b31b42369ce65332644a6023.png" alt="Cover for American Tragedy" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,7 +1512,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/010868a8c5d5a46560c1d5315dc40510.png" alt="Cover for Gold Cobra" style="max-width:120px; height:auto;" />
       </td>
@@ -1529,7 +1529,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0dd274618456b2059893f0cc09d3f74.png" alt="Cover for Never Satisfied" style="max-width:120px; height:auto;" />
       </td>
@@ -1548,7 +1548,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d06af180c187ab5c1a356b608ae056da.png" alt="Cover for Nine Lives" style="max-width:120px; height:auto;" />
       </td>
@@ -1562,12 +1562,12 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 45</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb98a73a854b1783d9fecd2751f85540.png" alt="Cover for Notes From The Underground" style="max-width:120px; height:auto;" />
       </td>
@@ -1586,7 +1586,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>65</td>
       <td>
       </td>
       <td>2013-04-30</td>
@@ -1603,7 +1603,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>73</td>
       <td>
       </td>
       <td>2014-05-29</td>
@@ -1622,7 +1622,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18c5516243734b65cb67eab3c7ccf9da.png" alt="Cover for False Idols" style="max-width:120px; height:auto;" />
       </td>
@@ -1644,15 +1644,15 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 25</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 74</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 93</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 8</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 27</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 76</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d1d3d8b8f834fc1b8519989dcde2bb7.png" alt="Cover for Day Of The Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -1670,7 +1670,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af3ec986cbcb4f97cfe4825eb2ca9581.png" alt="Cover for Deceive and Defy" style="max-width:120px; height:auto;" />
       </td>
@@ -1691,15 +1691,15 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 5</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 15</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 39</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 45</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 62</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 86</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c00c80eee93ac063ce8eef6b8687f622.png" alt="Cover for Day of the Dead (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,7 +1717,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7eb4264103714209c2f0ea5d39a68a55.png" alt="Cover for Nonstop Feeling" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,12 +1730,12 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 90</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/WDFi66DoHJmaWiDaDHAXGjux7CGjX1OZi8_izYvnIsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTgw/NzQtMTU5ODQ3MzA0/MC01OTk2LmpwZWc.jpeg" alt="Cover for Walk The PLank" style="max-width:120px; height:auto;" />
       </td>
@@ -1753,7 +1753,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72dc7968383ede2a61a64d06df6f25e5.png" alt="Cover for 2 Rotten" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,15 +1774,15 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 4</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 14</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 37</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 44</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 64</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 87</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/P1WKATFUCX44RtZNjIo7ORRSQhLBg6oqHr9d-jCkINY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU4/OTY0LTE1MzU2OTY4/MzQtODIyNi5qcGVn.jpeg" alt="Cover for Made an America" style="max-width:120px; height:auto;" />
       </td>
@@ -1800,32 +1800,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>72</td>
-      <td>
-          <img src="https://i.discogs.com/Pvuc_Qq5H92_xHOnHYo7ycaKzh6Cj1b-HFN4JoxezsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU4/OTcxLTE1MzU2OTcz/MzgtOTUzOC5qcGVn.jpeg" alt="Cover for Trigger" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-05-23</td>
-      <td>Fever 333</td>
-      <td>Trigger</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 10</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/Pvuc_Qq5H92_xHOnHYo7ycaKzh6Cj1b-HFN4JoxezsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU4/OTcxLTE1MzU2OTcz/MzgtOTUzOC5qcGVn.jpeg" alt="Cover for Burn It" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,7 +1826,32 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/Pvuc_Qq5H92_xHOnHYo7ycaKzh6Cj1b-HFN4JoxezsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU4/OTcxLTE1MzU2OTcz/MzgtOTUzOC5qcGVn.jpeg" alt="Cover for Trigger" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-23</td>
+      <td>Fever 333</td>
+      <td>Trigger</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 10</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/gqW5y3v0qsdkCvWF1UZLRrxgVmxq5G6YeibgDg967q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMz/MTY0LTE1NzI5ODA2/NzctOTU0OS5qcGVn.jpeg" alt="Cover for STRENGTH IN NUMB333RS" style="max-width:120px; height:auto;" />
       </td>
@@ -1869,7 +1869,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57cf8cf111b1487922745e91ba0288e6.png" alt="Cover for Drugs" style="max-width:120px; height:auto;" />
       </td>
@@ -1887,7 +1887,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/PSpiqCzzB2jOW5hC27pNnAF34Fm5oDC_uqlqQJR5Qag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDc0/NDg5LTE1NjY0MDcw/OTgtODIxMy5qcGVn.jpeg" alt="Cover for Starburster" style="max-width:120px; height:auto;" />
       </td>
@@ -1906,12 +1906,12 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
         <ul>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 5</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 18</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 67</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/eHBHA0inLn67RfU82IIkzMQCFTeGU2pWXVXCpXFNVlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTAx/MTY4LTE2MDM0NDk3/MTktODMyOC5qcGVn.jpeg" alt="Cover for Wrong Generation" style="max-width:120px; height:auto;" />
       </td>
@@ -1929,7 +1929,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/948f407c5a2848d090d9562bfa32f493.png" alt="Cover for Venom" style="max-width:120px; height:auto;" />
       </td>
@@ -1955,10 +1955,10 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 6</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 17</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 18</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 19</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 19</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 46</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 66</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 82</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
         </ul>
       </td>
     </tr>
