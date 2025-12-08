@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:59:11.815Z
+date: 2025-12-08T06:35:24.569Z
 permalink: tags/lounge-downtempo
 title: lounge downtempo
 ---
 
 ## lounge downtempo
 
-Last updated: <time datetime="2025-12-05T04:59:11.815Z">Fri Dec 05 2025 06:59:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T06:35:24.569Z">Mon Dec 08 2025 08:35:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -111,7 +111,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
         <ul>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 24</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 41</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 50</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 51</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 52</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 54</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 65</li>
@@ -144,12 +144,12 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 3</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 28</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 48</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 70</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 81</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 97</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -184,7 +184,6 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 4</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 26</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 27</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 47</li>
@@ -193,6 +192,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 93</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 95</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 96</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -221,13 +221,13 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
         <ul>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 3</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 4</li>
-            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 8</li>
-            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 8</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 8</li>
+            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 8</li>
+            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 8</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 9</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 10</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 20</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -268,12 +268,12 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 12</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 19</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 38</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 83</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 85</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 87</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 89</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 91</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 96</li>
         </ul>
@@ -303,10 +303,10 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 27</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 30</li>
-            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 72</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 72</li>
+            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 72</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 74</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 76</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 77</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 78</li>
@@ -341,7 +341,6 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 7</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 25</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 44</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 67</li>
@@ -349,6 +348,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 90</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 93</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 93</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 94</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 99</li>
         </ul>
       </td>
@@ -378,7 +378,6 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 11</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 55</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 59</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 63</li>
@@ -386,6 +385,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 84</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 86</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 88</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 90</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 92</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 97</li>
         </ul>
@@ -421,8 +421,8 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 41</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 41</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 44</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 45</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -457,7 +457,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 46</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 49</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 50</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 50</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 54</li>
         </ul>
       </td>
@@ -484,7 +484,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 61</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 80</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 88</li>
         </ul>
@@ -514,15 +514,15 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 10</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 10</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 10</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 19</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 20</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 20</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 20</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 21</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 23</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -552,16 +552,16 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
         <ul>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 8</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 10</li>
-            <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 11</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 11</li>
-            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 11</li>
+            <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 11</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 11</li>
+            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 11</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 12</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 15</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 22</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 45</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 66</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 73</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -623,13 +623,13 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 12</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 12</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 13</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 13</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 13</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 16</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 18</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 18</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 26</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 65</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -657,13 +657,13 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 23</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 47</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 50</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 51</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 54</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 55</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 66</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 78</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 79</li>
         </ul>
       </td>
@@ -696,12 +696,12 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 27</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 28</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 30</li>
-            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 31</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 31</li>
+            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 31</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 33</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 37</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 50</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 70</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 77</li>
         </ul>
       </td>
@@ -720,13 +720,13 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 17</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 34</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 61</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 71</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 80</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 82</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 84</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 88</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 91</li>
         </ul>
@@ -850,12 +850,12 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 14</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 15</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 15</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 17</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 18</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 18</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 22</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 23</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 34</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -884,14 +884,14 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
         <ul>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 11</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 15</li>
-            <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 16</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 16</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 19</li>
+            <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 18</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 19</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 19</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 23</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 24</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 35</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -925,10 +925,10 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 37</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 38</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 39</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 39</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 40</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 41</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 50</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 62</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 84</li>
         </ul>
       </td>
@@ -991,6 +991,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 17</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 17</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 20</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 21</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 23</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 31</li>
@@ -998,7 +999,6 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 36</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 58</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 61</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 81</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 87</li>
         </ul>
       </td>
@@ -1029,15 +1029,15 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
         <ul>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 4</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 4</li>
-            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 5</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 5</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 5</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 5</li>
+            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 5</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 5</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 17</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 33</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 51</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1070,8 +1070,8 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 44</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 47</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 49</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 52</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 53</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 56</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 60</li>
@@ -1105,12 +1105,12 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 16</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 22</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 29</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 58</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 67</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 76</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 77</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 79</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 80</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 82</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 87</li>
@@ -1167,9 +1167,9 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 3</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 7</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 7</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 7</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 7</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 9</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 9</li>
         </ul>
@@ -1195,10 +1195,10 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 14</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 82</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 84</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 86</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 87</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 94</li>
         </ul>
       </td>
@@ -1224,13 +1224,13 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 38</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 42</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 46</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 48</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 52</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 55</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 61</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 63</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 75</li>
         </ul>
       </td>
@@ -1261,12 +1261,12 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 15</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 24</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 26</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 57</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 65</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 75</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 77</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 79</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 81</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 86</li>
@@ -1300,14 +1300,14 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 2</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 3</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 3</li>
-            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 4</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 4</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 4</li>
+            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 4</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 4</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 15</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 29</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 49</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1337,8 +1337,9 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 2</li>
-            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 2</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 2</li>
+            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 2</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 2</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 5</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 5</li>
@@ -1347,7 +1348,6 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 11</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 21</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 77</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1377,12 +1377,12 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 24</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 25</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 28</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 28</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 28</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 29</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 35</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 40</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 73</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 97</li>
         </ul>
       </td>
@@ -1413,9 +1413,9 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 42</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 45</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 48</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 49</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 53</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 54</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 57</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 61</li>
@@ -1453,13 +1453,13 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
         <ul>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 10</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 17</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 20</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 21</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 31</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 59</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 68</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 78</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 80</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 81</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 82</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 85</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 90</li>
@@ -1480,11 +1480,11 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 32</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 53</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 58</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 66</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 69</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 70</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 73</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 77</li>
@@ -1524,13 +1524,13 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 5</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 9</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 11</li>
-            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 12</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 12</li>
-            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 14</li>
+            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 14</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 14</li>
+            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 14</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 17</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 26</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1566,8 +1566,8 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 45</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 46</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 47</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 48</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 50</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 53</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 56</li>
         </ul>
       </td>
@@ -1597,14 +1597,14 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 4</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 12</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 12</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 12</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 18</li>
-            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 22</li>
-            <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 19</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 22</li>
+            <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 22</li>
+            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 22</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 25</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1632,6 +1632,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 10</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 11</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 14</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 16</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 17</li>
@@ -1640,7 +1641,6 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 24</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 27</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 28</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1669,10 +1669,10 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 34</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 35</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 37</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 38</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 38</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 52</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1699,17 +1699,17 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 14</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 15</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 15</li>
-            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 19</li>
+            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 20</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 22</li>
-            <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 23</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 24</li>
+            <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 26</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 26</li>
-            <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 30</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 40</li>
-            <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 40</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 75</li>
+            <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 31</li>
+            <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 39</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1737,16 +1737,16 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 14</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 14</li>
-            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 20</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 15</li>
+            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 19</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 21</li>
-            <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 24</li>
+            <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 23</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 25</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 27</li>
-            <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 31</li>
-            <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 39</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 41</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 74</li>
+            <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 30</li>
+            <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 40</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1779,11 +1779,11 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 25</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 26</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 34</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 35</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 35</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 43</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1810,10 +1810,10 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
         <ul>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 42</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 47</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 49</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 50</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 54</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 55</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 86</li>
         </ul>
@@ -1843,6 +1843,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 13</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 23</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 24</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 32</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 33</li>
@@ -1850,7 +1851,6 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 37</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 38</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 41</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 78</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 84</li>
         </ul>
       </td>
@@ -1880,13 +1880,13 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
         <ul>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 17</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 22</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 23</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 33</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 33</li>
-            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 39</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 33</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 39</li>
+            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 39</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 39</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1913,12 +1913,12 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 28</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 54</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 63</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 64</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 71</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 73</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 74</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 77</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 81</li>
@@ -1975,9 +1975,9 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 17</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 21</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 23</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 24</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 26</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 70</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 77</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 80</li>
         </ul>
       </td>
@@ -2006,11 +2006,11 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 40</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 42</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 47</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 48</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 58</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 61</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 62</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 66</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 66</li>
@@ -2038,10 +2038,10 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 44</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 53</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 53</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 57</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 61</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 71</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 98</li>
@@ -2072,9 +2072,9 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 37</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 64</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 64</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 64</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 66</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 69</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 74</li>
@@ -2108,8 +2108,8 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
         <ul>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 22</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 33</li>
-            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 36</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 36</li>
+            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 36</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 37</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 45</li>
         </ul>
@@ -2139,6 +2139,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 15</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 16</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 18</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 21</li>
@@ -2147,7 +2148,6 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 29</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 33</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 36</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2173,10 +2173,10 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 43</li>
-            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 54</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 54</li>
+            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 54</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 58</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 58</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 59</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 62</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 75</li>
@@ -2198,12 +2198,12 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 20</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 46</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 47</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 51</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 54</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 56</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 55</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 56</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 56</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 73</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 83</li>
         </ul>
@@ -2232,11 +2232,11 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 26</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 64</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 64</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 73</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 74</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 75</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 77</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 79</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 84</li>
@@ -2271,12 +2271,12 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 14</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 38</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 50</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 53</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 60</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 62</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 63</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 65</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 69</li>
         </ul>
@@ -2308,6 +2308,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 8</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 9</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 10</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 10</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 11</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 12</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 13</li>
@@ -2315,7 +2316,6 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 25</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 57</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 75</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2343,14 +2343,14 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 33</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 34</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 34</li>
-            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 37</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 34</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 36</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 37</li>
+            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 37</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 40</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 42</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 57</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2369,11 +2369,11 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 41</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 43</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 45</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 55</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 58</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 60</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 63</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 63</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 68</li>
@@ -2433,10 +2433,10 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 11</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 17</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 44</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 45</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 48</li>
-            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 52</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 52</li>
+            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 56</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 56</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 58</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 60</li>
@@ -2466,8 +2466,9 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 13</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 13</li>
+            <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 13</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 16</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 16</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 19</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 24</li>
@@ -2476,7 +2477,6 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 45</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 50</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 83</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2505,11 +2505,11 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 31</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 32</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 35</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 35</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 35</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 36</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 41</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 51</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 66</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 66</li>
         </ul>
       </td>
@@ -2536,13 +2536,13 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 1</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 72</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 83</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 95</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 95</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 95</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 97</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 99</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2576,10 +2576,10 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 30</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 31</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 31</li>
-            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 34</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 33</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 34</li>
+            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 34</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 34</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2608,7 +2608,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 44</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 45</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 47</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 66</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 92</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 100</li>
@@ -2646,8 +2646,8 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 43</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 44</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 45</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 46</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -2705,7 +2705,6 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 15</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 49</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 51</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 58</li>
@@ -2714,6 +2713,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 63</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 67</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2742,10 +2742,10 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 1</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 2</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 6</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 6</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 6</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2773,13 +2773,13 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 18</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 19</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 32</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 45</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 51</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 60</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 69</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 79</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 82</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 86</li>
         </ul>
       </td>
@@ -2806,11 +2806,11 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 9</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 42</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 88</li>
-            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 91</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 91</li>
+            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 91</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 92</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 97</li>
         </ul>
       </td>
@@ -2840,14 +2840,14 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 1</li>
-            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 2</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 2</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 2</li>
+            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 3</li>
+            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 3</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 3</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 3</li>
-            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 3</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 13</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2874,13 +2874,13 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 5</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 26</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 46</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 68</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 80</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 92</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 95</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2919,8 +2919,8 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 25</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 27</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 27</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 28</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2987,9 +2987,9 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 7</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 8</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 9</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 9</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 9</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 10</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -3031,11 +3031,11 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 25</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 26</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 28</li>
-            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 29</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 29</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 29</li>
+            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 29</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 47</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -3069,7 +3069,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 46</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 48</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 49</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 49</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 53</li>
         </ul>
       </td>
@@ -3103,11 +3103,11 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 12</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 12</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 18</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 42</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 46</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 49</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 56</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 56</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 59</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 59</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 60</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 64</li>
@@ -3174,11 +3174,11 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
         <ul>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 13</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 41</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 47</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 57</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 57</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 60</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 60</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 61</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 65</li>
         </ul>
@@ -3208,13 +3208,13 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 2</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 27</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 71</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 82</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 94</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 96</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 98</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -3243,16 +3243,16 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 14</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 14</li>
+            <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 14</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 40</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 41</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 42</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 43</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 45</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 47</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 51</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 56</li>
             <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 87</li>
         </ul>
       </td>
@@ -3281,7 +3281,6 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 16</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 20</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 35</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 62</li>
@@ -3289,6 +3288,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 81</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 83</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 85</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 85</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 89</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 92</li>
         </ul>
@@ -3325,9 +3325,9 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 29</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 30</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 32</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 32</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -3355,11 +3355,11 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       <td>
         <ul>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 25</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 31</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 53</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 59</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 67</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 70</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 71</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 74</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 78</li>
@@ -3387,10 +3387,10 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 21</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 30</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 77</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 79</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 80</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 81</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 84</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 89</li>
@@ -3462,7 +3462,7 @@ Lounge downtempo is a relaxed electronic music style blending jazzy melodies, su
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 29</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 30</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 30</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 30</li>
         </ul>
       </td>
     </tr>

@@ -1,18 +1,25 @@
 ---
 category: list
-date: 2025-12-08T05:54:11.287Z
+date: 2025-12-08T07:06:04.296Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-08T05:54:11.287Z">Mon Dec 08 2025 07:54:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T07:06:04.296Z">Mon Dec 08 2025 09:06:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [instrumental metal]({{ "tags/instrumental-metal" | relative_url }}) | <time datetime="2025-12-08T07:06:04.296Z">Mon Dec 08 2025 09:06:04 GMT+0200 (Eastern European Standard Time)</time> |
+| [english hip hop]({{ "tags/english-hip-hop" | relative_url }}) | <time datetime="2025-12-08T07:05:58.390Z">Mon Dec 08 2025 09:05:58 GMT+0200 (Eastern European Standard Time)</time> |
+| [gorenoise]({{ "tags/gorenoise" | relative_url }}) | <time datetime="2025-12-08T06:55:46.104Z">Mon Dec 08 2025 08:55:46 GMT+0200 (Eastern European Standard Time)</time> |
+| [poptron]({{ "tags/poptron" | relative_url }}) | <time datetime="2025-12-08T06:35:29.240Z">Mon Dec 08 2025 08:35:29 GMT+0200 (Eastern European Standard Time)</time> |
+| [lounge downtempo]({{ "tags/lounge-downtempo" | relative_url }}) | <time datetime="2025-12-08T06:35:24.569Z">Mon Dec 08 2025 08:35:24 GMT+0200 (Eastern European Standard Time)</time> |
+| [roraima]({{ "tags/roraima" | relative_url }}) | <time datetime="2025-12-08T06:09:33.231Z">Mon Dec 08 2025 08:09:33 GMT+0200 (Eastern European Standard Time)</time> |
+| [palia ellinika tragoudia]({{ "tags/palia-ellinika-tragoudia" | relative_url }}) | <time datetime="2025-12-08T06:09:24.956Z">Mon Dec 08 2025 08:09:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [boa vista]({{ "tags/boa-vista" | relative_url }}) | <time datetime="2025-12-08T05:54:11.287Z">Mon Dec 08 2025 07:54:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [brutal deathcore]({{ "tags/brutal-deathcore" | relative_url }}) | <time datetime="2025-12-08T05:54:03.782Z">Mon Dec 08 2025 07:54:03 GMT+0200 (Eastern European Standard Time)</time> |
 | [progressive electronic]({{ "tags/progressive-electronic" | relative_url }}) | <time datetime="2025-12-08T05:39:09.922Z">Mon Dec 08 2025 07:39:09 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1385,10 +1392,3 @@ Last updated: <time datetime="2025-12-08T05:54:11.287Z">Mon Dec 08 2025 07:54:11
 | [musical theater]({{ "tags/musical-theater" | relative_url }}) | <time datetime="2025-12-05T05:00:46.986Z">Fri Dec 05 2025 07:00:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [arena rock]({{ "tags/arena-rock" | relative_url }}) | <time datetime="2025-12-05T05:00:02.956Z">Fri Dec 05 2025 07:00:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [queercore]({{ "tags/queercore" | relative_url }}) | <time datetime="2025-12-05T04:59:57.679Z">Fri Dec 05 2025 06:59:57 GMT+0200 (Eastern European Standard Time)</time> |
-| [instrumental metal]({{ "tags/instrumental-metal" | relative_url }}) | <time datetime="2025-12-05T04:59:51.958Z">Fri Dec 05 2025 06:59:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [english hip hop]({{ "tags/english-hip-hop" | relative_url }}) | <time datetime="2025-12-05T04:59:29.087Z">Fri Dec 05 2025 06:59:29 GMT+0200 (Eastern European Standard Time)</time> |
-| [gorenoise]({{ "tags/gorenoise" | relative_url }}) | <time datetime="2025-12-05T04:59:23.183Z">Fri Dec 05 2025 06:59:23 GMT+0200 (Eastern European Standard Time)</time> |
-| [poptron]({{ "tags/poptron" | relative_url }}) | <time datetime="2025-12-05T04:59:17.500Z">Fri Dec 05 2025 06:59:17 GMT+0200 (Eastern European Standard Time)</time> |
-| [lounge downtempo]({{ "tags/lounge-downtempo" | relative_url }}) | <time datetime="2025-12-05T04:59:11.815Z">Fri Dec 05 2025 06:59:11 GMT+0200 (Eastern European Standard Time)</time> |
-| [roraima]({{ "tags/roraima" | relative_url }}) | <time datetime="2025-12-05T04:58:45.218Z">Fri Dec 05 2025 06:58:45 GMT+0200 (Eastern European Standard Time)</time> |
-| [palia ellinika tragoudia]({{ "tags/palia-ellinika-tragoudia" | relative_url }}) | <time datetime="2025-12-05T04:58:36.468Z">Fri Dec 05 2025 06:58:36 GMT+0200 (Eastern European Standard Time)</time> |
