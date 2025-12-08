@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:22:43.842Z
+date: 2025-12-07T16:43:36.860Z
 permalink: tags/gamelan
 title: gamelan
 ---
 
 ## gamelan
 
-Last updated: <time datetime="2025-12-05T04:22:43.842Z">Fri Dec 05 2025 06:22:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T16:43:36.860Z">Sun Dec 07 2025 18:43:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
   </thead>
   <tbody>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/c5kyszrg0fHKPHFwdKxsFtMe94EpgeSVLEQJHZyhm4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDcy/ODAwLTE1NTQ4NjM5/NTYtMzkyNC5qcGVn.jpeg" alt="Cover for Godowsky: Jave Suite, Tansman: from &quot;Novelettes&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -46,7 +46,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
       </td>
       <td>1967</td>
@@ -63,7 +63,25 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/247ciGtEMySPvELaD2t1JkJI-eTmwf_PT5BMOPvSyTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzg2/MzY1LTE2MTU0MzQ3/OTEtNzk4Mi5qcGVn.jpeg" alt="Cover for Music From Bali : Gamelan Degung" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Gamelan Degung</td>
+      <td>Music From Bali : Gamelan Degung</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a934e23b4b4271694e076d696b42038d.png" alt="Cover for Bali: Balinese Music of Lombok" style="max-width:120px; height:auto;" />
       </td>
@@ -85,25 +103,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>99</td>
-      <td>
-          <img src="https://i.discogs.com/247ciGtEMySPvELaD2t1JkJI-eTmwf_PT5BMOPvSyTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzg2/MzY1LTE2MTU0MzQ3/OTEtNzk4Mi5qcGVn.jpeg" alt="Cover for Music From Bali : Gamelan Degung" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1972</td>
-      <td>Gamelan Degung</td>
-      <td>Music From Bali : Gamelan Degung</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for The Sounds of Earth: Voyager Golden Record" style="max-width:120px; height:auto;" />
       </td>
@@ -130,25 +130,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg" alt="Cover for Java: the Jasmine Isle (Gamelan Music)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1975</td>
-      <td>Various Artists</td>
-      <td>Java: the Jasmine Isle (Gamelan Music)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/2zHWBoDPXPG-EifDg-Hvd64WJfeLOmAusOsk1pxurrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjA1/OTctMTI2NzI3MjI3/OC5qcGVn.jpeg" alt="Cover for Bali Barong" style="max-width:120px; height:auto;" />
       </td>
@@ -166,7 +148,25 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg" alt="Cover for Java: the Jasmine Isle (Gamelan Music)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975</td>
+      <td>Various Artists</td>
+      <td>Java: the Jasmine Isle (Gamelan Music)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for The Music of Cambodia: 9 Gong Gamelan, Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -183,24 +183,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-      </td>
-      <td>1977</td>
-      <td>Suara Parahiangan</td>
-      <td>DEGUNG SABILULUNGAN</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/bH5DoQdkVG92kkm3UCewOkt0aAEZqVu1VrohZvB2Ugs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjIt/MTE0MTY1MzIxMS5q/cGVn.jpeg" alt="Cover for PARSONS: Ngaio Gamelan" style="max-width:120px; height:auto;" />
       </td>
@@ -219,7 +202,44 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>47</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Suara Parahiangan</td>
+      <td>DEGUNG SABILULUNGAN</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/aZCDKr-F5gPVaJ9Ik5zcl1-xrAa6O27k4VnvEgJCMvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgw/MjkwLTE2Mzk3MzM3/NTctNDEzNi5qcGVn.jpeg" alt="Cover for Tempus Ex Machina" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Gérard Grisey</td>
+      <td>Tempus Ex Machina</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/1-l2VaCiZjagkbZxuoEkUrn3J15lovqPZGnmbNiMfLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjE4/MDctMTQ1MjI1MDgx/OS05Mzc1LmpwZWc.jpeg" alt="Cover for Episteme" style="max-width:120px; height:auto;" />
       </td>
@@ -241,27 +261,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>90</td>
-      <td>
-          <img src="https://i.discogs.com/aZCDKr-F5gPVaJ9Ik5zcl1-xrAa6O27k4VnvEgJCMvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgw/MjkwLTE2Mzk3MzM3/NTctNDEzNi5qcGVn.jpeg" alt="Cover for Tempus Ex Machina" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1981</td>
-      <td>Gérard Grisey</td>
-      <td>Tempus Ex Machina</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/bYyyVB7afvnC7_YK0_YhtzkxIQQIKE_vRTEBVgvTT7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjQ2/OTctMTUxMDg1NTk1/My0yNjM4LmpwZWc.jpeg" alt="Cover for Traditional Music" style="max-width:120px; height:auto;" />
       </td>
@@ -280,43 +280,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-          <img src="https://i.discogs.com/pYen2KoASnSkWH3Ag8avz2ZY797EBFEP3sLXYCBxPSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjYz/MzEtMTU4NzIyMzk1/OS02NDEyLmpwZWc.jpeg" alt="Cover for Degung-Sabilulungan: Sundanese Music Of West Java Vol. II" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989</td>
-      <td>Suara Parahiangan</td>
-      <td>Degung-Sabilulungan: Sundanese Music Of West Java Vol. II</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/sTaZr7Cb9kGT_ckNo1owe4kce5zrpB0qjeM6AGE3xtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTIx/NS0xMzA1NjQ5ODY1/LmpwZWc.jpeg" alt="Cover for Bonus CD" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989</td>
-      <td>Macha</td>
-      <td>Bonus CD</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/pYen2KoASnSkWH3Ag8avz2ZY797EBFEP3sLXYCBxPSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjYz/MzEtMTU4NzIyMzk1/OS02NDEyLmpwZWc.jpeg" alt="Cover for Degung: Sabilulungan (Sudanese Music of West Java" style="max-width:120px; height:auto;" />
       </td>
@@ -335,7 +299,43 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/sTaZr7Cb9kGT_ckNo1owe4kce5zrpB0qjeM6AGE3xtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTIx/NS0xMzA1NjQ5ODY1/LmpwZWc.jpeg" alt="Cover for Bonus CD" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Macha</td>
+      <td>Bonus CD</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/pYen2KoASnSkWH3Ag8avz2ZY797EBFEP3sLXYCBxPSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjYz/MzEtMTU4NzIyMzk1/OS02NDEyLmpwZWc.jpeg" alt="Cover for Degung-Sabilulungan: Sundanese Music Of West Java Vol. II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Suara Parahiangan</td>
+      <td>Degung-Sabilulungan: Sundanese Music Of West Java Vol. II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>
       </td>
       <td>1989</td>
@@ -351,7 +351,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/hhjZUDk5J47drAM2wvorvXyl0Uu5O1KH3AEl0hSdlWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY4/MjUtMTMyMTc1OTg0/OS5qcGVn.jpeg" alt="Cover for Aneka Pangkur" style="max-width:120px; height:auto;" />
       </td>
@@ -370,7 +370,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/PJNlB2C7R-vND9bcKr_nULUH1IUDlc2WlHe_4Pms2Zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTE1/OTQtMTQ1NzAzMzM3/MC05NzAyLmpwZWc.jpeg" alt="Cover for The Music of K.R.T. Wasitodiningrat" style="max-width:120px; height:auto;" />
       </td>
@@ -388,7 +388,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/mZcUHltTsAs7ZEmG5uJ724l7byNWpXmCWXWtUsXB3cI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODM5/NjMtMTMyMzg5NTIz/NC5qcGVn.jpeg" alt="Cover for Gamelan Gong Gede of Batur Temple" style="max-width:120px; height:auto;" />
       </td>
@@ -406,7 +406,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/BDgCEniS5O1_rqRdrU4t7p172kOboF3KFDwAl9ov62g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk0/NjAtMTIyNjMyODMz/My5qcGVn.jpeg" alt="Cover for Gender Wayang Of Sukawati Village" style="max-width:120px; height:auto;" />
       </td>
@@ -423,7 +423,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/n0St0pz7CsGXDn7Urfl53VoSG9haOspZ_A5vMf1sUx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTk2/NDAtMTM2OTc3OTg5/My02MzQ5LmpwZWc.jpeg" alt="Cover for Gamelan Music" style="max-width:120px; height:auto;" />
       </td>
@@ -441,7 +441,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
       </td>
       <td>1994</td>
@@ -458,7 +458,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/qANTMbynIFC5rAXcHEOryLtjMU_tSw8-OBwzOxz45z8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODM5/NTktMTM4OTU1NjEx/OC0yMzEwLmpwZWc.jpeg" alt="Cover for Ditampik (Degung Sundanese Gamelan Music)" style="max-width:120px; height:auto;" />
       </td>
@@ -476,7 +476,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/vfVAMYR-erFpxUCaBUp-ZFYpcJho8EoFnOblRsUZeSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYy/NTc2LTE2MjEyMjQ0/NzItODM1My5qcGVn.jpeg" alt="Cover for Tilam Sono" style="max-width:120px; height:auto;" />
       </td>
@@ -494,7 +494,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
       </td>
       <td>1996</td>
@@ -510,7 +510,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/joBWvMgKa3njz7JxPunNggIt4x0Q7v5M_lcLAd32Kuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIz/MDctMTM0MDk3NDc0/Ni0xNDk1LmpwZWc.jpeg" alt="Cover for Yogyakarta: Gamelan of the Kraton (Java, Indonesia)" style="max-width:120px; height:auto;" />
       </td>
@@ -528,7 +528,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/cvsJ7XgNp4OeSMFAe_rctIjgRqqtHc5QvC9FlZkaGNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjYw/MzMtMTQxNDE5OTE4/MC01Mjg4LmpwZWc.jpeg" alt="Cover for &quot;Smoking Cloves&quot; - The Bamboo Gamelan of Sangburni" style="max-width:120px; height:auto;" />
       </td>
@@ -546,7 +546,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/SX5Kikh24FHvZNOCOt3-tYUaq5XKRzn8YUM6_GNdhAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTk5/OC0xMTU4NzU3MDM3/LmpwZWc.jpeg" alt="Cover for 3 Pieces For Gamelan Ensemble" style="max-width:120px; height:auto;" />
       </td>
@@ -565,7 +565,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>1999</td>
@@ -581,7 +581,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d4ad44b158f4268b19c0b097e163dbc.png" alt="Cover for See It Another Way" style="max-width:120px; height:auto;" />
       </td>
@@ -602,7 +602,25 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/2EkT2zsytWOnNHXuUKVsNst_4jmFqk1-BUGsfpOK3NY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTUy/NjYtMTQzNjgyOTA4/OC05NzI2LmpwZWc.jpeg" alt="Cover for Gamelan Galak Tika" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Evan Ziporyn</td>
+      <td>Gamelan Galak Tika</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/8Zu_WFY7YU68hjfhNPDlFNcHJOeDulAloI4ZgryHiu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjMz/Ni0xMTYzNzY1ODE3/LmpwZWc.jpeg" alt="Cover for Bushmen of the Kalahari" style="max-width:120px; height:auto;" />
       </td>
@@ -621,25 +639,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://i.discogs.com/2EkT2zsytWOnNHXuUKVsNst_4jmFqk1-BUGsfpOK3NY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTUy/NjYtMTQzNjgyOTA4/OC05NzI2LmpwZWc.jpeg" alt="Cover for Gamelan Galak Tika" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Evan Ziporyn</td>
-      <td>Gamelan Galak Tika</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>2000-09-01</td>
@@ -656,7 +656,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac35394887cb41e284e178ee0c98217f.png" alt="Cover for ...tot licht !" style="max-width:120px; height:auto;" />
       </td>
@@ -677,7 +677,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8129f59f52959b168e6a89e45ea45f40.png" alt="Cover for Music of Indonesia, Vol. 7: Music from the Forests of Riau and Mentawai" style="max-width:120px; height:auto;" />
       </td>
@@ -694,7 +694,24 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>13</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>Christopher Adler</td>
+      <td>Epilogue for a Dark Day</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3665d39523e26796bdb28271373ab924.png" alt="Cover for KUNST" style="max-width:120px; height:auto;" />
       </td>
@@ -713,24 +730,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>88</td>
-      <td>
-      </td>
-      <td>2004</td>
-      <td>Christopher Adler</td>
-      <td>Epilogue for a Dark Day</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/_0GMC7eadkyUqK6ue8oCRyiMCwNAfd9kVLDXseBuZM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA4/NzU0LTE2MTIxODY5/MzQtMTkwNi5qcGVn.jpeg" alt="Cover for Beber Layar" style="max-width:120px; height:auto;" />
       </td>
@@ -748,7 +748,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/4rQPgijArTw0SOqNEMQh17HlTA3wy58iAMujkgCyPsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTQy/NDYtMTQwMzQyNTM2/MC01NzUzLmpwZWc.jpeg" alt="Cover for Chamber &amp; Gamelan Works" style="max-width:120px; height:auto;" />
       </td>
@@ -766,7 +766,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>2007</td>
@@ -785,7 +785,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/3yOnz_Nhe53wA7lbDjpsXJPbkV8A3n0aKfKcvjHmWxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjcx/MTItMTYzNTM0MzI1/OC0zMDk0LmpwZWc.jpeg" alt="Cover for Micro-Brew (microtonal music from Tim Doyle)" style="max-width:120px; height:auto;" />
       </td>
@@ -813,7 +813,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/3yOnz_Nhe53wA7lbDjpsXJPbkV8A3n0aKfKcvjHmWxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjcx/MTItMTYzNTM0MzI1/OC0zMDk0LmpwZWc.jpeg" alt="Cover for Our Sleepwalking Hearts (feat. Pixieguts)" style="max-width:120px; height:auto;" />
       </td>
@@ -839,7 +839,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/3yOnz_Nhe53wA7lbDjpsXJPbkV8A3n0aKfKcvjHmWxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjcx/MTItMTYzNTM0MzI1/OC0zMDk0LmpwZWc.jpeg" alt="Cover for Ana Gori - Aquela estrada, Aquela Canção (That Road, That Song): Tim Doyle&#39;s mixes of Ana Gori songs" style="max-width:120px; height:auto;" />
       </td>
@@ -856,7 +856,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/_lmZ3Fvn5pTlXr_QtJXHYKwdYlkLb2iXy69usXMjnAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk1/Njg0LTE1NDAyMTk2/MzEtMjQzNC5qcGVn.jpeg" alt="Cover for The Jasmine Isle - Gamelan Music" style="max-width:120px; height:auto;" />
       </td>
@@ -874,7 +874,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/Wm-_PI2KTpovlik3BzLGiclHCSFPI0GFQJx8cRpoMJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgz/NzUtMTI1NDM4ODgw/MC5qcGVn.jpeg" alt="Cover for Gamelan Collider" style="max-width:120px; height:auto;" />
       </td>
@@ -894,7 +894,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4327492960646544fcfaf741c70496f.png" alt="Cover for Music of Indonesia, Vol. 14: Lombok, Kalimantan, Banyumas: Little-known Forms of Gamelan and Wayang" style="max-width:120px; height:auto;" />
       </td>
@@ -911,193 +911,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-          <img src="https://i.discogs.com/yho8ppPioSM2L7ZhgNbsGgPFyWQScJ-Y686Sv4loHL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTAtMTMxMTQ5NzAw/NC5qcGVn.jpeg" alt="Cover for Ebbtide" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-06-17</td>
-      <td>Tim Doyle</td>
-      <td>Ebbtide</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-          <img src="https://i.discogs.com/yho8ppPioSM2L7ZhgNbsGgPFyWQScJ-Y686Sv4loHL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTAtMTMxMTQ5NzAw/NC5qcGVn.jpeg" alt="Cover for Orang Lullaby" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-06-17</td>
-      <td>Tim Doyle</td>
-      <td>Orang Lullaby</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/yho8ppPioSM2L7ZhgNbsGgPFyWQScJ-Y686Sv4loHL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTAtMTMxMTQ5NzAw/NC5qcGVn.jpeg" alt="Cover for Extremadura" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-06-17</td>
-      <td>Tim Doyle</td>
-      <td>Extremadura</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
-          <img src="https://i.discogs.com/yho8ppPioSM2L7ZhgNbsGgPFyWQScJ-Y686Sv4loHL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTAtMTMxMTQ5NzAw/NC5qcGVn.jpeg" alt="Cover for Water Strider" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-06-17</td>
-      <td>Tim Doyle</td>
-      <td>Water Strider</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>
-          <img src="https://i.discogs.com/yho8ppPioSM2L7ZhgNbsGgPFyWQScJ-Y686Sv4loHL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTAtMTMxMTQ5NzAw/NC5qcGVn.jpeg" alt="Cover for Heartthrob" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-06-17</td>
-      <td>Tim Doyle</td>
-      <td>Heartthrob</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td>
-          <img src="https://i.discogs.com/yho8ppPioSM2L7ZhgNbsGgPFyWQScJ-Y686Sv4loHL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTAtMTMxMTQ5NzAw/NC5qcGVn.jpeg" alt="Cover for Goya&#39;s Light" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-06-17</td>
-      <td>Tim Doyle</td>
-      <td>Goya&#39;s Light</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-          <img src="https://i.discogs.com/yho8ppPioSM2L7ZhgNbsGgPFyWQScJ-Y686Sv4loHL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTAtMTMxMTQ5NzAw/NC5qcGVn.jpeg" alt="Cover for Bellbottom" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-06-17</td>
-      <td>Tim Doyle</td>
-      <td>Bellbottom</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/yho8ppPioSM2L7ZhgNbsGgPFyWQScJ-Y686Sv4loHL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTAtMTMxMTQ5NzAw/NC5qcGVn.jpeg" alt="Cover for Fractal Breakdown" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,13 +940,13 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/9ZuDJ7IXx647WvV_ShlljGvqOYwtVlgXtQgNMcPN8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ2/NzUtMTM3NzI3ODky/OC0zMzc4LmpwZWc.jpeg" alt="Cover for Bermuda Triangle" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/yho8ppPioSM2L7ZhgNbsGgPFyWQScJ-Y686Sv4loHL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTAtMTMxMTQ5NzAw/NC5qcGVn.jpeg" alt="Cover for Bellbottom" style="max-width:120px; height:auto;" />
       </td>
-      <td>2012-09-12</td>
+      <td>2011-06-17</td>
       <td>Tim Doyle</td>
-      <td>Bermuda Triangle</td>
+      <td>Bellbottom</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
@@ -1152,18 +966,26 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/9ZuDJ7IXx647WvV_ShlljGvqOYwtVlgXtQgNMcPN8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ2/NzUtMTM3NzI3ODky/OC0zMzc4LmpwZWc.jpeg" alt="Cover for Last of Her People (feat. Pixieguts)" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/yho8ppPioSM2L7ZhgNbsGgPFyWQScJ-Y686Sv4loHL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTAtMTMxMTQ5NzAw/NC5qcGVn.jpeg" alt="Cover for Goya&#39;s Light" style="max-width:120px; height:auto;" />
       </td>
-      <td>2012-09-12</td>
+      <td>2011-06-17</td>
       <td>Tim Doyle</td>
-      <td>Last of Her People (feat. Pixieguts)</td>
+      <td>Goya&#39;s Light</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
       <td>
@@ -1172,33 +994,13 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/9ZuDJ7IXx647WvV_ShlljGvqOYwtVlgXtQgNMcPN8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ2/NzUtMTM3NzI3ODky/OC0zMzc4LmpwZWc.jpeg" alt="Cover for Works in Progress: Streams of Europe Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/yho8ppPioSM2L7ZhgNbsGgPFyWQScJ-Y686Sv4loHL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTAtMTMxMTQ5NzAw/NC5qcGVn.jpeg" alt="Cover for Heartthrob" style="max-width:120px; height:auto;" />
       </td>
-      <td>2012-09-12</td>
+      <td>2011-06-17</td>
       <td>Tim Doyle</td>
-      <td>Works in Progress: Streams of Europe Remixes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-          <img src="https://i.discogs.com/9ZuDJ7IXx647WvV_ShlljGvqOYwtVlgXtQgNMcPN8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ2/NzUtMTM3NzI3ODky/OC0zMzc4LmpwZWc.jpeg" alt="Cover for Glass House" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-09-12</td>
-      <td>Tim Doyle</td>
-      <td>Glass House</td>
+      <td>Heartthrob</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
@@ -1218,13 +1020,13 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/9ZuDJ7IXx647WvV_ShlljGvqOYwtVlgXtQgNMcPN8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ2/NzUtMTM3NzI3ODky/OC0zMzc4LmpwZWc.jpeg" alt="Cover for Wailing Wall" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/yho8ppPioSM2L7ZhgNbsGgPFyWQScJ-Y686Sv4loHL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTAtMTMxMTQ5NzAw/NC5qcGVn.jpeg" alt="Cover for Water Strider" style="max-width:120px; height:auto;" />
       </td>
-      <td>2012-09-12</td>
+      <td>2011-06-17</td>
       <td>Tim Doyle</td>
-      <td>Wailing Wall</td>
+      <td>Water Strider</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
@@ -1244,7 +1046,139 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/yho8ppPioSM2L7ZhgNbsGgPFyWQScJ-Y686Sv4loHL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTAtMTMxMTQ5NzAw/NC5qcGVn.jpeg" alt="Cover for Extremadura" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-17</td>
+      <td>Tim Doyle</td>
+      <td>Extremadura</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/yho8ppPioSM2L7ZhgNbsGgPFyWQScJ-Y686Sv4loHL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTAtMTMxMTQ5NzAw/NC5qcGVn.jpeg" alt="Cover for Orang Lullaby" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-17</td>
+      <td>Tim Doyle</td>
+      <td>Orang Lullaby</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/yho8ppPioSM2L7ZhgNbsGgPFyWQScJ-Y686Sv4loHL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTAtMTMxMTQ5NzAw/NC5qcGVn.jpeg" alt="Cover for Ebbtide" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-17</td>
+      <td>Tim Doyle</td>
+      <td>Ebbtide</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/9ZuDJ7IXx647WvV_ShlljGvqOYwtVlgXtQgNMcPN8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ2/NzUtMTM3NzI3ODky/OC0zMzc4LmpwZWc.jpeg" alt="Cover for Pixie Dust" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-09-12</td>
+      <td>Tim Doyle</td>
+      <td>Pixie Dust</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/9ZuDJ7IXx647WvV_ShlljGvqOYwtVlgXtQgNMcPN8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ2/NzUtMTM3NzI3ODky/OC0zMzc4LmpwZWc.jpeg" alt="Cover for Iron Horse" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-09-12</td>
+      <td>Tim Doyle</td>
+      <td>Iron Horse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/9ZuDJ7IXx647WvV_ShlljGvqOYwtVlgXtQgNMcPN8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ2/NzUtMTM3NzI3ODky/OC0zMzc4LmpwZWc.jpeg" alt="Cover for Pod People" style="max-width:120px; height:auto;" />
       </td>
@@ -1271,13 +1205,13 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/9ZuDJ7IXx647WvV_ShlljGvqOYwtVlgXtQgNMcPN8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ2/NzUtMTM3NzI3ODky/OC0zMzc4LmpwZWc.jpeg" alt="Cover for Iron Horse" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/9ZuDJ7IXx647WvV_ShlljGvqOYwtVlgXtQgNMcPN8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ2/NzUtMTM3NzI3ODky/OC0zMzc4LmpwZWc.jpeg" alt="Cover for Wailing Wall" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-12</td>
       <td>Tim Doyle</td>
-      <td>Iron Horse</td>
+      <td>Wailing Wall</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
@@ -1297,13 +1231,13 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/9ZuDJ7IXx647WvV_ShlljGvqOYwtVlgXtQgNMcPN8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ2/NzUtMTM3NzI3ODky/OC0zMzc4LmpwZWc.jpeg" alt="Cover for Pixie Dust" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/9ZuDJ7IXx647WvV_ShlljGvqOYwtVlgXtQgNMcPN8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ2/NzUtMTM3NzI3ODky/OC0zMzc4LmpwZWc.jpeg" alt="Cover for Glass House" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-12</td>
       <td>Tim Doyle</td>
-      <td>Pixie Dust</td>
+      <td>Glass House</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
@@ -1323,7 +1257,73 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/9ZuDJ7IXx647WvV_ShlljGvqOYwtVlgXtQgNMcPN8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ2/NzUtMTM3NzI3ODky/OC0zMzc4LmpwZWc.jpeg" alt="Cover for Works in Progress: Streams of Europe Remixes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-09-12</td>
+      <td>Tim Doyle</td>
+      <td>Works in Progress: Streams of Europe Remixes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/9ZuDJ7IXx647WvV_ShlljGvqOYwtVlgXtQgNMcPN8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ2/NzUtMTM3NzI3ODky/OC0zMzc4LmpwZWc.jpeg" alt="Cover for Last of Her People (feat. Pixieguts)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-09-12</td>
+      <td>Tim Doyle</td>
+      <td>Last of Her People (feat. Pixieguts)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/9ZuDJ7IXx647WvV_ShlljGvqOYwtVlgXtQgNMcPN8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQ2/NzUtMTM3NzI3ODky/OC0zMzc4LmpwZWc.jpeg" alt="Cover for Bermuda Triangle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-09-12</td>
+      <td>Tim Doyle</td>
+      <td>Bermuda Triangle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/NBrp434FfNhThAWGfnDnlAolHmjYi2DBAMq0ZfEwZfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzky/NzIzLTE1NTMzNTI2/ODYtMzI4NS5wbmc.jpeg" alt="Cover for Sunset Rider" style="max-width:120px; height:auto;" />
       </td>
@@ -1349,7 +1349,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70cf4057d8764f9b96e224f4c5ae6c82.png" alt="Cover for Gamelan to the Love God" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,7 +1368,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
       </td>
       <td>2013-11-26</td>
@@ -1385,7 +1385,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
       </td>
       <td>2014-04-28</td>
@@ -1408,7 +1408,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/lsrEZhCjik09axhPfpr6p9Tk72B_dssLeBxO8Zd9-kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODY4/MzEtMTQzODAzODky/OC0zODE4LmpwZWc.jpeg" alt="Cover for Continuum" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,7 +1426,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/VJdsKcKPktRmcesnyuo1Qm1PtF_-VXHPkaNuLUu5Bms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njg0/MjEtMTQ4OTQwMzc0/NC05NDQzLmpwZWc.jpeg" alt="Cover for Pertiwi" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,7 +1446,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/8lVZFuOSpCa-vkE-vP874d0kTqDSka2l24o3drWLjj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM1/NDQzLTE1NjIxOTUw/MzYtOTcwOC5qcGVn.jpeg" alt="Cover for The Exotic Sound of Bali &amp; Sunda" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,7 +1466,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/A9iQ5AqsmXG9zhXGA3ZD68FzPBWnWrs_SRwxOe3-VFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI1/MjM2LTE2MDU1MzEz/NTMtMjI0MC5qcGVn.jpeg" alt="Cover for Laguna" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,7 +1485,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/lpNiVvMN757D08sVRzu2VL9OMRkyVNJAtmwrFjbUHP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTcy/NDk5LTE2MjY4NzU4/NzMtODYwNC5qcGVn.jpeg" alt="Cover for Degung, Instrumental Sangkala" style="max-width:120px; height:auto;" />
       </td>
@@ -1502,7 +1502,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dd42c50564de73033618ed2b3471731.png" alt="Cover for Indonesia: Music from West Java" style="max-width:120px; height:auto;" />
       </td>
@@ -1529,7 +1529,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
       </td>
       <td>2023-07-04</td>
@@ -1547,7 +1547,7 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Music for the Gods: The Fahnestock South Sea Expedition, Indonesia" style="max-width:120px; height:auto;" />
       </td>
@@ -1565,6 +1565,40 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
     </tr>
     <tr>
       <td>19</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tirta Sari</td>
+      <td>The Music of Bali, Vol. 2: Legong Gamelan</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Dancers Of Bali</td>
+      <td>Dancers of Bali: Gamelan of Peliatan, 1952</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f3a6f044c37499492e4f0071267976c.png" alt="Cover for Transylvanian Chilean" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,102 +1624,14 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>73</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Dancers Of Bali</td>
-      <td>Dancers of Bali: Gamelan of Peliatan, 1952</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Tirta Sari</td>
-      <td>The Music of Bali, Vol. 2: Legong Gamelan</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 78</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Nonesuch Explorer Series</td>
-      <td>Music For The Balinese Shadow Play</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td></td>
-      <td>tlakuil</td>
-      <td>SAND&#39;S PICTURES</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td></td>
-      <td>tlakuil</td>
-      <td>TRIBE OF THE FALLED LEAVES</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>8</td>
       <td>
       </td>
       <td></td>
-      <td>Vários intérpretes</td>
-      <td>Bali Music From The Morning Of The World</td>
+      <td>Ujang Suryana</td>
+      <td>Degung Sundanese Gamelan Music</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
         </ul>
       </td>
@@ -1699,13 +1645,11 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       <td>
       </td>
       <td></td>
-      <td>Dazo-Ghiuzo</td>
-      <td>Adibire un bo&#39; di buon dire</td>
+      <td>Geinō Yamashirogumi</td>
+      <td>Akira Original Soundtrack</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
         </ul>
       </td>
       <td>
@@ -1714,12 +1658,12 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
-      <td>Nonesuch Explorer Series</td>
-      <td>Golden Rain</td>
+      <td>Le Gamelan</td>
+      <td>Magic Bali</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
@@ -1731,17 +1675,15 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
-      <td>tlakuil</td>
-      <td>TRIBE OF FALLED LEAVES</td>
+      <td>Colin MacDonald</td>
+      <td>Canadian Gamelan Music</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
         </ul>
       </td>
       <td>
@@ -1750,7 +1692,144 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>27</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Werdi Senatana</td>
+      <td>Jegog: The Bamboo Gamelan Of Bali</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ujang Suryana</td>
+      <td>Instrumental Degung</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Surakarta Sekaten Gamelan</td>
+      <td>Gamelan From Central Java</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td></td>
+      <td>master musicians of java</td>
+      <td>The Jasmine Isle: Javanese Gamelan Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Degung Orchestra</td>
+      <td>Instrumental Degung Bali</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Semar Pegulingan Club of Teges Kanyinan</td>
+      <td>Gamelan Semar Pegulingan (Gamelan Of The Love God)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Gamelan Semar Pegulingan</td>
+      <td>Gamelan of the Love God</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Gamelan of Cirebon</td>
+      <td>The Gamelan of Cirebon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
       </td>
       <td></td>
@@ -1769,15 +1848,17 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>70</td>
       <td>
       </td>
       <td></td>
-      <td>The Gamelan of Cirebon</td>
-      <td>The Gamelan of Cirebon</td>
+      <td>tlakuil</td>
+      <td>TRIBE OF FALLED LEAVES</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
         </ul>
       </td>
       <td>
@@ -1786,149 +1867,12 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>86</td>
       <td>
       </td>
       <td></td>
-      <td>Gamelan Semar Pegulingan</td>
-      <td>Gamelan of the Love God</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Semar Pegulingan Club of Teges Kanyinan</td>
-      <td>Gamelan Semar Pegulingan (Gamelan Of The Love God)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Degung Orchestra</td>
-      <td>Instrumental Degung Bali</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
-      <td>
-      </td>
-      <td></td>
-      <td>master musicians of java</td>
-      <td>The Jasmine Isle: Javanese Gamelan Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Surakarta Sekaten Gamelan</td>
-      <td>Gamelan From Central Java</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Ujang Suryana</td>
-      <td>Instrumental Degung</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Werdi Senatana</td>
-      <td>Jegog: The Bamboo Gamelan Of Bali</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Colin MacDonald</td>
-      <td>Canadian Gamelan Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Le Gamelan</td>
-      <td>Magic Bali</td>
+      <td>Nonesuch Explorer Series</td>
+      <td>Golden Rain</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
@@ -1944,11 +1888,13 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       <td>
       </td>
       <td></td>
-      <td>Geinō Yamashirogumi</td>
-      <td>Akira Original Soundtrack</td>
+      <td>Dazo-Ghiuzo</td>
+      <td>Adibire un bo&#39; di buon dire</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
         </ul>
       </td>
       <td>
@@ -1961,8 +1907,62 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       <td>
       </td>
       <td></td>
-      <td>Ujang Suryana</td>
-      <td>Degung Sundanese Gamelan Music</td>
+      <td>Vários intérpretes</td>
+      <td>Bali Music From The Morning Of The World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td></td>
+      <td>tlakuil</td>
+      <td>TRIBE OF THE FALLED LEAVES</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td></td>
+      <td>tlakuil</td>
+      <td>SAND&#39;S PICTURES</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Nonesuch Explorer Series</td>
+      <td>Music For The Balinese Shadow Play</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a></li>
@@ -1997,12 +1997,12 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
-      <td>canary records</td>
-      <td>Deep Shadow: Musics of Indochina &amp; Indonesia, 1920s-50s</td>
+      <td>K.R.T. Wasitodiningrat</td>
+      <td>Javanese Court Gamelan from the Pura Paku Alaman, Jogyakarta</td>
       <td>
         <ul>
         </ul>
@@ -2013,12 +2013,12 @@ Gamelan is a type of traditional music from Indonesia that primarily features pe
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>77</td>
       <td>
       </td>
       <td></td>
-      <td>K.R.T. Wasitodiningrat</td>
-      <td>Javanese Court Gamelan from the Pura Paku Alaman, Jogyakarta</td>
+      <td>canary records</td>
+      <td>Deep Shadow: Musics of Indochina &amp; Indonesia, 1920s-50s</td>
       <td>
         <ul>
         </ul>

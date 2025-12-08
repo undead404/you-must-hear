@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:22:38.295Z
+date: 2025-12-07T16:43:02.078Z
 permalink: tags/art-punk
 title: art punk
 ---
 
 ## art punk
 
-Last updated: <time datetime="2025-12-05T04:22:38.295Z">Fri Dec 05 2025 06:22:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T16:43:02.078Z">Sun Dec 07 2025 18:43:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -323,7 +323,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 8</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 82</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -405,7 +405,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 67</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -714,8 +714,8 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 10</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 75</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 90</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 93</li>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 95</li>
         </ul>
@@ -736,9 +736,9 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 7</li>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 51</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 89</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -776,7 +776,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 79</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -879,7 +879,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 47</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 54</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 55</li>
         </ul>
       </td>
@@ -899,6 +899,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/punk-revival" | relative_url }}">punk revival</a> # 6</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 39</li>
         </ul>
       </td>
@@ -1008,6 +1009,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
         <ul>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 19</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 50</li>
+            <li> <a href="{{ "/tags/punk-revival" | relative_url }}">punk revival</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1092,8 +1094,8 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 23</li>
             <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 51</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1259,7 +1261,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 98</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1365,8 +1367,8 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 39</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 75</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 26</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 62</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 100</li>
         </ul>
       </td>
@@ -1416,8 +1418,8 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 11</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 61</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 40</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1438,7 +1440,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 49</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 52</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 52</li>
         </ul>
       </td>
@@ -1838,7 +1840,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
         <ul>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 2</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 13</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 33</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1975,39 +1977,6 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>32</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/057f7c63fea9ddb00a56ef9e953588b8.png" alt="Cover for Perfect Saviors" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023</td>
-      <td>The Armed</td>
-      <td>Perfect Saviors</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 3</li>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 13</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>51</td>
       <td>
           <img src="https://i.discogs.com/DPM7K1vz9yXM4BHzfcJTenyFdQLrzA-xdj0kvooLHLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE0/NTQ5LTE2NzMzNDE2/NDEtNjkzNy5qcGVn.jpeg" alt="Cover for CACTI" style="max-width:120px; height:auto;" />
@@ -2062,6 +2031,39 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/057f7c63fea9ddb00a56ef9e953588b8.png" alt="Cover for Perfect Saviors" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-08-25</td>
+      <td>The Armed</td>
+      <td>Perfect Saviors</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 3</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 13</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 59</li>
         </ul>
       </td>
     </tr>

@@ -1,18 +1,24 @@
 ---
 category: list
-date: 2025-12-07T16:25:31.317Z
+date: 2025-12-07T17:34:06.196Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-07T16:25:31.317Z">Sun Dec 07 2025 18:25:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T17:34:06.196Z">Sun Dec 07 2025 19:34:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [symphonic death metal]({{ "tags/symphonic-death-metal" | relative_url }}) | <time datetime="2025-12-07T17:34:06.196Z">Sun Dec 07 2025 19:34:06 GMT+0200 (Eastern European Standard Time)</time> |
+| [krautrock]({{ "tags/krautrock" | relative_url }}) | <time datetime="2025-12-07T17:16:04.406Z">Sun Dec 07 2025 19:16:04 GMT+0200 (Eastern European Standard Time)</time> |
+| [suomisaundi]({{ "tags/suomisaundi" | relative_url }}) | <time datetime="2025-12-07T16:59:25.619Z">Sun Dec 07 2025 18:59:25 GMT+0200 (Eastern European Standard Time)</time> |
+| [afrobeat]({{ "tags/afrobeat" | relative_url }}) | <time datetime="2025-12-07T16:58:55.420Z">Sun Dec 07 2025 18:58:55 GMT+0200 (Eastern European Standard Time)</time> |
+| [gamelan]({{ "tags/gamelan" | relative_url }}) | <time datetime="2025-12-07T16:43:36.860Z">Sun Dec 07 2025 18:43:36 GMT+0200 (Eastern European Standard Time)</time> |
+| [art punk]({{ "tags/art-punk" | relative_url }}) | <time datetime="2025-12-07T16:43:02.078Z">Sun Dec 07 2025 18:43:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [alternative folk]({{ "tags/alternative-folk" | relative_url }}) | <time datetime="2025-12-07T16:25:31.317Z">Sun Dec 07 2025 18:25:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [idol]({{ "tags/idol" | relative_url }}) | <time datetime="2025-12-07T16:25:23.888Z">Sun Dec 07 2025 18:25:23 GMT+0200 (Eastern European Standard Time)</time> |
 | [classical violin]({{ "tags/classical-violin" | relative_url }}) | <time datetime="2025-12-07T16:24:54.635Z">Sun Dec 07 2025 18:24:54 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1385,9 +1391,3 @@ Last updated: <time datetime="2025-12-07T16:25:31.317Z">Sun Dec 07 2025 18:25:31
 | [modern rock]({{ "tags/modern-rock" | relative_url }}) | <time datetime="2025-12-05T04:24:35.746Z">Fri Dec 05 2025 06:24:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [chicago]({{ "tags/chicago" | relative_url }}) | <time datetime="2025-12-05T04:24:30.455Z">Fri Dec 05 2025 06:24:30 GMT+0200 (Eastern European Standard Time)</time> |
 | [violin sonata]({{ "tags/violin-sonata" | relative_url }}) | <time datetime="2025-12-05T04:24:24.192Z">Fri Dec 05 2025 06:24:24 GMT+0200 (Eastern European Standard Time)</time> |
-| [symphonic death metal]({{ "tags/symphonic-death-metal" | relative_url }}) | <time datetime="2025-12-05T04:24:18.149Z">Fri Dec 05 2025 06:24:18 GMT+0200 (Eastern European Standard Time)</time> |
-| [krautrock]({{ "tags/krautrock" | relative_url }}) | <time datetime="2025-12-05T04:24:12.070Z">Fri Dec 05 2025 06:24:12 GMT+0200 (Eastern European Standard Time)</time> |
-| [suomisaundi]({{ "tags/suomisaundi" | relative_url }}) | <time datetime="2025-12-05T04:23:44.764Z">Fri Dec 05 2025 06:23:44 GMT+0200 (Eastern European Standard Time)</time> |
-| [afrobeat]({{ "tags/afrobeat" | relative_url }}) | <time datetime="2025-12-05T04:23:36.188Z">Fri Dec 05 2025 06:23:36 GMT+0200 (Eastern European Standard Time)</time> |
-| [gamelan]({{ "tags/gamelan" | relative_url }}) | <time datetime="2025-12-05T04:22:43.842Z">Fri Dec 05 2025 06:22:43 GMT+0200 (Eastern European Standard Time)</time> |
-| [art punk]({{ "tags/art-punk" | relative_url }}) | <time datetime="2025-12-05T04:22:38.295Z">Fri Dec 05 2025 06:22:38 GMT+0200 (Eastern European Standard Time)</time> |
