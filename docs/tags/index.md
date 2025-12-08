@@ -1,18 +1,25 @@
 ---
 category: list
-date: 2025-12-07T19:16:34.717Z
+date: 2025-12-07T20:38:24.968Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-07T19:16:34.717Z">Sun Dec 07 2025 21:16:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T20:38:24.968Z">Sun Dec 07 2025 22:38:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [baroque francais]({{ "tags/baroque-francais" | relative_url }}) | <time datetime="2025-12-07T20:38:24.968Z">Sun Dec 07 2025 22:38:24 GMT+0200 (Eastern European Standard Time)</time> |
+| [melodic techno]({{ "tags/melodic-techno" | relative_url }}) | <time datetime="2025-12-07T20:37:54.387Z">Sun Dec 07 2025 22:37:54 GMT+0200 (Eastern European Standard Time)</time> |
+| [depressive rock]({{ "tags/depressive-rock" | relative_url }}) | <time datetime="2025-12-07T20:05:10.719Z">Sun Dec 07 2025 22:05:10 GMT+0200 (Eastern European Standard Time)</time> |
+| [goth rock]({{ "tags/goth-rock" | relative_url }}) | <time datetime="2025-12-07T19:48:43.523Z">Sun Dec 07 2025 21:48:43 GMT+0200 (Eastern European Standard Time)</time> |
+| [iceland]({{ "tags/iceland" | relative_url }}) | <time datetime="2025-12-07T19:48:36.481Z">Sun Dec 07 2025 21:48:36 GMT+0200 (Eastern European Standard Time)</time> |
+| [pacific]({{ "tags/pacific" | relative_url }}) | <time datetime="2025-12-07T19:32:30.056Z">Sun Dec 07 2025 21:32:30 GMT+0200 (Eastern European Standard Time)</time> |
+| [chamber rock]({{ "tags/chamber-rock" | relative_url }}) | <time datetime="2025-12-07T19:32:23.577Z">Sun Dec 07 2025 21:32:23 GMT+0200 (Eastern European Standard Time)</time> |
 | [technical brutal death metal]({{ "tags/technical-brutal-death-metal" | relative_url }}) | <time datetime="2025-12-07T19:16:34.717Z">Sun Dec 07 2025 21:16:34 GMT+0200 (Eastern European Standard Time)</time> |
 | [new zealand]({{ "tags/new-zealand" | relative_url }}) | <time datetime="2025-12-07T19:16:28.604Z">Sun Dec 07 2025 21:16:28 GMT+0200 (Eastern European Standard Time)</time> |
 | [beat]({{ "tags/beat" | relative_url }}) | <time datetime="2025-12-07T19:15:56.217Z">Sun Dec 07 2025 21:15:56 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1384,10 +1391,3 @@ Last updated: <time datetime="2025-12-07T19:16:34.717Z">Sun Dec 07 2025 21:16:34
 | [musique concrete]({{ "tags/musique-concrete" | relative_url }}) | <time datetime="2025-12-05T04:34:13.465Z">Fri Dec 05 2025 06:34:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [acid lounge]({{ "tags/acid-lounge" | relative_url }}) | <time datetime="2025-12-05T04:33:40.303Z">Fri Dec 05 2025 06:33:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [groove lounge]({{ "tags/groove-lounge" | relative_url }}) | <time datetime="2025-12-05T04:33:34.153Z">Fri Dec 05 2025 06:33:34 GMT+0200 (Eastern European Standard Time)</time> |
-| [baroque francais]({{ "tags/baroque-francais" | relative_url }}) | <time datetime="2025-12-05T04:33:27.689Z">Fri Dec 05 2025 06:33:27 GMT+0200 (Eastern European Standard Time)</time> |
-| [melodic techno]({{ "tags/melodic-techno" | relative_url }}) | <time datetime="2025-12-05T04:33:21.372Z">Fri Dec 05 2025 06:33:21 GMT+0200 (Eastern European Standard Time)</time> |
-| [depressive rock]({{ "tags/depressive-rock" | relative_url }}) | <time datetime="2025-12-05T04:33:15.261Z">Fri Dec 05 2025 06:33:15 GMT+0200 (Eastern European Standard Time)</time> |
-| [goth rock]({{ "tags/goth-rock" | relative_url }}) | <time datetime="2025-12-05T04:27:24.204Z">Fri Dec 05 2025 06:27:24 GMT+0200 (Eastern European Standard Time)</time> |
-| [iceland]({{ "tags/iceland" | relative_url }}) | <time datetime="2025-12-05T04:27:15.163Z">Fri Dec 05 2025 06:27:15 GMT+0200 (Eastern European Standard Time)</time> |
-| [pacific]({{ "tags/pacific" | relative_url }}) | <time datetime="2025-12-05T04:27:09.836Z">Fri Dec 05 2025 06:27:09 GMT+0200 (Eastern European Standard Time)</time> |
-| [chamber rock]({{ "tags/chamber-rock" | relative_url }}) | <time datetime="2025-12-05T04:27:05.387Z">Fri Dec 05 2025 06:27:05 GMT+0200 (Eastern European Standard Time)</time> |

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:27:05.387Z
+date: 2025-12-07T19:32:23.577Z
 permalink: tags/chamber-rock
 title: chamber rock
 ---
 
 ## chamber rock
 
-Last updated: <time datetime="2025-12-05T04:27:05.387Z">Fri Dec 05 2025 06:27:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T19:32:23.577Z">Sun Dec 07 2025 21:32:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -961,7 +961,7 @@ Chamber rock blends the intimacy and instrumentation of classical chamber music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 10</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1138,9 +1138,9 @@ Chamber rock blends the intimacy and instrumentation of classical chamber music 
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 2</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 56</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 16</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 55</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 65</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 85</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 88</li>
         </ul>
       </td>
@@ -1316,7 +1316,7 @@ Chamber rock blends the intimacy and instrumentation of classical chamber music 
             <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 7</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 17</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 17</li>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 18</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1854,7 +1854,7 @@ Chamber rock blends the intimacy and instrumentation of classical chamber music 
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 6</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 14</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 35</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 58</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 42</li>
         </ul>
       </td>
     </tr>
