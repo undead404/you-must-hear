@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:25:01.417Z
+date: 2025-12-07T17:52:59.078Z
 permalink: tags/smooth-jazz
 title: smooth jazz
 ---
 
 ## smooth jazz
 
-Last updated: <time datetime="2025-12-05T04:25:01.417Z">Fri Dec 05 2025 06:25:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T17:52:59.078Z">Sun Dec 07 2025 19:52:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -340,7 +340,7 @@ Smooth jazz emerged in the 1970s as a radio-friendly fusion of jazz, R&amp;B, an
       <td>
         <ul>
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 23</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 71</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1851,7 +1851,7 @@ Smooth jazz emerged in the 1970s as a radio-friendly fusion of jazz, R&amp;B, an
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 4</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 6</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 28</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 47</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 54</li>
         </ul>
       </td>
     </tr>

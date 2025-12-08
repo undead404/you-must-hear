@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:25:07.229Z
+date: 2025-12-07T18:09:04.727Z
 permalink: tags/jazz-rock
 title: jazz rock
 ---
 
 ## jazz rock
 
-Last updated: <time datetime="2025-12-05T04:25:07.229Z">Fri Dec 05 2025 06:25:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T18:09:04.727Z">Sun Dec 07 2025 20:09:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
   </thead>
   <tbody>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ee40f23a3a8457bc5b592dcea62b6b0.png" alt="Cover for Blood, Sweat &amp; Tears" style="max-width:120px; height:auto;" />
       </td>
@@ -46,7 +46,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3df1dc3a178a9b526415ba468a014f61.png" alt="Cover for Child Is Father to the Man" style="max-width:120px; height:auto;" />
       </td>
@@ -63,7 +63,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/WWIk7NqWPIt0vSFzWQdsdEQ7AX-egbapW5TzOVSXHTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzE2/NjctMTQwODY1Njgy/MS04MDkxLmpwZWc.jpeg" alt="Cover for Blood, Sweat and Tears" style="max-width:120px; height:auto;" />
       </td>
@@ -80,7 +80,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/557397c58f19a5a89a003056ab196692.png" alt="Cover for Hot Rats" style="max-width:120px; height:auto;" />
       </td>
@@ -101,7 +101,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dc5a51327df192258570eac124777e8.png" alt="Cover for Valentyne Suite" style="max-width:120px; height:auto;" />
       </td>
@@ -119,7 +119,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d4183f190ce74d7fa4b387b933b51d0.png" alt="Cover for Movements" style="max-width:120px; height:auto;" />
       </td>
@@ -140,27 +140,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>55</td>
-      <td>
-      </td>
-      <td>1970</td>
-      <td>Niagara</td>
-      <td>Niagara</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f9d42f96a503e3f201df9261168738.png" alt="Cover for Elastic Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -180,7 +160,27 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>45</td>
+      <td>
+      </td>
+      <td>1970</td>
+      <td>Niagara</td>
+      <td>Niagara</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82f003aeff414a0eb151d1b47d5bf658.png" alt="Cover for Chicago II" style="max-width:120px; height:auto;" />
       </td>
@@ -199,7 +199,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c41dbeedf6c244b8c40c5d21520d15b8.png" alt="Cover for Third" style="max-width:120px; height:auto;" />
       </td>
@@ -219,7 +219,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td>1971</td>
@@ -238,7 +238,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>43</td>
       <td>
       </td>
       <td>1972-04</td>
@@ -256,7 +256,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a080d2de0ab8931e060a89c0ca930bbe.png" alt="Cover for Fifth" style="max-width:120px; height:auto;" />
       </td>
@@ -276,7 +276,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/028f3ca3e2b86dfb0de7d0a0d5857d51.png" alt="Cover for Waka&#x2F;Jawaka" style="max-width:120px; height:auto;" />
       </td>
@@ -296,7 +296,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2550608de7d41d2c18bcd9f0db1bc00.png" alt="Cover for Can&#39;t Buy A Thrill" style="max-width:120px; height:auto;" />
       </td>
@@ -315,7 +315,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0d5dbc9dfdec30d5c969d3cc9fa47e4.png" alt="Cover for The Grand Wazoo" style="max-width:120px; height:auto;" />
       </td>
@@ -336,7 +336,28 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/LQwb-aBLeumcA0bv5zs1hI6Gd5qjektakWum1fm7Yl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjY1/Ni0xNTkxNjA2NTI1/LTgxNzYuanBlZw.jpeg" alt="Cover for Inner Mountain Flame" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973</td>
+      <td>Mahavishnu Orchestra</td>
+      <td>Inner Mountain Flame</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 13</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b53d229d89df4b01cba1e0cdbc64c348.png" alt="Cover for Birds Of Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -358,48 +379,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>90</td>
-      <td>
-          <img src="https://i.discogs.com/LQwb-aBLeumcA0bv5zs1hI6Gd5qjektakWum1fm7Yl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjY1/Ni0xNTkxNjA2NTI1/LTgxNzYuanBlZw.jpeg" alt="Cover for Inner Mountain Flame" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1973</td>
-      <td>Mahavishnu Orchestra</td>
-      <td>Inner Mountain Flame</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 13</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 38</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
-      <td>
-      </td>
-      <td>1973</td>
-      <td>Mahavishnu Orchestra</td>
-      <td>Between Nothingness &amp; Eternity</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d41920cda6d2d9fc871350d7a1dd20e.png" alt="Cover for The Miraculous Hump Returns from the Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -420,7 +400,27 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>62</td>
+      <td>
+      </td>
+      <td>1973</td>
+      <td>Mahavishnu Orchestra</td>
+      <td>Between Nothingness &amp; Eternity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/332156ec0ddf46e4c668e59841b55b9f.png" alt="Cover for Chicago VI" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +438,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1c4a381249d4cd3cca813f6c4119e3e.png" alt="Cover for Countdown To Ecstasy" style="max-width:120px; height:auto;" />
       </td>
@@ -456,7 +456,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/vUrF30bpcBF7VvZEKndWdbVSsk6gcbIvSB_cQztPOiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTI4/NDAtMTI2MzU4MTI4/My5qcGVn.jpeg" alt="Cover for Spectrum" style="max-width:120px; height:auto;" />
       </td>
@@ -478,7 +478,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/696fde0aaf9ef9a2f7be7bf9455cb9e8.png" alt="Cover for Seven" style="max-width:120px; height:auto;" />
       </td>
@@ -498,7 +498,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24f58191adf8179a3b4c970055527612.png" alt="Cover for SBB" style="max-width:120px; height:auto;" />
       </td>
@@ -517,7 +517,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51c74af9c974ac4d696d2a2249b5f1c8.png" alt="Cover for Chicago VII" style="max-width:120px; height:auto;" />
       </td>
@@ -536,26 +536,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>59</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74a3a7aaa12d96720f5022721fd78cac.png" alt="Cover for Shamal" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1975</td>
-      <td>Gong</td>
-      <td>Shamal</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38ccaac68738152d8a3ebad0169d6c7c.png" alt="Cover for Journey To Love" style="max-width:120px; height:auto;" />
       </td>
@@ -576,7 +557,26 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74a3a7aaa12d96720f5022721fd78cac.png" alt="Cover for Shamal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975</td>
+      <td>Gong</td>
+      <td>Shamal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9b14cedd7dc6f316b22aa7b7b23027f.png" alt="Cover for Katy Lied" style="max-width:120px; height:auto;" />
       </td>
@@ -594,7 +594,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/131d102970eebd4ca79586d568f8df3b.png" alt="Cover for Fish Rising" style="max-width:120px; height:auto;" />
       </td>
@@ -613,7 +613,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2e281e662d6c24ccabb75113a77f9e3.png" alt="Cover for The Royal Scam" style="max-width:120px; height:auto;" />
       </td>
@@ -632,7 +632,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c0ded793407420eb48ab2951e97dc79.png" alt="Cover for Unorthodox Behaviour" style="max-width:120px; height:auto;" />
       </td>
@@ -654,7 +654,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a65a5a04aac4928ab5ca2dc5cf76921.png" alt="Cover for Enigmatic Ocean" style="max-width:120px; height:auto;" />
       </td>
@@ -675,7 +675,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/785a90a122fbe85f794dd0bc9ec2af77.png" alt="Cover for Chicago XI" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +693,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5467333ea26fa0d2aef1f49d3b982f04.png" alt="Cover for Aja" style="max-width:120px; height:auto;" />
       </td>
@@ -714,7 +714,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/2p-7e7F5nwTVcluKOpB0A0cHbtC5Dxl__wUoYzU-jvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjM4/NjgtMTQ2MTgzOTQ5/My05MTUyLmpwZWc.jpeg" alt="Cover for Electric Guitarist" style="max-width:120px; height:auto;" />
       </td>
@@ -756,7 +756,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/jsQNnz5eZL_F4ZDE0ZtKuANZ5JY6WkeZi9ml13n3fec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzMz/My0xNTg3MTA0MTIw/LTY4MTUuanBlZw.jpeg" alt="Cover for Product" style="max-width:120px; height:auto;" />
       </td>
@@ -775,7 +775,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/145cf0b3fffe44d3c44c2e5ef2d08699.png" alt="Cover for Gaucho" style="max-width:120px; height:auto;" />
       </td>
@@ -793,7 +793,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6236a0816bb74c43cca8c40c521ca587.png" alt="Cover for The Pursuit Of Accidents" style="max-width:120px; height:auto;" />
       </td>
@@ -818,7 +818,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/790e9e2836d341249cff542d64d549a6.png" alt="Cover for The Nightfly" style="max-width:120px; height:auto;" />
       </td>
@@ -836,7 +836,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1487aab2c3eef5279da48d1fb9f0b34b.png" alt="Cover for Bajo Belgrano" style="max-width:120px; height:auto;" />
       </td>
@@ -857,7 +857,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95b7b4c78735b68feae9b6ca7a4e77cb.png" alt="Cover for Beyond Appearances" style="max-width:120px; height:auto;" />
       </td>
@@ -873,12 +873,12 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 11</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b407e8ff080f3cbd41b6fb41f37b5360.png" alt="Cover for The Dream Of The Blue Turtles" style="max-width:120px; height:auto;" />
       </td>
@@ -899,7 +899,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/K4G7IprE-GHmzbiGl3eP5mvwIUEHC1recSsS7L-iSII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDU5/OC0xMTg4NjQ4NTIw/LmpwZWc.jpeg" alt="Cover for Inner Mounting Flame" style="max-width:120px; height:auto;" />
       </td>
@@ -919,7 +919,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/k_DXj3GJpjTbgzC-M12pzCV3ag_N58Ed1UFOYQ841KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzQ1/MzMtMTUzMzA2NzEz/MS02MTAyLmpwZWc.jpeg" alt="Cover for Birds Of Fire &amp; Lost Trident" style="max-width:120px; height:auto;" />
       </td>
@@ -941,7 +941,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/L8ILqsLClCjP-DTX-Z-J4OWuexepCSVI6pFHVQIJK3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI3/OTM2LTE1MDY2Nzkx/NTUtODY3MS5qcGVn.jpeg" alt="Cover for Chase" style="max-width:120px; height:auto;" />
       </td>
@@ -959,7 +959,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebad580fbe24ea2f4c318082debae2dc.png" alt="Cover for Good" style="max-width:120px; height:auto;" />
       </td>
@@ -976,7 +976,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbd2b4b68f1ebdfa44ffd39d419ab516.png" alt="Cover for Clapton Chronicles - The Best of Eric Clapton" style="max-width:120px; height:auto;" />
       </td>
@@ -994,7 +994,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
       </td>
       <td>1994-04-01</td>
@@ -1011,7 +1011,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/Zo661WTE9tYg7SsOqtiaCj1q8wf9bxDg3F4Vl55Xzfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTE0/Ny0xNDQzNDI5OTA3/LTMwNzkuanBlZw.jpeg" alt="Cover for Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1032,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a79a9f1f68d157c91104078be140545.png" alt="Cover for Handful Of Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,7 +1051,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/IuTM9eQPlSFRLv3xHdbCEINgZUihiCOK1Hs_Sg1_frw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Mzg3/NTEtMTM3MDcxNjkx/NS05MjUxLmpwZWc.jpeg" alt="Cover for Turn It On" style="max-width:120px; height:auto;" />
       </td>
@@ -1077,7 +1077,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/O1Ld7VembiaPZ1AVzrD-sdkwc4K-y3RVs0M5DQs1jyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDkx/NzktMTU3NTAyMzMz/Ny02ODg1LmpwZWc.jpeg" alt="Cover for Cosmosquad" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,7 +1097,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17253709faf6411fb08214dd318fcb8e.png" alt="Cover for B-Sides and Otherwise" style="max-width:120px; height:auto;" />
       </td>
@@ -1115,7 +1115,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>1998-08-25</td>
@@ -1135,7 +1135,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b29b39452d2ad5d9d251f26da9aaf19.png" alt="Cover for The Inner Mounting Flame" style="max-width:120px; height:auto;" />
       </td>
@@ -1156,7 +1156,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>31</td>
       <td>
       </td>
       <td>2000</td>
@@ -1173,7 +1173,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
       </td>
       <td>2000</td>
@@ -1189,7 +1189,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/5-j28JmmdYvhjdlCBFF4mU_ENYs0Y59vN3xHRvBrqqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjA4/NjctMTM1NzMwMjE5/NS03MDEzLmpwZWc.jpeg" alt="Cover for Deep" style="max-width:120px; height:auto;" />
       </td>
@@ -1207,7 +1207,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
       </td>
       <td>2000-03</td>
@@ -1225,7 +1225,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>34</td>
       <td>
       </td>
       <td>2002-04-30</td>
@@ -1246,7 +1246,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
       </td>
       <td>2002-05</td>
@@ -1267,7 +1267,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc6318768b4595909a156cf00f45e439.png" alt="Cover for Korowod" style="max-width:120px; height:auto;" />
       </td>
@@ -1290,7 +1290,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
       </td>
       <td>2006</td>
@@ -1311,7 +1311,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/L0k13hHBEfexdIj3aegZ2eBFoFtNr468xEGKT32YR10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzA4/Ni0xMjIxNDkwNTQ2/LmpwZWc.jpeg" alt="Cover for Morph The Cat (U.S Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,7 +1329,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/V_OzTJ1qo85yMVX2Uhysxloc3yhzHCkbLCbFSSL3rEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTYy/NS0xNTgwMDM4MzUx/LTEyNDcuanBlZw.jpeg" alt="Cover for Hund" style="max-width:120px; height:auto;" />
       </td>
@@ -1348,14 +1348,14 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 13</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 53</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 69</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5bd68790de54bd8b0c60dd27054ce60.png" alt="Cover for Good Morning" style="max-width:120px; height:auto;" />
       </td>
@@ -1379,7 +1379,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/gjTkt9JlC35Cn5u8wMFA4umNHLw2WHqgS2TFmERux5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzM2/MjMtMTMxNzMxNzI1/OC5qcGVn.jpeg" alt="Cover for Acid Test" style="max-width:120px; height:auto;" />
       </td>
@@ -1398,7 +1398,24 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>22</td>
+      <td>
+      </td>
+      <td>2007-04-17</td>
+      <td>The Greyboy Allstars</td>
+      <td>What Happened To Television?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/VOc4Btb0z8PvJBG58vwIOf725e8SshgH-ZQS0cIHVs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzU0/NzctMTQ2NjM3MTE1/NS05MjM1LmpwZWc.jpeg" alt="Cover for What Happened to Television" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,24 +1433,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td>2007-04-17</td>
-      <td>The Greyboy Allstars</td>
-      <td>What Happened To Television?</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/xCb4cE8W70wFwZJvqqRz8bRCIeD8f5fIhS2iYjO02Fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY3/OTMtMTQ0NDQ5MTYx/Mi05MjgwLmpwZWc.jpeg" alt="Cover for This Is Jazz #10" style="max-width:120px; height:auto;" />
       </td>
@@ -1453,7 +1453,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/-NtP08M8BqFAMqZTYTWKCgfKjNP7l1PpkC_2lxSe024/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/ODUtMTMxMzcwOTgz/OS5qcGVn.jpeg" alt="Cover for The Reign Of Kindo EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1471,7 +1471,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2382922181e4ffb3b5ed26897b7d47b4.png" alt="Cover for Adrian Orange &amp; Her Band" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,7 +1494,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fd22f92497d3aff9378b959a7969a64.png" alt="Cover for Fuzzy" style="max-width:120px; height:auto;" />
       </td>
@@ -1513,7 +1513,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/939dd19596c14591a3a391a658237874.png" alt="Cover for Circus Money" style="max-width:120px; height:auto;" />
       </td>
@@ -1532,7 +1532,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5c8fd79daba40058ca041882ffdd434.png" alt="Cover for Dodovoodoo" style="max-width:120px; height:auto;" />
       </td>
@@ -1550,7 +1550,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47e051d389174340a5ec08caa0014f09.png" alt="Cover for Rhythm Chord &amp; Melody" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,7 +1572,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e86bed2953c740dd807279881f1f319f.png" alt="Cover for This is What Happens" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,7 +1591,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
       </td>
       <td>2011-04-12</td>
@@ -1608,7 +1608,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d6fff01c61d49eab0a0b5d96d461223.png" alt="Cover for The Aristocrats" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,7 +1628,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b0e05abb156495d962f63a634e68abe.png" alt="Cover for GroundUP" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,7 +1654,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf3096dd0ae44c23ccb2f3e0b0b2801d.png" alt="Cover for Floral EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1670,12 +1670,12 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 52</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>2015</td>
@@ -1693,7 +1693,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/Y8SqwhGKDIpXNr0QPpKuROD9ATwqm_p8BOpNxMQyJ5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/OTUtMTQ3NTc2MTA5/OC03NjM5LmpwZWc.jpeg" alt="Cover for The Second Floral - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,12 +1709,12 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 12</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a63919a5f152e8242b735b022ded451d.png" alt="Cover for Blackstar" style="max-width:120px; height:auto;" />
       </td>
@@ -1733,7 +1733,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98931021f9871cc62594f84d3edf3ed3.png" alt="Cover for Family Dinner Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1755,7 +1755,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82c7550ff02ec1bfaa1f99b550bc54f6.png" alt="Cover for Intra Mental" style="max-width:120px; height:auto;" />
       </td>
@@ -1778,7 +1778,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/601b0848fe47ee4b795baa6186afd314.png" alt="Cover for Demos (1973-1975), Vol. 1 &amp; 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,7 +1795,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/74Jf11pq4F9d9wXfQwQX8tcpK5qLxdpGCrX0UzYqZmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk1/Mjc4LTE1NjEyOTk2/MDMtMzAwMi5qcGVn.jpeg" alt="Cover for Elephant Gym on Audiotree Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1814,7 +1814,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91cc0b832bdefd130e85bca2828c6388.png" alt="Cover for alchemist rats beg bashful (remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1835,7 +1835,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/wTZynWfpVfxvHepnZb9LmKI4vGjLHGdMWV2fVp02FaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODAw/NjA0LTE2NTcxMTM0/ODAtMzI0Ni5qcGVn.jpeg" alt="Cover for The Real Work" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,13 +1855,13 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 60</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 41</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4603e77e3a3f860fd6d67ecb1cce6e39.png" alt="Cover for Sketches of Brunswick East" style="max-width:120px; height:auto;" />
       </td>
@@ -1882,7 +1882,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/026ca1a806784dfe99344940ec25cd29.png" alt="Cover for Castle Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1901,7 +1901,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/S-t5vPgra1Lp6fQDgS3B9frGRHFxwDEPOpbAPQYeTPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDg3/NDAyLTE2ODQxNzAz/MzctMjMxNC5qcGVn.jpeg" alt="Cover for Heroes, Villains, and All That Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -1918,7 +1918,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/baa310f9bade521ecb462de11b7bb086.png" alt="Cover for HURMOS" style="max-width:120px; height:auto;" />
       </td>
@@ -1937,7 +1937,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e1cc048031a86765e58f9b60c48f643.png" alt="Cover for Joker: Folie à Deux (Music From The Motion Picture)" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,7 +1959,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/81xahiKEslcAP9NECF3txf9BQsxsWu9YOB6ANOUpacI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODcy/ODkwLTE3MjgxNDUz/NzItNTE0NC5qcGVn.jpeg" alt="Cover for Holy, Holy" style="max-width:120px; height:auto;" />
       </td>
@@ -1976,7 +1976,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
       </td>
       <td></td>
@@ -1995,7 +1995,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>

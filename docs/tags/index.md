@@ -1,18 +1,26 @@
 ---
 category: list
-date: 2025-12-07T17:34:06.196Z
+date: 2025-12-07T18:25:27.385Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-07T17:34:06.196Z">Sun Dec 07 2025 19:34:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T18:25:27.385Z">Sun Dec 07 2025 20:25:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [hindustani]({{ "tags/hindustani" | relative_url }}) | <time datetime="2025-12-07T18:25:27.385Z">Sun Dec 07 2025 20:25:27 GMT+0200 (Eastern European Standard Time)</time> |
+| [macedonian]({{ "tags/macedonian" | relative_url }}) | <time datetime="2025-12-07T18:25:20.579Z">Sun Dec 07 2025 20:25:20 GMT+0200 (Eastern European Standard Time)</time> |
+| [ebm]({{ "tags/ebm" | relative_url }}) | <time datetime="2025-12-07T18:09:10.479Z">Sun Dec 07 2025 20:09:10 GMT+0200 (Eastern European Standard Time)</time> |
+| [jazz rock]({{ "tags/jazz-rock" | relative_url }}) | <time datetime="2025-12-07T18:09:04.727Z">Sun Dec 07 2025 20:09:04 GMT+0200 (Eastern European Standard Time)</time> |
+| [smooth jazz]({{ "tags/smooth-jazz" | relative_url }}) | <time datetime="2025-12-07T17:52:59.078Z">Sun Dec 07 2025 19:52:59 GMT+0200 (Eastern European Standard Time)</time> |
+| [modern rock]({{ "tags/modern-rock" | relative_url }}) | <time datetime="2025-12-07T17:52:52.898Z">Sun Dec 07 2025 19:52:52 GMT+0200 (Eastern European Standard Time)</time> |
+| [chicago]({{ "tags/chicago" | relative_url }}) | <time datetime="2025-12-07T17:52:16.769Z">Sun Dec 07 2025 19:52:16 GMT+0200 (Eastern European Standard Time)</time> |
+| [violin sonata]({{ "tags/violin-sonata" | relative_url }}) | <time datetime="2025-12-07T17:34:45.219Z">Sun Dec 07 2025 19:34:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [symphonic death metal]({{ "tags/symphonic-death-metal" | relative_url }}) | <time datetime="2025-12-07T17:34:06.196Z">Sun Dec 07 2025 19:34:06 GMT+0200 (Eastern European Standard Time)</time> |
 | [krautrock]({{ "tags/krautrock" | relative_url }}) | <time datetime="2025-12-07T17:16:04.406Z">Sun Dec 07 2025 19:16:04 GMT+0200 (Eastern European Standard Time)</time> |
 | [suomisaundi]({{ "tags/suomisaundi" | relative_url }}) | <time datetime="2025-12-07T16:59:25.619Z">Sun Dec 07 2025 18:59:25 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1383,11 +1391,3 @@ Last updated: <time datetime="2025-12-07T17:34:06.196Z">Sun Dec 07 2025 19:34:06
 | [sweden]({{ "tags/sweden" | relative_url }}) | <time datetime="2025-12-05T04:26:04.555Z">Fri Dec 05 2025 06:26:04 GMT+0200 (Eastern European Standard Time)</time> |
 | [eai]({{ "tags/eai" | relative_url }}) | <time datetime="2025-12-05T04:25:58.756Z">Fri Dec 05 2025 06:25:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [electronic lounge jazz]({{ "tags/electronic-lounge-jazz" | relative_url }}) | <time datetime="2025-12-05T04:25:52.121Z">Fri Dec 05 2025 06:25:52 GMT+0200 (Eastern European Standard Time)</time> |
-| [hindustani]({{ "tags/hindustani" | relative_url }}) | <time datetime="2025-12-05T04:25:28.047Z">Fri Dec 05 2025 06:25:28 GMT+0200 (Eastern European Standard Time)</time> |
-| [macedonian]({{ "tags/macedonian" | relative_url }}) | <time datetime="2025-12-05T04:25:22.743Z">Fri Dec 05 2025 06:25:22 GMT+0200 (Eastern European Standard Time)</time> |
-| [ebm]({{ "tags/ebm" | relative_url }}) | <time datetime="2025-12-05T04:25:13.270Z">Fri Dec 05 2025 06:25:13 GMT+0200 (Eastern European Standard Time)</time> |
-| [jazz rock]({{ "tags/jazz-rock" | relative_url }}) | <time datetime="2025-12-05T04:25:07.229Z">Fri Dec 05 2025 06:25:07 GMT+0200 (Eastern European Standard Time)</time> |
-| [smooth jazz]({{ "tags/smooth-jazz" | relative_url }}) | <time datetime="2025-12-05T04:25:01.417Z">Fri Dec 05 2025 06:25:01 GMT+0200 (Eastern European Standard Time)</time> |
-| [modern rock]({{ "tags/modern-rock" | relative_url }}) | <time datetime="2025-12-05T04:24:35.746Z">Fri Dec 05 2025 06:24:35 GMT+0200 (Eastern European Standard Time)</time> |
-| [chicago]({{ "tags/chicago" | relative_url }}) | <time datetime="2025-12-05T04:24:30.455Z">Fri Dec 05 2025 06:24:30 GMT+0200 (Eastern European Standard Time)</time> |
-| [violin sonata]({{ "tags/violin-sonata" | relative_url }}) | <time datetime="2025-12-05T04:24:24.192Z">Fri Dec 05 2025 06:24:24 GMT+0200 (Eastern European Standard Time)</time> |
