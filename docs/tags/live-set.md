@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:44:57.739Z
+date: 2025-12-08T05:18:48.493Z
 permalink: tags/live-set
 title: live set
 ---
 
 ## live set
 
-Last updated: <time datetime="2025-12-05T04:44:57.739Z">Fri Dec 05 2025 06:44:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T05:18:48.493Z">Mon Dec 08 2025 07:18:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1217,8 +1217,8 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 5</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 87</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1543,8 +1543,8 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 1</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 92</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2823,15 +2823,11 @@ A live set in music typically refers to a performance by a musician or group of 
       <td>
       </td>
       <td></td>
-      <td>DJ Chris K:ay</td>
-      <td>Infinity Mixes</td>
+      <td>DJ Niaero</td>
+      <td>Live Set</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-set" | relative_url }}">live set</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
         </ul>
       </td>
       <td>

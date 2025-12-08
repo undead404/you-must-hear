@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:44:16.687Z
+date: 2025-12-08T04:58:23.264Z
 permalink: tags/darkpsy
 title: darkpsy
 ---
 
 ## darkpsy
 
-Last updated: <time datetime="2025-12-05T04:44:16.687Z">Fri Dec 05 2025 06:44:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T04:58:23.264Z">Mon Dec 08 2025 06:58:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -234,11 +234,11 @@ Darkpsy (also known as Dark Psychedelic Trance) is a subgenre of psytrance music
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 3</li>
+            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 17</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 32</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 45</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 64</li>
-            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 84</li>
-            <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -277,7 +277,7 @@ Darkpsy (also known as Dark Psychedelic Trance) is a subgenre of psytrance music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 94</li>
+            <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -719,12 +719,12 @@ Darkpsy (also known as Dark Psychedelic Trance) is a subgenre of psytrance music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 28</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 29</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 29</li>
             <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 30</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 45</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 68</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 73</li>
             <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 79</li>
             <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 84</li>
         </ul>
@@ -1382,7 +1382,7 @@ Darkpsy (also known as Dark Psychedelic Trance) is a subgenre of psytrance music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 95</li>
+            <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1517,7 +1517,7 @@ Darkpsy (also known as Dark Psychedelic Trance) is a subgenre of psytrance music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 97</li>
+            <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1622,11 +1622,11 @@ Darkpsy (also known as Dark Psychedelic Trance) is a subgenre of psytrance music
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 2</li>
+            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 16</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 31</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 43</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 61</li>
-            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 85</li>
-            <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 99</li>
         </ul>
       </td>
     </tr>
