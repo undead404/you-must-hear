@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:35:57.010Z
+date: 2025-12-07T22:53:26.189Z
 permalink: tags/stoner-doom
 title: stoner doom
 ---
 
 ## stoner doom
 
-Last updated: <time datetime="2025-12-05T04:35:57.010Z">Fri Dec 05 2025 06:35:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T22:53:26.189Z">Mon Dec 08 2025 00:53:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,24 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>81</td>
+      <td>
+      </td>
+      <td>1991</td>
+      <td>Sleep</td>
+      <td>Volume One</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/fTyXhAPetpIe5tFIom_J6ZYoQP-8evEYkkBlPVZbhcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzgz/MTQzLTE2MTg5NDI0/MTEtMjkxMy5qcGVn.jpeg" alt="Cover for Iommic Life" style="max-width:120px; height:auto;" />
       </td>
@@ -49,24 +66,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>20</td>
-      <td>
-      </td>
-      <td>1991</td>
-      <td>Sleep</td>
-      <td>Volume One</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18ba3aba8aafbeef27e69cd88d1f8a74.png" alt="Cover for Night Goat" style="max-width:120px; height:auto;" />
       </td>
@@ -87,7 +87,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d96d3d9a64d4fa0cf0019816d5babe1.png" alt="Cover for Sleep&#39;s Holy Mountain" style="max-width:120px; height:auto;" />
       </td>
@@ -109,7 +109,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
       </td>
       <td>1994</td>
@@ -128,7 +128,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
       </td>
       <td>1994</td>
@@ -147,7 +147,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/Np2JUPJmR5xblq74kPlzmP_x2at9Sh3L00nrFZ3DroA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTky/Mi0xMzEzNTI4NzY5/LmpwZWc.jpeg" alt="Cover for Electric Wizard (2006 re-issue)" style="max-width:120px; height:auto;" />
       </td>
@@ -165,27 +165,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>61</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/632646b0f6f3f6fb81f0d611917c7ede.png" alt="Cover for Come My Fanatics" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Electric Wizard</td>
-      <td>Come My Fanatics</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 16</li>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 41</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56b97337b214445cc44cdf81e7fcde89.png" alt="Cover for Jerusalem" style="max-width:120px; height:auto;" />
       </td>
@@ -210,7 +190,27 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/632646b0f6f3f6fb81f0d611917c7ede.png" alt="Cover for Come My Fanatics" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Electric Wizard</td>
+      <td>Come My Fanatics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 16</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
       </td>
       <td>1996-02</td>
@@ -229,7 +229,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>1997-07-25</td>
@@ -246,7 +246,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c80e1c8c7077c3f96aaa5a8c117f1976.png" alt="Cover for Supercoven" style="max-width:120px; height:auto;" />
       </td>
@@ -266,7 +266,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/013af9a9b2566f994857c56505c77f0b.png" alt="Cover for Busse Woods" style="max-width:120px; height:auto;" />
       </td>
@@ -286,7 +286,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
       </td>
       <td>1999</td>
@@ -303,7 +303,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e3fe52596d0a602acd26fba74715b00.png" alt="Cover for Dreamwheel" style="max-width:120px; height:auto;" />
       </td>
@@ -322,7 +322,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/mA0VPqwWomBZ-QX2qmx1YxdbrwxrDPDTN9vGSndsQSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM2/MTctMTY4OTA0Mzc2/Ni05NTc5LmpwZWc.jpeg" alt="Cover for The Voice of God" style="max-width:120px; height:auto;" />
       </td>
@@ -341,7 +341,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/1oasZwhDi8cDgVTQDe7uG5TchqQP3rmH9jXMWbzN2ZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mjg4/OS0xNDE1MTI2MDM3/LTM3NzEuanBlZw.jpeg" alt="Cover for Dopethrone" style="max-width:120px; height:auto;" />
       </td>
@@ -361,7 +361,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
       </td>
       <td>2000-09-01</td>
@@ -380,7 +380,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bff192261c3bf34b365aa639a399b760.png" alt="Cover for Amarok" style="max-width:120px; height:auto;" />
       </td>
@@ -411,15 +411,15 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 8</li>
             <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 9</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 11</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 17</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 30</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 64</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 84</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33ac2ad72ecf3b017656152ff1c49967.png" alt="Cover for ...And Justice For Y&#39;all" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +438,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>2001-09-11</td>
@@ -455,7 +455,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>2002</td>
@@ -475,7 +475,26 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/KrmXidT3QdrbD2MrgDCAIgy2oQl-dMpctacMVeH4lM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODY3/Mi0xMTc4OTIxMzUw/LmpwZWc.jpeg" alt="Cover for Share" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Eternal Elysium</td>
+      <td>Share</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/5IyWOWOwfngPkMNClJuRAn0Ti6rNMkx2UVoFwUpAMHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDIz/MTAtMTI4MjAxMzc2/Mi5qcGVn.jpeg" alt="Cover for Doom Saloon" style="max-width:120px; height:auto;" />
       </td>
@@ -495,26 +514,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>29</td>
-      <td>
-          <img src="https://i.discogs.com/KrmXidT3QdrbD2MrgDCAIgy2oQl-dMpctacMVeH4lM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODY3/Mi0xMTc4OTIxMzUw/LmpwZWc.jpeg" alt="Cover for Share" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Eternal Elysium</td>
-      <td>Share</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/oZIhn6rpuskIitRIOtajHyQ63QFlchntimvDnjoi8OY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjAx/MzItMTQ1NTgxNTU2/Ni03NzU4LmpwZWc.jpeg" alt="Cover for Taming Of The Demons" style="max-width:120px; height:auto;" />
       </td>
@@ -534,7 +534,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
       </td>
       <td>2003</td>
@@ -552,7 +552,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2003-04-22</td>
@@ -573,7 +573,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f3b21ec20384ee386619d4a91df12cb.png" alt="Cover for We Live" style="max-width:120px; height:auto;" />
       </td>
@@ -593,7 +593,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/3f6XkD6xISoyBZJYyCuSmZCQaMgNVGcPEztC_YdHyM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODgy/MDQtMTI3NDYzNzAz/NS5qcGVn.jpeg" alt="Cover for Tor" style="max-width:120px; height:auto;" />
       </td>
@@ -614,7 +614,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89d8ceef85ee4d77bc8674482942a7a0.png" alt="Cover for Snailking" style="max-width:120px; height:auto;" />
       </td>
@@ -633,7 +633,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/FXPwmOHy5cBNosVuynUoIGUTyJe-lxYyUagKa5bndi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzQ2/NS0xMTc3NDA5OTUy/LmpwZWc.jpeg" alt="Cover for The Tomb" style="max-width:120px; height:auto;" />
       </td>
@@ -654,7 +654,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/_BZ2us_BqV8o44DGvylx9MESZyJ4FibfZnSfrQ1T0HA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzEz/MjMtMTQxNjMxNTgz/Ny02NjExLmpwZWc.jpeg" alt="Cover for X" style="max-width:120px; height:auto;" />
       </td>
@@ -674,7 +674,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbdda88d423f4bf0b45ae1e5d2941011.png" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
@@ -694,7 +694,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2d2fb8b0c0c42e807a067e06fe977cf.png" alt="Cover for The Unreal Never Lived" style="max-width:120px; height:auto;" />
       </td>
@@ -714,7 +714,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2005-12-05</td>
@@ -733,7 +733,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>2006-02-24</td>
@@ -754,7 +754,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>2006-03-07</td>
@@ -773,7 +773,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
       </td>
       <td>2006-05-29</td>
@@ -790,7 +790,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/c8nwbrQ12fgVS_cMJU85SA7MFxbg5vGIBVZe9NdmM4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Nzg4/NS0xNDE2MTc5NzU0/LTUwNzYuanBlZw.jpeg" alt="Cover for Orange&#x2F;vinyl version" style="max-width:120px; height:auto;" />
       </td>
@@ -808,26 +808,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://i.discogs.com/nzWWjGWm1IRZ0sjCWqb-0-1BxBvKkXVU6pG7dY165iA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAw/NTctMTE5NzY4NTAx/Ny5qcGVn.jpeg" alt="Cover for Resurrection Of Whiskey Foote" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-02-20</td>
-      <td>The Hidden Hand</td>
-      <td>Resurrection Of Whiskey Foote</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/nzWWjGWm1IRZ0sjCWqb-0-1BxBvKkXVU6pG7dY165iA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAw/NTctMTE5NzY4NTAx/Ny5qcGVn.jpeg" alt="Cover for The Resurrection of Whiskey Foote" style="max-width:120px; height:auto;" />
       </td>
@@ -846,7 +827,26 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/nzWWjGWm1IRZ0sjCWqb-0-1BxBvKkXVU6pG7dY165iA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAw/NTctMTE5NzY4NTAx/Ny5qcGVn.jpeg" alt="Cover for Resurrection Of Whiskey Foote" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-02-20</td>
+      <td>The Hidden Hand</td>
+      <td>Resurrection Of Whiskey Foote</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
       <td>
       </td>
       <td>2007-03-20</td>
@@ -866,7 +866,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/dLhvF3_CxOTaGLaMNKpsjAOqwIjdyh6Wxvwbn-TQv7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTUx/ODUtMTIyNTM3MDk4/NC5qcGVn.jpeg" alt="Cover for Sons Of Otis&#x2F;Queen Elephantine Split" style="max-width:120px; height:auto;" />
       </td>
@@ -887,7 +887,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>2007-09-11</td>
@@ -905,7 +905,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
       </td>
       <td>2007-11-12</td>
@@ -925,7 +925,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>2008-01-13</td>
@@ -944,7 +944,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb80ac02163c340e3afaac1dad3c22c0.png" alt="Cover for Sigillum Luciferi" style="max-width:120px; height:auto;" />
       </td>
@@ -970,7 +970,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/ga9asOE1Fau65WX6j6sLkr5k_JozqGK99oYXUTUEquc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDE3/MDItMTU4NjM2MzE1/Ni0zMTcwLmpwZWc.jpeg" alt="Cover for Black Pyramid" style="max-width:120px; height:auto;" />
       </td>
@@ -990,13 +990,13 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/pdyOwjvTM2GnQ1lE3dgWGaQqj-ZC4HH9wVDiPVR8X-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgz/MjMtMTU3NzA3OTUz/NC01NjMyLmpwZWc.jpeg" alt="Cover for Mountain Of Judgement" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/591ebcce56d540889ff440518ec80940.png" alt="Cover for The Graviators" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
-      <td>Mountain of Judgement</td>
-      <td>Mountain Of Judgement</td>
+      <td>The Graviators</td>
+      <td>The Graviators</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a></li>
@@ -1008,7 +1008,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/QlHGwerfDinEdZad3ioKHp02U12rmtj9hb0-Dt1mmj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk0/NjUtMTI3OTM5ODM2/Ny5qcGVn.jpeg" alt="Cover for Book Of Whyte" style="max-width:120px; height:auto;" />
       </td>
@@ -1027,13 +1027,13 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>84</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/591ebcce56d540889ff440518ec80940.png" alt="Cover for The Graviators" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/pdyOwjvTM2GnQ1lE3dgWGaQqj-ZC4HH9wVDiPVR8X-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgz/MjMtMTU3NzA3OTUz/NC01NjMyLmpwZWc.jpeg" alt="Cover for Mountain Of Judgement" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
-      <td>The Graviators</td>
-      <td>The Graviators</td>
+      <td>Mountain of Judgement</td>
+      <td>Mountain Of Judgement</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a></li>
@@ -1045,7 +1045,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a1026105436454884fa3e8d53665031.png" alt="Cover for Lowering the Tone" style="max-width:120px; height:auto;" />
       </td>
@@ -1066,7 +1066,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
       </td>
       <td>2009-04-28</td>
@@ -1086,7 +1086,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/qRot_NZ2moHdxesWoKILkK42WbnRMVUOoEuF4WOmPIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTIx/MzEtMTMyNTI1NzY5/NS5qcGVn.jpeg" alt="Cover for Movin On" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,7 +1105,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/4qojHjG_fFDy-9FYZC-TOcrYSoaX6lnP-hTl9pgmGbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTY3/NzItMTQ0NDQ5MDE2/NC05ODk5LmpwZWc.jpeg" alt="Cover for Superdoom" style="max-width:120px; height:auto;" />
       </td>
@@ -1123,7 +1123,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
       </td>
       <td>2010-01-01</td>
@@ -1145,7 +1145,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
       </td>
       <td>2010-05-01</td>
@@ -1168,7 +1168,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/lydZmLGp_99Vf9vKoPj1b5BqjPSZBeFBhlj5Y9xZj_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjQz/MDQtMTMyNTc5NTQx/MC5qcGVn.jpeg" alt="Cover for Lord Of Doubts" style="max-width:120px; height:auto;" />
       </td>
@@ -1187,7 +1187,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/Io1xKgeS-IDjoaGknE32LQSBpI_4tCfDiew_JGYBY8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQ4/NDQtMTU2Mjc3MDU0/Ny0xMzA3LmpwZWc.jpeg" alt="Cover for Satan Worshipping Doom" style="max-width:120px; height:auto;" />
       </td>
@@ -1209,7 +1209,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/8HbbNd1F_IfGybYzVg_puaZboIJFX8b_u9y7wVcA8Q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDgw/NzQtMTI4MjM2NDA1/OC5qcGVn.jpeg" alt="Cover for Our Slow Decay" style="max-width:120px; height:auto;" />
       </td>
@@ -1229,7 +1229,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bb9a4b4e4cd43e083999596f2aec771.png" alt="Cover for Call Of Avernus" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,7 +1248,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/p1l-DQw3OhYXkbhH-nVD_mjSqO34dnAeaQZf6qTocsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTg3/OC0xMTcwMzM5NDQ1/LmpwZWc.jpeg" alt="Cover for Come My Fanatics.... (2006 Reissue)" style="max-width:120px; height:auto;" />
       </td>
@@ -1267,7 +1267,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f766e333af404028aadd97bc9b236340.png" alt="Cover for South of Salem" style="max-width:120px; height:auto;" />
       </td>
@@ -1287,7 +1287,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
       </td>
       <td>2011-05-13</td>
@@ -1305,7 +1305,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6489ea6901e478e940a0f4bbd626d4d.png" alt="Cover for Monnos" style="max-width:120px; height:auto;" />
       </td>
@@ -1323,7 +1323,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
       </td>
       <td>2012-04-30</td>
@@ -1341,7 +1341,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>2012-07-23</td>
@@ -1358,7 +1358,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>2012-08-12</td>
@@ -1378,7 +1378,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
       </td>
       <td>2012-09-04</td>
@@ -1406,7 +1406,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/VGHq3GLr_3HeE74euVALo_TqLYdVRpX08x_uH6MxssI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjYz/NDMtMTM1MzUwNDY5/MS0yNzAyLmpwZWc.jpeg" alt="Cover for Skygods" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,7 +1426,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/FOgHEa49Xh3Dv2Z07rSbhGRwrLErhliHrg8xd6hD7B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjM1/ODQtMTM2NzMxMzU4/OS03NjQzLmpwZWc.jpeg" alt="Cover for Dungeon Vultures" style="max-width:120px; height:auto;" />
       </td>
@@ -1445,7 +1445,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/uuzepISbr1LGak7OTM9LKW75EV0NqAJKDi3qVWH-mxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTk2/NzctMTQyMjczMzQy/NC0yMDkxLmpwZWc.jpeg" alt="Cover for Polynseeds" style="max-width:120px; height:auto;" />
       </td>
@@ -1463,7 +1463,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
       </td>
       <td>2013-09-17</td>
@@ -1483,7 +1483,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
       </td>
       <td>2014-02-15</td>
@@ -1500,7 +1500,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/pONi3IAY4_EMAWPz5ViJ0CsEWZdfXukabk9PPtm_F6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDc0/NTE2LTE1OTIxMzg5/NTktMzI0MC5qcGVn.jpeg" alt="Cover for From The Clutches of Oblivion" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,7 +1518,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
       </td>
       <td>2014-08-16</td>
@@ -1541,7 +1541,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/oBihxjZuIndh7Ukzie4E7BDeKm1ZfA8kXLo7bz3-GHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTk2/MDctMTQxMTA1Mzgw/NS02MzgzLmpwZWc.jpeg" alt="Cover for Ritual Rites" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,7 +1559,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6ef0457eddc436cc3fa4c2b9697dbde.png" alt="Cover for Awakening The Forest" style="max-width:120px; height:auto;" />
       </td>
@@ -1579,7 +1579,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/RqXDurZ1dT8JdFqFnk_nFq-hGAB58PlDaNQpe8q1NZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjI3/ODktMTQ1NzQzNjg5/OC02MjkyLmpwZWc.jpeg" alt="Cover for The Night Creeper" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,7 +1598,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/1I-VP-5whLq_2EZUBY6WjEx0gmoL3Wgm3j6oCNxo_O0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE5/ODktMTIzNzI1NTgw/NC5naWY.jpeg" alt="Cover for The Oden Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,7 +1619,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6eb69b4fe84cde817c624049b92f180.png" alt="Cover for Goliathan" style="max-width:120px; height:auto;" />
       </td>
@@ -1639,7 +1639,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/OsCl-Exk3b210ouMHHjfDI1Fg-nTkkDMizex5LVuAt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTU2/MjEtMTQ1NDI3NDky/NC0yMzgwLmpwZWc.jpeg" alt="Cover for Deep Shades" style="max-width:120px; height:auto;" />
       </td>
@@ -1658,7 +1658,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/aBTC8iYy0XscEWBvB3Hn-qQB-RNTY8A8Zcr049QBn1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzYz/MzUtMTQ0NTYzNjYw/Ni02OTM2LmpwZWc.jpeg" alt="Cover for The White Wizard" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,7 +1676,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/0P9yDyhZZddst25x0MuAhxrvn7eSUr0I3_KU3dntIMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjA0/NDgtMTQ0NjE1NTkx/NC0yMDMwLmpwZWc.jpeg" alt="Cover for Radiant Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,7 +1696,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39de805e4374b9221f479772971d2881.png" alt="Cover for Marijuana" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1715,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fde5c717046d27b6e902b84a1b9ecb9.png" alt="Cover for Burning Village" style="max-width:120px; height:auto;" />
       </td>
@@ -1735,7 +1735,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/CYJruB0glPSooZeM1nf6_VLdIJzDYXhazfi67x4Az48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTQw/ODItMTQ3OTc4MDky/Ny02MDY3LmpwZWc.jpeg" alt="Cover for EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1753,7 +1753,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a01c7d7961a792da329f76f39dbb6bcf.png" alt="Cover for Still They Pray" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,7 +1773,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/YvD8oAKQ0-mx1Mzp68ybjffbNUSASRqjQJ6c_zEBzVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQ0/NDM0LTE0OTU3MDA1/ODItMjM5OS5qcGVn.jpeg" alt="Cover for Bantha Rider" style="max-width:120px; height:auto;" />
       </td>
@@ -1792,7 +1792,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/FzZwCYPA6bfJIPCBmIPr__OY-zauOE7ZLXQPPuEQE8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NzQ0/NTktMTQ4NDU3MTc3/OC05NTQ1LmpwZWc.jpeg" alt="Cover for Children Of The Haze" style="max-width:120px; height:auto;" />
       </td>
@@ -1812,7 +1812,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/wxe8dd2x0I8mRqlGoBAP7IMGu-Sz0w2acM8X4RUktjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAz/OTM1LTE1MjY0MjM5/MzgtNDc4OC5qcGVn.jpeg" alt="Cover for Inside The Skull" style="max-width:120px; height:auto;" />
       </td>
@@ -1830,7 +1830,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/tTcRYhNalMMuIkcnHUz_-s4TG_LVAJAZt6k7NaHFRSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQ4/OTIxLTE1NTA3NTQw/MjItMjkyNi5qcGVn.jpeg" alt="Cover for Light the Dankness" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,7 +1849,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/MjO-ewPancesKejO1PWJqIRBltFRitpXRAW-CXPXOxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTQ5/MzAwLTE1MTg0MTY3/NzktODEyNC5qcGVn.jpeg" alt="Cover for Free the Witch" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,7 +1870,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/TD4poQCZK8c-alnpYUSoOrqy_iYOjPqBNL3wM_jsvWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/ODEtNzYxNC5qcGVn.jpeg" alt="Cover for The Sciences" style="max-width:120px; height:auto;" />
       </td>
@@ -1891,7 +1891,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/U3atqOygd3BlJgfi2oLHUi-OPqDLsfAz53exdHM-wR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYw/ODg4LTE1MjU1MzQ2/MjctMzQwOC5qcGVn.jpeg" alt="Cover for I Tread On Your Grave" style="max-width:120px; height:auto;" />
       </td>
@@ -1911,7 +1911,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/tbqRwmpXzVG8RquyyLpbX9cjdx10YLmn1IdVB7VLvCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQx/NjU2LTE1Nzg3NjEy/NTAtODMyNC5qcGVn.jpeg" alt="Cover for Witches of Mars" style="max-width:120px; height:auto;" />
       </td>
@@ -1929,7 +1929,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
       </td>
       <td>2020-06-19</td>
@@ -1946,7 +1946,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Within The Church Of Thee Overlords II" style="max-width:120px; height:auto;" />
       </td>
@@ -1964,12 +1964,12 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 51</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae3081a4e02fb29bd394cd8df013aeec.png" alt="Cover for Astral Apothecary" style="max-width:120px; height:auto;" />
       </td>
@@ -1991,7 +1991,7 @@ Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness wi
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td>2024-03-01</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:36:02.153Z
+date: 2025-12-07T23:08:53.126Z
 permalink: tags/fantasy-ambient
 title: fantasy ambient
 ---
 
 ## fantasy ambient
 
-Last updated: <time datetime="2025-12-05T04:36:02.153Z">Fri Dec 05 2025 06:36:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T23:08:53.126Z">Mon Dec 08 2025 01:08:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
   </thead>
   <tbody>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/617a536a5f98c3bc31c2d24033ceb342.png" alt="Cover for In schwindendem Licht" style="max-width:120px; height:auto;" />
       </td>
@@ -161,7 +161,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/cq8-E8Q1RKH6lElwLx_ZjS_4W4z-DngpjemlavaFNsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzAy/NDctMTM0NzU0NDgy/NS01MDUyLmpwZWc.jpeg" alt="Cover for To Eldamar from Minas Morgul" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +179,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/02etY6xCj_7_i61rJ6FpVivykgUJgl6mysFkOz-1yAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjUx/NDAtMTM4ODA1ODY0/Ni01ODUyLmpwZWc.jpeg" alt="Cover for The Return of the Mighty King" style="max-width:120px; height:auto;" />
       </td>
@@ -237,7 +237,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb29accbe7e8c734837509fc73345a8a.png" alt="Cover for Alchemie" style="max-width:120px; height:auto;" />
       </td>
@@ -539,7 +539,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/H7j-zLZtxVhtVMVRlhKzjLp3-H6NXjIdwz-hVjCEO3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjQz/MTEtMTQ5NTA3Njk2/Ny05ODg1LmpwZWc.jpeg" alt="Cover for More True Than Time Thought" style="max-width:120px; height:auto;" />
       </td>
@@ -599,7 +599,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/ry64tsNIvUPHWUfT2f2WUhsaEgQIVcnLllMMQFmwbjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQ4/MTYyLTE0OTU3NTc2/ODAtNjc1NC5qcGVn.jpeg" alt="Cover for Inns and Villages" style="max-width:120px; height:auto;" />
       </td>
@@ -641,7 +641,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/_-KrR_Yj2fDfUwU0EHO0QX197OhHOtvvjxX55dbFoN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODQ0/MjItMTQ2NjU3MDY4/My03NjE2LmpwZWc.jpeg" alt="Cover for Stronghold In The Mountains" style="max-width:120px; height:auto;" />
       </td>
@@ -701,7 +701,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/iaWrxUACrBSiOvIO3zfMyIlaWYboR-IHNbs6uEgzcao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTI2/ODgxLTE2NTAzMDI3/NjktNTUzMi5qcGVn.jpeg" alt="Cover for Phantasma Regnorum Oblitorum" style="max-width:120px; height:auto;" />
       </td>
@@ -760,7 +760,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/VsPjqB9WdeC48BJff7ar4z_GOSPDT26ZKE_Oyk-He7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjcw/ODc4LTE0OTQ0NDM3/NDEtNTc3OS5qcGVn.jpeg" alt="Cover for March of The Triumphator" style="max-width:120px; height:auto;" />
       </td>
@@ -781,7 +781,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/UwAqbdKKRRN6ptUJVxPSQeYITQ9GlJuYUacIGuJmZnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjE0/NzItMTQ2MTI3NjQ0/OS02MTU4LmpwZWc.jpeg" alt="Cover for Compendium I" style="max-width:120px; height:auto;" />
       </td>
@@ -943,7 +943,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/jAlRZQ-baCx3CQ7UoVzrakfmo28qdn4bXUg9PhSkMZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzMx/NTcyLTE1MTQzODk4/OTEtMjc3MC5qcGVn.jpeg" alt="Cover for Bellum Contra Se Ipsum" style="max-width:120px; height:auto;" />
       </td>
@@ -964,7 +964,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/JXciC6--CcRyj5tiCKLUtY3aoqNMzeRFwUQQE41Xx9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDM3/MDI4LTE1NDg0NjA0/MTgtNDA4OS5qcGVn.jpeg" alt="Cover for Mon Royaume" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,7 +1306,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2019-08-04</td>
@@ -1347,7 +1347,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/-fMXx-83kvoirYFmhZxLXs_F8AX7hQ34DEZfKKy1FMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkw/NDM4LTE1OTU5NzA0/NzgtMjI2Ni5qcGVn.jpeg" alt="Cover for Obedience" style="max-width:120px; height:auto;" />
       </td>
@@ -1474,7 +1474,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/sIJ-qE-2Vbu9l7NyA625lApyqb0cbrYgdB--Lyvn8ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM3/ODc4LTE1OTkxNDg2/MTItOTE2OC5qcGVn.jpeg" alt="Cover for The Journey" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,7 +1659,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/hcdG1y-4Juqmu5oqB9LJZqHsRoo3lWQaOeE9psX6wa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjU1/NDc1LTE2MDkwOTA4/NTMtMTQ5NS5qcGVn.jpeg" alt="Cover for Visions éternelles" style="max-width:120px; height:auto;" />
       </td>
@@ -1681,7 +1681,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/AMU00ltrTgYgKVX1dIE-GUli1mX7_WWEd17MqZ5DXak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODgy/NzUyLTE2MzY1OTAz/NjMtMjIyOS5qcGVn.jpeg" alt="Cover for The Ruins of Dalanh" style="max-width:120px; height:auto;" />
       </td>
@@ -1702,7 +1702,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/xCwwQhhHDVtwDTdtIxQLlq13D7D-7db8tsWl7y8gecI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDkz/ODU1LTE2MjMzNTY2/OTQtNzcwMC5qcGVn.jpeg" alt="Cover for New Dawn" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,7 +1827,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/nEv1MsIG3iJ6LsGd_b8YUNvWDVNADst-2MeBt7C4Vh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTQy/OTQxLTE2NDM0Nzc5/MTctNjA5NS5qcGVn.jpeg" alt="Cover for Red Wyvern Tower" style="max-width:120px; height:auto;" />
       </td>
@@ -1847,7 +1847,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/Qn3iRC7lPG7ESXoOm4PZCzbCxO_tZQQFJS3p-7kh5uM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQ4/MTg4LTE2NDI4ODE4/OTYtNDYzMy5qcGVn.jpeg" alt="Cover for Book of Tales" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,7 +1889,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/aFjO6hkeQc66PHqyFey0L3dI8L0qWCaaoNJo7B2WEDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc4/MjI4LTE2NzA4MDg3/NTUtNTE3My5qcGVn.jpeg" alt="Cover for Beauty Of The Bitter Coast" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,7 +1951,7 @@ Fantasy ambient music is a genre of music that combines elements of fantasy or s
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/FSik2JUg4RXuyvGzYq6TeYVb-MWkiMZs8QFdwsGZRh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDkw/NTg4LTE2NTkwMTcw/MDktOTA5My5wbmc.jpeg" alt="Cover for Woods Of Spellbound Ruins" style="max-width:120px; height:auto;" />
       </td>

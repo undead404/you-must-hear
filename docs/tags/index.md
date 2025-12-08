@@ -1,18 +1,27 @@
 ---
 category: list
-date: 2025-12-07T21:28:04.069Z
+date: 2025-12-07T23:08:53.126Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-07T21:28:04.069Z">Sun Dec 07 2025 23:28:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T23:08:53.126Z">Mon Dec 08 2025 01:08:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [fantasy ambient]({{ "tags/fantasy-ambient" | relative_url }}) | <time datetime="2025-12-07T23:08:53.126Z">Mon Dec 08 2025 01:08:53 GMT+0200 (Eastern European Standard Time)</time> |
+| [stoner doom]({{ "tags/stoner-doom" | relative_url }}) | <time datetime="2025-12-07T22:53:26.189Z">Mon Dec 08 2025 00:53:26 GMT+0200 (Eastern European Standard Time)</time> |
+| [smooth lounge]({{ "tags/smooth-lounge" | relative_url }}) | <time datetime="2025-12-07T22:52:47.649Z">Mon Dec 08 2025 00:52:47 GMT+0200 (Eastern European Standard Time)</time> |
+| [charts]({{ "tags/charts" | relative_url }}) | <time datetime="2025-12-07T22:37:31.167Z">Mon Dec 08 2025 00:37:31 GMT+0200 (Eastern European Standard Time)</time> |
+| [male singer songwriter]({{ "tags/male-singer-songwriter" | relative_url }}) | <time datetime="2025-12-07T22:36:48.087Z">Mon Dec 08 2025 00:36:48 GMT+0200 (Eastern European Standard Time)</time> |
+| [operette]({{ "tags/operette" | relative_url }}) | <time datetime="2025-12-07T22:19:27.267Z">Mon Dec 08 2025 00:19:27 GMT+0200 (Eastern European Standard Time)</time> |
+| [england]({{ "tags/england" | relative_url }}) | <time datetime="2025-12-07T22:02:17.860Z">Mon Dec 08 2025 00:02:17 GMT+0200 (Eastern European Standard Time)</time> |
+| [balkan]({{ "tags/balkan" | relative_url }}) | <time datetime="2025-12-07T21:44:14.983Z">Sun Dec 07 2025 23:44:14 GMT+0200 (Eastern European Standard Time)</time> |
+| [gypsy]({{ "tags/gypsy" | relative_url }}) | <time datetime="2025-12-07T21:44:09.481Z">Sun Dec 07 2025 23:44:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [canada]({{ "tags/canada" | relative_url }}) | <time datetime="2025-12-07T21:28:04.069Z">Sun Dec 07 2025 23:28:04 GMT+0200 (Eastern European Standard Time)</time> |
 | [uutta jazzia]({{ "tags/uutta-jazzia" | relative_url }}) | <time datetime="2025-12-07T21:27:57.832Z">Sun Dec 07 2025 23:27:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [lounge uptempo]({{ "tags/lounge-uptempo" | relative_url }}) | <time datetime="2025-12-07T21:27:26.095Z">Sun Dec 07 2025 23:27:26 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1383,11 +1392,3 @@ Last updated: <time datetime="2025-12-07T21:28:04.069Z">Sun Dec 07 2025 23:28:04
 | [noise rock]({{ "tags/noise-rock" | relative_url }}) | <time datetime="2025-12-05T04:36:47.470Z">Fri Dec 05 2025 06:36:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [british underground]({{ "tags/british-underground" | relative_url }}) | <time datetime="2025-12-05T04:36:13.462Z">Fri Dec 05 2025 06:36:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [france]({{ "tags/france" | relative_url }}) | <time datetime="2025-12-05T04:36:07.401Z">Fri Dec 05 2025 06:36:07 GMT+0200 (Eastern European Standard Time)</time> |
-| [fantasy ambient]({{ "tags/fantasy-ambient" | relative_url }}) | <time datetime="2025-12-05T04:36:02.153Z">Fri Dec 05 2025 06:36:02 GMT+0200 (Eastern European Standard Time)</time> |
-| [stoner doom]({{ "tags/stoner-doom" | relative_url }}) | <time datetime="2025-12-05T04:35:57.010Z">Fri Dec 05 2025 06:35:57 GMT+0200 (Eastern European Standard Time)</time> |
-| [smooth lounge]({{ "tags/smooth-lounge" | relative_url }}) | <time datetime="2025-12-05T04:35:51.487Z">Fri Dec 05 2025 06:35:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [male singer songwriter]({{ "tags/male-singer-songwriter" | relative_url }}) | <time datetime="2025-12-05T04:35:26.239Z">Fri Dec 05 2025 06:35:26 GMT+0200 (Eastern European Standard Time)</time> |
-| [operette]({{ "tags/operette" | relative_url }}) | <time datetime="2025-12-05T04:35:20.881Z">Fri Dec 05 2025 06:35:20 GMT+0200 (Eastern European Standard Time)</time> |
-| [england]({{ "tags/england" | relative_url }}) | <time datetime="2025-12-05T04:35:15.377Z">Fri Dec 05 2025 06:35:15 GMT+0200 (Eastern European Standard Time)</time> |
-| [balkan]({{ "tags/balkan" | relative_url }}) | <time datetime="2025-12-05T04:35:09.967Z">Fri Dec 05 2025 06:35:09 GMT+0200 (Eastern European Standard Time)</time> |
-| [gypsy]({{ "tags/gypsy" | relative_url }}) | <time datetime="2025-12-05T04:35:03.655Z">Fri Dec 05 2025 06:35:03 GMT+0200 (Eastern European Standard Time)</time> |
