@@ -1,18 +1,25 @@
 ---
 category: list
-date: 2025-12-07T20:38:24.968Z
+date: 2025-12-07T21:28:04.069Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-07T20:38:24.968Z">Sun Dec 07 2025 22:38:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T21:28:04.069Z">Sun Dec 07 2025 23:28:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [canada]({{ "tags/canada" | relative_url }}) | <time datetime="2025-12-07T21:28:04.069Z">Sun Dec 07 2025 23:28:04 GMT+0200 (Eastern European Standard Time)</time> |
+| [uutta jazzia]({{ "tags/uutta-jazzia" | relative_url }}) | <time datetime="2025-12-07T21:27:57.832Z">Sun Dec 07 2025 23:27:57 GMT+0200 (Eastern European Standard Time)</time> |
+| [lounge uptempo]({{ "tags/lounge-uptempo" | relative_url }}) | <time datetime="2025-12-07T21:27:26.095Z">Sun Dec 07 2025 23:27:26 GMT+0200 (Eastern European Standard Time)</time> |
+| [chanson]({{ "tags/chanson" | relative_url }}) | <time datetime="2025-12-07T21:11:26.567Z">Sun Dec 07 2025 23:11:26 GMT+0200 (Eastern European Standard Time)</time> |
+| [musique concrete]({{ "tags/musique-concrete" | relative_url }}) | <time datetime="2025-12-07T21:10:53.194Z">Sun Dec 07 2025 23:10:53 GMT+0200 (Eastern European Standard Time)</time> |
+| [acid lounge]({{ "tags/acid-lounge" | relative_url }}) | <time datetime="2025-12-07T21:10:45.515Z">Sun Dec 07 2025 23:10:45 GMT+0200 (Eastern European Standard Time)</time> |
+| [groove lounge]({{ "tags/groove-lounge" | relative_url }}) | <time datetime="2025-12-07T20:53:57.338Z">Sun Dec 07 2025 22:53:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [baroque francais]({{ "tags/baroque-francais" | relative_url }}) | <time datetime="2025-12-07T20:38:24.968Z">Sun Dec 07 2025 22:38:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [melodic techno]({{ "tags/melodic-techno" | relative_url }}) | <time datetime="2025-12-07T20:37:54.387Z">Sun Dec 07 2025 22:37:54 GMT+0200 (Eastern European Standard Time)</time> |
 | [depressive rock]({{ "tags/depressive-rock" | relative_url }}) | <time datetime="2025-12-07T20:05:10.719Z">Sun Dec 07 2025 22:05:10 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1384,10 +1391,3 @@ Last updated: <time datetime="2025-12-07T20:38:24.968Z">Sun Dec 07 2025 22:38:24
 | [england]({{ "tags/england" | relative_url }}) | <time datetime="2025-12-05T04:35:15.377Z">Fri Dec 05 2025 06:35:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [balkan]({{ "tags/balkan" | relative_url }}) | <time datetime="2025-12-05T04:35:09.967Z">Fri Dec 05 2025 06:35:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [gypsy]({{ "tags/gypsy" | relative_url }}) | <time datetime="2025-12-05T04:35:03.655Z">Fri Dec 05 2025 06:35:03 GMT+0200 (Eastern European Standard Time)</time> |
-| [canada]({{ "tags/canada" | relative_url }}) | <time datetime="2025-12-05T04:34:37.764Z">Fri Dec 05 2025 06:34:37 GMT+0200 (Eastern European Standard Time)</time> |
-| [uutta jazzia]({{ "tags/uutta-jazzia" | relative_url }}) | <time datetime="2025-12-05T04:34:32.235Z">Fri Dec 05 2025 06:34:32 GMT+0200 (Eastern European Standard Time)</time> |
-| [lounge uptempo]({{ "tags/lounge-uptempo" | relative_url }}) | <time datetime="2025-12-05T04:34:26.286Z">Fri Dec 05 2025 06:34:26 GMT+0200 (Eastern European Standard Time)</time> |
-| [chanson]({{ "tags/chanson" | relative_url }}) | <time datetime="2025-12-05T04:34:19.517Z">Fri Dec 05 2025 06:34:19 GMT+0200 (Eastern European Standard Time)</time> |
-| [musique concrete]({{ "tags/musique-concrete" | relative_url }}) | <time datetime="2025-12-05T04:34:13.465Z">Fri Dec 05 2025 06:34:13 GMT+0200 (Eastern European Standard Time)</time> |
-| [acid lounge]({{ "tags/acid-lounge" | relative_url }}) | <time datetime="2025-12-05T04:33:40.303Z">Fri Dec 05 2025 06:33:40 GMT+0200 (Eastern European Standard Time)</time> |
-| [groove lounge]({{ "tags/groove-lounge" | relative_url }}) | <time datetime="2025-12-05T04:33:34.153Z">Fri Dec 05 2025 06:33:34 GMT+0200 (Eastern European Standard Time)</time> |
