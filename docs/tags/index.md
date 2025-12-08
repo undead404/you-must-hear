@@ -1,18 +1,23 @@
 ---
 category: list
-date: 2025-12-08T03:22:45.238Z
+date: 2025-12-08T04:32:37.733Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-08T03:22:45.238Z">Mon Dec 08 2025 05:22:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T04:32:37.733Z">Mon Dec 08 2025 06:32:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [polish black metal]({{ "tags/polish-black-metal" | relative_url }}) | <time datetime="2025-12-08T04:32:37.733Z">Mon Dec 08 2025 06:32:37 GMT+0200 (Eastern European Standard Time)</time> |
+| [russian emo]({{ "tags/russian-emo" | relative_url }}) | <time datetime="2025-12-08T04:32:30.642Z">Mon Dec 08 2025 06:32:30 GMT+0200 (Eastern European Standard Time)</time> |
+| [peruvian]({{ "tags/peruvian" | relative_url }}) | <time datetime="2025-12-08T04:01:32.486Z">Mon Dec 08 2025 06:01:32 GMT+0200 (Eastern European Standard Time)</time> |
+| [belgian]({{ "tags/belgian" | relative_url }}) | <time datetime="2025-12-08T03:51:20.410Z">Mon Dec 08 2025 05:51:20 GMT+0200 (Eastern European Standard Time)</time> |
+| [latin rock]({{ "tags/latin-rock" | relative_url }}) | <time datetime="2025-12-08T03:41:08.060Z">Mon Dec 08 2025 05:41:08 GMT+0200 (Eastern European Standard Time)</time> |
 | [atmospheric rock]({{ "tags/atmospheric-rock" | relative_url }}) | <time datetime="2025-12-08T03:22:45.238Z">Mon Dec 08 2025 05:22:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [mucajai]({{ "tags/mucajai" | relative_url }}) | <time datetime="2025-12-08T03:22:38.419Z">Mon Dec 08 2025 05:22:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [tekno]({{ "tags/tekno" | relative_url }}) | <time datetime="2025-12-08T03:20:24.388Z">Mon Dec 08 2025 05:20:24 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1387,8 +1392,3 @@ Last updated: <time datetime="2025-12-08T03:22:45.238Z">Mon Dec 08 2025 05:22:45
 | [darkpsy]({{ "tags/darkpsy" | relative_url }}) | <time datetime="2025-12-05T04:44:16.687Z">Fri Dec 05 2025 06:44:16 GMT+0200 (Eastern European Standard Time)</time> |
 | [post-industrial]({{ "tags/post-industrial" | relative_url }}) | <time datetime="2025-12-05T04:44:11.060Z">Fri Dec 05 2025 06:44:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [caracarai]({{ "tags/caracarai" | relative_url }}) | <time datetime="2025-12-05T04:44:04.882Z">Fri Dec 05 2025 06:44:04 GMT+0200 (Eastern European Standard Time)</time> |
-| [polish black metal]({{ "tags/polish-black-metal" | relative_url }}) | <time datetime="2025-12-05T04:43:59.168Z">Fri Dec 05 2025 06:43:59 GMT+0200 (Eastern European Standard Time)</time> |
-| [russian emo]({{ "tags/russian-emo" | relative_url }}) | <time datetime="2025-12-05T04:43:32.782Z">Fri Dec 05 2025 06:43:32 GMT+0200 (Eastern European Standard Time)</time> |
-| [peruvian]({{ "tags/peruvian" | relative_url }}) | <time datetime="2025-12-05T04:43:27.215Z">Fri Dec 05 2025 06:43:27 GMT+0200 (Eastern European Standard Time)</time> |
-| [belgian]({{ "tags/belgian" | relative_url }}) | <time datetime="2025-12-05T04:43:21.739Z">Fri Dec 05 2025 06:43:21 GMT+0200 (Eastern European Standard Time)</time> |
-| [latin rock]({{ "tags/latin-rock" | relative_url }}) | <time datetime="2025-12-05T04:43:16.064Z">Fri Dec 05 2025 06:43:16 GMT+0200 (Eastern European Standard Time)</time> |

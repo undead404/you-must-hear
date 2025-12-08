@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:43:27.215Z
+date: 2025-12-08T04:01:32.486Z
 permalink: tags/peruvian
 title: peruvian
 ---
 
 ## peruvian
 
-Last updated: <time datetime="2025-12-05T04:43:27.215Z">Fri Dec 05 2025 06:43:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T04:01:32.486Z">Mon Dec 08 2025 06:01:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
   </thead>
   <tbody>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc29a595bb3c4851a03cb91251251782.png" alt="Cover for Virgin of the Sun God" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a616fc8ca3018097a78c48e990159b31.png" alt="Cover for Virgin" style="max-width:120px; height:auto;" />
       </td>
@@ -66,25 +66,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>
-          <img src="https://i.discogs.com/iBEjdN4VOcP1r7_VNss4ZtbmC9yd4iIOF8SC-GmLRhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTUx/NTYtMTQyMTg5MDk2/MS02MjY5LmpwZWc.jpeg" alt="Cover for Fabriclive 17: Aim" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1971</td>
-      <td>Telegraph Avenue</td>
-      <td>Fabriclive 17: Aim</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
+      <td>6</td>
       <td>
       </td>
       <td>1971</td>
@@ -101,7 +83,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f11bc923365628d70414c24ec176bc5b.png" alt="Cover for Black Sugar" style="max-width:120px; height:auto;" />
       </td>
@@ -122,7 +104,43 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/iBEjdN4VOcP1r7_VNss4ZtbmC9yd4iIOF8SC-GmLRhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTUx/NTYtMTQyMTg5MDk2/MS02MjY5LmpwZWc.jpeg" alt="Cover for Fabriclive 17: Aim" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Telegraph Avenue</td>
+      <td>Fabriclive 17: Aim</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/UK_9kfZMu3aOCcKM3JMx4JT5HJPhcvK0gFElaKovcRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTc2/MjQ0LTE1OTQwNDM3/MjMtMjI4Ni5qcGVn.jpeg" alt="Cover for Something Going" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Telegraph Avenue</td>
+      <td>Something Going</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/749405f3f5ab46b1c66d692da24fdc71.png" alt="Cover for Traditional Music of Peru" style="max-width:120px; height:auto;" />
       </td>
@@ -145,25 +163,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-          <img src="https://i.discogs.com/UK_9kfZMu3aOCcKM3JMx4JT5HJPhcvK0gFElaKovcRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTc2/MjQ0LTE1OTQwNDM3/MjMtMjI4Ni5qcGVn.jpeg" alt="Cover for Something Going" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1972</td>
-      <td>Telegraph Avenue</td>
-      <td>Something Going</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
       </td>
       <td>1973</td>
@@ -183,7 +183,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f577967131717f347a2c72cf35f91731.png" alt="Cover for Black Sugar II" style="max-width:120px; height:auto;" />
       </td>
@@ -203,7 +203,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/845ffb74dbcd4b9cc6c7224e5fadf9e4.png" alt="Cover for Music of Peru" style="max-width:120px; height:auto;" />
       </td>
@@ -227,29 +227,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>58</td>
-      <td>
-          <img src="https://i.discogs.com/n0RBBTZ3N--IlRQKjw6sYDottJnH9RLgriFlBS0mjLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzYx/MzMtMTQ3Nzc5ODUx/MS02MzI0LmpwZWc.jpeg" alt="Cover for Villancicos" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1981</td>
-      <td>Los Niños Cantores de Huaraz</td>
-      <td>Villancicos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/natal" | relative_url }}">natal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peru" | relative_url }}">peru</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 29</li>
-            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/V5A7C-f2dwpIphaADUZqOGmZrGiNJgcuEZaUrhQlDKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDky/MjQzLTE2NTQ1NzI4/NTAtOTQ0NS5qcGVn.jpeg" alt="Cover for The Roots Of Chicha: Psychedelic Cumbias From Peru" style="max-width:120px; height:auto;" />
       </td>
@@ -271,7 +249,29 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/n0RBBTZ3N--IlRQKjw6sYDottJnH9RLgriFlBS0mjLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzYx/MzMtMTQ3Nzc5ODUx/MS02MzI0LmpwZWc.jpeg" alt="Cover for Villancicos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Los Niños Cantores de Huaraz</td>
+      <td>Villancicos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/natal" | relative_url }}">natal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peru" | relative_url }}">peru</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 29</li>
+            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98a7b4068cd049f7a96bea0ab053c546.png" alt="Cover for Avenida Larco" style="max-width:120px; height:auto;" />
       </td>
@@ -290,7 +290,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44cf88405c0f41f9a53505bf4102a4a4.png" alt="Cover for Serranio" style="max-width:120px; height:auto;" />
       </td>
@@ -309,7 +309,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/913c9d41eeff6273d6031f337555994a.png" alt="Cover for Mountain Music of Peru, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -326,7 +326,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/mYFIYcaCa1IkzUXhiFY5UmYKDIUMLB27o5v-I1znswg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIw/NjM4LTE1MTAyMzIw/NTYtNjc4NS5qcGVn.jpeg" alt="Cover for No Accent" style="max-width:120px; height:auto;" />
       </td>
@@ -345,45 +345,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>
-          <img src="https://i.discogs.com/tRPWdEUcbtgZklkcJeBxJa3F-Mbl8GusuVhVllcYFkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzEz/NjktMTMyMzI5ODEz/My5qcGVn.jpeg" alt="Cover for Alex Acuña &amp; The Unknowns" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Alex Acuña &amp; The Unknowns</td>
-      <td>Alex Acuña &amp; The Unknowns</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61062bf33d384dd083c1bf4f7906837a.png" alt="Cover for The Complete Yma Sumac" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Yma Sumac</td>
-      <td>The Complete Yma Sumac</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/PM8k9K9o6_-m4SLuDkblGObkUtEygMs8F9BTNZ_EWFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAz/NjczLTE0OTg3OTM1/MzYtNDgyNS5qcGVn.jpeg" alt="Cover for Con el Respeto que se Merecen" style="max-width:120px; height:auto;" />
       </td>
@@ -402,13 +364,51 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/P7_UmihpqY_LmQeYrouYmudG1WFeo9THyUCbpsazLAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/NzU1LTE1NzU1MTc5/NDMtMjc5OC5qcGVn.jpeg" alt="Cover for Todo el Año Es Navidad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61062bf33d384dd083c1bf4f7906837a.png" alt="Cover for The Complete Yma Sumac" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Yma Sumac</td>
+      <td>The Complete Yma Sumac</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/tRPWdEUcbtgZklkcJeBxJa3F-Mbl8GusuVhVllcYFkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzEz/NjktMTMyMzI5ODEz/My5qcGVn.jpeg" alt="Cover for Alex Acuña &amp; The Unknowns" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Alex Acuña &amp; The Unknowns</td>
+      <td>Alex Acuña &amp; The Unknowns</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/P7_UmihpqY_LmQeYrouYmudG1WFeo9THyUCbpsazLAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/NzU1LTE1NzU1MTc5/NDMtMjc5OC5qcGVn.jpeg" alt="Cover for Los Toribianitos" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Los Toribianitos</td>
-      <td>Todo el Año Es Navidad</td>
+      <td>Los Toribianitos</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/natal" | relative_url }}">natal</a></li>
@@ -418,13 +418,13 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 16</li>
-            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 49</li>
+            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 6</li>
+            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/056ff4b2276cda47e598d98edd97cbc6.png" alt="Cover for Frágil" style="max-width:120px; height:auto;" />
       </td>
@@ -454,13 +454,13 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/P7_UmihpqY_LmQeYrouYmudG1WFeo9THyUCbpsazLAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/NzU1LTE1NzU1MTc5/NDMtMjc5OC5qcGVn.jpeg" alt="Cover for Los Toribianitos" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/P7_UmihpqY_LmQeYrouYmudG1WFeo9THyUCbpsazLAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/NzU1LTE1NzU1MTc5/NDMtMjc5OC5qcGVn.jpeg" alt="Cover for Todo el Año Es Navidad" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Los Toribianitos</td>
-      <td>Los Toribianitos</td>
+      <td>Todo el Año Es Navidad</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/natal" | relative_url }}">natal</a></li>
@@ -470,31 +470,13 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 6</li>
-            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 13</li>
+            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 16</li>
+            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-      </td>
-      <td>1992</td>
-      <td>Frágil</td>
-      <td>Cuento Real</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/130D9dnl17avOwc_BVWA-36th76Jwiq-78uN9qF0K-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDU0/NzktMTUyNjQ0MjQ5/Ny00NzYzLnBuZw.jpeg" alt="Cover for INKA BEATS" style="max-width:120px; height:auto;" />
       </td>
@@ -514,7 +496,25 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>74</td>
+      <td>
+      </td>
+      <td>1992</td>
+      <td>Frágil</td>
+      <td>Cuento Real</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/lWbLRnWDxfaXYQJOSA3OUdsKc6TTjQ-XPnP2GGIBP6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzAz/NTgwLTE1MDI3Mjcz/MzctODY2Ni5qcGVn.jpeg" alt="Cover for 11 Porotazos Super Bailables" style="max-width:120px; height:auto;" />
       </td>
@@ -533,7 +533,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/CIAlF_wvy9s15u6KQAZfLfKT_QAFHNChxMerPCcPkRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU3/Mjc0LTE2NTc4NTU1/NzctOTg5MC5qcGVn.jpeg" alt="Cover for No Puedo Esperar" style="max-width:120px; height:auto;" />
       </td>
@@ -565,7 +565,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26fb9dc5f8644f1e9540b993fe69fe57.png" alt="Cover for Pax" style="max-width:120px; height:auto;" />
       </td>
@@ -584,26 +584,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://i.discogs.com/U7a66iAj7vUQr-xdqdByFL28iVo0VLlrEX-dUEbEXII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc0/NzIxLTE2NDcyMjUy/MTMtNzMxNi5qcGVn.jpeg" alt="Cover for Spirit Of Peru - Andean Fusion" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Wayruro</td>
-      <td>Spirit Of Peru - Andean Fusion</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/U7a66iAj7vUQr-xdqdByFL28iVo0VLlrEX-dUEbEXII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc0/NzIxLTE2NDcyMjUy/MTMtNzMxNi5qcGVn.jpeg" alt="Cover for Wayruro" style="max-width:120px; height:auto;" />
       </td>
@@ -622,7 +603,26 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/U7a66iAj7vUQr-xdqdByFL28iVo0VLlrEX-dUEbEXII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc0/NzIxLTE2NDcyMjUy/MTMtNzMxNi5qcGVn.jpeg" alt="Cover for Spirit Of Peru - Andean Fusion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Wayruro</td>
+      <td>Spirit Of Peru - Andean Fusion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
       <td>
       </td>
       <td>1997</td>
@@ -643,44 +643,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-          <img src="https://i.discogs.com/wWcCKdHpnZMFerq0UyQhtp8aPwezH-bUbht2RZ616d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDE4/ODYzLTE3MDA5Mzcz/NzktNTM0My5qcGVn.jpeg" alt="Cover for Back to Peru - The Most Complete Compilation of Peruvian Underground 64-74" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Golden Stars</td>
-      <td>Back to Peru - The Most Complete Compilation of Peruvian Underground 64-74</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c55acfd22d3405ea70d37d001450c8d.png" alt="Cover for The Colors You Make Me Feel" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Pax</td>
-      <td>The Colors You Make Me Feel</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4355d7702dff418f8309f28e0e93a4c4.png" alt="Cover for Alunado" style="max-width:120px; height:auto;" />
       </td>
@@ -699,7 +662,44 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c55acfd22d3405ea70d37d001450c8d.png" alt="Cover for The Colors You Make Me Feel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Pax</td>
+      <td>The Colors You Make Me Feel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/wWcCKdHpnZMFerq0UyQhtp8aPwezH-bUbht2RZ616d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDE4/ODYzLTE3MDA5Mzcz/NzktNTM0My5qcGVn.jpeg" alt="Cover for Back to Peru - The Most Complete Compilation of Peruvian Underground 64-74" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Golden Stars</td>
+      <td>Back to Peru - The Most Complete Compilation of Peruvian Underground 64-74</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/G4k8AfH24s7ubd4tTLqJ_w5IG--cv4VY5YTRg3v8CfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjA3/NjUwLTE2MzE0NTk5/NTQtODUzNC5qcGVn.jpeg" alt="Cover for Beatles Afro Peruvian Jazz Tribute" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +718,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c18b2fe7fd10b9914ddb4e6141cc3ded.png" alt="Cover for Yasijah" style="max-width:120px; height:auto;" />
       </td>
@@ -737,7 +737,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63461277ae8747c6a52801149dcc90f7.png" alt="Cover for Raíz" style="max-width:120px; height:auto;" />
       </td>
@@ -756,7 +756,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/MdeXozvKurXZTCXwaM_SPvdg308lZjDtMDsdkHXqtBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzY3/ODcyLTE2NzAxNzE5/NTQtNzgyMi5qcGVn.jpeg" alt="Cover for Árbol Blanco" style="max-width:120px; height:auto;" />
       </td>
@@ -791,7 +791,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/a5kjaaHzi2YoYLA7QMRt_8dMY4HOMzqwP2cWhzpJSTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODMz/MTctMTU3NTYwMjM2/OS0zNjkxLnBuZw.jpeg" alt="Cover for SIGNOS - Panflutes Melodies" style="max-width:120px; height:auto;" />
       </td>
@@ -809,7 +809,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/0iqxmAqWJ9siLGbRKadLxJ3u_G-am7Z6ATmS5mHgE3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTIz/MzE2LTE1MTc4NjEy/OTEtMjQ2Ny5qcGVn.jpeg" alt="Cover for Afro" style="max-width:120px; height:auto;" />
       </td>
@@ -830,7 +830,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cd33645d6fe2e0c724f63395c7b3f40.png" alt="Cover for novalima" style="max-width:120px; height:auto;" />
       </td>
@@ -850,7 +850,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40c433a39082c9824512dfd4c2339110.png" alt="Cover for La Estación de Barranco 05-jul-2002" style="max-width:120px; height:auto;" />
       </td>
@@ -875,7 +875,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/fWQtSLENnYgd5YUI_jJz3uRKZI3JzIOesxONHP_bU6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQw/MDIwLTE1NDEwNTU5/NTgtNzgxMi5qcGVn.jpeg" alt="Cover for Lima &#x2F; Tokyo &#x2F; Lima" style="max-width:120px; height:auto;" />
       </td>
@@ -894,7 +894,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7eaa344e5a1b602855abaa8763a7cf4.png" alt="Cover for Café Inkaterra" style="max-width:120px; height:auto;" />
       </td>
@@ -914,27 +914,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>69</td>
-      <td>
-          <img src="https://i.discogs.com/lLFbVFHmN4si4LItDqwkG5Gnvg8hLdUy2Vyt-mKV7xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjYz/NzctMTU1ODE4NDI4/Ny0xNzkxLmpwZWc.jpeg" alt="Cover for Diablos Azules" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Diablos Azules</td>
-      <td>Diablos Azules</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peru" | relative_url }}">peru</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 52</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/EmnFLRDH7QC1O7D9itEZ_UdvfKWehE7L4hKFX4xy2Kc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI3/OTIzLTE1OTEzNzQz/MTMtODc2NC5qcGVn.jpeg" alt="Cover for Velocidad" style="max-width:120px; height:auto;" />
       </td>
@@ -970,7 +950,62 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/lLFbVFHmN4si4LItDqwkG5Gnvg8hLdUy2Vyt-mKV7xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjYz/NzctMTU1ODE4NDI4/Ny0xNzkxLmpwZWc.jpeg" alt="Cover for Diablos Azules" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Diablos Azules</td>
+      <td>Diablos Azules</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peru" | relative_url }}">peru</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Traffic Sound</td>
+      <td>Yellow Sea Years</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Los Fuckin Sombreros</td>
+      <td>Tornasol</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec014ff5638617c70dfb8560adc0215c.png" alt="Cover for 10 000 Words" style="max-width:120px; height:auto;" />
       </td>
@@ -989,42 +1024,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>61</td>
-      <td>
-      </td>
-      <td>2005</td>
-      <td>Los Fuckin Sombreros</td>
-      <td>Tornasol</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-      </td>
-      <td>2005</td>
-      <td>Traffic Sound</td>
-      <td>Yellow Sea Years</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19c148a527194f17b02eed0026a8239b.png" alt="Cover for revelación" style="max-width:120px; height:auto;" />
       </td>
@@ -1042,7 +1042,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5a879582489402d8fc85b7db017302e.png" alt="Cover for Elipse" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,7 +1061,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d29f4df7ae1dc51320f2b077ad81051e.png" alt="Cover for Sonoradio" style="max-width:120px; height:auto;" />
       </td>
@@ -1081,7 +1081,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/fmkDoD_ukFAuoe3E98eJ2jrcqGj9KuDjEv8sZ1QE1A0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA4/MDEwLTE1NTU1MTg3/NTItNjUyMS5qcGVn.jpeg" alt="Cover for Live in Space!" style="max-width:120px; height:auto;" />
       </td>
@@ -1100,7 +1100,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/JcJ9zf8o7ttgCn2ESUGcxb2hws76itrk050-cGumwe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE1/MDYtMTQ3NzA2NjQ1/OC04NzE4LmpwZWc.jpeg" alt="Cover for Bailando en el muladar" style="max-width:120px; height:auto;" />
       </td>
@@ -1131,25 +1131,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>
-          <img src="https://i.discogs.com/qByhz6af8HiuaRBc2eOuMsaoZuXz96rhiRQ052TWh9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTk0/OTE5LTE3MDk1MzAw/NDktMTc1Ni5qcGVn.jpeg" alt="Cover for cien grados bajo cero" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Aural Noise</td>
-      <td>cien grados bajo cero</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0170ada23ed4bfbc7fba4f021bce036.png" alt="Cover for El Zafiro de las Galas" style="max-width:120px; height:auto;" />
       </td>
@@ -1168,7 +1150,25 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/qByhz6af8HiuaRBc2eOuMsaoZuXz96rhiRQ052TWh9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTk0/OTE5LTE3MDk1MzAw/NDktMTc1Ni5qcGVn.jpeg" alt="Cover for cien grados bajo cero" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Aural Noise</td>
+      <td>cien grados bajo cero</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/PgUcUEojkh1MwSTzfgCJ3fTASKE8xPHTADN5_ZLB3Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDM5/MjQtMTM2MjMyNzQx/Mi03OTM2LmpwZWc.jpeg" alt="Cover for Telegraph Avenue, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1185,7 +1185,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71562537689390d4d615012a4af34614.png" alt="Cover for Machine Gun" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,7 +1205,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/ZmEHu15bj4epeeU3nkw4jiWdyYlI6FhzkEdFOwa7qiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDM3/MzUtMTQwNTg5NTM0/OC04NjcwLmpwZWc.jpeg" alt="Cover for Autobus" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,7 +1227,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/rhhYCYhoGpn29uoetrOIYDMrMXdymmNA7uKilka2yt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQw/MTE4LTE1NDEwNTk2/MTctOTYxMi5qcGVn.jpeg" alt="Cover for Inflamable" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,7 +1246,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/sxS99oK6qTQt6uQRLUmNhrVWeEgzTFxg9J4ZGt0AOQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NTIzLTE0OTIwMjM1/OTQtNTI2OC5qcGVn.jpeg" alt="Cover for It&#39;s Alive!, Vol I" style="max-width:120px; height:auto;" />
       </td>
@@ -1263,7 +1263,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/OfSWoI6pf8UZ4LYbfs4_e6awilA-i7A2ble9SUQtt2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDEx/ODctMTQwODQ4Nzc0/OS05ODQzLmpwZWc.jpeg" alt="Cover for Odisea Cumbia 3000" style="max-width:120px; height:auto;" />
       </td>
@@ -1283,7 +1283,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/VdurqpVAxfDV4kAbPrOdGLkpnIfjRIeEa06c-mukNBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzU4/MTEwLTE1NTI3MDYz/NzgtNDQxNC5qcGVn.jpeg" alt="Cover for Combi + Nation" style="max-width:120px; height:auto;" />
       </td>
@@ -1302,7 +1302,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/0U1gGKPpcAQOasURZQvJQLo_--Cxhu4bTp9r7_EePwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQx/Mzc3LTE1MTYzOTA5/ODMtNjE5OC5qcGVn.jpeg" alt="Cover for The Imminent Failure of Francois Peglau" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,26 +1320,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-          <img src="https://i.discogs.com/zB7AAQ9oUpZZR14NGE_vck8qdVTYy1oWq0apmAyQ6OU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg3/MzYxLTE1Nzc2NjI5/ODAtODI2MC5qcGVn.jpeg" alt="Cover for Yuyu" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Pauchi Sasaki</td>
-      <td>Yuyu</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/R21ElC2-37DuaPwMB9d1FHVACbjlWuqfngxhGrqAGDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDAy/NjUtMTQzMzcyNzI2/Ni01ODYwLmpwZWc.jpeg" alt="Cover for Fiction Beats" style="max-width:120px; height:auto;" />
       </td>
@@ -1358,7 +1339,26 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/zB7AAQ9oUpZZR14NGE_vck8qdVTYy1oWq0apmAyQ6OU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg3/MzYxLTE1Nzc2NjI5/ODAtODI2MC5qcGVn.jpeg" alt="Cover for Yuyu" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Pauchi Sasaki</td>
+      <td>Yuyu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cc9b26fb9ec40a1b014f5bde1f5b89c.png" alt="Cover for Seres Humanos" style="max-width:120px; height:auto;" />
       </td>
@@ -1378,7 +1378,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6b04cf34f114201c219f316fe0837a2.png" alt="Cover for Pornoise" style="max-width:120px; height:auto;" />
       </td>
@@ -1409,7 +1409,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/c5pdEggwkCcXsU0hcwMdq1TEpP-4JyOrdbb9hHNRR2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzIw/MjMtMTQzMDcxMTQ4/My0zMjM2LmpwZWc.jpeg" alt="Cover for Something More" style="max-width:120px; height:auto;" />
       </td>
@@ -1427,7 +1427,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/VztxH2QZOoyMAqKs2Gtk6hIa10FwwtGPcVVdoa18uZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODc2/MTMtMTU1ODg0NjQx/Ni04MzM4LmpwZWc.jpeg" alt="Cover for Hacia aquellos bosques de inmensidad" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,7 +1452,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c7dfe7f920b477ba24b9006d36239be.png" alt="Cover for The Muertos II" style="max-width:120px; height:auto;" />
       </td>
@@ -1471,7 +1471,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bad42d112e4703e55472c8a18806427e.png" alt="Cover for °°°°°°°" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,7 +1491,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/KBtciknFHayYdaS_uOHxEJLhuDnKXkxrVqW_NCPWTKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTkz/NjI2LTE2NDEyNDMz/MDctNjA4MS5wbmc.jpeg" alt="Cover for Yellow Sea Years 68-71" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,7 +1509,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/UeHyIKSCqNqgN3TnHiMXSVf2U0kiqHJa-phiADeFAuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzU4/MDYwLTE1NTI3MDQx/NzQtMjA5OC5qcGVn.jpeg" alt="Cover for La Teoria De Volar" style="max-width:120px; height:auto;" />
       </td>
@@ -1527,7 +1527,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/pZbeVZvgo_8CC1Mh_FXJZalwGPEnz3yeL_y2foqxxVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Njk4/NzctMTYwNTM5MTcw/My05MjA0LmpwZWc.jpeg" alt="Cover for What You&#39;re Like" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,7 +1545,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/hOP1NYbvkh-Csl0frMjsgjlkUTxV03o3HsJ8-Qsksw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjYw/NTI4LTE1NzExNTI1/NzAtMzUxMi5qcGVn.jpeg" alt="Cover for Astronaut Project" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,7 +1563,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/XjHlO1AbXGLbe7UjiOBzF9S9Oxp35UYK8MYP7YB2rN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDY0/ODQtMTQ3ODk5MjU3/My0xODE1LmpwZWc.jpeg" alt="Cover for Mágico" style="max-width:120px; height:auto;" />
       </td>
@@ -1582,7 +1582,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/YPuzVBGl9L9JFr4YS8kSQmGVzACIqmo1Iny77XrRrYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjEw/MjEtMTQ1ODE2MDEy/Ni03MzQ5LmpwZWc.jpeg" alt="Cover for Cyro" style="max-width:120px; height:auto;" />
       </td>
@@ -1603,7 +1603,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c22abe036b5186981d76997dd1352be9.png" alt="Cover for La Casa No Existe" style="max-width:120px; height:auto;" />
       </td>
@@ -1621,7 +1621,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/qVdUWbhtK6zfvQIUDPqWaIxHId5zpzO3DcnKCT8Kwkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDky/MTcwLTE1MDk3MTgx/NjgtNDUyMC5qcGVn.jpeg" alt="Cover for Signals" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,26 +1642,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>67</td>
-      <td>
-          <img src="https://i.discogs.com/j8-JxbVhS0XT6djIiH6s9rxFAt4zuoH--br6DO63F0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU3/NDg2LTE1MjU0NTg5/ODktNTQxNi5qcGVn.jpeg" alt="Cover for A la mierda lo demas" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018</td>
-      <td>Leusemia</td>
-      <td>A la mierda lo demas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/j8-JxbVhS0XT6djIiH6s9rxFAt4zuoH--br6DO63F0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU3/NDg2LTE1MjU0NTg5/ODktNTQxNi5qcGVn.jpeg" alt="Cover for Al Final de la Calle" style="max-width:120px; height:auto;" />
       </td>
@@ -1680,7 +1661,26 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/j8-JxbVhS0XT6djIiH6s9rxFAt4zuoH--br6DO63F0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU3/NDg2LTE1MjU0NTg5/ODktNTQxNi5qcGVn.jpeg" alt="Cover for A la mierda lo demas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Leusemia</td>
+      <td>A la mierda lo demas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/c-ZKwBZCLjFVDX-9EfTikv_TjkuEuy4OvgPdmUpDC8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE4/OTEwLTE1MjEyMTQx/NDEtMzMwOS5qcGVn.jpeg" alt="Cover for Pax Moriendi" style="max-width:120px; height:auto;" />
       </td>
@@ -1701,27 +1701,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f35d40b61c9a6d73fa2b24b2c2b0458.png" alt="Cover for Masken" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-04-16</td>
-      <td>Laikamorí</td>
-      <td>Masken</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdbbe68dbdbbefde1ef517fead424cf1.png" alt="Cover for Persōna" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,7 +1721,27 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f35d40b61c9a6d73fa2b24b2c2b0458.png" alt="Cover for Masken" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-04-16</td>
+      <td>Laikamorí</td>
+      <td>Masken</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c50241a9cade8a316fd982f4ea64ee40.png" alt="Cover for Actitud Modulada" style="max-width:120px; height:auto;" />
       </td>
@@ -1760,7 +1760,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5369b4b830d6e707b10aa4a324d828d.png" alt="Cover for El mundo acaba contigo" style="max-width:120px; height:auto;" />
       </td>
@@ -1779,25 +1779,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/sYqmKmbvvHI-Q-FmR673IfQsmljVlUp0sHr0XQZcXBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYw/MDkzLTE1OTU0MjU3/ODgtOTQxNi5qcGVn.jpeg" alt="Cover for Panspermia" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019</td>
-      <td>Astronaut Project</td>
-      <td>Panspermia</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/iZRJMjX9pkgPOn002gJbdvXjCeZwY1Y-zqYhtI0aqSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODgx/NTQzLTE2MzYyNDk4/ODAtNTE4Ny5qcGVn.jpeg" alt="Cover for Actitud Modulada II" style="max-width:120px; height:auto;" />
       </td>
@@ -1816,7 +1798,25 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/sYqmKmbvvHI-Q-FmR673IfQsmljVlUp0sHr0XQZcXBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYw/MDkzLTE1OTU0MjU3/ODgtOTQxNi5qcGVn.jpeg" alt="Cover for Panspermia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Astronaut Project</td>
+      <td>Panspermia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/oNZMx9reUVJscfabMP6owfWYAWO81ycVUoatmbQGCfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI3/Mjg2LTE1NTM5OTIy/NTItMTE1NC5wbmc.jpeg" alt="Cover for Peru&#39;s Master Percussionist" style="max-width:120px; height:auto;" />
       </td>
@@ -1835,25 +1835,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-          <img src="https://i.discogs.com/8jh3k0qdbZeg6mYdRx0fn7Mm4RHy_wBUs6_bB4f9uPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTM1/ODgyLTE2MTk4MjM3/MjUtMjkyMC5qcGVn.jpeg" alt="Cover for Hijos del Culto" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020</td>
-      <td>Los Hijos Del Culto</td>
-      <td>Hijos del Culto</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/TssUK8wfC7ZDOorST7lUusbRpNDVEJzZRdwYu3zZ-xQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTE4/NDI2LTE2MzM3MDk4/ODItNDAxMy5qcGVn.jpeg" alt="Cover for Laboratorio V01" style="max-width:120px; height:auto;" />
       </td>
@@ -1873,7 +1855,25 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/8jh3k0qdbZeg6mYdRx0fn7Mm4RHy_wBUs6_bB4f9uPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTM1/ODgyLTE2MTk4MjM3/MjUtMjkyMC5qcGVn.jpeg" alt="Cover for Hijos del Culto" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020</td>
+      <td>Los Hijos Del Culto</td>
+      <td>Hijos del Culto</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b79c6359082eece13f38730872db4a06.png" alt="Cover for Isqun" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,7 +1895,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/DVE-szzOMdddjh2rgNh5_cY46I-0RAh79tzpC11QH3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODU4/Njg5LTE2NjYxMTk1/NTQtMzQyNC5qcGVn.jpeg" alt="Cover for Jungle City" style="max-width:120px; height:auto;" />
       </td>
@@ -1914,7 +1914,7 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/894f9f031e31417ec12fbb438891107c.png" alt="Cover for Demo 2007" style="max-width:120px; height:auto;" />
       </td>
@@ -1938,50 +1938,12 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
-      <td>Seeking Ithaca</td>
-      <td>The Opium Of The Masses</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Gabriel Alegria Afro-Pervuain Sextet</td>
-      <td>Afro-Peruvian Jazz Secrets (El Secreto del Jazz Afroperuano)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Peru Music Ensemble</td>
-      <td>Peruvian Music - Peru Music and The Spirit of Peru</td>
+      <td>Chullos</td>
+      <td>Al fin te encontre</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
@@ -1993,7 +1955,24 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>52</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Daniel &amp; The Dead End</td>
+      <td>This Ain&#39;t Background Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
       </td>
       <td></td>
@@ -2011,12 +1990,12 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>72</td>
       <td>
       </td>
       <td></td>
-      <td>Daniel &amp; The Dead End</td>
-      <td>This Ain&#39;t Background Music</td>
+      <td>Peru Music Ensemble</td>
+      <td>Peruvian Music - Peru Music and The Spirit of Peru</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
@@ -2028,14 +2007,35 @@ Peruvian music is a rich blend of Andean, Spanish, and African roots. It is char
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>73</td>
       <td>
       </td>
       <td></td>
-      <td>Chullos</td>
-      <td>Al fin te encontre</td>
+      <td>Gabriel Alegria Afro-Pervuain Sextet</td>
+      <td>Afro-Peruvian Jazz Secrets (El Secreto del Jazz Afroperuano)</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Seeking Ithaca</td>
+      <td>The Opium Of The Masses</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
         </ul>
       </td>
