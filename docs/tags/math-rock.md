@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:37:51.201Z
+date: 2025-12-07T23:46:11.406Z
 permalink: tags/math-rock
 title: math rock
 ---
 
 ## math rock
 
-Last updated: <time datetime="2025-12-05T04:37:51.201Z">Fri Dec 05 2025 06:37:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T23:46:11.406Z">Mon Dec 08 2025 01:46:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1557,9 +1557,9 @@ Math rock is a subgenre of rock music that originated in the late 1980s and earl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 4</li>
             <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 15</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 25</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1605,10 +1605,10 @@ Math rock is a subgenre of rock music that originated in the late 1980s and earl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 1</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 1</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 5</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 12</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 100</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 100</li>
         </ul>
       </td>
     </tr>

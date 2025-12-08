@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:39:25.386Z
+date: 2025-12-08T00:22:53.199Z
 permalink: tags/rawstyle
 title: rawstyle
 ---
 
 ## rawstyle
 
-Last updated: <time datetime="2025-12-05T04:39:25.386Z">Fri Dec 05 2025 06:39:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T00:22:53.199Z">Mon Dec 08 2025 02:22:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 

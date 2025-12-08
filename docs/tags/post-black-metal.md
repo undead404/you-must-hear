@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:40:15.703Z
+date: 2025-12-08T00:51:33.944Z
 permalink: tags/post-black-metal
 title: post-black metal
 ---
 
 ## post-black metal
 
-Last updated: <time datetime="2025-12-05T04:40:15.703Z">Fri Dec 05 2025 06:40:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T00:51:33.944Z">Mon Dec 08 2025 02:51:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -202,27 +202,27 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 9</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 10</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 11</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 15</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 15</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 15</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 15</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 16</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 19</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 25</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 27</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 32</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 32</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 32</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 32</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 33</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 36</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 37</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 46</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 46</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 48</li>
             <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 53</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 53</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 69</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 56</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 77</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 83</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 85</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 86</li>
             <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 98</li>
         </ul>
       </td>
@@ -343,38 +343,38 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 10</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 12</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 14</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 14</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 16</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 16</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 16</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 18</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 19</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 27</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 29</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 32</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 33</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 35</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 35</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 37</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 38</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 40</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 46</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 47</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 53</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 53</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 54</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 55</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 58</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 69</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 71</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 79</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 86</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 92</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -414,24 +414,24 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 15</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 18</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 19</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 20</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 22</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 22</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 25</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 25</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 26</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 28</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 35</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 37</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 39</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 42</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 43</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 48</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 49</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 50</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 52</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 53</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 63</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 63</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 75</li>
             <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 76</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 81</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 96</li>
         </ul>
       </td>
@@ -1650,7 +1650,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 80</li>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1764,8 +1764,8 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 3</li>
             <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 12</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 34</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 60</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 68</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 80</li>
         </ul>
       </td>
@@ -1871,7 +1871,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 33</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 54</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1973,7 +1973,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 5</li>
         </ul>
       </td>
     </tr>
