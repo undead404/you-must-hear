@@ -1,18 +1,25 @@
 ---
 category: list
-date: 2025-12-07T18:25:27.385Z
+date: 2025-12-07T19:16:34.717Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-07T18:25:27.385Z">Sun Dec 07 2025 20:25:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T19:16:34.717Z">Sun Dec 07 2025 21:16:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [technical brutal death metal]({{ "tags/technical-brutal-death-metal" | relative_url }}) | <time datetime="2025-12-07T19:16:34.717Z">Sun Dec 07 2025 21:16:34 GMT+0200 (Eastern European Standard Time)</time> |
+| [new zealand]({{ "tags/new-zealand" | relative_url }}) | <time datetime="2025-12-07T19:16:28.604Z">Sun Dec 07 2025 21:16:28 GMT+0200 (Eastern European Standard Time)</time> |
+| [beat]({{ "tags/beat" | relative_url }}) | <time datetime="2025-12-07T19:15:56.217Z">Sun Dec 07 2025 21:15:56 GMT+0200 (Eastern European Standard Time)</time> |
+| [english]({{ "tags/english" | relative_url }}) | <time datetime="2025-12-07T18:59:30.936Z">Sun Dec 07 2025 20:59:30 GMT+0200 (Eastern European Standard Time)</time> |
+| [sweden]({{ "tags/sweden" | relative_url }}) | <time datetime="2025-12-07T18:42:47.279Z">Sun Dec 07 2025 20:42:47 GMT+0200 (Eastern European Standard Time)</time> |
+| [eai]({{ "tags/eai" | relative_url }}) | <time datetime="2025-12-07T18:42:38.938Z">Sun Dec 07 2025 20:42:38 GMT+0200 (Eastern European Standard Time)</time> |
+| [electronic lounge jazz]({{ "tags/electronic-lounge-jazz" | relative_url }}) | <time datetime="2025-12-07T18:26:02.632Z">Sun Dec 07 2025 20:26:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [hindustani]({{ "tags/hindustani" | relative_url }}) | <time datetime="2025-12-07T18:25:27.385Z">Sun Dec 07 2025 20:25:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [macedonian]({{ "tags/macedonian" | relative_url }}) | <time datetime="2025-12-07T18:25:20.579Z">Sun Dec 07 2025 20:25:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [ebm]({{ "tags/ebm" | relative_url }}) | <time datetime="2025-12-07T18:09:10.479Z">Sun Dec 07 2025 20:09:10 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1384,10 +1391,3 @@ Last updated: <time datetime="2025-12-07T18:25:27.385Z">Sun Dec 07 2025 20:25:27
 | [iceland]({{ "tags/iceland" | relative_url }}) | <time datetime="2025-12-05T04:27:15.163Z">Fri Dec 05 2025 06:27:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [pacific]({{ "tags/pacific" | relative_url }}) | <time datetime="2025-12-05T04:27:09.836Z">Fri Dec 05 2025 06:27:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [chamber rock]({{ "tags/chamber-rock" | relative_url }}) | <time datetime="2025-12-05T04:27:05.387Z">Fri Dec 05 2025 06:27:05 GMT+0200 (Eastern European Standard Time)</time> |
-| [technical brutal death metal]({{ "tags/technical-brutal-death-metal" | relative_url }}) | <time datetime="2025-12-05T04:26:49.799Z">Fri Dec 05 2025 06:26:49 GMT+0200 (Eastern European Standard Time)</time> |
-| [new zealand]({{ "tags/new-zealand" | relative_url }}) | <time datetime="2025-12-05T04:26:42.818Z">Fri Dec 05 2025 06:26:42 GMT+0200 (Eastern European Standard Time)</time> |
-| [beat]({{ "tags/beat" | relative_url }}) | <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15 GMT+0200 (Eastern European Standard Time)</time> |
-| [english]({{ "tags/english" | relative_url }}) | <time datetime="2025-12-05T04:26:09.802Z">Fri Dec 05 2025 06:26:09 GMT+0200 (Eastern European Standard Time)</time> |
-| [sweden]({{ "tags/sweden" | relative_url }}) | <time datetime="2025-12-05T04:26:04.555Z">Fri Dec 05 2025 06:26:04 GMT+0200 (Eastern European Standard Time)</time> |
-| [eai]({{ "tags/eai" | relative_url }}) | <time datetime="2025-12-05T04:25:58.756Z">Fri Dec 05 2025 06:25:58 GMT+0200 (Eastern European Standard Time)</time> |
-| [electronic lounge jazz]({{ "tags/electronic-lounge-jazz" | relative_url }}) | <time datetime="2025-12-05T04:25:52.121Z">Fri Dec 05 2025 06:25:52 GMT+0200 (Eastern European Standard Time)</time> |

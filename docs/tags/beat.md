@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:26:15.191Z
+date: 2025-12-07T19:15:56.217Z
 permalink: tags/beat
 title: beat
 ---
 
 ## beat
 
-Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T19:15:56.217Z">Sun Dec 07 2025 21:15:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
   </thead>
   <tbody>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/sAB1g0XIE0vH4UybSXzO51MDi-QIqU_g8_bwi5HNOUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzQ1/ODItMTM2NDYyODMy/Ny0xNjQ2LmpwZWc.jpeg" alt="Cover for She Loves You" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/BM7ULIgGq8EC0YCCxYHSvlzvLZr56YdEahqPWX_M0c8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQ2/ODQ5LTE1MDM1Njc0/NjctMzUwMy5qcGVn.jpeg" alt="Cover for I Want to Hold Your Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/ZwY39GTgCGcsGTYoyzDaYSw4jXU0y0U6OFp2RIZX8vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODE2/NjUtMTQ3MDcxNzUw/Ny05NTMzLmpwZWc.jpeg" alt="Cover for Please Please Me&#x2F;With The Beatles&#x2F;From Me To You&#x2F;She Loves You" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/abcda5930d4a41659da76a6285c1b469.png" alt="Cover for The Magnificent Moodies" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +106,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/CyCHztqOzY8fmD1fq1A9Fd5P_RIqJge77b5xs8_EBXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkw/NjQtMTUzNTk1NDIz/NC04MDM4LmpwZWc.jpeg" alt="Cover for Sugar And Spice" style="max-width:120px; height:auto;" />
       </td>
@@ -127,7 +127,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/XqVxMB3WimD9KgSzBM8S8fFy6Ul8ju6nbpsdru4YPoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjYz/NTItMTQyMTIzNDY0/NS00NjY0LmpwZWc.jpeg" alt="Cover for The Legend Of Dave Dee, Dozy, Beaky, Mick &amp; Tich" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +144,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b8b3ad201b3778c9a03b42a8aa60d5b.png" alt="Cover for Friday on My Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -166,7 +166,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
       </td>
       <td>1968</td>
@@ -187,7 +187,31 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d035d8b3875fae587b05bb6cefe21ec.png" alt="Cover for Cała Jesteś W Skowronkach" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969</td>
+      <td>Skaldowie</td>
+      <td>Cała Jesteś W Skowronkach</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ae09ae547ed7983ac49eb7aa86ab3cb.png" alt="Cover for Metro" style="max-width:120px; height:auto;" />
       </td>
@@ -209,31 +233,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>90</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d035d8b3875fae587b05bb6cefe21ec.png" alt="Cover for Cała Jesteś W Skowronkach" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1969</td>
-      <td>Skaldowie</td>
-      <td>Cała Jesteś W Skowronkach</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>35</td>
       <td>
       </td>
       <td>1973</td>
@@ -246,12 +246,12 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 82</li>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>36</td>
       <td>
       </td>
       <td>1973</td>
@@ -264,12 +264,12 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 83</li>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b3633c9f6bb43a3836e00f09e2b1bf4.png" alt="Cover for Jedeme jedeme" style="max-width:120px; height:auto;" />
       </td>
@@ -289,25 +289,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f35707287b8dfc798b23a96b363ebcf1.png" alt="Cover for Louie Vega - Choice , A Collection Of Classics" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Idris Muhammad</td>
-      <td>Louie Vega - Choice , A Collection Of Classics</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 50</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90272adc27521962abde268b5753ee69.png" alt="Cover for Turn This Mutha Out" style="max-width:120px; height:auto;" />
       </td>
@@ -326,7 +308,25 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f35707287b8dfc798b23a96b363ebcf1.png" alt="Cover for Louie Vega - Choice , A Collection Of Classics" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Idris Muhammad</td>
+      <td>Louie Vega - Choice , A Collection Of Classics</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/155be285586540f4c06e0c8df05ef45b.png" alt="Cover for 1962-1966 (Red Album)" style="max-width:120px; height:auto;" />
       </td>
@@ -344,7 +344,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/kX1IO9A1O60gu5cXu_phTiFHF7bSF8Sf7_Yz6J0Ghck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTM5/ODQtMTYwODIwNDQ4/MS03MTA3LmpwZWc.jpeg" alt="Cover for We Gotta Get Out Of This Place" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +367,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/Ol5MN5yHQ1aGnCRh5MJudW8YOFKrt2ntwUUfeyGIMHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODU3/MzktMTU4NDg5NjQy/OS01NTM4LmpwZWc.jpeg" alt="Cover for Edison Lighthouse" style="max-width:120px; height:auto;" />
       </td>
@@ -387,7 +387,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85952249d774656bd9649ef9e1606632.png" alt="Cover for Smiley Smile&#x2F;Wild Honey" style="max-width:120px; height:auto;" />
       </td>
@@ -411,7 +411,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/GZD-m2a3rQ_qrnNcONjb3fhShR8uo7bkHYN97b6Xauw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzUz/MzYtMTMwODA1NzAz/My5qcGVn.jpeg" alt="Cover for Live Shakin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -430,7 +430,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/207c9708aabfc084aee235ab2c8c4ee9.png" alt="Cover for 1 (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -447,7 +447,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ad75636641f8dd8f80ae0e2841dfc43.png" alt="Cover for O Canto Da Cidade" style="max-width:120px; height:auto;" />
       </td>
@@ -466,7 +466,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
       </td>
       <td>1993-10-26</td>
@@ -486,7 +486,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/939fac98d7c25f6468160f8e37490775.png" alt="Cover for Golden Classics" style="max-width:120px; height:auto;" />
       </td>
@@ -504,7 +504,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/219777c149c940afbfddcfda51b7eb85.png" alt="Cover for Live at the BBC" style="max-width:120px; height:auto;" />
       </td>
@@ -518,30 +518,12 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 95</li>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
-      <td>
-      </td>
-      <td>1995</td>
-      <td>The Matadors</td>
-      <td>The Matadors</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/czech" | relative_url }}">czech</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/uwwZar7er8DsGwH4rEWcOjUugcSQt3_upw2BcoDnq38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjA5/MzgtMTQyNTMwNzA2/Ny00OTY0LmpwZWc.jpeg" alt="Cover for Star Festival" style="max-width:120px; height:auto;" />
       </td>
@@ -559,7 +541,25 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>82</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>The Matadors</td>
+      <td>The Matadors</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/czech" | relative_url }}">czech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
       <td>
       </td>
       <td>1997</td>
@@ -580,7 +580,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
       </td>
       <td>1998</td>
@@ -598,7 +598,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
       </td>
       <td>1999</td>
@@ -616,7 +616,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/9Flu8oZjvliPQ4cu6N9L4gerV49Wn29A8i5KgO0Kffk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjE0/MjQtMTQ2NzMyNzE4/OC00OTA1LmpwZWc.jpeg" alt="Cover for O Rodo" style="max-width:120px; height:auto;" />
       </td>
@@ -657,7 +657,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
       </td>
       <td>2001-11-20</td>
@@ -674,7 +674,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/L9Fw39C80is8JpZt_O2PLdX5Wy6iRLYRQS3GM6DQyxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzA1/MjY5LTE2MzkxODg2/MTAtODA5My5qcGVn.jpeg" alt="Cover for Abbey Road [Remastered]" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +693,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/37d3Clt3mvngGMR5ctw34RHEKICuHouCwI15NEF8HT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODE4/NjktMTM0MDUzNjQ0/NS0zMzY5LmpwZWc.jpeg" alt="Cover for Midnight Beat" style="max-width:120px; height:auto;" />
       </td>
@@ -712,7 +712,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/lwt6qK2ouLQkVxiNYxAL9KHCVjFEmh393-4jZMtnhHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg3/NjctMTYyNzY4MzE4/Ny02OTg4LmpwZWc.jpeg" alt="Cover for Soulo" style="max-width:120px; height:auto;" />
       </td>
@@ -733,7 +733,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/XGuY0OvSmH_cEjX22GkOAQuVGZanYdGyCHsYviaUMmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzk3/MzgtMTIyNzAyNDU0/Mi5qcGVn.jpeg" alt="Cover for Poems And Insults" style="max-width:120px; height:auto;" />
       </td>
@@ -749,12 +749,12 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 19</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/468cc353bb9697ab7fdf873904766fd6.png" alt="Cover for The Pale Green Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -775,7 +775,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3bc41c60c194dc09ae3fa40101ec629.png" alt="Cover for The Great Outdoors" style="max-width:120px; height:auto;" />
       </td>
@@ -799,48 +799,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f365ac54dd15e8a1d36af8f8789744f.png" alt="Cover for Historia Músical - 40 Éxitos del Festival de Ancón" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Los Yetis</td>
-      <td>Historia Músical - 40 Éxitos del Festival de Ancón</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>
-          <img src="https://i.discogs.com/1yW_H6n5RnXr2ytVKXQisRUvCp5_nYvwhLpKvGObmA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjEz/OC0xNTIxMTY5MDI4/LTI1NzkuanBlZw.jpeg" alt="Cover for Vintage Soup ..." style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>The Star And Key Of The Indian Ocean</td>
-      <td>Vintage Soup ...</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf" | relative_url }}">surf</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6759285f4a6a4a528a9075bb009a6912.png" alt="Cover for Dead Men&#39;s Shirts" style="max-width:120px; height:auto;" />
       </td>
@@ -864,7 +823,48 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/1yW_H6n5RnXr2ytVKXQisRUvCp5_nYvwhLpKvGObmA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjEz/OC0xNTIxMTY5MDI4/LTI1NzkuanBlZw.jpeg" alt="Cover for Vintage Soup ..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>The Star And Key Of The Indian Ocean</td>
+      <td>Vintage Soup ...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf" | relative_url }}">surf</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f365ac54dd15e8a1d36af8f8789744f.png" alt="Cover for Historia Músical - 40 Éxitos del Festival de Ancón" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Los Yetis</td>
+      <td>Historia Músical - 40 Éxitos del Festival de Ancón</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
       <td>
       </td>
       <td>2005-02-25</td>
@@ -882,7 +882,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/l2ULzwfOVs3iZdFUqmsZXPh1-yluUQyvb1Nbk-Ph7ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjMy/NC0xNTczNjU5Nzk2/LTUxMTkuanBlZw.jpeg" alt="Cover for Oh My Gosh" style="max-width:120px; height:auto;" />
       </td>
@@ -901,27 +901,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c477e5fd0edf6a22a7ddd6d70f6f838b.png" alt="Cover for Companhia do Calypso, Vol. 03 (Ao Vivo)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Companhia do Calypso</td>
-      <td>Companhia do Calypso, Vol. 03 (Ao Vivo)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 15</li>
-            <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 75</li>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
       </td>
       <td>2006</td>
@@ -945,7 +925,27 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c477e5fd0edf6a22a7ddd6d70f6f838b.png" alt="Cover for Companhia do Calypso, Vol. 03 (Ao Vivo)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Companhia do Calypso</td>
+      <td>Companhia do Calypso, Vol. 03 (Ao Vivo)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 15</li>
+            <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 75</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/TttDgyLaXX2PPwosK-NRFjWGSx6Kz5WGrRulezrwp_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODE4/ODEtMTM4MTI2OTky/MC04OTI2LmpwZWc.jpeg" alt="Cover for ...and at the end of it you get a bike" style="max-width:120px; height:auto;" />
       </td>
@@ -967,7 +967,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7832b6ab3da443f2bc8eb577a5193f5a.png" alt="Cover for Animals" style="max-width:120px; height:auto;" />
       </td>
@@ -988,7 +988,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/KZ7kOhD_59n2mK8iVKW9IFH6Ehdcr0o1kz7BAe9GYes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzI2/Ni0xMTQzMzA5MDcw/LmpwZWc.jpeg" alt="Cover for White Dwarf" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,7 +1010,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/508dd000661046a1865dc11d75c3e26b.png" alt="Cover for Arche-lymb" style="max-width:120px; height:auto;" />
       </td>
@@ -1028,7 +1028,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/wKNw38Hm6vL5UCW6yPWMOFfb0wL9vZjpCI1UTrs0ZBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODcx/Ni0xMTU5MjIwMTQ4/LmpwZWc.jpeg" alt="Cover for Wait A Minute" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,7 +1051,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d5d247122d74cb8af6601354d77f889.png" alt="Cover for Beats And Places" style="max-width:120px; height:auto;" />
       </td>
@@ -1070,7 +1070,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b470de236f9c466d8393e9cd56c38c2b.png" alt="Cover for Monrose Shame" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,7 +1088,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/1tzb7ALYdeg9Ts8Si1Crc7TgbcY8eGr5dtG0K6_icAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ5/MzQtMTU1NTMzOTI0/NC0zODg0LmpwZWc.jpeg" alt="Cover for Hard Twelve + Bonus Imperial Pressure 2008" style="max-width:120px; height:auto;" />
       </td>
@@ -1107,7 +1107,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6a8c284eb1b39f9689e3bda2f85a6b4.png" alt="Cover for The Cutting Edge 1965-1966: The Bootleg Series, Vol.12 (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,7 +1124,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>2008-02-25</td>
@@ -1142,7 +1142,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2d90828f38ca50d20dfb2eb5edc761f.png" alt="Cover for Inside the Shell" style="max-width:120px; height:auto;" />
       </td>
@@ -1176,7 +1176,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
       </td>
       <td>2008-08-13</td>
@@ -1231,15 +1231,15 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 21</li>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 45</li>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 73</li>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 80</li>
             <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/rbgc0odAJLSj9_1azzkeRSupZq7SQS56yxyQeX6IAy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzA3/NDQtMTI5MDk5NDI2/NS5qcGVn.jpeg" alt="Cover for Forecast EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1257,7 +1257,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/rm6ATPU7PP3-qAnt5rs8bpSlx88jFg_dfLQmQyEZmLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzAx/ODAtMTQ1NzU2MzY0/MC03NDA2LmpwZWc.jpeg" alt="Cover for Overflower" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,7 +1278,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/bKstc56Pf2AjJTldrY0yFJedWPBXdi3XujbUoBexSlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzA3/NjAtMTI5MDk5NjEz/MC5qcGVn.jpeg" alt="Cover for Leave me now" style="max-width:120px; height:auto;" />
       </td>
@@ -1296,7 +1296,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9df75ca8b8162a0e57aac7624e09dd2.png" alt="Cover for Paranormal" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,7 +1320,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/Hqn_dy65dHsoRA2LgCBdpgpfan_R47_yVGtYrhjRuWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTkz/MTctMTQ3MzM2OTQ3/Ni0xMzQ0LmpwZWc.jpeg" alt="Cover for Rebolation" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,7 +1361,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/FUrAEG3kwo2HEkpm1i0N1QNZbw-9fOnM-MHUFXh33GI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTEy/OTItMTI2Njc4NTEy/Ni5qcGVn.jpeg" alt="Cover for If Life Gives You Lemons, Make Lemonade" style="max-width:120px; height:auto;" />
       </td>
@@ -1374,12 +1374,12 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 17</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/osEuTd78A4FdOX4tsYylRVd4KcyrnHby4RtK2340Pp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzE4/MDktMTQ0NzYyMjE0/NS04ODg1LmpwZWc.jpeg" alt="Cover for Contrary Emotion" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,7 +1406,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf253e135ed44e03b45158b8aabcaacd.png" alt="Cover for 1966-1968" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,7 +1426,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/6pmaWRa_B91LvGLW15R7ylRBUuab8ATaJ4AxFD0c_iY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzc1/NDAtMTMwODE1NjAz/Ni5qcGVn.jpeg" alt="Cover for Common Ground" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,7 +1446,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Jzr_s1RhQUQKeaQ5ry6xHiT9TFvoBKqhcBjLCur9zDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDEx/OTI1LTE2MTkxMTI2/MjUtMjgxMS5qcGVn.jpeg" alt="Cover for Música para Lagartos" style="max-width:120px; height:auto;" />
       </td>
@@ -1465,7 +1465,28 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99014440aab54cc69ac0b6c282e96fbc.png" alt="Cover for COPYCAT (a Dilla Tribute)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-05-27</td>
+      <td>vlooper</td>
+      <td>COPYCAT (a Dilla Tribute)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/qeS7MwuanNRXn9T_RTElAZ8l4jy-YJMcUQv7aSB4p7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTEy/ODAtMTMyNjYzNTQ1/MC5qcGVn.jpeg" alt="Cover for COPYCAT (a Dilla Tribute) [GNL014]" style="max-width:120px; height:auto;" />
       </td>
@@ -1487,28 +1508,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99014440aab54cc69ac0b6c282e96fbc.png" alt="Cover for COPYCAT (a Dilla Tribute)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-05-27</td>
-      <td>vlooper</td>
-      <td>COPYCAT (a Dilla Tribute)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed5da85769fb461c98ded62a4b194304.png" alt="Cover for April&#39;s Neck Brace" style="max-width:120px; height:auto;" />
       </td>
@@ -1532,7 +1532,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50c782e5de1bec5fb183f56aafdaf9ec.png" alt="Cover for Black Rainbows" style="max-width:120px; height:auto;" />
       </td>
@@ -1549,12 +1549,12 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 3</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/163342dc5835442da0312f237f016965.png" alt="Cover for In Your Mood EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1581,7 +1581,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b374edca4a2b44628beea8a888561a30.png" alt="Cover for SoSoulSynergy" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,7 +1601,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c803f6806f29d097d697a6937cfe17d.png" alt="Cover for Forecast Infinite" style="max-width:120px; height:auto;" />
       </td>
@@ -1625,7 +1625,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfcd4a168fbc1a658be4e3015a75995b.png" alt="Cover for PRESSURE" style="max-width:120px; height:auto;" />
       </td>
@@ -1646,13 +1646,13 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       <td>
         <ul>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 6</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 9</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 19</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bf40a3e54530c2e26c4839f8b4c346b.png" alt="Cover for Mercadinho" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,7 +1673,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/YRpCyJBbz4SHGtJN3RItVQluQzC6_WKknL4TdVbbA-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ2/MDA5LTE1ODQ1Mzkx/NTUtNjQyNi5qcGVn.jpeg" alt="Cover for Covered N Money" style="max-width:120px; height:auto;" />
       </td>
@@ -1691,7 +1691,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/H3i0nPZufHTESufjt3nOfoCj_bDor304GToRD_e4SRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY0/NjE4LTE1NDc0MTI1/NDktNTE4OC5qcGVn.jpeg" alt="Cover for Movimento (feat. IZA)" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,7 +1709,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/468b8ad373121f980b29fb0293ca322c.png" alt="Cover for Oranges" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,7 +1729,7 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for Pressure" style="max-width:120px; height:auto;" />
       </td>
@@ -1752,252 +1752,53 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
-      <td>Metricks</td>
-      <td>Unminimal</td>
+      <td>The BPA</td>
+      <td>Toe Jam</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 44</li>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 90</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td></td>
-      <td>PT Loren</td>
-      <td>The PT Loren ep</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 82</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 87</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
-      <td>PT Loren</td>
-      <td>Demos</td>
+      <td>Petrol Presents</td>
+      <td>Petrol Presents The Greatest Songs Ever: North Africa</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 81</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 86</li>
+            <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 4</li>
+            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 5</li>
+            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 5</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 7</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac88023ef1a55b2aa52fda8806941e07.png" alt="Cover for Adaptation" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>INADRM</td>
-      <td>Adaptation</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip" | relative_url }}">trip</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 17</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 28</li>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 64</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Despacito y Buenaletra</td>
-      <td>umilda (2007)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 32</li>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 33</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 53</li>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 61</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 75</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
-      <td>
-      </td>
-      <td></td>
-      <td>The Missing Teens</td>
-      <td>Music for Young Adults...</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical" | relative_url }}">musical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 20</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 27</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 31</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -2056,110 +1857,332 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
-      <td>Petrol Presents</td>
-      <td>Petrol Presents The Greatest Songs Ever: North Africa</td>
+      <td>The Missing Teens</td>
+      <td>Music for Young Adults...</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 4</li>
-            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 5</li>
-            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 5</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 7</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
-      <td>
-      </td>
-      <td></td>
-      <td>The BPA</td>
-      <td>Toe Jam</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td></td>
-      <td>luis lancaster</td>
-      <td>AD2005</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Instrumental Hip Hop Beat Makers</td>
-      <td>Instrumental Hip Hop Beats</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf25f4a1d16ad7454b54bda5a7b35d3e.png" alt="Cover for BULLESBUBBLES II2II" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>VLooper &amp; KenLo</td>
-      <td>BULLESBUBBLES II2II</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical" | relative_url }}">musical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 20</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 27</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 31</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alan Webster</td>
+      <td>alan webster</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/justice" | relative_url }}">justice</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/justice" | relative_url }}">justice</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Despacito y Buenaletra</td>
+      <td>umilda (2007)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 32</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 33</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 53</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 61</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 75</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alan Webster</td>
+      <td>you can&#39;t see what&#39;s hidden behind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/justice" | relative_url }}">justice</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/justice" | relative_url }}">justice</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac88023ef1a55b2aa52fda8806941e07.png" alt="Cover for Adaptation" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>INADRM</td>
+      <td>Adaptation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip" | relative_url }}">trip</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 17</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 64</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td></td>
+      <td>PT Loren</td>
+      <td>Demos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 82</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>PT Loren</td>
+      <td>The PT Loren ep</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 83</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Metricks</td>
+      <td>Unminimal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 44</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a2309f41df99879766214f57dc31c91.png" alt="Cover for Midnight Ride" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Paul Revere &amp; The Raiders</td>
+      <td>Midnight Ride</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -2168,7 +2191,83 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d08fc5ad965b6618fa8282dd0cab53ea.png" alt="Cover for No Recinto" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Murillo Zyess</td>
+      <td>No Recinto</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/378388a705d92e24022639fa807fbef4.png" alt="Cover for Chroma2002" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Miroma</td>
+      <td>Chroma2002</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5373f96caba852597110fcf8edb8dfd2.png" alt="Cover for heartsick" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Kill Hikari</td>
+      <td>heartsick</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Beat feat. Ranking Roger</td>
+      <td>Bounce</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6d4509288d8ac05bab0da4742b45725.png" alt="Cover for mini LP" style="max-width:120px; height:auto;" />
       </td>
@@ -2193,159 +2292,64 @@ Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf25f4a1d16ad7454b54bda5a7b35d3e.png" alt="Cover for BULLESBUBBLES II2II" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>VLooper &amp; KenLo</td>
+      <td>BULLESBUBBLES II2II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
       <td>
       </td>
       <td></td>
-      <td>Alan Webster</td>
-      <td>you can&#39;t see what&#39;s hidden behind</td>
+      <td>Instrumental Hip Hop Beat Makers</td>
+      <td>Instrumental Hip Hop Beats</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td></td>
+      <td>luis lancaster</td>
+      <td>AD2005</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>
-      </td>
-      <td></td>
-      <td>The Beat feat. Ranking Roger</td>
-      <td>Bounce</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5373f96caba852597110fcf8edb8dfd2.png" alt="Cover for heartsick" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Kill Hikari</td>
-      <td>heartsick</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/378388a705d92e24022639fa807fbef4.png" alt="Cover for Chroma2002" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Miroma</td>
-      <td>Chroma2002</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alan Webster</td>
-      <td>alan webster</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d08fc5ad965b6618fa8282dd0cab53ea.png" alt="Cover for No Recinto" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Murillo Zyess</td>
-      <td>No Recinto</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a2309f41df99879766214f57dc31c91.png" alt="Cover for Midnight Ride" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Paul Revere &amp; The Raiders</td>
-      <td>Midnight Ride</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
         </ul>
       </td>
       <td>

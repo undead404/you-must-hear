@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:26:49.799Z
+date: 2025-12-07T19:16:34.717Z
 permalink: tags/technical-brutal-death-metal
 title: technical brutal death metal
 ---
 
 ## technical brutal death metal
 
-Last updated: <time datetime="2025-12-05T04:26:49.799Z">Fri Dec 05 2025 06:26:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T19:16:34.717Z">Sun Dec 07 2025 21:16:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -194,7 +194,7 @@ Technical Brutal Death Metal is a subgenre of Death Metal music that emphasizes 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2003-03-10</td>
@@ -247,7 +247,7 @@ Technical Brutal Death Metal is a subgenre of Death Metal music that emphasizes 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2006-07-10</td>
@@ -753,7 +753,7 @@ Technical Brutal Death Metal is a subgenre of Death Metal music that emphasizes 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2011-04-05</td>
@@ -1683,7 +1683,7 @@ Technical Brutal Death Metal is a subgenre of Death Metal music that emphasizes 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/7hS9xXxgJYv7rxIACt4MSgkQm7oeiP34Cb1gfSAdGUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDkw/NDU4LTE1NzU2MDE2/MzktODUwMy5qcGVn.jpeg" alt="Cover for GLIOBLASTOMA" style="max-width:120px; height:auto;" />
       </td>
@@ -1906,7 +1906,7 @@ Technical Brutal Death Metal is a subgenre of Death Metal music that emphasizes 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2de8c3fe016944fa61da4e9487d1468a.png" alt="Cover for Chronicles of Lunacy" style="max-width:120px; height:auto;" />
       </td>
