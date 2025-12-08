@@ -1,18 +1,25 @@
 ---
 category: list
-date: 2025-12-08T05:23:58.493Z
+date: 2025-12-08T05:54:11.287Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-08T05:23:58.493Z">Mon Dec 08 2025 07:23:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T05:54:11.287Z">Mon Dec 08 2025 07:54:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [boa vista]({{ "tags/boa-vista" | relative_url }}) | <time datetime="2025-12-08T05:54:11.287Z">Mon Dec 08 2025 07:54:11 GMT+0200 (Eastern European Standard Time)</time> |
+| [brutal deathcore]({{ "tags/brutal-deathcore" | relative_url }}) | <time datetime="2025-12-08T05:54:03.782Z">Mon Dec 08 2025 07:54:03 GMT+0200 (Eastern European Standard Time)</time> |
+| [progressive electronic]({{ "tags/progressive-electronic" | relative_url }}) | <time datetime="2025-12-08T05:39:09.922Z">Mon Dec 08 2025 07:39:09 GMT+0200 (Eastern European Standard Time)</time> |
+| [rappeuse]({{ "tags/rappeuse" | relative_url }}) | <time datetime="2025-12-08T05:38:40.764Z">Mon Dec 08 2025 07:38:40 GMT+0200 (Eastern European Standard Time)</time> |
+| [acid house]({{ "tags/acid-house" | relative_url }}) | <time datetime="2025-12-08T05:38:34.194Z">Mon Dec 08 2025 07:38:34 GMT+0200 (Eastern European Standard Time)</time> |
+| [goregrind]({{ "tags/goregrind" | relative_url }}) | <time datetime="2025-12-08T05:29:13.769Z">Mon Dec 08 2025 07:29:13 GMT+0200 (Eastern European Standard Time)</time> |
+| [texas]({{ "tags/texas" | relative_url }}) | <time datetime="2025-12-08T05:29:07.669Z">Mon Dec 08 2025 07:29:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [electro-industrial]({{ "tags/electro-industrial" | relative_url }}) | <time datetime="2025-12-08T05:23:58.493Z">Mon Dec 08 2025 07:23:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [live set]({{ "tags/live-set" | relative_url }}) | <time datetime="2025-12-08T05:18:48.493Z">Mon Dec 08 2025 07:18:48 GMT+0200 (Eastern European Standard Time)</time> |
 | [usbm]({{ "tags/usbm" | relative_url }}) | <time datetime="2025-12-08T05:18:42.171Z">Mon Dec 08 2025 07:18:42 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1385,10 +1392,3 @@ Last updated: <time datetime="2025-12-08T05:23:58.493Z">Mon Dec 08 2025 07:23:58
 | [lounge downtempo]({{ "tags/lounge-downtempo" | relative_url }}) | <time datetime="2025-12-05T04:59:11.815Z">Fri Dec 05 2025 06:59:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [roraima]({{ "tags/roraima" | relative_url }}) | <time datetime="2025-12-05T04:58:45.218Z">Fri Dec 05 2025 06:58:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [palia ellinika tragoudia]({{ "tags/palia-ellinika-tragoudia" | relative_url }}) | <time datetime="2025-12-05T04:58:36.468Z">Fri Dec 05 2025 06:58:36 GMT+0200 (Eastern European Standard Time)</time> |
-| [boa vista]({{ "tags/boa-vista" | relative_url }}) | <time datetime="2025-12-05T04:58:30.159Z">Fri Dec 05 2025 06:58:30 GMT+0200 (Eastern European Standard Time)</time> |
-| [brutal deathcore]({{ "tags/brutal-deathcore" | relative_url }}) | <time datetime="2025-12-05T04:58:21.866Z">Fri Dec 05 2025 06:58:21 GMT+0200 (Eastern European Standard Time)</time> |
-| [progressive electronic]({{ "tags/progressive-electronic" | relative_url }}) | <time datetime="2025-12-05T04:58:16.032Z">Fri Dec 05 2025 06:58:16 GMT+0200 (Eastern European Standard Time)</time> |
-| [rappeuse]({{ "tags/rappeuse" | relative_url }}) | <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44 GMT+0200 (Eastern European Standard Time)</time> |
-| [acid house]({{ "tags/acid-house" | relative_url }}) | <time datetime="2025-12-05T04:46:04.945Z">Fri Dec 05 2025 06:46:04 GMT+0200 (Eastern European Standard Time)</time> |
-| [goregrind]({{ "tags/goregrind" | relative_url }}) | <time datetime="2025-12-05T04:45:58.862Z">Fri Dec 05 2025 06:45:58 GMT+0200 (Eastern European Standard Time)</time> |
-| [texas]({{ "tags/texas" | relative_url }}) | <time datetime="2025-12-05T04:45:30.827Z">Fri Dec 05 2025 06:45:30 GMT+0200 (Eastern European Standard Time)</time> |

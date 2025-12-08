@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:46:04.945Z
+date: 2025-12-08T05:38:34.194Z
 permalink: tags/acid-house
 title: acid house
 ---
 
 ## acid house
 
-Last updated: <time datetime="2025-12-05T04:46:04.945Z">Fri Dec 05 2025 06:46:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T05:38:34.194Z">Mon Dec 08 2025 07:38:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
   </thead>
   <tbody>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/mdeCO8Fg744aSz9rFiOKqqCTFx450unR9i8EfHCvehQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTc2/LTEyNTIxOTQxMjYu/anBlZw.jpeg" alt="Cover for Tekno Acid Beat" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a90a61732b0134b1f2948ccf720c9fe.png" alt="Cover for Acid Tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>1987</td>
@@ -83,7 +83,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/tmt3y8X6KCKZEogySanzOqGcnmf6jqhibhj2IjwLqEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDYx/LTE1MzY2NzYxNTgt/OTA0OS5qcGVn.jpeg" alt="Cover for Acid Trax" style="max-width:120px; height:auto;" />
       </td>
@@ -101,7 +101,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a311d3fb5949410b85279c6db9c31987.png" alt="Cover for Newbuild" style="max-width:120px; height:auto;" />
       </td>
@@ -119,7 +119,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/mHRI-95_hqb6_ArP77UXM8w16cgN36gRLVAgPokkswY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTY0/LTEzMDQyMDAyNDku/anBlZw.jpeg" alt="Cover for What Time Is Love?" style="max-width:120px; height:auto;" />
       </td>
@@ -137,7 +137,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/pgGe-W4CTrGY1UaQl-_4aUs1yw3zKTHCJdCWsB84Wkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDc4/MTgtMTQ1MjAyMTg1/My0zNTc1LmpwZWc.jpeg" alt="Cover for Amnesia" style="max-width:120px; height:auto;" />
       </td>
@@ -152,18 +152,18 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 84</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>13</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a6897939921e2a24678481eebd1b957.png" alt="Cover for Acid Party" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd58293d851548e7c8d11d2d13923d10.png" alt="Cover for Voodoo Ray EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
-      <td>Mr. Matey</td>
-      <td>Acid Party</td>
+      <td>A Guy Called Gerald</td>
+      <td>Voodoo Ray EP</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
@@ -176,7 +176,25 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/jH2LE19FJTzK9ge0ZwAL-iYGHvRSZwgTNFphKgjA45g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg4/My0xMjk2NDgxMzY3/LmpwZWc.jpeg" alt="Cover for Original Soundtrack" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>S&#39;Express</td>
+      <td>Original Soundtrack</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80774e9fec34357bbeb250d52e9e3ce1.png" alt="Cover for In Gorbachev We Trust" style="max-width:120px; height:auto;" />
       </td>
@@ -197,31 +215,13 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/jH2LE19FJTzK9ge0ZwAL-iYGHvRSZwgTNFphKgjA45g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg4/My0xMjk2NDgxMzY3/LmpwZWc.jpeg" alt="Cover for Original Soundtrack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a6897939921e2a24678481eebd1b957.png" alt="Cover for Acid Party" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
-      <td>S&#39;Express</td>
-      <td>Original Soundtrack</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd58293d851548e7c8d11d2d13923d10.png" alt="Cover for Voodoo Ray EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989</td>
-      <td>A Guy Called Gerald</td>
-      <td>Voodoo Ray EP</td>
+      <td>Mr. Matey</td>
+      <td>Acid Party</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
@@ -234,7 +234,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5078801aed03ec9bc933a736349f143.png" alt="Cover for Technique" style="max-width:120px; height:auto;" />
       </td>
@@ -252,7 +252,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>56</td>
       <td>
       </td>
       <td>1989-02-01</td>
@@ -269,7 +269,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/n8rS3vAZoXF6lmNe9XGScg6PGH1Lr2wMqMU7SC2KhCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/Ny0xMjUzMTg2NjIx/LmpwZWc.jpeg" alt="Cover for Last Train To Trancentral" style="max-width:120px; height:auto;" />
       </td>
@@ -291,7 +291,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a98e69a36464457c43b834aebaea348.png" alt="Cover for Quadrastate" style="max-width:120px; height:auto;" />
       </td>
@@ -309,7 +309,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc2413c7b367593b87de01e3c44a49a1.png" alt="Cover for Ninety" style="max-width:120px; height:auto;" />
       </td>
@@ -328,7 +328,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2611353f98214fe5cfa4c79791df0c03.png" alt="Cover for Utd. State 90" style="max-width:120px; height:auto;" />
       </td>
@@ -347,13 +347,13 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/rneWKeDIuGFjVeuepvVhcIWjQzSzvePMzX3Bgr1eaf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTYw/NzYtMTQ0NDc4NjQx/OS04MTc4LmpwZWc.jpeg" alt="Cover for Windowpane &amp; The Snow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ff55aa18c385f532d737be157f1196c.png" alt="Cover for Towards Thee Infinite Beat" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
-      <td>Coil</td>
-      <td>Windowpane &amp; The Snow</td>
+      <td>Psychic TV</td>
+      <td>Towards Thee Infinite Beat</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
@@ -365,7 +365,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca27ebf3112c40b8983fe0685aeecdc5.png" alt="Cover for Beyond Thee Infinite Beat" style="max-width:120px; height:auto;" />
       </td>
@@ -385,13 +385,13 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>93</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ff55aa18c385f532d737be157f1196c.png" alt="Cover for Towards Thee Infinite Beat" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/rneWKeDIuGFjVeuepvVhcIWjQzSzvePMzX3Bgr1eaf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTYw/NzYtMTQ0NDc4NjQx/OS04MTc4LmpwZWc.jpeg" alt="Cover for Windowpane &amp; The Snow" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
-      <td>Psychic TV</td>
-      <td>Towards Thee Infinite Beat</td>
+      <td>Coil</td>
+      <td>Windowpane &amp; The Snow</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
@@ -403,7 +403,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1c3e11fc39452bf0a99c05acf7c268a.png" alt="Cover for En-Tact" style="max-width:120px; height:auto;" />
       </td>
@@ -420,17 +420,16 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>28</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce170932cc414abeb61f1b34c80bd4be.png" alt="Cover for Doctor Adamski&#39;s Musical Pharmacy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a87150f45e541759f6d650e6e45638d.png" alt="Cover for Blueprint (The Best Of)" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-09</td>
-      <td>Adamski</td>
-      <td>Doctor Adamski&#39;s Musical Pharmacy</td>
+      <td>808 State</td>
+      <td>Blueprint (The Best Of)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
         </ul>
       </td>
       <td>
@@ -439,7 +438,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa528b4058b7ae1f6664e94a97fa67b9.png" alt="Cover for Transmission Suite" style="max-width:120px; height:auto;" />
       </td>
@@ -458,16 +457,17 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>92</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a87150f45e541759f6d650e6e45638d.png" alt="Cover for Blueprint (The Best Of)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce170932cc414abeb61f1b34c80bd4be.png" alt="Cover for Doctor Adamski&#39;s Musical Pharmacy" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-09</td>
-      <td>808 State</td>
-      <td>Blueprint (The Best Of)</td>
+      <td>Adamski</td>
+      <td>Doctor Adamski&#39;s Musical Pharmacy</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
         </ul>
       </td>
       <td>
@@ -476,7 +476,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/kdj4Jr-D3dqiXRkxUKlcglh_-0QnjgkizBJnrOt3JXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzE4/LTE0NTA1Njc1NzEt/NjgyOS5qcGVn.jpeg" alt="Cover for Entact" style="max-width:120px; height:auto;" />
       </td>
@@ -495,7 +495,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7430c165825d81944acd81fcb383db68.png" alt="Cover for ex:el" style="max-width:120px; height:auto;" />
       </td>
@@ -512,7 +512,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a3fcf409521194b42d5fbfac7295a50.png" alt="Cover for The White Room" style="max-width:120px; height:auto;" />
       </td>
@@ -531,7 +531,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a55305475bef8cc8ddae64477e9f6c4.png" alt="Cover for Groove Tube" style="max-width:120px; height:auto;" />
       </td>
@@ -557,7 +557,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/baab0a0a175504ede33b477e0605c6c2.png" alt="Cover for Love&#39;s Secret Domain" style="max-width:120px; height:auto;" />
       </td>
@@ -577,7 +577,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c59db16e23d7fd923bd085585b866367.png" alt="Cover for Screamadelica" style="max-width:120px; height:auto;" />
       </td>
@@ -595,7 +595,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9af6326688feeafbccc04689a9dbad7c.png" alt="Cover for Lust" style="max-width:120px; height:auto;" />
       </td>
@@ -616,7 +616,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/lBKgTH-PFD6BNreAvSQAW2pu6WNR470YQIpP4lVwX5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDAt/MTEyNTg0NDA3MS5q/cGVn.jpeg" alt="Cover for Joyrex J4 EP" style="max-width:120px; height:auto;" />
       </td>
@@ -637,7 +637,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9afc5a769afbc28233d1c640d241c76.png" alt="Cover for Separations" style="max-width:120px; height:auto;" />
       </td>
@@ -656,7 +656,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a054f9705e6d4783c723bff398f50df7.png" alt="Cover for Boss Drum" style="max-width:120px; height:auto;" />
       </td>
@@ -675,7 +675,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c44c91028fd7b783e3c64f19e24d6368.png" alt="Cover for Peak Hour" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +693,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff730af9dc3f75a8cf670df295256b0c.png" alt="Cover for different drum" style="max-width:120px; height:auto;" />
       </td>
@@ -712,7 +712,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f3790627dca792c4d06a4c8a9b8440b.png" alt="Cover for The New Wave" style="max-width:120px; height:auto;" />
       </td>
@@ -731,7 +731,25 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28c30b8d17bd49f38f819c0c8b2735c3.png" alt="Cover for Higher State of Consciousness" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-01-01</td>
+      <td>Josh Wink</td>
+      <td>Higher State of Consciousness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/xQg-rOirEXQZUBywuTtjSMEjSh4P3naCnbxxdXzJWVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTc0/LTE2ODg0OTc4MjEt/MTA4My5wbmc.jpeg" alt="Cover for Higher State Of Consciousness" style="max-width:120px; height:auto;" />
       </td>
@@ -750,13 +768,13 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>67</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28c30b8d17bd49f38f819c0c8b2735c3.png" alt="Cover for Higher State of Consciousness" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/P6_Gg8IkM63DYJ51P9swclI0hyQiBa4f3vtMS8CSvXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDg4/OC0xMjE3MDkzMjE1/LmpwZWc.jpeg" alt="Cover for Collection" style="max-width:120px; height:auto;" />
       </td>
-      <td>1995-01-01</td>
-      <td>Josh Wink</td>
-      <td>Higher State of Consciousness</td>
+      <td>1996</td>
+      <td>The Shamen</td>
+      <td>Collection</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
@@ -768,7 +786,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2e102195cc2fbea4860d66c2e9950e9.png" alt="Cover for Cold Blue Torch" style="max-width:120px; height:auto;" />
       </td>
@@ -788,25 +806,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://i.discogs.com/P6_Gg8IkM63DYJ51P9swclI0hyQiBa4f3vtMS8CSvXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDg4/OC0xMjE3MDkzMjE1/LmpwZWc.jpeg" alt="Cover for Collection" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>The Shamen</td>
-      <td>Collection</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/ORAKpaG1yyhTi10UKUXwjDCrt0AN3NVyB_v98dpo1OA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDgy/LTE1MDkyODUzMTct/MjY2MS5qcGVn.jpeg" alt="Cover for Deliverance" style="max-width:120px; height:auto;" />
       </td>
@@ -828,7 +828,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/adb3def8cd734ef4afd03c3d760935b6.png" alt="Cover for Vanishing Point" style="max-width:120px; height:auto;" />
       </td>
@@ -848,7 +848,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe7fc1b74f20cd8b1ef5d1ee52e8939a.png" alt="Cover for Exile on Coldharbour Lane" style="max-width:120px; height:auto;" />
       </td>
@@ -865,7 +865,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6852a2c9a17141ac8ccb998d551c5b47.png" alt="Cover for Our Little Secret" style="max-width:120px; height:auto;" />
       </td>
@@ -884,7 +884,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e7a29d52ed3464fbf148f47b1f00468.png" alt="Cover for 808:88:98" style="max-width:120px; height:auto;" />
       </td>
@@ -904,7 +904,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>30</td>
       <td>
       </td>
       <td>1999-07-16</td>
@@ -924,7 +924,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
       </td>
       <td>2000</td>
@@ -942,7 +942,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd830a46204e41dbdc130ea218a910c8.png" alt="Cover for La Peste" style="max-width:120px; height:auto;" />
       </td>
@@ -961,7 +961,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
       </td>
       <td>2001-06-28</td>
@@ -974,14 +974,14 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 6</li>
             <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 8</li>
             <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 30</li>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/_VuYMDVomHB0vl4XA6OTQwBcnb4LPfKqKcA6Y9Tsv74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTY1/MzAtMTMyNDQ4MTc5/MS5qcGVn.jpeg" alt="Cover for State To State 2" style="max-width:120px; height:auto;" />
       </td>
@@ -999,7 +999,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/WDlMEifPe-Wtc7-1VPRs9vBefHW1gcyURq_ykN9vkQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTAz/NDctMTU0MzczMTkx/NS01NjY3LnBuZw.jpeg" alt="Cover for Ninety (Remastered 2008)" style="max-width:120px; height:auto;" />
       </td>
@@ -1017,7 +1017,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90abf743fa2fdbfb3a0193d3e980b98e.png" alt="Cover for Outpost Transmission" style="max-width:120px; height:auto;" />
       </td>
@@ -1035,7 +1035,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
       </td>
       <td>2003-02-10</td>
@@ -1052,7 +1052,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e671fc73b6a14112bd1da75397cc044e.png" alt="Cover for Ooops featuring Björk" style="max-width:120px; height:auto;" />
       </td>
@@ -1070,7 +1070,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
       </td>
       <td>2004</td>
@@ -1087,7 +1087,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/1ch2u4lHlbNjMIXaFP12uiiSZNVRSzOTkaRrYB-mnd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzU0/NS0xNDY5NTU3NDg0/LTgzOTEuanBlZw.jpeg" alt="Cover for To All Things What They Need" style="max-width:120px; height:auto;" />
       </td>
@@ -1115,7 +1115,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcedfe62b368431affd11c6137e6e95b.png" alt="Cover for Ebeneezer Goode" style="max-width:120px; height:auto;" />
       </td>
@@ -1134,7 +1134,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f0d54b2023af4bffb727311f7b0f6cb.png" alt="Cover for So Let It Be House" style="max-width:120px; height:auto;" />
       </td>
@@ -1153,7 +1153,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c85455907484171932afc309f851934.png" alt="Cover for Contrast" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,7 +1173,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
       </td>
       <td>2009-03-02</td>
@@ -1190,7 +1190,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce844ed32d1a4c80991984c5c83b8bae.png" alt="Cover for United Acid Emirates" style="max-width:120px; height:auto;" />
       </td>
@@ -1208,7 +1208,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdef0b8220754476a0ccb89f806b86bc.png" alt="Cover for Who Killed Sgt. Pepper?" style="max-width:120px; height:auto;" />
       </td>
@@ -1229,7 +1229,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34c9f24d0981489a9b2205092b421377.png" alt="Cover for Synthesizing: Ten Ragas to a Disco Beat" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1252,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>29</td>
       <td>
       </td>
       <td>2011-05-30</td>
@@ -1272,7 +1272,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4015fd6480744c77ccc9fb3df54ebebe.png" alt="Cover for Reeling Skullways" style="max-width:120px; height:auto;" />
       </td>
@@ -1293,7 +1293,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37ad2e3a1e7077f1f79494a6bdb32af5.png" alt="Cover for Sleep" style="max-width:120px; height:auto;" />
       </td>
@@ -1313,7 +1313,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77f0494b2f934e81a501d404f727ca12.png" alt="Cover for Nightfall" style="max-width:120px; height:auto;" />
       </td>
@@ -1325,6 +1325,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
@@ -1336,12 +1337,13 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a> # 41</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/RSn9Bx6bNrprM3cN2a2d0rPM4r-PhKEZbn3cf6WBR0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI1/MjM5LTE1Nzg0MTk1/ODEtNjcyMC5qcGVn.jpeg" alt="Cover for Count Contessa" style="max-width:120px; height:auto;" />
       </td>
@@ -1359,7 +1361,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ee92c13bbcb45e3c578a1885e219335.png" alt="Cover for Hinterland" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,7 +1386,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/549038ae5b3a6758a12ea8b31926b2a3.png" alt="Cover for 90" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,7 +1410,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/yzmveE2-fruW9lvEr987ytMOW4ubMjceb3HG78qfCqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTI0/Ny0xNjA3MjUyNTUw/LTYwMjAuanBlZw.jpeg" alt="Cover for Each Step" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,7 +1451,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/440074022f344cdfccd8a8f90a39a7f0.png" alt="Cover for The Chapters of Green Velvet" style="max-width:120px; height:auto;" />
       </td>
@@ -1473,7 +1475,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/HH21oVIPn381-uAqxicZHwHGGE5yhFBZGhPvL8zq3YA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODgx/NjAtMTQxODA0NjA0/Mi04NDQxLmpwZWc.jpeg" alt="Cover for Paranoid London" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,7 +1495,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/nTsWy3uBd2kynPkLUB2zhepMPuMqten8JyprAllcVaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTU5/MzQtMTQyMzE1NTg5/NC0xMzM1LmpwZWc.jpeg" alt="Cover for Planetarium" style="max-width:120px; height:auto;" />
       </td>
@@ -1513,7 +1515,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/hI2TZHg9TidixPZyPoyMuTwP6YqfRn_1VJ-LKK6V9Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTg0/MzMtMTQ3MTQ1MDU4/NC0yNjY5LmpwZWc.jpeg" alt="Cover for 25 25" style="max-width:120px; height:auto;" />
       </td>
@@ -1533,7 +1535,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7452f4fcc861fe5447486a261f2c014c.png" alt="Cover for She taught me how to fly" style="max-width:120px; height:auto;" />
       </td>
@@ -1557,7 +1559,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a767aabea0136bcfa125d157144f614d.png" alt="Cover for John Frusciante presents Trickfinger II" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,7 +1578,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a3cb8fa5eee5e8f0392730b60094d65.png" alt="Cover for Memories of Tokyo-To" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,7 +1601,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/sNcYur4tctgxUPwnugUhkXyXGOIOGQgYd-ynWE2OLHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTYz/MjQ3LTE1MzE0MjY5/MTItNTAzOS5qcGVn.jpeg" alt="Cover for Essential" style="max-width:120px; height:auto;" />
       </td>
@@ -1617,7 +1619,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db2bfa405723443b6ecfe70bf206daca.png" alt="Cover for Весёлые Старты" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,7 +1640,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/2IfhQCdn4LGsHiZppw366Jf3L5g6aXn_M1qnGdyxAcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjgz/Mzg1LTE2MTI2MTM5/OTYtNTg5Mi5qcGVn.jpeg" alt="Cover for Nineteen81" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,7 +1658,27 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/hfCdHseT_3qi_n1vB6L8CHGPYfvONH1h7ZHk6Y9tJIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg4/MTMwLTE1OTQxMTY5/MTAtNjE1NC5qcGVn.jpeg" alt="Cover for RePorpoised Phantasies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-07-03</td>
+      <td>Machine Girl</td>
+      <td>RePorpoised Phantasies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/hfCdHseT_3qi_n1vB6L8CHGPYfvONH1h7ZHk6Y9tJIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg4/MTMwLTE1OTQxMTY5/MTAtNjE1NC5qcGVn.jpeg" alt="Cover for RePorpoised Phantasies - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1679,27 +1701,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>100</td>
-      <td>
-          <img src="https://i.discogs.com/hfCdHseT_3qi_n1vB6L8CHGPYfvONH1h7ZHk6Y9tJIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg4/MTMwLTE1OTQxMTY5/MTAtNjE1NC5qcGVn.jpeg" alt="Cover for RePorpoised Phantasies" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-07-03</td>
-      <td>Machine Girl</td>
-      <td>RePorpoised Phantasies</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 3</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/LP_B9AtLvaUdHymbtqkXun0r3Y5-OFA1zQws4wED9T0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTQ0/NTI2LTE2NTgzMjk1/MTQtNjY4Mi5wbmc.jpeg" alt="Cover for Winona" style="max-width:120px; height:auto;" />
       </td>
@@ -1723,7 +1725,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/YjV-8Vknqw585zKr7kvQtVBp8oJMi0fkA-5_glsZKMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk1/NTA0LTE2NjE2NDEx/MTctMjQ4NS5qcGVn.jpeg" alt="Cover for Róisín Machine (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,7 +1745,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ef7561a43cd36b9c71ffb9f1dbe3e96.png" alt="Cover for Street Fighter III: 3rd Strike - Fight for the Future Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,7 +1763,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/adlpqvAQ8oEbbqLwLq03pVyTKcB7gSvKl6aHoXV-5dE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/MTg5LTE2NDAwMTE4/MTktMjY0MC5wbmc.jpeg" alt="Cover for Particles" style="max-width:120px; height:auto;" />
       </td>
@@ -1781,7 +1783,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/hr7rIq9hGZ6QfFORJ0Mc1-cHvzNvPDp5RYrr9hVe1tY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM1/MTQ1LTE2NTU3MTk4/OTktNDUwMi5wbmc.jpeg" alt="Cover for Neon White Soundtrack Part 1 &quot;The Wicked Heart&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,7 +1804,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a354bac02fd4bd937305ec1d3a85e792.png" alt="Cover for Miracle In Transit" style="max-width:120px; height:auto;" />
       </td>
@@ -1822,14 +1824,14 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       <td>
         <ul>
             <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 4</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 6</li>
             <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 8</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 16</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a5dbd1b63a3606b347c00c5c422692.png" alt="Cover for BLUSH" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,7 +1851,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78ed7860327ed22121904e18e92325d3.png" alt="Cover for Phuture And Other Classics From DJ Pierre" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,7 +1872,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf61bff30681d0b9b8ffb5a495bba55c.png" alt="Cover for Push" style="max-width:120px; height:auto;" />
       </td>
@@ -1899,7 +1901,60 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>72</td>
+      <td>
+      </td>
+      <td></td>
+      <td>St Michael Avenue</td>
+      <td>Tales Of A Dutchman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-house" | relative_url }}">french house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 24</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/264e26c9d2c98e5b34b41a85dd55ec54.png" alt="Cover for It!" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Coco Steel &amp; Lovebomb</td>
+      <td>It!</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
       <td>
       </td>
       <td></td>
@@ -1935,68 +1990,17 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>12</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/264e26c9d2c98e5b34b41a85dd55ec54.png" alt="Cover for It!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3701aa1c3d7ef9aff67ff215a191f223.png" alt="Cover for E.P." style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Coco Steel &amp; Lovebomb</td>
-      <td>It!</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 33</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-      </td>
-      <td></td>
-      <td>St Michael Avenue</td>
-      <td>Tales Of A Dutchman</td>
+      <td>Larry Heard Presents Mr. White</td>
+      <td>E.P.</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-house" | relative_url }}">french house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 24</li>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 27</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Diamond Dallas Tex</td>
-      <td>The Afters</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
         </ul>
       </td>
       <td>
@@ -2005,7 +2009,7 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ad492c5530ac6394ff30fbe0030fd69.png" alt="Cover for Evangelina" style="max-width:120px; height:auto;" />
       </td>
@@ -2025,17 +2029,15 @@ Acid house is an electronic dance music genre that emerged in Chicago during the
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>73</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3701aa1c3d7ef9aff67ff215a191f223.png" alt="Cover for E.P." style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Larry Heard Presents Mr. White</td>
-      <td>E.P.</td>
+      <td>Diamond Dallas Tex</td>
+      <td>The Afters</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
         </ul>
       </td>
       <td>

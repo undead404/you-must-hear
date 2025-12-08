@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:57:44.502Z
+date: 2025-12-08T05:38:40.764Z
 permalink: tags/rappeuse
 title: rappeuse
 ---
 
 ## rappeuse
 
-Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T05:38:40.764Z">Mon Dec 08 2025 07:38:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
   </thead>
   <tbody>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Tromatiz" style="max-width:120px; height:auto;" />
       </td>
@@ -47,35 +47,7 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/O6FvpPFrGu5Dan3UNk25u0YRKbwKnZAZ-UvAjGI2Nvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY3/ODU4LTE1MzE3ODY0/MjctNzY3OS5qcGVn.jpeg" alt="Cover for Kawaii karma [Explicit]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1986</td>
-      <td>Cœur</td>
-      <td>Kawaii karma [Explicit]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f26009ae0235f3a25daeaf62c3beb35.png" alt="Cover for Paris - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -102,7 +74,38 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dab74ceed534b375153156531b22b84.png" alt="Cover for Parabellum (Nouvelle École)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Leys</td>
+      <td>Parabellum (Nouvelle École)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 24</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 37</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 37</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a95028b5b15c92a6f4f4e7f21c0205bd.png" alt="Cover for Sortir de la tess" style="max-width:120px; height:auto;" />
       </td>
@@ -132,146 +135,7 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>93</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dab74ceed534b375153156531b22b84.png" alt="Cover for Parabellum (Nouvelle École)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Leys</td>
-      <td>Parabellum (Nouvelle École)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 24</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 37</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 37</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86c4ae4d63877f0c7983477127495a0c.png" alt="Cover for Tous à Table - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Leys</td>
-      <td>Tous à Table - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3a3b5fa06efe99d3c360762ad96389a.png" alt="Cover for Seule (Nouvelle École) - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Leys</td>
-      <td>Seule (Nouvelle École) - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb6c6970b7e38eb8c38b0fe68228cc6d.png" alt="Cover for Sortir de la tess - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Leys</td>
-      <td>Sortir de la tess - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1cb70c49c41ca6f80d3f86949307852.png" alt="Cover for Makelele - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Leys</td>
-      <td>Makelele - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d9b1814c112ce3876c42bf9f03d551f.png" alt="Cover for Parabellum (Nouvelle École) - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -298,7 +162,115 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>79</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1cb70c49c41ca6f80d3f86949307852.png" alt="Cover for Makelele - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Leys</td>
+      <td>Makelele - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb6c6970b7e38eb8c38b0fe68228cc6d.png" alt="Cover for Sortir de la tess - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Leys</td>
+      <td>Sortir de la tess - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86c4ae4d63877f0c7983477127495a0c.png" alt="Cover for Tous à Table - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Leys</td>
+      <td>Tous à Table - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3a3b5fa06efe99d3c360762ad96389a.png" alt="Cover for Seule (Nouvelle École) - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Leys</td>
+      <td>Seule (Nouvelle École) - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/LnBfiivZ92lxbuFii1iLG_C5PZm9culBQVyPDq79MLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTM1/LTExOTgwMTA0OTYu/anBlZw.jpeg" alt="Cover for Confidence pour confinement" style="max-width:120px; height:auto;" />
       </td>
@@ -326,7 +298,7 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/aOpPD-Qno7zvthQa5HlW52DdxGOGsHQRx6BO5RQp6J4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTMx/OTM1LTE2MzM4NTcw/MTEtMjYzMi5qcGVn.jpeg" alt="Cover for Docteur Dlamour - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -354,7 +326,7 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/IBX8QUc6FuePc_w7dCt_fxcVe9W_zGNXsApBLGXlXaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQ5/OS0xNDYwMTI4NzQz/LTc2NDMuanBlZw.jpeg" alt="Cover for Féerie" style="max-width:120px; height:auto;" />
       </td>
@@ -383,69 +355,13 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/723e7ca5b31e4cd5430f6c7ab655c144.png" alt="Cover for JSPR - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Cœur</td>
-      <td>JSPR - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
-      <td>
-          <img src="https://i.discogs.com/IBX8QUc6FuePc_w7dCt_fxcVe9W_zGNXsApBLGXlXaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQ5/OS0xNDYwMTI4NzQz/LTc2NDMuanBlZw.jpeg" alt="Cover for Loving V" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Cœur</td>
-      <td>Loving V</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>46</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaef674067b337817784e798a079d1a2.png" alt="Cover for Dimanche" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/IBX8QUc6FuePc_w7dCt_fxcVe9W_zGNXsApBLGXlXaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQ5/OS0xNDYwMTI4NzQz/LTc2NDMuanBlZw.jpeg" alt="Cover for Aout" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Cœur</td>
-      <td>Dimanche</td>
+      <td>Aout</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
@@ -467,7 +383,7 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/813424a73467791f01a9ac977667e46b.png" alt="Cover for JSPR" style="max-width:120px; height:auto;" />
       </td>
@@ -497,11 +413,11 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/IBX8QUc6FuePc_w7dCt_fxcVe9W_zGNXsApBLGXlXaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQ5/OS0xNDYwMTI4NzQz/LTc2NDMuanBlZw.jpeg" alt="Cover for Aout" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaef674067b337817784e798a079d1a2.png" alt="Cover for Dimanche" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Cœur</td>
-      <td>Aout</td>
+      <td>Dimanche</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
@@ -523,15 +439,16 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/FCtrc6VXuWp6SVpZJbamsGNytZi1KOG9UGTNu07dVms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTY2/NzUtMTQ0ODk1NzA4/MC00MjAyLmpwZWc.jpeg" alt="Cover for Sommet" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/IBX8QUc6FuePc_w7dCt_fxcVe9W_zGNXsApBLGXlXaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQ5/OS0xNDYwMTI4NzQz/LTc2NDMuanBlZw.jpeg" alt="Cover for Loving V" style="max-width:120px; height:auto;" />
       </td>
-      <td>2003</td>
-      <td>Leys</td>
-      <td>Sommet</td>
+      <td>2002</td>
+      <td>Cœur</td>
+      <td>Loving V</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
@@ -546,13 +463,39 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 82</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/723e7ca5b31e4cd5430f6c7ab655c144.png" alt="Cover for JSPR - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Cœur</td>
+      <td>JSPR - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/TCwU3X1jHu12pts7g_lnW1wpwDmlrIzxJSoUXHbyVkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk4/OTktMTE5NzA0ODE0/OS5qcGVn.jpeg" alt="Cover for Seule" style="max-width:120px; height:auto;" />
       </td>
@@ -582,7 +525,36 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/FCtrc6VXuWp6SVpZJbamsGNytZi1KOG9UGTNu07dVms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTY2/NzUtMTQ0ODk1NzA4/MC00MjAyLmpwZWc.jpeg" alt="Cover for Sommet" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Leys</td>
+      <td>Sommet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 82</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
       </td>
       <td>2006-03-28</td>
@@ -599,50 +571,7 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>83</td>
-      <td>
-          <img src="https://i.discogs.com/KeLf64IRpzY43onrnDer6v8sdDcIRUwhyhS8j-FE1eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEw/NTAzLTE3MjkwMTU2/NzYtOTQ5Mi5wbmc.jpeg" alt="Cover for Garçon manqué, fille manquante" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>George Ka</td>
-      <td>Garçon manqué, fille manquante</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 56</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
-      <td>
-          <img src="https://i.discogs.com/KeLf64IRpzY43onrnDer6v8sdDcIRUwhyhS8j-FE1eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEw/NTAzLTE3MjkwMTU2/NzYtOTQ5Mi5wbmc.jpeg" alt="Cover for Par avance" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>George Ka</td>
-      <td>Par avance</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 38</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 42</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/KeLf64IRpzY43onrnDer6v8sdDcIRUwhyhS8j-FE1eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEw/NTAzLTE3MjkwMTU2/NzYtOTQ5Mi5wbmc.jpeg" alt="Cover for Jolies personnes" style="max-width:120px; height:auto;" />
       </td>
@@ -666,13 +595,13 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>9</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b8d7b75fba07cbe488e735c1c678f6b.png" alt="Cover for Jolies personnes - Single" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/KeLf64IRpzY43onrnDer6v8sdDcIRUwhyhS8j-FE1eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEw/NTAzLTE3MjkwMTU2/NzYtOTQ5Mi5wbmc.jpeg" alt="Cover for Par avance" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>George Ka</td>
-      <td>Jolies personnes - Single</td>
+      <td>Par avance</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
@@ -684,11 +613,32 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 38</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/KeLf64IRpzY43onrnDer6v8sdDcIRUwhyhS8j-FE1eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEw/NTAzLTE3MjkwMTU2/NzYtOTQ5Mi5wbmc.jpeg" alt="Cover for Garçon manqué, fille manquante" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>George Ka</td>
+      <td>Garçon manqué, fille manquante</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 56</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a67e728052acda8c976de3cffad324d5.png" alt="Cover for Par avance - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -710,7 +660,29 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>67</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b8d7b75fba07cbe488e735c1c678f6b.png" alt="Cover for Jolies personnes - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>George Ka</td>
+      <td>Jolies personnes - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4210e267650461ca5df4554a65e8f3b.png" alt="Cover for Garçon manqué, fille manquante - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -727,7 +699,7 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/w5D-6BWqRoeXn3U86WUhZYEg8DOIs1JlXcKpmsU23Uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA3/ODA0LTE1NDA0NTY1/ODEtMTI2NS5qcGVn.jpeg" alt="Cover for Barbieturique (Edition noire)" style="max-width:120px; height:auto;" />
       </td>
@@ -747,7 +719,7 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>2010-03-08</td>
@@ -764,154 +736,7 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>78</td>
-      <td>
-          <img src="https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg" alt="Cover for Triste époque" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Doria</td>
-      <td>Triste époque</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 63</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
-      <td>
-          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for Paris" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Doria</td>
-      <td>Paris</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 59</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
-      <td>
-          <img src="https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg" alt="Cover for Plus personne" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Doria</td>
-      <td>Plus personne</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 58</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
-      <td>
-          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for Tempo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Doria</td>
-      <td>Tempo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 53</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 56</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2592b906b35ce99cc7c23d613441de64.png" alt="Cover for Depuis le départ" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Doria</td>
-      <td>Depuis le départ</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 44</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 46</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 76</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg" alt="Cover for Pas le choix" style="max-width:120px; height:auto;" />
       </td>
@@ -941,13 +766,102 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2592b906b35ce99cc7c23d613441de64.png" alt="Cover for Depuis le départ" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Doria</td>
+      <td>Depuis le départ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 44</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 46</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for Tempo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Doria</td>
+      <td>Tempo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 53</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 56</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg" alt="Cover for Plus personne" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Doria</td>
+      <td>Plus personne</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 58</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>21</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25f98c72a756744ad736f2f332e3e093.png" alt="Cover for Pas le choix - Single" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for Paris" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Doria</td>
-      <td>Pas le choix - Single</td>
+      <td>Paris</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -964,17 +878,19 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 59</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>23</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb9ff5168629dbd277f13fb27e0684b5.png" alt="Cover for Triste époque - Single" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg" alt="Cover for Triste époque" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Doria</td>
-      <td>Triste époque - Single</td>
+      <td>Triste époque</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -991,11 +907,13 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 63</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c61be70da4365ef1b34ce4f26d08964.png" alt="Cover for Plus personne - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1022,13 +940,13 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>68</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ca59f2b832c7af5cfda609769de56a5.png" alt="Cover for Symptômes - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb9ff5168629dbd277f13fb27e0684b5.png" alt="Cover for Triste époque - Single" style="max-width:120px; height:auto;" />
       </td>
-      <td>2013-12-10</td>
+      <td>2011</td>
       <td>Doria</td>
-      <td>Symptômes - Single</td>
+      <td>Triste époque - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1049,13 +967,13 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bfe5f5f48dbcc0cf4bedc5bcda752fb.png" alt="Cover for Booska Do - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25f98c72a756744ad736f2f332e3e093.png" alt="Cover for Pas le choix - Single" style="max-width:120px; height:auto;" />
       </td>
-      <td>2013-12-10</td>
+      <td>2011</td>
       <td>Doria</td>
-      <td>Booska Do - Single</td>
+      <td>Pas le choix - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1076,34 +994,7 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fe2a3e96df68274c5185e98168756c0.png" alt="Cover for Calcul - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-12-10</td>
-      <td>Doria</td>
-      <td>Calcul - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e54d6479804f1949ce958076b57c2efd.png" alt="Cover for On prend tout - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1130,13 +1021,13 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg" alt="Cover for Symptômes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fe2a3e96df68274c5185e98168756c0.png" alt="Cover for Calcul - Single" style="max-width:120px; height:auto;" />
       </td>
-      <td>2016-01</td>
+      <td>2013-12-10</td>
       <td>Doria</td>
-      <td>Symptômes</td>
+      <td>Calcul - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1153,18 +1044,17 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for Leçon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bfe5f5f48dbcc0cf4bedc5bcda752fb.png" alt="Cover for Booska Do - Single" style="max-width:120px; height:auto;" />
       </td>
-      <td>2016-01</td>
+      <td>2013-12-10</td>
       <td>Doria</td>
-      <td>Leçon</td>
+      <td>Booska Do - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1181,18 +1071,17 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for Oh Boy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ca59f2b832c7af5cfda609769de56a5.png" alt="Cover for Symptômes - Single" style="max-width:120px; height:auto;" />
       </td>
-      <td>2016-01</td>
+      <td>2013-12-10</td>
       <td>Doria</td>
-      <td>Oh Boy</td>
+      <td>Symptômes - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1209,187 +1098,11 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71b25a6e37b8a016ed56e4f7856b6927.png" alt="Cover for Calcul" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-01</td>
-      <td>Doria</td>
-      <td>Calcul</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 77</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
-      <td>
-          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for 96" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-01</td>
-      <td>Doria</td>
-      <td>96</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 75</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe7bed4f146cce51199944edb7fac1e9.png" alt="Cover for On prend tout" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-01</td>
-      <td>Doria</td>
-      <td>On prend tout</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 68</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
-      <td>
-          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for DGT" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-01</td>
-      <td>Doria</td>
-      <td>DGT</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 67</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
-      <td>
-          <img src="https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg" alt="Cover for Booska Do" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-01</td>
-      <td>Doria</td>
-      <td>Booska Do</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 62</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
-      <td>
-          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for VRRR" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-01</td>
-      <td>Doria</td>
-      <td>VRRR</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 51</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 52</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c371042632d7b55ba1f2f7b5ee6a25c.png" alt="Cover for MDP" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,13 +1133,13 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>15</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e02f40ece34682e098c768cca29b192.png" alt="Cover for MDP 1 - Single" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for VRRR" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
-      <td>MDP 1 - Single</td>
+      <td>VRRR</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1443,17 +1156,20 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 51</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 52</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>22</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a639dc99e6f17a9af7f97dacb2cbf1c7.png" alt="Cover for Leçon - Single" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg" alt="Cover for Booska Do" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
-      <td>Leçon - Single</td>
+      <td>Booska Do</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1470,17 +1186,19 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 62</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>25</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e04b78d62c226f150ac720d51d03dc9.png" alt="Cover for 96 - Single" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for DGT" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
-      <td>96 - Single</td>
+      <td>DGT</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1497,17 +1215,19 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 67</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>26</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1fcd50b7807a2c96aa2c2544ccb1bc7.png" alt="Cover for Mission - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe7bed4f146cce51199944edb7fac1e9.png" alt="Cover for On prend tout" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
-      <td>Mission - Single</td>
+      <td>On prend tout</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1524,17 +1244,19 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 68</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg" alt="Cover for MDP 2 - EP" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for 96" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
-      <td>MDP 2 - EP</td>
+      <td>96</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1551,17 +1273,48 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 75</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71b25a6e37b8a016ed56e4f7856b6927.png" alt="Cover for Calcul" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01</td>
+      <td>Doria</td>
+      <td>Calcul</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 77</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09beb81f5cf323412920fd95e6596d8d.png" alt="Cover for DGT - Single" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for Oh Boy" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
-      <td>DGT - Single</td>
+      <td>Oh Boy</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1578,17 +1331,18 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>31</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67217f803cc93711a7619f77070a0dfb.png" alt="Cover for Tempo - Single" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for Leçon" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
-      <td>Tempo - Single</td>
+      <td>Leçon</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1605,17 +1359,18 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>32</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23fb6253a75ac27f6676ff315f2a0030.png" alt="Cover for Oh Boy - Single" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg" alt="Cover for Symptômes" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
-      <td>Oh Boy - Single</td>
+      <td>Symptômes</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1632,92 +1387,12 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73964344f8cd8338c978545bb5da40de.png" alt="Cover for VRRR - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-01</td>
-      <td>Doria</td>
-      <td>VRRR - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db798da01f8f9ad05c807b457a3fb541.png" alt="Cover for MDP - EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-01</td>
-      <td>Doria</td>
-      <td>MDP - EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
-      <td>
-          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for Mission" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-01</td>
-      <td>Doria</td>
-      <td>Mission</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eca1847e2a0f61867c22af8ea9b2fb17.png" alt="Cover for MDP 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1744,7 +1419,304 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for Mission" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01</td>
+      <td>Doria</td>
+      <td>Mission</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db798da01f8f9ad05c807b457a3fb541.png" alt="Cover for MDP - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01</td>
+      <td>Doria</td>
+      <td>MDP - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73964344f8cd8338c978545bb5da40de.png" alt="Cover for VRRR - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01</td>
+      <td>Doria</td>
+      <td>VRRR - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23fb6253a75ac27f6676ff315f2a0030.png" alt="Cover for Oh Boy - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01</td>
+      <td>Doria</td>
+      <td>Oh Boy - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67217f803cc93711a7619f77070a0dfb.png" alt="Cover for Tempo - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01</td>
+      <td>Doria</td>
+      <td>Tempo - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09beb81f5cf323412920fd95e6596d8d.png" alt="Cover for DGT - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01</td>
+      <td>Doria</td>
+      <td>DGT - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg" alt="Cover for MDP 2 - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01</td>
+      <td>Doria</td>
+      <td>MDP 2 - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1fcd50b7807a2c96aa2c2544ccb1bc7.png" alt="Cover for Mission - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01</td>
+      <td>Doria</td>
+      <td>Mission - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e04b78d62c226f150ac720d51d03dc9.png" alt="Cover for 96 - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01</td>
+      <td>Doria</td>
+      <td>96 - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a639dc99e6f17a9af7f97dacb2cbf1c7.png" alt="Cover for Leçon - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01</td>
+      <td>Doria</td>
+      <td>Leçon - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e02f40ece34682e098c768cca29b192.png" alt="Cover for MDP 1 - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01</td>
+      <td>Doria</td>
+      <td>MDP 1 - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/seAXzWty8NrE6UGbo4mva4ZSFXBCbeoaIDSQCQnf5Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ0/NzExLTE2MjgxMjM5/NzctMzE2NC5qcGVn.jpeg" alt="Cover for Bébéfleur" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,91 +1745,7 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-          <img src="https://i.discogs.com/seAXzWty8NrE6UGbo4mva4ZSFXBCbeoaIDSQCQnf5Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ0/NzExLTE2MjgxMjM5/NzctMzE2NC5qcGVn.jpeg" alt="Cover for Bébédamour - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-09-25</td>
-      <td>Cœur</td>
-      <td>Bébédamour - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dea83a9fca76d6eeca6fe55d21f94adb.png" alt="Cover for Mi Amor" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-09-25</td>
-      <td>Cœur</td>
-      <td>Mi Amor</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/850a0ac5b920127e26e5151514742fd8.png" alt="Cover for Docteur Dlamour" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-09-25</td>
-      <td>Cœur</td>
-      <td>Docteur Dlamour</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/336265aaeaf3ebc10d043cd6d39f6b91.png" alt="Cover for Bébédamour" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,13 +1773,13 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>50</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4898edeb7ab133caddea1a7714964aef.png" alt="Cover for Minouche mafia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/850a0ac5b920127e26e5151514742fd8.png" alt="Cover for Docteur Dlamour" style="max-width:120px; height:auto;" />
       </td>
-      <td>2020-12-10</td>
+      <td>2019-09-25</td>
       <td>Cœur</td>
-      <td>Minouche mafia</td>
+      <td>Docteur Dlamour</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
@@ -1909,14 +1797,67 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 85</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 94</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dea83a9fca76d6eeca6fe55d21f94adb.png" alt="Cover for Mi Amor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-25</td>
+      <td>Cœur</td>
+      <td>Mi Amor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/seAXzWty8NrE6UGbo4mva4ZSFXBCbeoaIDSQCQnf5Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ0/NzExLTE2MjgxMjM5/NzctMzE2NC5qcGVn.jpeg" alt="Cover for Bébédamour - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-25</td>
+      <td>Cœur</td>
+      <td>Bébédamour - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d1bf7f6db76df0dcec58cfb3931d338.png" alt="Cover for Minouche mafia (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1947,13 +1888,13 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>35</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55641f3279ff5ac32a059f9b85b2ed98.png" alt="Cover for Verrouillé - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4898edeb7ab133caddea1a7714964aef.png" alt="Cover for Minouche mafia" style="max-width:120px; height:auto;" />
       </td>
-      <td>2021-04-23</td>
+      <td>2020-12-10</td>
       <td>Cœur</td>
-      <td>Verrouillé - Single</td>
+      <td>Minouche mafia</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
@@ -1971,123 +1912,14 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 85</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 94</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad92c8f699f032447324d113eb7d53ab.png" alt="Cover for Bébéfleur - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-04-23</td>
-      <td>Cœur</td>
-      <td>Bébéfleur - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f2978160d1f62ddb468a82b069a837f.png" alt="Cover for Mi Amor - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-04-23</td>
-      <td>Cœur</td>
-      <td>Mi Amor - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>
-          <img src="https://i.discogs.com/O6FvpPFrGu5Dan3UNk25u0YRKbwKnZAZ-UvAjGI2Nvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY3/ODU4LTE1MzE3ODY0/MjctNzY3OS5qcGVn.jpeg" alt="Cover for Kawaii karma" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-04-23</td>
-      <td>Cœur</td>
-      <td>Kawaii karma</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/444e4f764b9a5f4472c8028fa35f0d8d.png" alt="Cover for Verrouillé" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-04-23</td>
-      <td>Cœur</td>
-      <td>Verrouillé</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/leDeeyanAPFVYmgzXZigCui658v0gAPu1WC6cLsNrdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDMy/MjU5LTE2MzY0NzI4/OTEtMzY5NS5qcGVn.jpeg" alt="Cover for Chrysanthème" style="max-width:120px; height:auto;" />
       </td>
@@ -2115,7 +1947,175 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/444e4f764b9a5f4472c8028fa35f0d8d.png" alt="Cover for Verrouillé" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-23</td>
+      <td>Cœur</td>
+      <td>Verrouillé</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/O6FvpPFrGu5Dan3UNk25u0YRKbwKnZAZ-UvAjGI2Nvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY3/ODU4LTE1MzE3ODY0/MjctNzY3OS5qcGVn.jpeg" alt="Cover for Kawaii karma" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-23</td>
+      <td>Cœur</td>
+      <td>Kawaii karma</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f2978160d1f62ddb468a82b069a837f.png" alt="Cover for Mi Amor - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-23</td>
+      <td>Cœur</td>
+      <td>Mi Amor - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad92c8f699f032447324d113eb7d53ab.png" alt="Cover for Bébéfleur - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-23</td>
+      <td>Cœur</td>
+      <td>Bébéfleur - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55641f3279ff5ac32a059f9b85b2ed98.png" alt="Cover for Verrouillé - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-23</td>
+      <td>Cœur</td>
+      <td>Verrouillé - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/aOpPD-Qno7zvthQa5HlW52DdxGOGsHQRx6BO5RQp6J4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTMx/OTM1LTE2MzM4NTcw/MTEtMjYzMi5qcGVn.jpeg" alt="Cover for Dimanche - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-23</td>
+      <td>Cœur</td>
+      <td>Dimanche - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/mYDaNqGad_u0_eQKM1QUPO1_TV88fHISb3jv7nqrVd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjUx/OTA3LTE2NTI5NTgw/MDEtNjA5OC5qcGVn.jpeg" alt="Cover for Let Go - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -2142,7 +2142,7 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/yTWbaZWb-L-idiVGkZ_uBJqf_Y2NPNtAnt9Mwn-_-HA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTYy/Mzg2LTE2NjY4NzU3/NzMtMjkwOC5wbmc.jpeg" alt="Cover for EGO" style="max-width:120px; height:auto;" />
       </td>
@@ -2161,64 +2161,7 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-          <img src="https://i.discogs.com/Ws84yP7ZgMWYXaCYb6YNYFNAkB_Pu8GDIdGXM-G1RUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ4/MjQ0LTE2NjIxMDAz/MTUtOTE3Ni5qcGVn.jpeg" alt="Cover for Chansons tristes - EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-01-23</td>
-      <td>Yoa</td>
-      <td>Chansons tristes - EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>
-          <img src="https://i.discogs.com/Ws84yP7ZgMWYXaCYb6YNYFNAkB_Pu8GDIdGXM-G1RUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ4/MjQ0LTE2NjIxMDAz/MTUtOTE3Ni5qcGVn.jpeg" alt="Cover for chanson triste - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-01-23</td>
-      <td>Yoa</td>
-      <td>chanson triste - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
-      <td>
-          <img src="https://i.discogs.com/Ws84yP7ZgMWYXaCYb6YNYFNAkB_Pu8GDIdGXM-G1RUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ4/MjQ0LTE2NjIxMDAz/MTUtOTE3Ni5qcGVn.jpeg" alt="Cover for Chansons tristes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-01-23</td>
-      <td>Yoa</td>
-      <td>Chansons tristes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/Ws84yP7ZgMWYXaCYb6YNYFNAkB_Pu8GDIdGXM-G1RUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ4/MjQ0LTE2NjIxMDAz/MTUtOTE3Ni5qcGVn.jpeg" alt="Cover for chanson triste" style="max-width:120px; height:auto;" />
       </td>
@@ -2237,65 +2180,64 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/TCwU3X1jHu12pts7g_lnW1wpwDmlrIzxJSoUXHbyVkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk4/OTktMTE5NzA0ODE0/OS5qcGVn.jpeg" alt="Cover for Makelele" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/Ws84yP7ZgMWYXaCYb6YNYFNAkB_Pu8GDIdGXM-G1RUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ4/MjQ0LTE2NjIxMDAz/MTUtOTE3Ni5qcGVn.jpeg" alt="Cover for Chansons tristes" style="max-width:120px; height:auto;" />
       </td>
-      <td>2024</td>
-      <td>Leys</td>
-      <td>Makelele</td>
+      <td>2023-01-23</td>
+      <td>Yoa</td>
+      <td>Chansons tristes</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/06sTkiQogBnql5Ya3drTPDv_dG4Zc-ofqdlmaUQmZ44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTA1/MDctMTU4NzIxNDg5/My0xNTg4LmpwZWc.jpeg" alt="Cover for Bad Gyal" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/Ws84yP7ZgMWYXaCYb6YNYFNAkB_Pu8GDIdGXM-G1RUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ4/MjQ0LTE2NjIxMDAz/MTUtOTE3Ni5qcGVn.jpeg" alt="Cover for chanson triste - Single" style="max-width:120px; height:auto;" />
       </td>
-      <td>2024</td>
-      <td>Leys</td>
-      <td>Bad Gyal</td>
+      <td>2023-01-23</td>
+      <td>Yoa</td>
+      <td>chanson triste - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 61</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 65</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/Ws84yP7ZgMWYXaCYb6YNYFNAkB_Pu8GDIdGXM-G1RUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ4/MjQ0LTE2NjIxMDAz/MTUtOTE3Ni5qcGVn.jpeg" alt="Cover for Chansons tristes - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-01-23</td>
+      <td>Yoa</td>
+      <td>Chansons tristes - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/FCtrc6VXuWp6SVpZJbamsGNytZi1KOG9UGTNu07dVms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTY2/NzUtMTQ0ODk1NzA4/MC00MjAyLmpwZWc.jpeg" alt="Cover for Codes" style="max-width:120px; height:auto;" />
       </td>
@@ -2325,13 +2267,13 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>24</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c62ed372766c5d52c82d5fb5464d5734.png" alt="Cover for Bad Gyal - Single" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/06sTkiQogBnql5Ya3drTPDv_dG4Zc-ofqdlmaUQmZ44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTA1/MDctMTU4NzIxNDg5/My0xNTg4LmpwZWc.jpeg" alt="Cover for Bad Gyal" style="max-width:120px; height:auto;" />
       </td>
       <td>2024</td>
       <td>Leys</td>
-      <td>Bad Gyal - Single</td>
+      <td>Bad Gyal</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -2348,17 +2290,20 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 61</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 65</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>36</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c382819afd1a6518234d5359e15551c.png" alt="Cover for Sommet - Single" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/TCwU3X1jHu12pts7g_lnW1wpwDmlrIzxJSoUXHbyVkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk4/OTktMTE5NzA0ODE0/OS5qcGVn.jpeg" alt="Cover for Makelele" style="max-width:120px; height:auto;" />
       </td>
       <td>2024</td>
       <td>Leys</td>
-      <td>Sommet - Single</td>
+      <td>Makelele</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -2375,65 +2320,12 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b087ac38f94c3d895b5166da8c7c643.png" alt="Cover for Seule - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024</td>
-      <td>Leys</td>
-      <td>Seule - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47b6c7765e6ef9b7049340f2a2ecfe4a.png" alt="Cover for Codes - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024</td>
-      <td>Leys</td>
-      <td>Codes - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg" alt="Cover for Tous à table" style="max-width:120px; height:auto;" />
       </td>
@@ -2460,17 +2352,25 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/7632oLXKo1R-6_lXbw-NBJgvIin5XqZ6ZsR5lUNClOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTc5/OTk4LTE2MzQxNTc5/NDMtMzUzOC5qcGVn.jpeg" alt="Cover for maddy &lt;3 - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47b6c7765e6ef9b7049340f2a2ecfe4a.png" alt="Cover for Codes - Single" style="max-width:120px; height:auto;" />
       </td>
-      <td>2024-06-14</td>
-      <td>Yoa</td>
-      <td>maddy &lt;3 - Single</td>
+      <td>2024</td>
+      <td>Leys</td>
+      <td>Codes - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
         </ul>
       </td>
       <td>
@@ -2479,7 +2379,88 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b087ac38f94c3d895b5166da8c7c643.png" alt="Cover for Seule - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024</td>
+      <td>Leys</td>
+      <td>Seule - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c382819afd1a6518234d5359e15551c.png" alt="Cover for Sommet - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024</td>
+      <td>Leys</td>
+      <td>Sommet - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c62ed372766c5d52c82d5fb5464d5734.png" alt="Cover for Bad Gyal - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024</td>
+      <td>Leys</td>
+      <td>Bad Gyal - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f14385043c61b97e05702513391f85e.png" alt="Cover for maddy &lt;3" style="max-width:120px; height:auto;" />
       </td>
@@ -2498,37 +2479,26 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>92</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af3165c1b252c228b36af2106414787c.png" alt="Cover for DIGITAL" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/7632oLXKo1R-6_lXbw-NBJgvIin5XqZ6ZsR5lUNClOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTc5/OTk4LTE2MzQxNTc5/NDMtMzUzOC5qcGVn.jpeg" alt="Cover for maddy &lt;3 - Single" style="max-width:120px; height:auto;" />
       </td>
-      <td></td>
-      <td>Vannye</td>
-      <td>DIGITAL</td>
+      <td>2024-06-14</td>
+      <td>Yoa</td>
+      <td>maddy &lt;3 - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 44</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2768b025d4fc4ffd0f946c03365184d7.png" alt="Cover for Stand" style="max-width:120px; height:auto;" />
       </td>
@@ -2559,13 +2529,43 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/276749c9b4b4675caae909c06140e9d1.png" alt="Cover for Jamais - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af3165c1b252c228b36af2106414787c.png" alt="Cover for DIGITAL" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Vannye</td>
+      <td>DIGITAL</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 44</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8ea1774a643ec71a17dbb332e67d72b.png" alt="Cover for Killi" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Toallita</td>
-      <td>Jamais - Single</td>
+      <td>Killi</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -2585,13 +2585,13 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>51</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b3523bd18a969c09bbd300acdb791ec.png" alt="Cover for Killi - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/896ad96e4559fbcc0366da80e57d6cc1.png" alt="Cover for Jamais" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Toallita</td>
-      <td>Killi - Single</td>
+      <td>Jamais</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -2611,7 +2611,7 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e434f7f675d8264f200c7f9b0ccfb8bc.png" alt="Cover for Stand - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2639,13 +2639,13 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>75</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/896ad96e4559fbcc0366da80e57d6cc1.png" alt="Cover for Jamais" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b3523bd18a969c09bbd300acdb791ec.png" alt="Cover for Killi - Single" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Toallita</td>
-      <td>Jamais</td>
+      <td>Killi - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -2665,13 +2665,13 @@ Last updated: <time datetime="2025-12-05T04:57:44.502Z">Fri Dec 05 2025 06:57:44
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>84</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8ea1774a643ec71a17dbb332e67d72b.png" alt="Cover for Killi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/276749c9b4b4675caae909c06140e9d1.png" alt="Cover for Jamais - Single" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Toallita</td>
-      <td>Killi</td>
+      <td>Jamais - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
