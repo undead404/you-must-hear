@@ -1,18 +1,21 @@
 ---
 category: list
-date: 2025-12-08T07:06:04.296Z
+date: 2025-12-08T07:41:44.701Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-08T07:06:04.296Z">Mon Dec 08 2025 09:06:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T07:41:44.701Z">Mon Dec 08 2025 09:41:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [musical theater]({{ "tags/musical-theater" | relative_url }}) | <time datetime="2025-12-08T07:41:44.701Z">Mon Dec 08 2025 09:41:44 GMT+0200 (Eastern European Standard Time)</time> |
+| [arena rock]({{ "tags/arena-rock" | relative_url }}) | <time datetime="2025-12-08T07:26:32.274Z">Mon Dec 08 2025 09:26:32 GMT+0200 (Eastern European Standard Time)</time> |
+| [queercore]({{ "tags/queercore" | relative_url }}) | <time datetime="2025-12-08T07:16:19.924Z">Mon Dec 08 2025 09:16:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [instrumental metal]({{ "tags/instrumental-metal" | relative_url }}) | <time datetime="2025-12-08T07:06:04.296Z">Mon Dec 08 2025 09:06:04 GMT+0200 (Eastern European Standard Time)</time> |
 | [english hip hop]({{ "tags/english-hip-hop" | relative_url }}) | <time datetime="2025-12-08T07:05:58.390Z">Mon Dec 08 2025 09:05:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [gorenoise]({{ "tags/gorenoise" | relative_url }}) | <time datetime="2025-12-08T06:55:46.104Z">Mon Dec 08 2025 08:55:46 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1389,6 +1392,3 @@ Last updated: <time datetime="2025-12-08T07:06:04.296Z">Mon Dec 08 2025 09:06:04
 | [doomcore]({{ "tags/doomcore" | relative_url }}) | <time datetime="2025-12-05T05:01:03.739Z">Fri Dec 05 2025 07:01:03 GMT+0200 (Eastern European Standard Time)</time> |
 | [punjabi folk]({{ "tags/punjabi-folk" | relative_url }}) | <time datetime="2025-12-05T05:00:58.570Z">Fri Dec 05 2025 07:00:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [psycore]({{ "tags/psycore" | relative_url }}) | <time datetime="2025-12-05T05:00:53.065Z">Fri Dec 05 2025 07:00:53 GMT+0200 (Eastern European Standard Time)</time> |
-| [musical theater]({{ "tags/musical-theater" | relative_url }}) | <time datetime="2025-12-05T05:00:46.986Z">Fri Dec 05 2025 07:00:46 GMT+0200 (Eastern European Standard Time)</time> |
-| [arena rock]({{ "tags/arena-rock" | relative_url }}) | <time datetime="2025-12-05T05:00:02.956Z">Fri Dec 05 2025 07:00:02 GMT+0200 (Eastern European Standard Time)</time> |
-| [queercore]({{ "tags/queercore" | relative_url }}) | <time datetime="2025-12-05T04:59:57.679Z">Fri Dec 05 2025 06:59:57 GMT+0200 (Eastern European Standard Time)</time> |
