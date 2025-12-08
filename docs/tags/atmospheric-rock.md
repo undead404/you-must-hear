@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:43:09.548Z
+date: 2025-12-08T03:22:45.238Z
 permalink: tags/atmospheric-rock
 title: atmospheric rock
 ---
 
 ## atmospheric rock
 
-Last updated: <time datetime="2025-12-05T04:43:09.548Z">Fri Dec 05 2025 06:43:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T03:22:45.238Z">Mon Dec 08 2025 05:22:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
   </thead>
   <tbody>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
       </td>
       <td>1991-04-26</td>
@@ -52,7 +52,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>34</td>
       <td>
       </td>
       <td>1995-05-23</td>
@@ -72,7 +72,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>60</td>
       <td>
       </td>
       <td>1995-09-21</td>
@@ -89,7 +89,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b1169dc6d82b152a49e4e2d96e7cca6.png" alt="Cover for Magenta Skycode" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +107,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/o4jriQwEM-G26pbCsUMqZhdIelZu4rp2voNIcWkpQvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzM4/OC0xMzA0NTM0NTQ5/LmpwZWc.jpeg" alt="Cover for Blue Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -125,7 +125,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/lGWWKMuYHsPXMcKP8f6nHUCkwhyiG0DSwJWAIlYClQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDc1/My0xMjIxOTkzMzU1/LmpwZWc.jpeg" alt="Cover for Breathing The Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -143,7 +143,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4da3dd721a64ac295847f6e8936f2be.png" alt="Cover for Nighttime Birds" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b9a89ec0c97401bc059e84a666679f1.png" alt="Cover for How to Measure a Planet?" style="max-width:120px; height:auto;" />
       </td>
@@ -183,7 +183,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3823c6f82c1104dcd5ebc894b2f73812.png" alt="Cover for Alternative 4" style="max-width:120px; height:auto;" />
       </td>
@@ -200,7 +200,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/gPlryOvQKJTTCoVv6-nfYSDDoDdlTUHGpMviSt27RgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDgw/MS0xNjM4Njc1MTI5/LTQ5MzkucG5n.jpeg" alt="Cover for Walk Into My Open Womb" style="max-width:120px; height:auto;" />
       </td>
@@ -218,7 +218,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/U7LW3QRvRhmfW4hOPOUBHxmLZbFaG3Tsiw10dT6Ey04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM0/MzItMTM3NjM1NDU0/My0yODE0LmpwZWc.jpeg" alt="Cover for Blowing Bubbles Through Broken Windows" style="max-width:120px; height:auto;" />
       </td>
@@ -237,7 +237,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3da11de891f10559e72b508ea7ebe999.png" alt="Cover for Three Empty Boys" style="max-width:120px; height:auto;" />
       </td>
@@ -257,7 +257,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32a00abf0addb3e2d0f8d289349d7904.png" alt="Cover for Judgement" style="max-width:120px; height:auto;" />
       </td>
@@ -277,7 +277,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/430ac7addcf34c2ccc80dccb725509c8.png" alt="Cover for If_then_else" style="max-width:120px; height:auto;" />
       </td>
@@ -296,7 +296,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/x9VrDV2j3UdjWbASL54xzR-ZT8oLqu86yBPNNLKn5jg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzM5/Mi0xNjg1MDU2MjU0/LTkzMjcuanBlZw.jpeg" alt="Cover for Brand New Babylon" style="max-width:120px; height:auto;" />
       </td>
@@ -315,7 +315,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/pcOGk_F0IO4WrdwfBGvKPn92T1oqmDwtiDxKXUJU4KA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTE5/OS0xNTM3MDg1MzQz/LTc0NTIuanBlZw.jpeg" alt="Cover for Nowafter" style="max-width:120px; height:auto;" />
       </td>
@@ -338,7 +338,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44c0891639327a0ac96ca2ab66a79402.png" alt="Cover for Saviour" style="max-width:120px; height:auto;" />
       </td>
@@ -358,7 +358,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c9c10303fd617a5034d9f39a863e32f.png" alt="Cover for A Fine Day to Exit" style="max-width:120px; height:auto;" />
       </td>
@@ -378,7 +378,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
       </td>
       <td>2001-11</td>
@@ -397,7 +397,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa6dffab2df442970d3e484a055431b9.png" alt="Cover for Resonance 1 &amp; 2" style="max-width:120px; height:auto;" />
       </td>
@@ -418,7 +418,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5bff5f575532ef682b1055551542c36.png" alt="Cover for Ad Nauseam" style="max-width:120px; height:auto;" />
       </td>
@@ -437,7 +437,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>29</td>
       <td>
       </td>
       <td>2002-11</td>
@@ -456,62 +456,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>53</td>
-      <td>
-          <img src="https://i.discogs.com/8KKcDfz89FYGL38f_lZEnEThtVwEInOTh0rCQanmZA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzYw/MzEtMTM2NDgyNDA5/My05MDQzLmpwZWc.jpeg" alt="Cover for I Have The Right To Remain Silent" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Amaranth</td>
-      <td>I Have The Right To Remain Silent</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
-      <td>
-          <img src="https://i.discogs.com/Mtem6ZE4YsVWezWnNONGunWfq5MSxayvk9n-YdCa1Bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjM0/NS0xMTgxMzkwNjk5/LmpwZWc.jpeg" alt="Cover for Things That Were" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Twelfth of Never</td>
-      <td>Things That Were</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-          <img src="https://i.discogs.com/S-NLmavVBP9R3CmhqG2twhkEyPlTu8RPMEGhexhZ52c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTU2/MS0xNDc0Mzg1NzU2/LTE0MjAuanBlZw.jpeg" alt="Cover for Blueprints" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>The Gathering</td>
-      <td>Blueprints</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d4488d36eae492d8a92b579c7d92fdc.png" alt="Cover for Sleepy Buildings" style="max-width:120px; height:auto;" />
       </td>
@@ -533,7 +478,62 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/S-NLmavVBP9R3CmhqG2twhkEyPlTu8RPMEGhexhZ52c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTU2/MS0xNDc0Mzg1NzU2/LTE0MjAuanBlZw.jpeg" alt="Cover for Blueprints" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>The Gathering</td>
+      <td>Blueprints</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/Mtem6ZE4YsVWezWnNONGunWfq5MSxayvk9n-YdCa1Bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjM0/NS0xMTgxMzkwNjk5/LmpwZWc.jpeg" alt="Cover for Things That Were" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Twelfth of Never</td>
+      <td>Things That Were</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/8KKcDfz89FYGL38f_lZEnEThtVwEInOTh0rCQanmZA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzYw/MzEtMTM2NDgyNDA5/My05MDQzLmpwZWc.jpeg" alt="Cover for I Have The Right To Remain Silent" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Amaranth</td>
+      <td>I Have The Right To Remain Silent</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
       <td>
       </td>
       <td>2003-05-26</td>
@@ -550,7 +550,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5af3f8554474d689cec875fd29cfabf.png" alt="Cover for A Natural Disaster" style="max-width:120px; height:auto;" />
       </td>
@@ -569,7 +569,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>12</td>
       <td>
       </td>
       <td>2003-12</td>
@@ -586,7 +586,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e29993156b8417497d87febd59ab206.png" alt="Cover for Planetary Confinement" style="max-width:120px; height:auto;" />
       </td>
@@ -605,7 +605,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e0b568dc9054b20a5aba079f4ad89fb.png" alt="Cover for Cautionary Tales For The Brave" style="max-width:120px; height:auto;" />
       </td>
@@ -623,7 +623,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/OBIgR_nMQj3O0cY5D_bsPbospNswqntmA4SE5qaNEgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ0/ODczLTE2MzYyNDU3/MDgtMTQ0OS5qcGVn.jpeg" alt="Cover for Roadside Flowers" style="max-width:120px; height:auto;" />
       </td>
@@ -643,7 +643,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
       </td>
       <td>2006-02-10</td>
@@ -663,7 +663,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/fNuJ4i7l66FYYQhmXPsqagrxoLiEk_6fGUuRrmn09dA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTUw/Mi0xMzI3NzUxMDc1/LmpwZWc.jpeg" alt="Cover for The Album" style="max-width:120px; height:auto;" />
       </td>
@@ -681,7 +681,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>2006-04-05</td>
@@ -698,7 +698,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af5e3b598b0f1013f865cb0bcac37a34.png" alt="Cover for Home" style="max-width:120px; height:auto;" />
       </td>
@@ -717,7 +717,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dffbf533ffb24f479972aaf49155023b.png" alt="Cover for Un Mondo In Me" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +736,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3055049e8aa44aad968c10e9a15992bf.png" alt="Cover for The Cataclysm" style="max-width:120px; height:auto;" />
       </td>
@@ -756,7 +756,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/328327bfe965c558367719bec1840eb7.png" alt="Cover for Leaving Eden" style="max-width:120px; height:auto;" />
       </td>
@@ -773,7 +773,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d892c32f094d40f2baa068f01078b046.png" alt="Cover for High on Lo-Fi" style="max-width:120px; height:auto;" />
       </td>
@@ -796,11 +796,12 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e16a4d2827a64ec6b4c20c3dbb84f55a.png" alt="Cover for Il Rumore Delle Cose" style="max-width:120px; height:auto;" />
       </td>
@@ -818,7 +819,42 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/J-NG5rUPhXYAeucx9YX-hG8vyIJs_Dqou7mINKpjNqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzAy/NzQtMTQyNjI2NzI0/OS03MTI1LmpwZWc.jpeg" alt="Cover for lullabies of love and death" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Indigo Tree</td>
+      <td>lullabies of love and death</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>ILL ANGELIC</td>
+      <td>Shadows of The Past</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d2ba3edc19e498bb73864ea3a651b3f.png" alt="Cover for Unraveling Horizons" style="max-width:120px; height:auto;" />
       </td>
@@ -837,42 +873,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>81</td>
-      <td>
-      </td>
-      <td>2009</td>
-      <td>ILL ANGELIC</td>
-      <td>Shadows of The Past</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
-      <td>
-          <img src="https://i.discogs.com/J-NG5rUPhXYAeucx9YX-hG8vyIJs_Dqou7mINKpjNqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzAy/NzQtMTQyNjI2NzI0/OS03MTI1LmpwZWc.jpeg" alt="Cover for lullabies of love and death" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Indigo Tree</td>
-      <td>lullabies of love and death</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2009-01-01</td>
@@ -889,7 +890,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5412070b94004d29b9ecda8bb59b8747.png" alt="Cover for The West Pole" style="max-width:120px; height:auto;" />
       </td>
@@ -908,7 +909,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
       </td>
       <td>2009-10-01</td>
@@ -927,7 +928,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/JOcL2Ur0bXWF2KpF7cm02FerNDmpB61nprs9EY3Dfwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODY5/ODktMTM0NDM3ODU3/OC0zMzkxLmpwZWc.jpeg" alt="Cover for The Melancholy Hour" style="max-width:120px; height:auto;" />
       </td>
@@ -951,25 +952,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://i.discogs.com/Tgc1K1uqB7Te6Wx5Mnun4CtJ3iEMMSfWJfvmVnMMObQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDY3/ODItMTQ3NjY0NzI2/OC04NTU3LmpwZWc.jpeg" alt="Cover for demo II" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Signal to Noise Ratio</td>
-      <td>demo II</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b3453519a694747b22b4857267ef04c.png" alt="Cover for Timescapes" style="max-width:120px; height:auto;" />
       </td>
@@ -987,7 +970,25 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/Tgc1K1uqB7Te6Wx5Mnun4CtJ3iEMMSfWJfvmVnMMObQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDY3/ODItMTQ3NjY0NzI2/OC04NTU3LmpwZWc.jpeg" alt="Cover for demo II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Signal to Noise Ratio</td>
+      <td>demo II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>
       </td>
       <td>2010-03-26</td>
@@ -1005,7 +1006,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ac5d236606043738b18d49d8b601067.png" alt="Cover for We&#39;re Here Because We&#39;re Here" style="max-width:120px; height:auto;" />
       </td>
@@ -1025,7 +1026,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a55090871c1439986b0c57778e3c5bb.png" alt="Cover for Avalon" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1044,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/631e543ffec8492d93421e0da41d29c2.png" alt="Cover for Contro.Luce" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,7 +1062,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>61</td>
       <td>
       </td>
       <td>2010-12-21</td>
@@ -1101,33 +1102,15 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 12</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 19</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 35</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 37</li>
             <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 56</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 64</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 87</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6f0503abadb4800aee81393c86ea3d8.png" alt="Cover for The Brink" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Alternative 4</td>
-      <td>The Brink</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e3b786047e8274e15ab2b5051ac6530.png" alt="Cover for Pure Air" style="max-width:120px; height:auto;" />
       </td>
@@ -1145,7 +1128,25 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6f0503abadb4800aee81393c86ea3d8.png" alt="Cover for The Brink" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Alternative 4</td>
+      <td>The Brink</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
       </td>
       <td>2011-03-15</td>
@@ -1161,7 +1162,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca0782a5f609514a028ddd2ed3309e59.png" alt="Cover for Where Distant Spirits Remain" style="max-width:120px; height:auto;" />
       </td>
@@ -1181,7 +1182,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>30</td>
       <td>
       </td>
       <td>2012</td>
@@ -1198,7 +1199,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/f8v49-tRlBsRRP5B6ZrIpwl2DDstrQz4inv1-yrERyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njcw/ODQtMTQzMjk5OTc1/My04MDA4LmpwZWc.jpeg" alt="Cover for Okanagana Waves" style="max-width:120px; height:auto;" />
       </td>
@@ -1216,7 +1217,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e945e7ce5cf646528fa5dd8b50589765.png" alt="Cover for Come the Thaw" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1235,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ec385514d9ff280e4208615370ff7a2.png" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,7 +1256,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70cffb1af2674d05b9142ab8cd65c042.png" alt="Cover for Refract The Fears" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,7 +1280,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef2c071efff640b7a408c795c3959bde.png" alt="Cover for Weather Systems" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,7 +1299,26 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>56</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fca45b74a6834e7ef48ec80ed066a635.png" alt="Cover for Open" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-05-09</td>
+      <td>Stick Men</td>
+      <td>Open</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee3bdd354797418984a0c3fc7e0445ea.png" alt="Cover for ΓΟΛΕ" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,26 +1340,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>44</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fca45b74a6834e7ef48ec80ed066a635.png" alt="Cover for Open" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-05-09</td>
-      <td>Stick Men</td>
-      <td>Open</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f13dd4d609f34330a7af5c91d408778a.png" alt="Cover for Birds of Tartary" style="max-width:120px; height:auto;" />
       </td>
@@ -1356,12 +1357,12 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 29</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7454f2e0397ea4e37f3605dd28d1df4f.png" alt="Cover for Fear of a Unique Identity" style="max-width:120px; height:auto;" />
       </td>
@@ -1380,7 +1381,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f0486e96d83492982c861d244927985.png" alt="Cover for Wildwood" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1421,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d6eedfb8b8b40adb1659f748feb66c7.png" alt="Cover for At the Edge" style="max-width:120px; height:auto;" />
       </td>
@@ -1441,7 +1442,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/42c607f7bcab4a289dc227323ed8e5d9.png" alt="Cover for Mystery Timeline" style="max-width:120px; height:auto;" />
       </td>
@@ -1465,7 +1466,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/530afef4a0384ac1884abf23c9cd3e55.png" alt="Cover for Chop Chop" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,7 +1486,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99e6655fb7404c2595188ff646148487.png" alt="Cover for Amethyst" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,18 +1532,18 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
             <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 11</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 14</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 25</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 39</li>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 41</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 43</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 50</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 51</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 51</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 62</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 63</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07473ac34f4a4e00a3da48d225aa765c.png" alt="Cover for Chase the Flow" style="max-width:120px; height:auto;" />
       </td>
@@ -1560,12 +1561,12 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 54</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/wi8AcfXaJViO6SgrhbKbfZUn704ZE2fSYChYu9EpG8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDgy/MDEtMTM4ODY4MjY3/MS03MjMzLmpwZWc.jpeg" alt="Cover for Sapore Di Luce E Di Pietra" style="max-width:120px; height:auto;" />
       </td>
@@ -1584,7 +1585,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f9c6f1a8c5b7af2eb34a4fb94fdf196.png" alt="Cover for Iceberg Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -1611,7 +1612,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4eed03995e748b3c86d5d341c1d07c9.png" alt="Cover for North Atlantic Echoes" style="max-width:120px; height:auto;" />
       </td>
@@ -1630,7 +1631,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/838636aaa75643efc32626d94ced0681.png" alt="Cover for Saturnitical Mercurism" style="max-width:120px; height:auto;" />
       </td>
@@ -1650,7 +1651,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d88075b1b7f93b78d9297e662f87b75b.png" alt="Cover for Distant Satellites" style="max-width:120px; height:auto;" />
       </td>
@@ -1668,7 +1669,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cfdd6523c3746d6c6a3128d65fa7f69.png" alt="Cover for Seraphim" style="max-width:120px; height:auto;" />
       </td>
@@ -1683,12 +1684,12 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 25</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8937dd0d2dd4494ac97910d4a4fc9313.png" alt="Cover for Silent Chamber, Noisy Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1701,12 +1702,34 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 39</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/KP6AIHFBT0cHvpW888pV2thIRYK5xeCyEhJ8cYnr8pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODE0/OTYyLTE2NzQxMjkw/NzYtNjA0Mi5qcGVn.jpeg" alt="Cover for Chains. EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Jointstereo</td>
+      <td>Chains. EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/233f06ad84e3dd7823abfb5f4b634f3d.png" alt="Cover for Circles. EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,29 +1753,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>
-          <img src="https://i.discogs.com/KP6AIHFBT0cHvpW888pV2thIRYK5xeCyEhJ8cYnr8pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODE0/OTYyLTE2NzQxMjkw/NzYtNjA0Mi5qcGVn.jpeg" alt="Cover for Chains. EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015</td>
-      <td>Jointstereo</td>
-      <td>Chains. EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 84</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54497d05fe5098db02ee843aa4d4036c.png" alt="Cover for Distant Satellites (Tour Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1770,7 +1771,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e779acfdc1e596cafb4bc2ab4e1efe4.png" alt="Cover for Matr" style="max-width:120px; height:auto;" />
       </td>
@@ -1793,7 +1794,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3caee320478a648ffa5cfaa53acf896.png" alt="Cover for The Optimist" style="max-width:120px; height:auto;" />
       </td>
@@ -1810,7 +1811,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/Uvy3BFdYkvMJZgp_W_nWHlaLqEgL1bs11B-Hg-9o034/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk0/MTU2LTE1OTA4NDg3/MzctMTMzMy5qcGVn.jpeg" alt="Cover for Viridian" style="max-width:120px; height:auto;" />
       </td>
@@ -1832,7 +1833,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/NaHRDyNTyF6GauPr5ovXCZQsp2JH2USLbct3F9c-vtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk3/NzE1LTE1MDc5MTk1/MzctODM2My5wbmc.jpeg" alt="Cover for Markerna bortom" style="max-width:120px; height:auto;" />
       </td>
@@ -1850,7 +1851,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50a68808d0cb8891740c292bfc21156f.png" alt="Cover for Even As the Light Grows" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,7 +1878,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/zLnzvIF87LFHpdgHP2Nd7ntS9kkHGl7mQUdsoh90oCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDg0/MzUzLTE2NTQ1MTQ2/MDYtNzQ2My5qcGVn.jpeg" alt="Cover for Sanctuaires" style="max-width:120px; height:auto;" />
       </td>
@@ -1897,7 +1898,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>9</td>
       <td>
       </td>
       <td>2021-06-11</td>
@@ -1917,7 +1918,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
       </td>
       <td>2022-05-13</td>
@@ -1938,20 +1939,15 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>72</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/613650aae5261a1eb9c35900c6f6295b.png" alt="Cover for The Maze in the Tree Rings" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Spiral Cell</td>
-      <td>The Maze in the Tree Rings</td>
+      <td>David Nail and The Well Ravens</td>
+      <td>Heavy</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
         </ul>
       </td>
       <td>
@@ -1960,13 +1956,32 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>87</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7f1c8f709c0abba8c6eccae286adb3f.png" alt="Cover for Around the Fall" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>tonguesonpaper</td>
+      <td>Revisions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b76057f9d68a7efb595ffc25afa1e0a.png" alt="Cover for Secret Autonomy" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Magnesid</td>
-      <td>Around the Fall</td>
+      <td>Secret Autonomy</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
@@ -1981,24 +1996,7 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Outcome of Schizophrenia</td>
-      <td>Mood</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4c990dbb0b4f312f01a64d75f4e120f.png" alt="Cover for Machine Hearts" style="max-width:120px; height:auto;" />
       </td>
@@ -2020,13 +2018,30 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>95</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b76057f9d68a7efb595ffc25afa1e0a.png" alt="Cover for Secret Autonomy" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Outcome of Schizophrenia</td>
+      <td>Mood</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7f1c8f709c0abba8c6eccae286adb3f.png" alt="Cover for Around the Fall" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Magnesid</td>
-      <td>Secret Autonomy</td>
+      <td>Around the Fall</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
@@ -2041,34 +2056,20 @@ Atmospheric rock emphasizes mood and texture over traditional rock song structur
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/613650aae5261a1eb9c35900c6f6295b.png" alt="Cover for The Maze in the Tree Rings" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>tonguesonpaper</td>
-      <td>Revisions</td>
+      <td>Spiral Cell</td>
+      <td>The Maze in the Tree Rings</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-      </td>
-      <td></td>
-      <td>David Nail and The Well Ravens</td>
-      <td>Heavy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
         </ul>
       </td>
       <td>

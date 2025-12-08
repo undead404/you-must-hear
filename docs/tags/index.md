@@ -1,18 +1,24 @@
 ---
 category: list
-date: 2025-12-08T03:19:09.399Z
+date: 2025-12-08T03:22:45.238Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-08T03:19:09.399Z">Mon Dec 08 2025 05:19:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T03:22:45.238Z">Mon Dec 08 2025 05:22:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [atmospheric rock]({{ "tags/atmospheric-rock" | relative_url }}) | <time datetime="2025-12-08T03:22:45.238Z">Mon Dec 08 2025 05:22:45 GMT+0200 (Eastern European Standard Time)</time> |
+| [mucajai]({{ "tags/mucajai" | relative_url }}) | <time datetime="2025-12-08T03:22:38.419Z">Mon Dec 08 2025 05:22:38 GMT+0200 (Eastern European Standard Time)</time> |
+| [tekno]({{ "tags/tekno" | relative_url }}) | <time datetime="2025-12-08T03:20:24.388Z">Mon Dec 08 2025 05:20:24 GMT+0200 (Eastern European Standard Time)</time> |
+| [uk hip hop]({{ "tags/uk-hip-hop" | relative_url }}) | <time datetime="2025-12-08T03:20:18.766Z">Mon Dec 08 2025 05:20:18 GMT+0200 (Eastern European Standard Time)</time> |
+| [live show]({{ "tags/live-show" | relative_url }}) | <time datetime="2025-12-08T03:19:48.375Z">Mon Dec 08 2025 05:19:48 GMT+0200 (Eastern European Standard Time)</time> |
+| [rave]({{ "tags/rave" | relative_url }}) | <time datetime="2025-12-08T03:19:42.594Z">Mon Dec 08 2025 05:19:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [progressive trance]({{ "tags/progressive-trance" | relative_url }}) | <time datetime="2025-12-08T03:19:09.399Z">Mon Dec 08 2025 05:19:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [instrumental rock]({{ "tags/instrumental-rock" | relative_url }}) | <time datetime="2025-12-08T03:18:43.698Z">Mon Dec 08 2025 05:18:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [k-pop]({{ "tags/k-pop" | relative_url }}) | <time datetime="2025-12-08T03:18:07.057Z">Mon Dec 08 2025 05:18:07 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1386,9 +1392,3 @@ Last updated: <time datetime="2025-12-08T03:19:09.399Z">Mon Dec 08 2025 05:19:09
 | [peruvian]({{ "tags/peruvian" | relative_url }}) | <time datetime="2025-12-05T04:43:27.215Z">Fri Dec 05 2025 06:43:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [belgian]({{ "tags/belgian" | relative_url }}) | <time datetime="2025-12-05T04:43:21.739Z">Fri Dec 05 2025 06:43:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [latin rock]({{ "tags/latin-rock" | relative_url }}) | <time datetime="2025-12-05T04:43:16.064Z">Fri Dec 05 2025 06:43:16 GMT+0200 (Eastern European Standard Time)</time> |
-| [atmospheric rock]({{ "tags/atmospheric-rock" | relative_url }}) | <time datetime="2025-12-05T04:43:09.548Z">Fri Dec 05 2025 06:43:09 GMT+0200 (Eastern European Standard Time)</time> |
-| [mucajai]({{ "tags/mucajai" | relative_url }}) | <time datetime="2025-12-05T04:42:46.913Z">Fri Dec 05 2025 06:42:46 GMT+0200 (Eastern European Standard Time)</time> |
-| [tekno]({{ "tags/tekno" | relative_url }}) | <time datetime="2025-12-05T04:42:40.520Z">Fri Dec 05 2025 06:42:40 GMT+0200 (Eastern European Standard Time)</time> |
-| [uk hip hop]({{ "tags/uk-hip-hop" | relative_url }}) | <time datetime="2025-12-05T04:42:33.548Z">Fri Dec 05 2025 06:42:33 GMT+0200 (Eastern European Standard Time)</time> |
-| [live show]({{ "tags/live-show" | relative_url }}) | <time datetime="2025-12-05T04:42:26.789Z">Fri Dec 05 2025 06:42:26 GMT+0200 (Eastern European Standard Time)</time> |
-| [rave]({{ "tags/rave" | relative_url }}) | <time datetime="2025-12-05T04:42:20.375Z">Fri Dec 05 2025 06:42:20 GMT+0200 (Eastern European Standard Time)</time> |

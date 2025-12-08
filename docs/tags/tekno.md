@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:42:40.520Z
+date: 2025-12-08T03:20:24.388Z
 permalink: tags/tekno
 title: tekno
 ---
 
 ## tekno
 
-Last updated: <time datetime="2025-12-05T04:42:40.520Z">Fri Dec 05 2025 06:42:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T03:20:24.388Z">Mon Dec 08 2025 05:20:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1108,7 +1108,7 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 47</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1152,7 +1152,7 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 31</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 70</li>
         </ul>
       </td>
     </tr>
