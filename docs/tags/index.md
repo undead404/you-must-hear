@@ -1,18 +1,26 @@
 ---
 category: list
-date: 2025-12-08T07:41:44.701Z
+date: 2025-12-08T08:16:10.640Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-08T07:41:44.701Z">Mon Dec 08 2025 09:41:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T08:16:10.640Z">Mon Dec 08 2025 10:16:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [russian black metal]({{ "tags/russian-black-metal" | relative_url }}) | <time datetime="2025-12-08T08:16:10.640Z">Mon Dec 08 2025 10:16:10 GMT+0200 (Eastern European Standard Time)</time> |
+| [synth punk]({{ "tags/synth-punk" | relative_url }}) | <time datetime="2025-12-08T08:06:00.710Z">Mon Dec 08 2025 10:06:00 GMT+0200 (Eastern European Standard Time)</time> |
+| [flamenco]({{ "tags/flamenco" | relative_url }}) | <time datetime="2025-12-08T07:57:29.099Z">Mon Dec 08 2025 09:57:29 GMT+0200 (Eastern European Standard Time)</time> |
+| [brooklyn]({{ "tags/brooklyn" | relative_url }}) | <time datetime="2025-12-08T07:57:18.254Z">Mon Dec 08 2025 09:57:18 GMT+0200 (Eastern European Standard Time)</time> |
+| [industrial hip hop]({{ "tags/industrial-hip-hop" | relative_url }}) | <time datetime="2025-12-08T07:56:50.704Z">Mon Dec 08 2025 09:56:50 GMT+0200 (Eastern European Standard Time)</time> |
+| [doomcore]({{ "tags/doomcore" | relative_url }}) | <time datetime="2025-12-08T07:56:44.354Z">Mon Dec 08 2025 09:56:44 GMT+0200 (Eastern European Standard Time)</time> |
+| [punjabi folk]({{ "tags/punjabi-folk" | relative_url }}) | <time datetime="2025-12-08T07:56:13.530Z">Mon Dec 08 2025 09:56:13 GMT+0200 (Eastern European Standard Time)</time> |
+| [psycore]({{ "tags/psycore" | relative_url }}) | <time datetime="2025-12-08T07:51:57.289Z">Mon Dec 08 2025 09:51:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [musical theater]({{ "tags/musical-theater" | relative_url }}) | <time datetime="2025-12-08T07:41:44.701Z">Mon Dec 08 2025 09:41:44 GMT+0200 (Eastern European Standard Time)</time> |
 | [arena rock]({{ "tags/arena-rock" | relative_url }}) | <time datetime="2025-12-08T07:26:32.274Z">Mon Dec 08 2025 09:26:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [queercore]({{ "tags/queercore" | relative_url }}) | <time datetime="2025-12-08T07:16:19.924Z">Mon Dec 08 2025 09:16:19 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1384,11 +1392,3 @@ Last updated: <time datetime="2025-12-08T07:41:44.701Z">Mon Dec 08 2025 09:41:44
 | [indie dance]({{ "tags/indie-dance" | relative_url }}) | <time datetime="2025-12-05T05:02:29.448Z">Fri Dec 05 2025 07:02:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [cabaret]({{ "tags/cabaret" | relative_url }}) | <time datetime="2025-12-05T05:02:23.619Z">Fri Dec 05 2025 07:02:23 GMT+0200 (Eastern European Standard Time)</time> |
 | [tech house]({{ "tags/tech-house" | relative_url }}) | <time datetime="2025-12-05T05:01:56.583Z">Fri Dec 05 2025 07:01:56 GMT+0200 (Eastern European Standard Time)</time> |
-| [russian black metal]({{ "tags/russian-black-metal" | relative_url }}) | <time datetime="2025-12-05T05:01:50.837Z">Fri Dec 05 2025 07:01:50 GMT+0200 (Eastern European Standard Time)</time> |
-| [synth punk]({{ "tags/synth-punk" | relative_url }}) | <time datetime="2025-12-05T05:01:45.672Z">Fri Dec 05 2025 07:01:45 GMT+0200 (Eastern European Standard Time)</time> |
-| [flamenco]({{ "tags/flamenco" | relative_url }}) | <time datetime="2025-12-05T05:01:40.162Z">Fri Dec 05 2025 07:01:40 GMT+0200 (Eastern European Standard Time)</time> |
-| [brooklyn]({{ "tags/brooklyn" | relative_url }}) | <time datetime="2025-12-05T05:01:34.612Z">Fri Dec 05 2025 07:01:34 GMT+0200 (Eastern European Standard Time)</time> |
-| [industrial hip hop]({{ "tags/industrial-hip-hop" | relative_url }}) | <time datetime="2025-12-05T05:01:08.928Z">Fri Dec 05 2025 07:01:08 GMT+0200 (Eastern European Standard Time)</time> |
-| [doomcore]({{ "tags/doomcore" | relative_url }}) | <time datetime="2025-12-05T05:01:03.739Z">Fri Dec 05 2025 07:01:03 GMT+0200 (Eastern European Standard Time)</time> |
-| [punjabi folk]({{ "tags/punjabi-folk" | relative_url }}) | <time datetime="2025-12-05T05:00:58.570Z">Fri Dec 05 2025 07:00:58 GMT+0200 (Eastern European Standard Time)</time> |
-| [psycore]({{ "tags/psycore" | relative_url }}) | <time datetime="2025-12-05T05:00:53.065Z">Fri Dec 05 2025 07:00:53 GMT+0200 (Eastern European Standard Time)</time> |

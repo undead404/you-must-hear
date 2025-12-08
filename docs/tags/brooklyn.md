@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:01:34.612Z
+date: 2025-12-08T07:57:18.254Z
 permalink: tags/brooklyn
 title: brooklyn
 ---
 
 ## brooklyn
 
-Last updated: <time datetime="2025-12-05T05:01:34.612Z">Fri Dec 05 2025 07:01:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T07:57:18.254Z">Mon Dec 08 2025 09:57:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
   </thead>
   <tbody>
     <tr>
-      <td>65</td>
+      <td>35</td>
       <td>
       </td>
       <td>1990-10-19</td>
@@ -47,7 +47,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>56</td>
       <td>
       </td>
       <td>1991-10-29</td>
@@ -65,7 +65,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/o0AkiWC-fV9iZ0IsHCYWw7CSjdN_RbnzLOnkJ05y_14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDQ1/OC0xMzQ1MTI4ODE0/LTk4NTkuanBlZw.jpeg" alt="Cover for Working Class Heroes" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>26</td>
       <td>
       </td>
       <td>1993-05-25</td>
@@ -104,7 +104,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>1994-09-13</td>
@@ -123,7 +123,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>54</td>
       <td>
       </td>
       <td>1995</td>
@@ -142,7 +142,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/Vxv8ADBQJELooRnMtZgPnODnhOg3Ehs2RRRg9mz7dbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzAy/MS0xNTM4ODI0NjU1/LTkxMzMuanBlZw.jpeg" alt="Cover for Scars And Pain EP" style="max-width:120px; height:auto;" />
       </td>
@@ -162,7 +162,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a28bb35984f4ea2076da0969fb2dda54.png" alt="Cover for Doe or Die" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +179,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/w69STBT-RcpuPDrDf3ODomu-RAHbsIDaz8G-gMSuatE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjM4/OS0xNDY3NzIwMjM3/LTMyMjEuanBlZw.jpeg" alt="Cover for Realms &#39;N Reality" style="max-width:120px; height:auto;" />
       </td>
@@ -198,7 +198,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/kSLAMt03zLkfKySFK37q5yK5MBU0rsyoKTsYmSUMxNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODQ4/Ni0xNjAyODUxODc3/LTgwMzUuanBlZw.jpeg" alt="Cover for Once Upon A Time In America" style="max-width:120px; height:auto;" />
       </td>
@@ -220,7 +220,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8864e2e8f92e9d7126880428ab4c2dfd.png" alt="Cover for Gravity" style="max-width:120px; height:auto;" />
       </td>
@@ -238,7 +238,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c72516d47c14691ac462ca6f3cb869f.png" alt="Cover for Hard Core" style="max-width:120px; height:auto;" />
       </td>
@@ -256,7 +256,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
       </td>
       <td>1997-05-20</td>
@@ -275,7 +275,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/PykXfUw70woI_QhItHwb-SRI4tQaCfrbbrTDT-sCz-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODM0/Ni0xNTg5ODA5NTU0/LTk5MDcuanBlZw.jpeg" alt="Cover for Train of thought" style="max-width:120px; height:auto;" />
       </td>
@@ -298,7 +298,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>57</td>
       <td>
       </td>
       <td>1999</td>
@@ -317,7 +317,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>40</td>
       <td>
       </td>
       <td>1999-06-08</td>
@@ -337,7 +337,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40301d75512c5c803ead16b7aca8cbde.png" alt="Cover for D.I.T.C." style="max-width:120px; height:auto;" />
       </td>
@@ -356,25 +356,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/Mbz06888qSa5mSktvAh9RjNM9YioEZ-j7Q2vhZ-6Aig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODA3/Ny0xNDg3NTcwOTY3/LTIzNzAuanBlZw.jpeg" alt="Cover for There Is No Competition" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Fabolous</td>
-      <td>There Is No Competition</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/2r37Ncq65RBkrun-k6-kSxUcXtXVJ5qiUQ5sGe5Ns58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTg5/OC0xMzUyNjcwNzkx/LTUxNzIuanBlZw.jpeg" alt="Cover for Blueprint 2 The Gift And The Curse" style="max-width:120px; height:auto;" />
       </td>
@@ -392,7 +374,25 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/Mbz06888qSa5mSktvAh9RjNM9YioEZ-j7Q2vhZ-6Aig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODA3/Ny0xNDg3NTcwOTY3/LTIzNzAuanBlZw.jpeg" alt="Cover for There Is No Competition" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Fabolous</td>
+      <td>There Is No Competition</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/Us_fBRH-WGkpC7HA1AgqYwMziIxLMpte0DGGu6peYOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjA5/MTQtMTU2MDg3NTI3/Mi02NzY5LmpwZWc.jpeg" alt="Cover for Attack of the Attacking Things" style="max-width:120px; height:auto;" />
       </td>
@@ -413,7 +413,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/xTd2rtnJZ0PULrQ36__55107MAv853slegCa0jEpAXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTg0/NC0xMzIzNjM2OTM5/LmpwZWc.jpeg" alt="Cover for A Long Hot Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -432,7 +432,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>32</td>
       <td>
       </td>
       <td>2004-09-14</td>
@@ -454,7 +454,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2004-10-12</td>
@@ -471,7 +471,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebd00e21bb7a4d72b001eb3544c16874.png" alt="Cover for Take Ecstasy With Me &#x2F; Get Up" style="max-width:120px; height:auto;" />
       </td>
@@ -488,12 +488,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 72</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
       </td>
       <td>2005-11-01</td>
@@ -514,7 +514,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75c0832b2b0291cae70c89b2c4a075fc.png" alt="Cover for Let&#39;s Build a Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -530,12 +530,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 78</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/JkFivTEitw0W-40PuCH0jx-D3FfDR2YlZGZ5lJVbp5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQy/NTAyLTE2MDc3ODE1/NjQtODE0Ni5qcGVn.jpeg" alt="Cover for The 2nd Coming" style="max-width:120px; height:auto;" />
       </td>
@@ -553,7 +553,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>47</td>
       <td>
       </td>
       <td>2007-11-13</td>
@@ -570,7 +570,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a0deb6ec9d140a6bb2d3a7172aabdad.png" alt="Cover for First Light" style="max-width:120px; height:auto;" />
       </td>
@@ -590,7 +590,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/UaS4wA-rR-aTZji4dsjTc9yjwfQ1zfsHRqPDwqB8gVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAz/MjctMTI2Mzk3NTA4/MS5qcGVn.jpeg" alt="Cover for Trying Got Us Nowhere" style="max-width:120px; height:auto;" />
       </td>
@@ -616,7 +616,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0ddadbe731f4edeac91ff8df0915ff9.png" alt="Cover for Brooklyn&#39;s Don Diva" style="max-width:120px; height:auto;" />
       </td>
@@ -637,7 +637,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>33</td>
       <td>
       </td>
       <td>2008-06-24</td>
@@ -659,7 +659,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>2008-08-05</td>
@@ -673,12 +673,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 82</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>89</td>
       <td>
       </td>
       <td>2008-09-09</td>
@@ -692,12 +692,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 52</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4688b745b8e4303909a1a7419d66ba4.png" alt="Cover for Receivers" style="max-width:120px; height:auto;" />
       </td>
@@ -714,12 +714,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 93</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24eeb59b5cf2466d96f4f79cf5f2f74d.png" alt="Cover for Suckers" style="max-width:120px; height:auto;" />
       </td>
@@ -736,12 +736,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 91</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/TSnRSRRn7H0-O8ODE2gRqRT2U45o-_2-Ys1xNB1nV9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk1/OTgtMTIzMjIwMjM2/NC5qcGVn.jpeg" alt="Cover for 7 Dunham Place Remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -759,7 +759,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/c3rniRKOGn1txnLgcgahqd6Xr4dJm42epbQKV2htWYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjgz/MjQtMTI3MzQyMDQw/My5qcGVn.jpeg" alt="Cover for 205" style="max-width:120px; height:auto;" />
       </td>
@@ -776,13 +776,13 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 54</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 47</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/2Woa4YySP7NdFzjf4s2WVhmHDWNQ10Vs_uZbCXS99OM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTkw/NTAtMTIzNTA4NTIx/Mi5qcGVn.jpeg" alt="Cover for 421 Wythe Avenue" style="max-width:120px; height:auto;" />
       </td>
@@ -800,7 +800,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c826fd27e9f92ab1ec7a4a482b55fcb.png" alt="Cover for Suckers EP" style="max-width:120px; height:auto;" />
       </td>
@@ -816,12 +816,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 95</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/1qUln4-xPq5KYh_z5u6v3hs2yfRB_somXaMMnLYLx50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTc3/MjAtMTI1MDkyOTI2/NC5qcGVn.jpeg" alt="Cover for Stereotype" style="max-width:120px; height:auto;" />
       </td>
@@ -839,7 +839,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33c9f18b5c93477895e1c2ca93db6ce2.png" alt="Cover for The Salvation" style="max-width:120px; height:auto;" />
       </td>
@@ -856,7 +856,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/KF7QadHxCubpkquTl5fpI3bmCO2RfsZjKGzT4dmywqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjMy/ODctMTI1OTE0NjA4/NC5qcGVn.jpeg" alt="Cover for Elizabeth (Introduction To The Psychic)" style="max-width:120px; height:auto;" />
       </td>
@@ -876,7 +876,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/mLIEZg_pPGxR-xUk9TiQ3YWTYyT5S7E8RjFtrRimCgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDg1/NjMtMTM1Njg5NTYx/Ni02OTc2LmpwZWc.jpeg" alt="Cover for Two Travelers" style="max-width:120px; height:auto;" />
       </td>
@@ -897,7 +897,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/hS5tog0A1OCNys9qG5X2Oee9QJc7zilxD_0T8Di6zI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjQ0/NzEtMTQ4NjkwODc2/Ny02Njk3LmpwZWc.jpeg" alt="Cover for Unstoppable" style="max-width:120px; height:auto;" />
       </td>
@@ -915,7 +915,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36ae770081a5c2f54d17f15042a34fdf.png" alt="Cover for No Clothes on Ragged Island" style="max-width:120px; height:auto;" />
       </td>
@@ -937,7 +937,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aa74df01b17471bb16cb20ce364b9f0.png" alt="Cover for Rock &#39;n&#39; Roll Ice Cream" style="max-width:120px; height:auto;" />
       </td>
@@ -956,7 +956,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46f747c81a964376ba542a4145f82baf.png" alt="Cover for Revenger" style="max-width:120px; height:auto;" />
       </td>
@@ -974,12 +974,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 60</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/HjJDcpNJbtTSpWd-bn3EFYsYa4UdGuB6JVsqeAoeXjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI2/NjIwLTE2MDc2ODQ0/MTEtNDAyMS5qcGVn.jpeg" alt="Cover for Papoose Season" style="max-width:120px; height:auto;" />
       </td>
@@ -997,7 +997,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be10a56c825d477fc7dea0a5f910eaa9.png" alt="Cover for Windstorm" style="max-width:120px; height:auto;" />
       </td>
@@ -1013,12 +1013,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 90</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc8bb4f418cc4884bae1c0ba4cf40a8f.png" alt="Cover for Pigeons" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,12 +1032,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 96</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>34</td>
       <td>
       </td>
       <td>2010-06-15</td>
@@ -1054,7 +1054,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/4q-9yu39gKjrxsLJXWgEpf7rFaNAPDdHcW7k1wPP8E0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjYx/MjMtMTQ4Nzg2NDc1/My03Mzg4LnBuZw.jpeg" alt="Cover for Things Just Aint The Same" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,7 +1072,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>41</td>
       <td>
       </td>
       <td>2010-08-15</td>
@@ -1089,7 +1089,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5760c2055098451a9b2c7682cd76adb5.png" alt="Cover for Root for Ruin" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,12 +1105,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 86</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/266e2b9305ae761deb6a84a6d5614c4e.png" alt="Cover for New Chain" style="max-width:120px; height:auto;" />
       </td>
@@ -1129,7 +1129,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85f5ddfe1c44496691b2649cddfd076e.png" alt="Cover for Sister Sparrow and the Dirty Birds" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1152,47 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/wOsp9Gq4s1W4QI-kYxTUXHHBtDbGu6_RoyOvvH6-Ym8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk4/MjktMTMxMDMzNjg0/Mi5qcGVn.jpeg" alt="Cover for Uncut Diamond - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Warm Ghost</td>
+      <td>Uncut Diamond - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/BGKv4cc_bkv1Mc3M5rp99RMYSz6v9v0TWL_nVlZLfmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTAy/NTMtMTQ2NTA3NDQw/OC03MTYyLmpwZWc.jpeg" alt="Cover for Everything You Need Is Right Here" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Rioux</td>
+      <td>Everything You Need Is Right Here</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/PnS1tXfSjL9ImXqlJvcAyD-k1X092YRlz4zudYZjmHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTky/MjY0LTE1MDc4MTk3/MjUtMjYwNy5qcGVn.jpeg" alt="Cover for Curious EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,66 +1266,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-          <img src="https://i.discogs.com/BGKv4cc_bkv1Mc3M5rp99RMYSz6v9v0TWL_nVlZLfmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTAy/NTMtMTQ2NTA3NDQw/OC03MTYyLmpwZWc.jpeg" alt="Cover for Everything You Need Is Right Here" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Rioux</td>
-      <td>Everything You Need Is Right Here</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 56</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td>
-          <img src="https://i.discogs.com/wOsp9Gq4s1W4QI-kYxTUXHHBtDbGu6_RoyOvvH6-Ym8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk4/MjktMTMxMDMzNjg0/Mi5qcGVn.jpeg" alt="Cover for Uncut Diamond - EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Warm Ghost</td>
-      <td>Uncut Diamond - EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 63</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dfd1d074a75448bb9090b6ca0becf62.png" alt="Cover for Night Manager" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Night Manager</td>
-      <td>Night Manager</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/816d553e0de04f6a8214462b52c0fed3.png" alt="Cover for Pizza Pasta" style="max-width:120px; height:auto;" />
       </td>
@@ -1304,7 +1285,26 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dfd1d074a75448bb9090b6ca0becf62.png" alt="Cover for Night Manager" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Night Manager</td>
+      <td>Night Manager</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18a2da813f134b2cb5fc0e3bc70ca6df.png" alt="Cover for Teenage Symphonies" style="max-width:120px; height:auto;" />
       </td>
@@ -1321,12 +1321,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 61</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/5lMsvqYDvrT9FMj-hpaok7o3rjbA51683wpIcWAeFYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjQ2/MDctMTQ4NjkwOTk2/OC03OTk4LmpwZWc.jpeg" alt="Cover for The Art Of War" style="max-width:120px; height:auto;" />
       </td>
@@ -1344,7 +1344,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>58</td>
       <td>
       </td>
       <td>2011-01-24</td>
@@ -1358,12 +1358,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 66</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/013952069432966f4bf1b05dafd4da13.png" alt="Cover for Black Friday" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,7 +1383,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a132b9f0996485ab55e0f93620a157b.png" alt="Cover for Summer Skills" style="max-width:120px; height:auto;" />
       </td>
@@ -1400,12 +1400,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 75</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/Fca09fUMTyFTE0Q4-nKvna2m3r7aEYxb7yFpvZDHDS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/NjY0LTE1OTU4ODM4/OTYtNTA0Mi5qcGVn.jpeg" alt="Cover for Warning Shots 3: One Foot In The Grave" style="max-width:120px; height:auto;" />
       </td>
@@ -1423,7 +1423,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
       </td>
       <td>2012-04-24</td>
@@ -1443,13 +1443,13 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 36</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 40</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 61</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c94c919928ac452294fcb29c783c1961.png" alt="Cover for Erika Spring EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,12 +1467,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 87</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>36</td>
       <td>
       </td>
       <td>2012-10-02</td>
@@ -1489,7 +1489,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73fe2d569d77bcbc02c8d8102e0a3f65.png" alt="Cover for Loving Creatures" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1523,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/412da6cb71004426c4a8066c1e1f57bb.png" alt="Cover for Habibi" style="max-width:120px; height:auto;" />
       </td>
@@ -1536,12 +1536,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 59</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e06f62b8f15b4cdbccd12b1a2a4f3e22.png" alt="Cover for Twistification" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,7 +1563,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/IBApoSsdihlkZTflEBy605_LDHvkvOxivmZufJEgLng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjU2/NDMtMTM5NjcxMDA5/Ny01Nzk3LmpwZWc.jpeg" alt="Cover for American Psycho" style="max-width:120px; height:auto;" />
       </td>
@@ -1581,7 +1581,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/LQl50UuBWhuLzQXGS3Y_bQCM7nxiLcyUn_kvrpjeddQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODYw/NjktMTM2NjI1NjI3/MS02MTA2LmpwZWc.jpeg" alt="Cover for Chunky Monkey" style="max-width:120px; height:auto;" />
       </td>
@@ -1597,12 +1597,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 58</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/LIW56Z5yXxQgiTcY5tRwNmcuVil1yMaaLUXPRn_bXGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODM2/OTQtMTM3NTM4OTk4/MS00NDg0LmpwZWc.jpeg" alt="Cover for 7x3" style="max-width:120px; height:auto;" />
       </td>
@@ -1626,7 +1626,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70c3bf504c494bd1cb841b3c43b0543a.png" alt="Cover for Trouble" style="max-width:120px; height:auto;" />
       </td>
@@ -1641,12 +1641,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 77</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/NlBfSBrz3HPrdlrS_ix_mmiIjC60PmAuOs534AeW9w8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTUz/ODgtMTM5ODA1MTIz/Ni03MTcxLmpwZWc.jpeg" alt="Cover for Cigar Society" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,7 +1664,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>59</td>
       <td>
       </td>
       <td>2014-05-27</td>
@@ -1681,7 +1681,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a5d324aba7cf297364e763c4415fb86.png" alt="Cover for Harm" style="max-width:120px; height:auto;" />
       </td>
@@ -1699,12 +1699,12 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 91</li>
+            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/9gIGmkPhNT2FupHulJIkH5IUnJQvvZxrbCERN0UgCoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTg4/MzEtMTQzMDQxNzk0/NC00MDQyLmpwZWc.jpeg" alt="Cover for Pill EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1723,7 +1723,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/7lw-2fs6Ot04i5PZ_s4lFkKJYWottKd9q_owU-ok9Fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzUy/NDItMTQ0ODUxMTE1/OS05OTk4LmpwZWc.jpeg" alt="Cover for What a Weird Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,7 +1743,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/wszodTTW0Eq4EEfg2WWY-z-pchrWlu0uvzB7K-Bh3Fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzM4/ODMtMTQ2MDM1OTU0/NS0xNDcwLmpwZWc.jpeg" alt="Cover for Years" style="max-width:120px; height:auto;" />
       </td>
@@ -1762,7 +1762,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e66181ce6f463d8fd8a7ba6cf5e7135.png" alt="Cover for Mary Jane &#x2F; The Horseman - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1784,7 +1784,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33a3e59d67567f4e5a40042588509ea2.png" alt="Cover for Complete Walkthru" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,7 +1805,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dce539253f280285b2506e4d155a2646.png" alt="Cover for The World Is a Terrible Garage &#x2F; Death of a Lobster" style="max-width:120px; height:auto;" />
       </td>
@@ -1830,7 +1830,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51ea7b0442048dfbf32aa372bf301f0f.png" alt="Cover for Time is Gravity" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,7 +1849,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92ebd191451977d36dc3aee439338959.png" alt="Cover for Monmouth - Next Episode - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,7 +1870,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc7f659825c4f9679dfad0841b080591.png" alt="Cover for PTSD" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,7 +1889,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b31d327162946e95425df757bb77208c.png" alt="Cover for The Unluccy Luccy Kid" style="max-width:120px; height:auto;" />
       </td>
@@ -1916,7 +1916,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e78e4bd33377e25f636b7100270e832b.png" alt="Cover for Pray 4 Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1935,7 +1935,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/IftsGlBSgr739jayjsglybNBcx-viT_oe5skKIuRrMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzY5/NDA1LTE2NDYzMDgx/NjItMzIyOC5qcGVn.jpeg" alt="Cover for DON&#39;T SLEEP" style="max-width:120px; height:auto;" />
       </td>
@@ -1962,7 +1962,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c1e249c9e57da6bb1d2c8d0104f7262.png" alt="Cover for Desert Rose Vol. 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1985,7 +1985,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b5138ddb988110c424308eccde136d8.png" alt="Cover for In The Nude" style="max-width:120px; height:auto;" />
       </td>
@@ -2011,7 +2011,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/Yt5R4rDPh9RaUGprZTOe2QThR3ZzqBvOWV7pBuLEa_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njcy/MDY2LTE2ODA4MTEz/MzgtMTU5OC5qcGVn.jpeg" alt="Cover for Jasmine on a Night in July" style="max-width:120px; height:auto;" />
       </td>
@@ -2031,7 +2031,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e7cc2e17502bd50d3e2bf8b56ac4a89.png" alt="Cover for Bellydance Superstars Vol. IV" style="max-width:120px; height:auto;" />
       </td>
@@ -2056,24 +2056,15 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>16</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/190cbc3c0bab31bfd55e5a6d8f94646b.png" alt="Cover for Hot Seconds" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Hot Seconds</td>
-      <td>Hot Seconds</td>
+      <td>Quelly Woo</td>
+      <td>Tactical Pressure</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -2082,7 +2073,7 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb5105dd6d9622bd9ac290ffe5aa08fb.png" alt="Cover for soup" style="max-width:120px; height:auto;" />
       </td>
@@ -2102,15 +2093,24 @@ Brooklyn hip-hop represents the borough&#39;s diverse rap tradition, spanning fr
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/190cbc3c0bab31bfd55e5a6d8f94646b.png" alt="Cover for Hot Seconds" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Quelly Woo</td>
-      <td>Tactical Pressure</td>
+      <td>Hot Seconds</td>
+      <td>Hot Seconds</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>

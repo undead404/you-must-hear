@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:01:03.739Z
+date: 2025-12-08T07:56:44.354Z
 permalink: tags/doomcore
 title: doomcore
 ---
 
 ## doomcore
 
-Last updated: <time datetime="2025-12-05T05:01:03.739Z">Fri Dec 05 2025 07:01:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T07:56:44.354Z">Mon Dec 08 2025 09:56:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
   </thead>
   <tbody>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/7uhW_Wv1beZ21YezyaRv1Fj2hLhuNz01pJDb6Vi4oGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTYx/LTE0NjA5OTA3NTEt/ODgwMi5qcGVn.jpeg" alt="Cover for 96 Knights" style="max-width:120px; height:auto;" />
       </td>
@@ -51,7 +51,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/DunASzLLSi7J1-rw7BPLXmhgeclRvP8ZbMPACLsL6rQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjE0/LTE0NTkxMDQ4MTMt/Nzk2Ny5qcGVn.jpeg" alt="Cover for Into Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -72,30 +72,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/m2cZg6284inSy-ljJ2WfWM_-UMmR7mx2q1rnCUAe4BU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDY2/LTE1NjM4ODIyMjAt/NDcxNy5qcGVn.jpeg" alt="Cover for Dusted" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Delta 9</td>
-      <td>Dusted</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11415efcf8a07631ce24c0779b70f3cf.png" alt="Cover for Resurrection EP" style="max-width:120px; height:auto;" />
       </td>
@@ -118,7 +95,30 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/m2cZg6284inSy-ljJ2WfWM_-UMmR7mx2q1rnCUAe4BU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDY2/LTE1NjM4ODIyMjAt/NDcxNy5qcGVn.jpeg" alt="Cover for Dusted" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Delta 9</td>
+      <td>Dusted</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/kwo7AxapsyEJnmp5zpP13c2tEeokPI-iFYuwGPqHYyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzE3/MC0xNTk5NDkxNjE2/LTQ3NTkuanBlZw.jpeg" alt="Cover for Support Your Lokal Doomkommando" style="max-width:120px; height:auto;" />
       </td>
@@ -140,7 +140,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e4b4277b82dd22de1510684c6083d77.png" alt="Cover for U.T.A" style="max-width:120px; height:auto;" />
       </td>
@@ -161,7 +161,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/_neptR7M0UVDaUnSCg5t05heVzqqipqk7onN4g4wVLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzU2/NDItMTQxNzcwNTQx/OC02OTU1LmpwZWc.jpeg" alt="Cover for Rust Formation" style="max-width:120px; height:auto;" />
       </td>
@@ -181,30 +181,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>69</td>
-      <td>
-          <img src="https://i.discogs.com/ZTkGrkImPTq0BOXLwbqPJflaGtFxwFQIrQPOriqs18E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjYx/LTE0ODg4MDk5NjEt/MTM3OC5qcGVn.jpeg" alt="Cover for Doom or Dishonour" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Fifth Era</td>
-      <td>Doom or Dishonour</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 53</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/jdB_r9icXrxvA_aNto6i-Ae8fbrva_kgsT3OgS9Q9Bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTg1/MTUtMTMxMDQyNjM5/Mi5qcGVn.jpeg" alt="Cover for Beyond the Realms of Doom" style="max-width:120px; height:auto;" />
       </td>
@@ -231,7 +208,30 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/ZTkGrkImPTq0BOXLwbqPJflaGtFxwFQIrQPOriqs18E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjYx/LTE0ODg4MDk5NjEt/MTM3OC5qcGVn.jpeg" alt="Cover for Doom or Dishonour" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Fifth Era</td>
+      <td>Doom or Dishonour</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c947cb54d2263fc3745f855ce43fdc4.png" alt="Cover for Detonation &#x2F; Program 2" style="max-width:120px; height:auto;" />
       </td>
@@ -252,7 +252,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/5uGZ3dmQCcolozvalAMMwlyRut8m6DrluQUGxYUaiwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/Ny0xMzYxMTUwNzI0/LTYzMTQuanBlZw.jpeg" alt="Cover for No Phuture" style="max-width:120px; height:auto;" />
       </td>
@@ -276,7 +276,26 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/rWRJFwyF6JWRUpWFqoHaG6t0rI5-mFwQuMeRFaRlKvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzM1/LTE0NzM1MzQyNDkt/MTU1Ni5qcGVn.jpeg" alt="Cover for One World No Future" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Marc Acardipane</td>
+      <td>One World No Future</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/z8a_jRiyKQARtYTdxjd6NYlx5tu_-q5bDMOoVeuibsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODE3/NDctMTM1NDYyNzUw/MS00MjMzLmpwZWc.jpeg" alt="Cover for Marsh-Core" style="max-width:120px; height:auto;" />
       </td>
@@ -297,26 +316,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>66</td>
-      <td>
-          <img src="https://i.discogs.com/rWRJFwyF6JWRUpWFqoHaG6t0rI5-mFwQuMeRFaRlKvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzM1/LTE0NzM1MzQyNDkt/MTU1Ni5qcGVn.jpeg" alt="Cover for One World No Future" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Marc Acardipane</td>
-      <td>One World No Future</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/HGG2nJ2xMrROx-hAKbpw31VvV_oBFIWjHSqOOfaPwh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTk3/NTEtMTUzNzE2NjQ2/OS01NzE5LmpwZWc.jpeg" alt="Cover for Beatin&#39; The Shit Out Of It" style="max-width:120px; height:auto;" />
       </td>
@@ -335,7 +335,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/YAsWaxIBvVgkTQjW9nOMx7a-51T0ljJAX6WLgRg1A3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk3/NS0xMDk3MTc3MzQ1/LmpwZw.jpeg" alt="Cover for Solve the Box" style="max-width:120px; height:auto;" />
       </td>
@@ -357,7 +357,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/CEbVvIVZ06czNNDwxzfsTD-e_fmBo0wHR4l9zC5rLKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQz/NC0xMTAyOTc2OTYz/LmpwZw.jpeg" alt="Cover for Inside EP" style="max-width:120px; height:auto;" />
       </td>
@@ -377,7 +377,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/sssqTM7Dkq14-4kxyFT_mHVHg546B0mgLzEf_WQI1-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODA5/Mi0xMzYxMTUxNzU0/LTk2ODIuanBlZw.jpeg" alt="Cover for Doom,Distortion,Despair" style="max-width:120px; height:auto;" />
       </td>
@@ -394,7 +394,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e607cd310f694a40ca935ac04d05c84a.png" alt="Cover for Low Entropy" style="max-width:120px; height:auto;" />
       </td>
@@ -417,7 +417,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/7LD7ZBzBztoN2blQhnmb_ioU7XWxu_T88j-GCdnhBh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjc4/MS0xMjc0Nzc2MTUz/LmpwZWc.jpeg" alt="Cover for Kaltekammer" style="max-width:120px; height:auto;" />
       </td>
@@ -436,30 +436,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>56</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/356b255cd453411e9c73b4addb8bff0d.png" alt="Cover for Dragonid" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Ybrid</td>
-      <td>Dragonid</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 74</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/nmgYv5wgdI7SGWjjLz4NuweCqrFvnhnjKyMudVtOT90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjEx/Ny0xMDk3MDc2NDY4/LmpwZw.jpeg" alt="Cover for Robots" style="max-width:120px; height:auto;" />
       </td>
@@ -482,7 +459,30 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/356b255cd453411e9c73b4addb8bff0d.png" alt="Cover for Dragonid" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Ybrid</td>
+      <td>Dragonid</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/FUqu_mS-tYAiYyp8vMhrVMqDi4sSmhNlfWhqKuuy0q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTAw/NC0xMTg1Mzk2Mzk3/LmpwZWc.jpeg" alt="Cover for Blood Bowl E.P" style="max-width:120px; height:auto;" />
       </td>
@@ -503,7 +503,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b09e7329e48b677f4c99643fdffa659.png" alt="Cover for Dark Temple Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -525,7 +525,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/OpD9p2nEW8qr0fNon6eHKDhNX8FC_Jztih4ElQwxeGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDEz/My0xMTQ0Njc2NDA1/LmpwZWc.jpeg" alt="Cover for Emerald Planet" style="max-width:120px; height:auto;" />
       </td>
@@ -546,7 +546,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/qDk4aDUox-N8VzdLLeN9UFtGb1ZL-eCipKKH_FqNG80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDE1/OS0xNTc3OTAxNDI1/LTc4NzUuanBlZw.jpeg" alt="Cover for Drumbleed" style="max-width:120px; height:auto;" />
       </td>
@@ -567,7 +567,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/IkzG8BJvhwrYjCCQRz-nN2ZscgrB0YwHaaUwmCVqBWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODE5/NS0xMTM0MzY5NTkx/LmpwZWc.jpeg" alt="Cover for Insomnia" style="max-width:120px; height:auto;" />
       </td>
@@ -586,29 +586,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://i.discogs.com/EoyZnhVkYzplIk-clHRx6HqM4P1Zcp6i5MWDHfav-tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDUw/OS0xMTczOTgyMDgw/LmpwZWc.jpeg" alt="Cover for bust this" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Fiend</td>
-      <td>bust this</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dda7cfba45c462d8dbed1fd3638cfce.png" alt="Cover for Khaos De Viscera" style="max-width:120px; height:auto;" />
       </td>
@@ -636,7 +614,29 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/EoyZnhVkYzplIk-clHRx6HqM4P1Zcp6i5MWDHfav-tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDUw/OS0xMTczOTgyMDgw/LmpwZWc.jpeg" alt="Cover for bust this" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Fiend</td>
+      <td>bust this</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/5geG6-WGGEydbNbSOdIPyX_ea-99vJmqMSjcS21Jp8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDA1/Ny0xMTQ1MjY2ODk2/LmpwZWc.jpeg" alt="Cover for Dark Temple - This Is Real Darkcore" style="max-width:120px; height:auto;" />
       </td>
@@ -659,7 +659,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>2006-07</td>
@@ -680,7 +680,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fca11aeea4c48d19a4aa7b06a81e6f7.png" alt="Cover for Head Grind E.P." style="max-width:120px; height:auto;" />
       </td>
@@ -702,7 +702,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19474a7e6689462a89c852f6816eecfd.png" alt="Cover for Yborg" style="max-width:120px; height:auto;" />
       </td>
@@ -725,7 +725,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/I2HsgZdyZA58rI1lHVey1-28ml2qqccZgrU07h87WsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDcy/Ny0xNDU0NzEyNDIz/LTM2NjguanBlZw.jpeg" alt="Cover for Generic Prototype EP" style="max-width:120px; height:auto;" />
       </td>
@@ -745,7 +745,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/42dde586321e4137bc091d5079b134c0.png" alt="Cover for Kingdom of Sorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -769,7 +769,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e7b92d3ff9c8356da4a52c1aee43039.png" alt="Cover for Doomcore Tyrants Rise" style="max-width:120px; height:auto;" />
       </td>
@@ -791,7 +791,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/gtATIen0C5LWVt-9Nkk8HYl0PVQ1kFo3-rhCvqvoNDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTg3/NTAtMTMxNDUzOTUx/NC5qcGVn.jpeg" alt="Cover for The Waldhaus Doctrine EP" style="max-width:120px; height:auto;" />
       </td>
@@ -817,7 +817,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/b09NFQ6idfZjJCfrBK5HkksYdVNNDzVBTi3CVtY-QWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjIw/ODIwLTE0OTM2Mjg1/ODgtNTM4OC5qcGVn.jpeg" alt="Cover for Hamburg City Doom" style="max-width:120px; height:auto;" />
       </td>
@@ -839,30 +839,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>58</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cf9f7f9c20f482a8dbaf7b1d95b4c68.png" alt="Cover for Excetra" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-02-24</td>
-      <td>Ybrid</td>
-      <td>Excetra</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 70</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1a1869d0d6545b698170232daf7b12b.png" alt="Cover for Akcesora" style="max-width:120px; height:auto;" />
       </td>
@@ -885,7 +862,30 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cf9f7f9c20f482a8dbaf7b1d95b4c68.png" alt="Cover for Excetra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-02-24</td>
+      <td>Ybrid</td>
+      <td>Excetra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/agW7qgJvJVQy1ToEKtKIk9-EgLOFaYOAeUyhbAqvZJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTM2/ODAtMTI0NDI3NzUz/OS5qcGVn.jpeg" alt="Cover for Y.C.A.F.O." style="max-width:120px; height:auto;" />
       </td>
@@ -907,7 +907,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9e3d0ced9e94fdbb948ae51230261e3.png" alt="Cover for Inconfessable" style="max-width:120px; height:auto;" />
       </td>
@@ -929,7 +929,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
       </td>
       <td>2009-10-02</td>
@@ -951,7 +951,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a628331773d94e158b933fe4b6f452a6.png" alt="Cover for Naevus" style="max-width:120px; height:auto;" />
       </td>
@@ -974,7 +974,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/oW7OhVzr-tAerpzO0L8n341zT9XKPNrKsZQjPZs0cco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzMz/NzktMTI5NDkyMDYz/Ny5qcGVn.jpeg" alt="Cover for Horrorfornica" style="max-width:120px; height:auto;" />
       </td>
@@ -992,7 +992,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc969f36e4d39cd8aa60dce87f08a3bb.png" alt="Cover for Unmeasured Malice" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,7 +1014,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/ovGAqrlRqJ7SCDrsBw1fNANSwQ9SYA0GjaqDNHTxN1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjYz/MTYtMTU4ODE2ODgz/MS0yNDg2LmpwZWc.jpeg" alt="Cover for Hibou - (2000-2010) 10 Coffins" style="max-width:120px; height:auto;" />
       </td>
@@ -1033,7 +1033,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/ak3f3zQZcMcs1mh6AiwjM-2swwoesqAZ1VgOsAaApk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODM0/NzktMTMwMDg0MDIw/Ny5qcGVn.jpeg" alt="Cover for Light Errant" style="max-width:120px; height:auto;" />
       </td>
@@ -1055,7 +1055,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/jdB_r9icXrxvA_aNto6i-Ae8fbrva_kgsT3OgS9Q9Bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTg1/MTUtMTMxMDQyNjM5/Mi5qcGVn.jpeg" alt="Cover for Beyond the Realms of Doom" style="max-width:120px; height:auto;" />
       </td>
@@ -1082,7 +1082,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/HbWBfTAxnVBJWSm1ZXr3YIZ1mucT_VO8tn1PlbkDU-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzU3/OTQtMTMxNzQyMjQy/OC5naWY.jpeg" alt="Cover for distant world" style="max-width:120px; height:auto;" />
       </td>
@@ -1103,7 +1103,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dea540fe64904a3d80fed99aa41fe2dd.png" alt="Cover for Military Industrial Complex" style="max-width:120px; height:auto;" />
       </td>
@@ -1127,7 +1127,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18d6c45f8b3d453f8808714a10123717.png" alt="Cover for Another Sleepless Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,7 +1149,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/luI3FuBt64_13uYLMnvsvgBQlrZ9vfR7HYlnsi59Ga8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTA5/MjYtMTQ2Mjc1ODM5/Mi00MjQ1LmpwZWc.jpeg" alt="Cover for vierpluszwei" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,7 +1169,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/_8vcTpoLd7BvooWM8VQNYeHaZN-x7vfOLXdIe8bZ5y8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDE2/NDYtMTM2NjY2NzYw/MS0zOTQ0LmpwZWc.jpeg" alt="Cover for We are F.E.-Vo" style="max-width:120px; height:auto;" />
       </td>
@@ -1192,7 +1192,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a68a97db4444794a518d38f32518637.png" alt="Cover for Artificial Darkness" style="max-width:120px; height:auto;" />
       </td>
@@ -1213,7 +1213,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
       </td>
       <td>2013-07-22</td>
@@ -1234,7 +1234,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/Do1lpIXBWV3q6O9wxRWKIp5Ttel-QYFxvXajeYR2TSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTg0/NzktMTYxODM0ODgx/NS0zMDgyLmpwZWc.jpeg" alt="Cover for Journey To A Different Galaxy" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,7 +1254,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/_BeqIPa9kRH-0I47BgSKEQdXmMUUSPMsBWNvVyKybHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTg2/NTktMTM3MDExNDM3/Ni02MzIwLmpwZWc.jpeg" alt="Cover for At the Gates" style="max-width:120px; height:auto;" />
       </td>
@@ -1276,7 +1276,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09bf72a017143bdb93da1642efababb2.png" alt="Cover for Our Ladies Of Sorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,7 +1299,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/ikdVOlq6jx2ZAd1yz7kTIgKHlRqPcZ2tKmThKHLaHJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDY1/NTMtMTM4ODY0ODc3/Mi0xOTcwLmpwZWc.jpeg" alt="Cover for Behemoths From The Zoo Of Abortions" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,7 +1322,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/l53KKolhXD4tOZqzOh_tV8tZzsRTQZBriNfCpiS7MHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjI4/MjktMTQwMDkxOTQ5/MS0yMjU3LmpwZWc.jpeg" alt="Cover for Cyberstruct - Weltschmerz" style="max-width:120px; height:auto;" />
       </td>
@@ -1340,7 +1340,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed044984e954b35458214029ab62a4fa.png" alt="Cover for Astral Communications" style="max-width:120px; height:auto;" />
       </td>
@@ -1363,7 +1363,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/EDWrc9sjIAKhXE962DjJ8pMUjI_vqePgwawdbDkKGjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0ODkx/NjQtMTM5NDY5OTI0/Ni04OTM5LmpwZWc.jpeg" alt="Cover for Frequences Sensibles" style="max-width:120px; height:auto;" />
       </td>
@@ -1388,7 +1388,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>2014-12-19</td>
@@ -1409,7 +1409,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28e9c2a0bfe5a9599e5dd3aecedc831b.png" alt="Cover for Statements Of Social Decay" style="max-width:120px; height:auto;" />
       </td>
@@ -1432,7 +1432,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/DeuOZMXnZb9hmIric7KW0Cca2SV1Wc7KnQacTAqkvFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzY4/NDgtMTQ0NTY1MDYw/Ni0xMDY2LmpwZWc.jpeg" alt="Cover for Statements Of Social Decay" style="max-width:120px; height:auto;" />
       </td>
@@ -1454,7 +1454,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd13a3a148a911cbd1a65b31ee1d9ed2.png" alt="Cover for Hasta" style="max-width:120px; height:auto;" />
       </td>
@@ -1476,7 +1476,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/oSksJwN3AiWkVFftLgiOxjf_KwSeBNIfJF6thgb0Kac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDA3/NjktMTQzNjAxODI4/Ni0yMjMzLmpwZWc.jpeg" alt="Cover for Hardcore from the crypt" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,7 +1498,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/IXVubyURNi4CtaBJRFXkQvXo31RifQEf-cQq-WhQwbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODc3/ODAtMTQzMzQyOTAz/MS01ODgwLmpwZWc.jpeg" alt="Cover for Shadows Of 65000 Years" style="max-width:120px; height:auto;" />
       </td>
@@ -1522,7 +1522,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/q2d5kmPAw2xNwWHhMJ9OAR3McXHuN4Tsu1-zy1sE1Zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTE0/NzgtMTQzMzk1ODMy/Ny00NTY2LmpwZWc.jpeg" alt="Cover for Telepathic Language" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,7 +1545,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2127d5c0a0a4f98bfd26c8372c1ad50.png" alt="Cover for Hymenoptera" style="max-width:120px; height:auto;" />
       </td>
@@ -1569,7 +1569,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e129516ba5f7ebd807bdeed8d86cf78f.png" alt="Cover for 26" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1590,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/NTRkNMdmMeRdHANvl5_3csQ0deENA80XNh967Uhquhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzk4/MzUtMTQzNjkwMTQx/OS0xNjE5LnBuZw.jpeg" alt="Cover for Benzodiazepine" style="max-width:120px; height:auto;" />
       </td>
@@ -1608,7 +1608,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eeb369fc4484e182d39af39636547f3.png" alt="Cover for The Inner Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1629,7 +1629,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95727374bcf8a962922a5ca6914c29c4.png" alt="Cover for Right After Midnight" style="max-width:120px; height:auto;" />
       </td>
@@ -1651,7 +1651,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c6cf082a745c098d16fd2bd556c4bd3.png" alt="Cover for Der Zweifler" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,7 +1673,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c099e7be792fe9a94f450045d1aa6aa0.png" alt="Cover for The Empty" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,7 +1696,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/962d355a167fd6f352f154c4a724529a.png" alt="Cover for Adorned By Thee" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,7 +1717,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66037cba8a715bbf9087e2b1254a7ccc.png" alt="Cover for Absorb &amp; Charge Ep" style="max-width:120px; height:auto;" />
       </td>
@@ -1739,7 +1739,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5713b7980bc660886cf41b37e4d067fe.png" alt="Cover for Historical Obsession" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,7 +1763,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eea54e468eb052f719be2aff1316a406.png" alt="Cover for Cryptcore From The Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1786,7 +1786,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/FMCWdMnHMzz2c60SfX4urJV9QhH5UIUyAhUqaJ-JXW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU2/MDAtMTQ4Njc2MDEw/NS02ODU2LmpwZWc.jpeg" alt="Cover for Tractatus IV" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,7 +1807,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/hOZ8EdgbafSHV8sgJB4Ush2gaur82Ka6xNLAkTCQ3cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTk4/MzMwLTE0OTMyNTQy/MjctNDI4OS5qcGVn.jpeg" alt="Cover for Lost In Technology" style="max-width:120px; height:auto;" />
       </td>
@@ -1826,7 +1826,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/119ca48127040c5401f29576b3d7a361.png" alt="Cover for Negative Leader" style="max-width:120px; height:auto;" />
       </td>
@@ -1848,7 +1848,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e47457b878bec91364099b15b0c1d454.png" alt="Cover for Bow To My Wrath" style="max-width:120px; height:auto;" />
       </td>
@@ -1872,7 +1872,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21f03599cdaf76504002e4a7cbdd6062.png" alt="Cover for Midnight Room" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,7 +1895,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/FEEhFFyQ214Eyo7qlUdbvy-GSdSidLbawZ8c30RhtsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDEw/Nzk2LTE1MDgxODAz/OTgtNzYyNC5qcGVn.jpeg" alt="Cover for Astral Ballet" style="max-width:120px; height:auto;" />
       </td>
@@ -1916,7 +1916,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5737c6818e166f464178345a0e2b217.png" alt="Cover for Something With Black In The Name" style="max-width:120px; height:auto;" />
       </td>
@@ -1939,7 +1939,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/HDhsL_g2FnqCkX54aYygjRnJ7p-pZeFhLXu5Gt2Qmkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQ1/NzYzLTE1MjMzNjgz/NDQtODY4OC5qcGVn.jpeg" alt="Cover for Maleficium" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,7 +1959,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/12OmxRQVnhv-8chcEs_v32n9QgHQt_sWTMRUM_RDD2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMx/ODgxLTE1MzMwOTA4/MjQtNDc1My5qcGVn.jpeg" alt="Cover for Menschliche Abgründe" style="max-width:120px; height:auto;" />
       </td>
@@ -1980,7 +1980,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ddb992d5d81c4bf1bac6f577d6421e4.png" alt="Cover for Ark I: Return of the Exiled" style="max-width:120px; height:auto;" />
       </td>
@@ -2002,7 +2002,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
       </td>
       <td>2020-05-09</td>
@@ -2021,7 +2021,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
       </td>
       <td>2020-07-06</td>
@@ -2043,7 +2043,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e20be5d2ea9c0df54a7052027aed41a9.png" alt="Cover for Blood, Fear &amp; Injustice" style="max-width:120px; height:auto;" />
       </td>
@@ -2060,7 +2060,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fc17c140ef30ac0119f07cf0fac2bbf.png" alt="Cover for You Are Industrial" style="max-width:120px; height:auto;" />
       </td>
@@ -2082,7 +2082,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/7-kvLbsOF1mc-b5SBNiuCUrq1xS1v7fXXjgCnJ6szr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjAy/NjM4LTE2NDg5ODEy/OTUtNTEwMS5qcGVn.jpeg" alt="Cover for Solemn Spires" style="max-width:120px; height:auto;" />
       </td>
@@ -2100,7 +2100,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
       </td>
       <td>2022-07-08</td>
@@ -2121,7 +2121,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fcb336df802e262efcb0c8c75f6aff5.png" alt="Cover for ARK II: Sin And Salvation" style="max-width:120px; height:auto;" />
       </td>
@@ -2143,7 +2143,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1000c07da12bfef47a7ed6531ac10ec.png" alt="Cover for Nineveh" style="max-width:120px; height:auto;" />
       </td>
@@ -2166,7 +2166,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbdcfdaed75de20bd4a3a1e61daf3ba6.png" alt="Cover for Black Grass Smoker" style="max-width:120px; height:auto;" />
       </td>
@@ -2192,7 +2192,7 @@ Doomcore is a subgenre of electronic music that combines elements of doom metal 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>

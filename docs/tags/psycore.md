@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:00:53.065Z
+date: 2025-12-08T07:51:57.289Z
 permalink: tags/psycore
 title: psycore
 ---
 
 ## psycore
 
-Last updated: <time datetime="2025-12-05T05:00:53.065Z">Fri Dec 05 2025 07:00:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T07:51:57.289Z">Mon Dec 08 2025 09:51:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -114,11 +114,11 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 17</li>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 30</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 32</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 45</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 64</li>
-            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -343,7 +343,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/9wzc0s2XxkANH7uwiJgI3dDTRhMm4xrebItq6maZYDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDMx/LTExOTI1OTcxOTgu/anBlZw.jpeg" alt="Cover for Fucking Hardcore #14" style="max-width:120px; height:auto;" />
       </td>
@@ -479,6 +479,26 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/iBRl3o2VrQoeT7n1blGMrABb44LOxaockiGvjc-4XuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDEz/NC0xMjE5NTE4MDEy/LmpwZWc.jpeg" alt="Cover for F**king Hardcore #12 - World Resistance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-07</td>
+      <td>DJ Dano</td>
+      <td>F**king Hardcore #12 - World Resistance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>11</td>
       <td>
           <img src="https://i.discogs.com/4eoTKm1x2OFA75GibDH0HfTVeSYG1sP-PmCmuHObZFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTA3/MjQtMTMyNDIxNjI2/MS5qcGVn.jpeg" alt="Cover for Knowing My Devils" style="max-width:120px; height:auto;" />
@@ -518,7 +538,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/ze8PzICjtx52qvRB_yzgnmkjZ4ZnWXTR28ujXC5kr4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjQ1/OC0xMTc2NjM4NjQ0/LmpwZWc.jpeg" alt="Cover for Terrordrome III - The Party Animal Edition - The Ultimate Hardcore Party Nightmare!" style="max-width:120px; height:auto;" />
       </td>
@@ -592,7 +612,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/URTvGfyzIZwRCU5cYSJMqEaXBn5D0PHLChAEzKWzSWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjYw/Ny0xNjU5MDMwMjM2/LTIyMjUuanBlZw.jpeg" alt="Cover for Fucking Hardcore Tokyo, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -629,7 +649,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/MYcDMi36cvJ_-UebYgCfGyR3UjOAPdU1v_zfRPEjyLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjA2/MzctMTI0MTYxMTcx/Ni5qcGVn.jpeg" alt="Cover for Sacred Coincidences by Hyoma" style="max-width:120px; height:auto;" />
       </td>
@@ -698,6 +718,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korn" | relative_url }}">korn</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a></li>
@@ -705,11 +726,12 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/korn" | relative_url }}">korn</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/NuNMQJZS-L9-MLQ469N0rlx71P9kP6DlCQk0g-zzyfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTE5/Njc2LTE2NjgwOTc3/OTMtNjAxNy5qcGVn.jpeg" alt="Cover for Fucking Hardcore #14" style="max-width:120px; height:auto;" />
       </td>
@@ -938,7 +960,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/TQXBzBvyC3_SfYSGNZ0ncE0XrJZ4QMy5fYmNhc35i4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzgw/NDktMTM5MTg5NDQx/My01NjYwLmpwZWc.jpeg" alt="Cover for THE PUJA RITUAL" style="max-width:120px; height:auto;" />
       </td>
@@ -976,7 +998,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/yYOpMVhxUKQcmPNfElJksSgZrbyu75VnYgWGoqQU8VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjY1/MzktMTM4ODMxNzI5/NC0xNTk1LmpwZWc.jpeg" alt="Cover for Fucking Hardcore #14" style="max-width:120px; height:auto;" />
       </td>
@@ -1042,11 +1064,11 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 16</li>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 28</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 31</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 43</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 61</li>
-            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1089,7 +1111,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/BxYbIWLaDKg7qiXyr7S7CYxIk746SmpT3bUiISwuqw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTkz/OTAtMTQxMDAxODYz/Ni0yMTA4LmpwZWc.jpeg" alt="Cover for F**king Hardcore #12 - World Resistance" style="max-width:120px; height:auto;" />
       </td>
@@ -1166,7 +1188,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/zWInWLDCSKPKV2y1BBLqnmnWzusC_Qs3P0DzgazPy0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzIw/NzgtMTU2NTY0NzEz/Ni0yMTYxLmpwZWc.jpeg" alt="Cover for Fucking Hardcore Tokyo, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,7 +1321,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/_5demLed8JI9L_XP_qf6-REM-x9c_MCjzhJns1NwZno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA2/OTcyLTE1MTkzMjIw/NDQtMTA4My5qcGVn.jpeg" alt="Cover for THE PUJA RITUAL" style="max-width:120px; height:auto;" />
       </td>
@@ -1357,33 +1379,13 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/-VjqQWETkr6MHzYUdjpAr3TD2zElMglh-_VVGHAuaM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYx/MTUzLTE1MDkxMjY4/OTUtMzg1MS5qcGVn.jpeg" alt="Cover for Fucking Hardcore #14" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-17</td>
       <td>Exsiderurgica</td>
       <td>Fucking Hardcore #14</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>100</td>
-      <td>
-          <img src="https://i.discogs.com/Ot0fKNBrXMg1jFj57n6DfZ-oDon__9OGeryUkVstIMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTI3/ODI5LTE1NTAwODc1/MjMtMjU4MS5qcGVn.jpeg" alt="Cover for F**king Hardcore #12 - World Resistance" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018</td>
-      <td>kelli nelson</td>
-      <td>F**king Hardcore #12 - World Resistance</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
@@ -1592,6 +1594,26 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/IC_zii6e3rc-DV0r8ValJOkMMeSUkRXHZ93yL6Q6GZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTQx/MjM4LTE2NTgzMDUx/NDktODUwMC5qcGVn.jpeg" alt="Cover for F**king Hardcore #12 - World Resistance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-07-19</td>
+      <td>Not A DJ</td>
+      <td>F**king Hardcore #12 - World Resistance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>78</td>
       <td>
       </td>
@@ -1670,7 +1692,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/MTfQgNJepqjScnv5MwrahVA93qL29zvt_RHTu8dSiHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTY1/MjIzLTE3MDA0MzQ0/MDYtMjQwOC5qcGVn.jpeg" alt="Cover for Fucking Hardcore #14" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1712,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/IPXCNuTiq4LY1KxcG3BmUnvUEBAndR37Ry4_luYBx-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQz/MjUwLTE3MDM4OTA0/NDUtNTIzMy5qcGVn.jpeg" alt="Cover for Sacred Coincidences by Hyoma" style="max-width:120px; height:auto;" />
       </td>
@@ -1824,10 +1846,11 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
       <td></td>
       <td>Mokum records</td>
-      <td>Fucking Hardcore #14</td>
+      <td>Happy Gabber Sounds</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a></li>
         </ul>
@@ -1843,11 +1866,10 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
       <td></td>
       <td>Mokum records</td>
-      <td>Happy Gabber Sounds</td>
+      <td>Fucking Hardcore #14</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a></li>
         </ul>
@@ -1875,7 +1897,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td></td>
@@ -1893,7 +1915,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
       </td>
       <td></td>
@@ -1910,7 +1932,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
       </td>
       <td></td>
@@ -1929,7 +1951,7 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>88</td>
       <td>
       </td>
       <td></td>
@@ -1954,25 +1976,6 @@ Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance t
       <td></td>
       <td>Alarma Ravers &amp; 00100</td>
       <td>F**king Hardcore #12 - World Resistance</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
-      <td>
-      </td>
-      <td></td>
-      <td>DJ The Enforcer</td>
-      <td>Fucking Hardcore #14</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
