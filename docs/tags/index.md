@@ -1,18 +1,26 @@
 ---
 category: list
-date: 2025-12-07T23:08:53.126Z
+date: 2025-12-07T23:35:52.183Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-07T23:08:53.126Z">Mon Dec 08 2025 01:08:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T23:35:52.183Z">Mon Dec 08 2025 01:35:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [funk]({{ "tags/funk" | relative_url }}) | <time datetime="2025-12-07T23:35:52.183Z">Mon Dec 08 2025 01:35:52 GMT+0200 (Eastern European Standard Time)</time> |
+| [minimal techno]({{ "tags/minimal-techno" | relative_url }}) | <time datetime="2025-12-07T23:35:45.511Z">Mon Dec 08 2025 01:35:45 GMT+0200 (Eastern European Standard Time)</time> |
+| [vietnamese]({{ "tags/vietnamese" | relative_url }}) | <time datetime="2025-12-07T23:26:51.214Z">Mon Dec 08 2025 01:26:51 GMT+0200 (Eastern European Standard Time)</time> |
+| [minimal house]({{ "tags/minimal-house" | relative_url }}) | <time datetime="2025-12-07T23:26:45.375Z">Mon Dec 08 2025 01:26:45 GMT+0200 (Eastern European Standard Time)</time> |
+| [folk noir]({{ "tags/folk-noir" | relative_url }}) | <time datetime="2025-12-07T23:26:14.685Z">Mon Dec 08 2025 01:26:14 GMT+0200 (Eastern European Standard Time)</time> |
+| [noise rock]({{ "tags/noise-rock" | relative_url }}) | <time datetime="2025-12-07T23:26:07.805Z">Mon Dec 08 2025 01:26:07 GMT+0200 (Eastern European Standard Time)</time> |
+| [british underground]({{ "tags/british-underground" | relative_url }}) | <time datetime="2025-12-07T23:25:32.288Z">Mon Dec 08 2025 01:25:32 GMT+0200 (Eastern European Standard Time)</time> |
+| [france]({{ "tags/france" | relative_url }}) | <time datetime="2025-12-07T23:09:28.082Z">Mon Dec 08 2025 01:09:28 GMT+0200 (Eastern European Standard Time)</time> |
 | [fantasy ambient]({{ "tags/fantasy-ambient" | relative_url }}) | <time datetime="2025-12-07T23:08:53.126Z">Mon Dec 08 2025 01:08:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [stoner doom]({{ "tags/stoner-doom" | relative_url }}) | <time datetime="2025-12-07T22:53:26.189Z">Mon Dec 08 2025 00:53:26 GMT+0200 (Eastern European Standard Time)</time> |
 | [smooth lounge]({{ "tags/smooth-lounge" | relative_url }}) | <time datetime="2025-12-07T22:52:47.649Z">Mon Dec 08 2025 00:52:47 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1384,11 +1392,3 @@ Last updated: <time datetime="2025-12-07T23:08:53.126Z">Mon Dec 08 2025 01:08:53
 | [russian rock]({{ "tags/russian-rock" | relative_url }}) | <time datetime="2025-12-05T04:38:44.573Z">Fri Dec 05 2025 06:38:44 GMT+0200 (Eastern European Standard Time)</time> |
 | [brega]({{ "tags/brega" | relative_url }}) | <time datetime="2025-12-05T04:38:39.363Z">Fri Dec 05 2025 06:38:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [math rock]({{ "tags/math-rock" | relative_url }}) | <time datetime="2025-12-05T04:37:51.201Z">Fri Dec 05 2025 06:37:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [funk]({{ "tags/funk" | relative_url }}) | <time datetime="2025-12-05T04:37:41.381Z">Fri Dec 05 2025 06:37:41 GMT+0200 (Eastern European Standard Time)</time> |
-| [minimal techno]({{ "tags/minimal-techno" | relative_url }}) | <time datetime="2025-12-05T04:37:12.538Z">Fri Dec 05 2025 06:37:12 GMT+0200 (Eastern European Standard Time)</time> |
-| [vietnamese]({{ "tags/vietnamese" | relative_url }}) | <time datetime="2025-12-05T04:37:06.583Z">Fri Dec 05 2025 06:37:06 GMT+0200 (Eastern European Standard Time)</time> |
-| [minimal house]({{ "tags/minimal-house" | relative_url }}) | <time datetime="2025-12-05T04:37:00.233Z">Fri Dec 05 2025 06:37:00 GMT+0200 (Eastern European Standard Time)</time> |
-| [folk noir]({{ "tags/folk-noir" | relative_url }}) | <time datetime="2025-12-05T04:36:54.103Z">Fri Dec 05 2025 06:36:54 GMT+0200 (Eastern European Standard Time)</time> |
-| [noise rock]({{ "tags/noise-rock" | relative_url }}) | <time datetime="2025-12-05T04:36:47.470Z">Fri Dec 05 2025 06:36:47 GMT+0200 (Eastern European Standard Time)</time> |
-| [british underground]({{ "tags/british-underground" | relative_url }}) | <time datetime="2025-12-05T04:36:13.462Z">Fri Dec 05 2025 06:36:13 GMT+0200 (Eastern European Standard Time)</time> |
-| [france]({{ "tags/france" | relative_url }}) | <time datetime="2025-12-05T04:36:07.401Z">Fri Dec 05 2025 06:36:07 GMT+0200 (Eastern European Standard Time)</time> |

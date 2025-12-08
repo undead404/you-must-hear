@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:36:54.103Z
+date: 2025-12-07T23:26:14.685Z
 permalink: tags/folk-noir
 title: folk noir
 ---
 
 ## folk noir
 
-Last updated: <time datetime="2025-12-05T04:36:54.103Z">Fri Dec 05 2025 06:36:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-07T23:26:14.685Z">Mon Dec 08 2025 01:26:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
   </thead>
   <tbody>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6532ca4798210c0957e20734f09c560.png" alt="Cover for Pass The Distance" style="max-width:120px; height:auto;" />
       </td>
@@ -44,12 +44,37 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 34</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>31</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Księżyc</td>
+      <td>Nów</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 1</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 10</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/Ldj_oTyOonLG_8WzIgNWAUhxGefiaXQMeR2qSFRWMCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjMw/NC0xMTc2MzcyMDU0/LmpwZWc.jpeg" alt="Cover for La Croix" style="max-width:120px; height:auto;" />
       </td>
@@ -69,63 +94,13 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 4</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 28</li>
-            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
-      <td>
-      </td>
-      <td>1993</td>
-      <td>Księżyc</td>
-      <td>Nów</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 10</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 67</li>
-            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d47930194024f498e04d9d6c6dafe95.png" alt="Cover for Passing Through Alone" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Tor Lundvall</td>
-      <td>Passing Through Alone</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/hwWIqRNzHYjT6Cht4YlKA64mOMXyTv1lN1g9NPNJs9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjI4/MC0xMzA5ODExMTEx/LmpwZWc.jpeg" alt="Cover for The Twin Trees" style="max-width:120px; height:auto;" />
       </td>
@@ -145,7 +120,32 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d47930194024f498e04d9d6c6dafe95.png" alt="Cover for Passing Through Alone" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Tor Lundvall</td>
+      <td>Passing Through Alone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 12</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7152b511dda34699999f3248778e9b9a.png" alt="Cover for Red Apple Falls" style="max-width:120px; height:auto;" />
       </td>
@@ -172,7 +172,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
       </td>
       <td>1999</td>
@@ -199,28 +199,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd7de91b757d4509c571fc736fa8f224.png" alt="Cover for The Hill Of Crosses" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Sol Invictus</td>
-      <td>The Hill Of Crosses</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/zz8S0uHU-yVWjNQKX9jH2vH-9FOSsuOLnl3PGGGFsJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzQz/OC0xMTgwMTgwOTcw/LmpwZWc.jpeg" alt="Cover for Sator" style="max-width:120px; height:auto;" />
       </td>
@@ -245,7 +224,28 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd7de91b757d4509c571fc736fa8f224.png" alt="Cover for The Hill Of Crosses" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Sol Invictus</td>
+      <td>The Hill Of Crosses</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
       <td>
       </td>
       <td>2001-01-01</td>
@@ -270,7 +270,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbae3e423af8d2ee56a9ee89f94c5eb6.png" alt="Cover for How I Loved You" style="max-width:120px; height:auto;" />
       </td>
@@ -289,7 +289,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64d053c7779249bb99aeb66e31510aa6.png" alt="Cover for Soil" style="max-width:120px; height:auto;" />
       </td>
@@ -314,7 +314,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/rBZCea6a3gTKeQbXYsKtG1KvUiatDA708mjrMHsBNjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzcz/ODEtMTYxODc2MTcy/My02MTgyLmpwZWc.jpeg" alt="Cover for Twilight" style="max-width:120px; height:auto;" />
       </td>
@@ -340,7 +340,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/t1iXySf0I_uNtb8wZjfJXuVuh6xVqIbWImVy40hC3v0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njk3/My0xMTA0NDIzMDUw/LmpwZw.jpeg" alt="Cover for Aryana" style="max-width:120px; height:auto;" />
       </td>
@@ -368,7 +368,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6bf90fd54b25292824202933638451f.png" alt="Cover for Dark Age" style="max-width:120px; height:auto;" />
       </td>
@@ -388,7 +388,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/RWyo3Hu2ybaCU8z1ci1GCRbd8MtvpIVytx2dguDLdA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTY5/NTMtMTQ3ODE1NTEy/MC04MTY3LmpwZWc.jpeg" alt="Cover for For You" style="max-width:120px; height:auto;" />
       </td>
@@ -411,7 +411,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f20564d608d10c0a9ea7f80384f52179.png" alt="Cover for Behaviour" style="max-width:120px; height:auto;" />
       </td>
@@ -439,7 +439,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8cabb8e47504d0da8546672f1334e3c.png" alt="Cover for Smothered and Covered" style="max-width:120px; height:auto;" />
       </td>
@@ -465,32 +465,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-      </td>
-      <td>2003</td>
-      <td>Turbund Sturmwerk</td>
-      <td>Turbund Sturmwerk</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 43</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fad4bb49c6348968f57acedfb69400a.png" alt="Cover for Goodbye Different Oceans" style="max-width:120px; height:auto;" />
       </td>
@@ -532,7 +507,32 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>67</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Turbund Sturmwerk</td>
+      <td>Turbund Sturmwerk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/E7lj3zEupP9RyLwxN5eg-2IjbRHVVjHYUPIRQzzC4xY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjI5/Mi0xMTU0OTgyOTI3/LmpwZWc.jpeg" alt="Cover for Das Laub fällt von den Bäumen" style="max-width:120px; height:auto;" />
       </td>
@@ -555,25 +555,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>89</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40fccaa21ec44840c87cd333a23dad2e.png" alt="Cover for Everything Is Good Here &#x2F; Please Come Home" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003-03</td>
-      <td>The Angels of Light</td>
-      <td>Everything Is Good Here &#x2F; Please Come Home</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/xZ28KliuRZcAv6uPiHGIEZmCNd7gtOnmggTXAUBsI58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzQ1/MS0xMjM4ODY5MTMz/LmpwZWc.jpeg" alt="Cover for Everything Is Good Here&#x2F;Please Come Home" style="max-width:120px; height:auto;" />
       </td>
@@ -591,7 +573,25 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40fccaa21ec44840c87cd333a23dad2e.png" alt="Cover for Everything Is Good Here &#x2F; Please Come Home" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-03</td>
+      <td>The Angels of Light</td>
+      <td>Everything Is Good Here &#x2F; Please Come Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
       </td>
       <td>2003-05-27</td>
@@ -611,7 +611,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe2c0cce356e1b5f51bf56d5e5b4665a.png" alt="Cover for Singing Bones" style="max-width:120px; height:auto;" />
       </td>
@@ -633,7 +633,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/fG7-rDQyFdvBo4syZCF6E0FQeXp6sMEpicfJHo9QrMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc1/NC0xMDg0NTI5MTUw/LmpwZw.jpeg" alt="Cover for Freiheit" style="max-width:120px; height:auto;" />
       </td>
@@ -660,7 +660,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>2004</td>
@@ -681,7 +681,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/jN71kucqUVo7dlMIk2NxQGP7GanE9XYUI5FNUJn9oQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTMz/MzQtMTI0MzE1MzA0/Mi5qcGVn.jpeg" alt="Cover for Magic Wand" style="max-width:120px; height:auto;" />
       </td>
@@ -723,7 +723,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/512c58c0859b3bdefc05a510d31cb62d.png" alt="Cover for Goodnight Nobody" style="max-width:120px; height:auto;" />
       </td>
@@ -765,7 +765,76 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Sieben</td>
+      <td>Ogham Inside the Night</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 1</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Nebelung</td>
+      <td>Mistelteinn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/LEOIspPGMts4avXFAzgVvciZevfsqEUH98w-v_Vns_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Nzcx/Mi0xMTQ5NjkxNjM2/LmpwZWc.jpeg" alt="Cover for Belovodie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Moon Far Away</td>
+      <td>Belovodie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
       <td>
       </td>
       <td>2005</td>
@@ -790,76 +859,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>66</td>
-      <td>
-          <img src="https://i.discogs.com/LEOIspPGMts4avXFAzgVvciZevfsqEUH98w-v_Vns_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Nzcx/Mi0xMTQ5NjkxNjM2/LmpwZWc.jpeg" alt="Cover for Belovodie" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Moon Far Away</td>
-      <td>Belovodie</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 75</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
-      <td>
-      </td>
-      <td>2005</td>
-      <td>Nebelung</td>
-      <td>Mistelteinn</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-      </td>
-      <td>2005</td>
-      <td>Sieben</td>
-      <td>Ogham Inside the Night</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 1</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 6</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/E4rnom20DbKqrM1MGDWjogVv5z-nvY7tvrga-4QnUTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzU0/MS0xMTIyODUwMjMw/LmpwZw.jpeg" alt="Cover for Music For Lovers &amp; Gangsters" style="max-width:120px; height:auto;" />
       </td>
@@ -877,13 +877,12 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/g5bbUOZ7k0FDX_B0cpYOdBVgNLjSLnLn7xLEnOYBI6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTQx/NS0xMTY3MTQ5ODc1/LmpwZWc.jpeg" alt="Cover for Nostalgia&#x2F;Pain E.P." style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-16</td>
       <td>Elizabeth Anka Vajagic</td>
-      <td>Nostalgia&#x2F;Pain E.P.</td>
+      <td>Nostalgia&#x2F;Pain</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
@@ -896,7 +895,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/g5bbUOZ7k0FDX_B0cpYOdBVgNLjSLnLn7xLEnOYBI6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTQx/NS0xMTY3MTQ5ODc1/LmpwZWc.jpeg" alt="Cover for Nostalgia Pain EP" style="max-width:120px; height:auto;" />
       </td>
@@ -915,12 +914,13 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>83</td>
       <td>
+          <img src="https://i.discogs.com/g5bbUOZ7k0FDX_B0cpYOdBVgNLjSLnLn7xLEnOYBI6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTQx/NS0xMTY3MTQ5ODc1/LmpwZWc.jpeg" alt="Cover for Nostalgia&#x2F;Pain E.P." style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-16</td>
       <td>Elizabeth Anka Vajagic</td>
-      <td>Nostalgia&#x2F;Pain</td>
+      <td>Nostalgia&#x2F;Pain E.P.</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
@@ -933,7 +933,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8aaaf86353141d2c11593a4c42f5d3a.png" alt="Cover for Deora" style="max-width:120px; height:auto;" />
       </td>
@@ -959,7 +959,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bb31b9fd31280d6b721a63272ff86d8.png" alt="Cover for Reigen" style="max-width:120px; height:auto;" />
       </td>
@@ -982,7 +982,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/TdtSJsjiS3wWWFnyCSzz-kBZARJiGlembZsolHn5HlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTMy/NC0xMTM2MzAyNjAw/LmpwZWc.jpeg" alt="Cover for Disobbedisco!" style="max-width:120px; height:auto;" />
       </td>
@@ -1003,7 +1003,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73b5e1e50171c27c6efe1778837c375b.png" alt="Cover for Let Me Go, Let Me Go, Let Me Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1026,7 +1026,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50205cac72229726303253e3809dfdf7.png" alt="Cover for And Now That I&#39;m In Your Shadow" style="max-width:120px; height:auto;" />
       </td>
@@ -1066,7 +1066,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ef4081e35cdb357334f1dbae22c6af7.png" alt="Cover for The Unsung Colony" style="max-width:120px; height:auto;" />
       </td>
@@ -1107,81 +1107,33 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/DUEfmatv-fkJ1o2hBdo_5EUYMAgzsTt6EHAMpvOsPPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDEy/OS0xMTgwMjgyNTMw/LmpwZWc.jpeg" alt="Cover for Gloria" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79bd22e03e8f46bebd3a5b07d6605030.png" alt="Cover for I See a Darkness" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
-      <td>Leger Des Heils</td>
-      <td>Gloria</td>
+      <td>Bonnie &#39;Prince&#39; Billy</td>
+      <td>I See a Darkness</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 19</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 25</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 42</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 54</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 65</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-          <img src="https://i.discogs.com/6UP64pF55calUkpb1sMeG5nyVweQXEX4DCY_PNtQWYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg1/MTYtMTE4OTcwNDA5/NC5qcGVn.jpeg" alt="Cover for Cine (The Director&#39;s Cut)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>The Owl Service</td>
-      <td>Cine (The Director&#39;s Cut)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-          <img src="https://i.discogs.com/aCFD5WDWQxxFy1zzEhU5snEBuM6-VMZ68Hpq8fiM5Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjIx/MjMtMTE4OTE2NDQ3/Mi5qcGVn.jpeg" alt="Cover for A Garland of Song" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>The Owl Service</td>
-      <td>A Garland of Song</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 51</li>
-            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 95</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/2XYAGwTZlUjB1mCs5UlzaLKco4FfIdOBoY3s4QK9QyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDg2/MjQtMTQyMDg4NzU0/Ni05OTg5LmpwZWc.jpeg" alt="Cover for Pour Away the Ocean" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,33 +1164,81 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>73</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79bd22e03e8f46bebd3a5b07d6605030.png" alt="Cover for I See a Darkness" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/aCFD5WDWQxxFy1zzEhU5snEBuM6-VMZ68Hpq8fiM5Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjIx/MjMtMTE4OTE2NDQ3/Mi5qcGVn.jpeg" alt="Cover for A Garland of Song" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
-      <td>Bonnie &#39;Prince&#39; Billy</td>
-      <td>I See a Darkness</td>
+      <td>The Owl Service</td>
+      <td>A Garland of Song</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 19</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 25</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 42</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 54</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 65</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 69</li>
+            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 6</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/6UP64pF55calUkpb1sMeG5nyVweQXEX4DCY_PNtQWYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg1/MTYtMTE4OTcwNDA5/NC5qcGVn.jpeg" alt="Cover for Cine (The Director&#39;s Cut)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>The Owl Service</td>
+      <td>Cine (The Director&#39;s Cut)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 7</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/DUEfmatv-fkJ1o2hBdo_5EUYMAgzsTt6EHAMpvOsPPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDEy/OS0xMTgwMjgyNTMw/LmpwZWc.jpeg" alt="Cover for Gloria" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Leger Des Heils</td>
+      <td>Gloria</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/DUEfmatv-fkJ1o2hBdo_5EUYMAgzsTt6EHAMpvOsPPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDEy/OS0xMTgwMjgyNTMw/LmpwZWc.jpeg" alt="Cover for Gloria I" style="max-width:120px; height:auto;" />
       </td>
@@ -1261,7 +1261,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddbef8ec732c49c88fbf5653b01b4c10.png" alt="Cover for Ezra Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,7 +1281,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/869c6664a717416497fe2841f083a331.png" alt="Cover for Turn Hegel on his Head" style="max-width:120px; height:auto;" />
       </td>
@@ -1308,7 +1308,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/FvPHJRvCQdN1htoHOtsKgGQlM9j5MMxB3_AHNiFngDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzc5/MTUtMTMwMDYxMTc0/MS5qcGVn.jpeg" alt="Cover for Вспомни о чём думал, вспомни о чём мечтал" style="max-width:120px; height:auto;" />
       </td>
@@ -1321,12 +1321,130 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 98</li>
+            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f8ad0f3c39e40218303399a015f379e.png" alt="Cover for Cancer And Delirium" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>J. Tillman</td>
+      <td>Cancer And Delirium</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 3</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 26</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 31</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 34</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 62</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 95</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 95</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d7c74824284475ec715750d0e207105.png" alt="Cover for Transfiguration of Vincent" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>M. Ward</td>
+      <td>Transfiguration of Vincent</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 37</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 50</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 60</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 65</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/RF2xQlxYO9ucjREywSzyewVx3FaYqR2L0ErtggE6CFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQ2/NDktMTQ3NzIzNDcz/NC0yMzMzLmpwZWc.jpeg" alt="Cover for Les Voix De L&#39; Apocalypse" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>L&#39;Effet C&#39;Est Moi</td>
+      <td>Les Voix De L&#39; Apocalypse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Pantheon Legio Musica</td>
+      <td>Per Aspera ad Astra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/qW_9TUueGCKSAn7zrHHoje-7fyFd4Ojf0GWlogU4_LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM3/ODQ1LTE2ODA1MzI2/MDktOTI1Ny5qcGVn.jpeg" alt="Cover for The Winged Life (European edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,125 +1487,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-      </td>
-      <td>2008</td>
-      <td>Pantheon Legio Musica</td>
-      <td>Per Aspera ad Astra</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 57</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-          <img src="https://i.discogs.com/RF2xQlxYO9ucjREywSzyewVx3FaYqR2L0ErtggE6CFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQ2/NDktMTQ3NzIzNDcz/NC0yMzMzLmpwZWc.jpeg" alt="Cover for Les Voix De L&#39; Apocalypse" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>L&#39;Effet C&#39;Est Moi</td>
-      <td>Les Voix De L&#39; Apocalypse</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 53</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d7c74824284475ec715750d0e207105.png" alt="Cover for Transfiguration of Vincent" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>M. Ward</td>
-      <td>Transfiguration of Vincent</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 37</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 50</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 60</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 65</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f8ad0f3c39e40218303399a015f379e.png" alt="Cover for Cancer And Delirium" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>J. Tillman</td>
-      <td>Cancer And Delirium</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 3</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 26</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 31</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 34</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 62</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 95</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 95</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
       </td>
       <td>2008</td>
@@ -1505,7 +1505,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/ddomIp--hsRyL98mr8XJISUFWKy7SKIMb2iaPUhZe4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjk5/NDctMTIxMDE2NjE1/NS5qcGVn.jpeg" alt="Cover for Early Love Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1530,7 +1530,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/Uj1oIoN3QThSzPAa4cRjBGGXb2t5xfA4OGiFLpM7OZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjQ3/MjAtMTY0NDAwMDM3/Mi0xODQ2LmpwZWc.jpeg" alt="Cover for Italia ultimo atto" style="max-width:120px; height:auto;" />
       </td>
@@ -1552,7 +1552,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/DT0VDrqcms_Cy-9FNegIthbm6HvR4ismTo6YiXH9sdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjE0/OTUtMTIyNTg4MDc1/Mi5qcGVn.jpeg" alt="Cover for Last X Hours" style="max-width:120px; height:auto;" />
       </td>
@@ -1575,7 +1575,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/AbgQorZ2bnYsVQBcZwTzA5tAaqw5ZXJh9rieOrn5BQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTMy/MDgtMTIxNzk0NjUz/OC5qcGVn.jpeg" alt="Cover for Relatively Close To The Sea" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,7 +1601,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/U31LwVneEFMejlBQvCxoWapBLjBovN0lgzrBZIQSbc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDM5/NTAtMTI1MTM4MjM4/OC5qcGVn.jpeg" alt="Cover for Wayward Souls" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,12 +1619,12 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 88</li>
+            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
       </td>
       <td>2009</td>
@@ -1642,7 +1642,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1865bd41ac02e2fdc377269ab70a2269.png" alt="Cover for How The Dead Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1662,7 +1662,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>2009-05</td>
@@ -1684,7 +1684,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/UBACUHjKF4f62UAeeFYE91GdYISbmxY_MlhbsaFLKD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NTAtMTU5MDU5NDcy/OS00NzMxLmpwZWc.jpeg" alt="Cover for Not All Of Me Will Die" style="max-width:120px; height:auto;" />
       </td>
@@ -1705,13 +1705,13 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 9</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 42</li>
-            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/7us6KVjsNqwcJqBp3f90Bm6xO52sARGx2n_rRFLKslI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzQy/NzYtMTI4OTIzNTk1/Ni5qcGVn.jpeg" alt="Cover for Epos O Woju Z Krainy Mrozem Spowitej" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,7 +1736,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/x_XrF1lFGTOXYrFqEVMcjt9pBhrkpky3HP74vsM8L-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTEz/NDAtMTQ0MTcxMDM4/MS02NjExLmpwZWc.jpeg" alt="Cover for Dämmerung - Die Destrunken Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1758,7 +1758,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
       </td>
       <td>2009-12-21</td>
@@ -1783,7 +1783,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/1OtwdwF8ncGZnZDGBHJt8z_PIjs8Yo8tdr0pc3EONmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc1/NzAtMTUyNjg4Nzg1/OC00ODI4LmpwZWc.jpeg" alt="Cover for Spektral Magik" style="max-width:120px; height:auto;" />
       </td>
@@ -1803,7 +1803,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af66539e54a44c35875dca6623b0c792.png" alt="Cover for Down the Way" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,7 +1827,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8c80d0d553e4242c202c49a99946a03.png" alt="Cover for The View from a Hill" style="max-width:120px; height:auto;" />
       </td>
@@ -1845,12 +1845,12 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 93</li>
+            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da75164bd85e43338295bd268c60e2e6.png" alt="Cover for Star Wood Brick Firmament" style="max-width:120px; height:auto;" />
       </td>
@@ -1871,7 +1871,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/1HAzZ9hGhGogh1yEvCVw8m-W6THi0JGaoMXQ48i9fjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjE5/MTItMTQ3MzM5MTMx/MS0zMzQ2LmpwZWc.jpeg" alt="Cover for Outlaster" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,13 +1889,13 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 12</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 66</li>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63785c41fa2e428c9db3f3f180c9dc4a.png" alt="Cover for Acta Fabula Est" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,7 +1922,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c484a38388c5476d8055cf74c96668ea.png" alt="Cover for The Veil Of Queen Mab" style="max-width:120px; height:auto;" />
       </td>
@@ -1949,7 +1949,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/bFYuWidwnMGBvAy8rb8N_VY1lHamjO2MRHBadCDNnfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzIx/ODAtMTMwMzIxMDA0/MC5qcGVn.jpeg" alt="Cover for Arcane" style="max-width:120px; height:auto;" />
       </td>
@@ -1983,7 +1983,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
       </td>
       <td>2011-04-15</td>
@@ -2010,7 +2010,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31cc06d95f6e4b868feeb6f81d3f5854.png" alt="Cover for Der Verborgene Gott" style="max-width:120px; height:auto;" />
       </td>
@@ -2036,7 +2036,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8693e90894ff487eb77c3150862999a3.png" alt="Cover for Ultimacy" style="max-width:120px; height:auto;" />
       </td>
@@ -2065,7 +2065,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td>2011-11-04</td>
@@ -2087,7 +2087,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b249f35f36ba4a124300930d2a2ca184.png" alt="Cover for The Dublin Session" style="max-width:120px; height:auto;" />
       </td>
@@ -2113,7 +2113,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d7ad09cbdde4bf6cb346e46212261c0.png" alt="Cover for Sous les yeux de Sophie" style="max-width:120px; height:auto;" />
       </td>
@@ -2140,7 +2140,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec414954fcfd4f85a5094d400054bbab.png" alt="Cover for Mon Meilleur Ennemi" style="max-width:120px; height:auto;" />
       </td>
@@ -2169,7 +2169,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b13533cab454d499fef783306084d69.png" alt="Cover for The Sister" style="max-width:120px; height:auto;" />
       </td>
@@ -2191,7 +2191,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3afffe1dc0c4400a993de6b9bb8fc7aa.png" alt="Cover for La Mano di Gloria" style="max-width:120px; height:auto;" />
       </td>
@@ -2211,7 +2211,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/fv5v0TfivJ-lbkuhG_8Y9PjcqxeuARIKfdv1dJZ658Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTY5/ODctMTQ4MTU5MTEy/NS01MzI5LmpwZWc.jpeg" alt="Cover for Deixademe Morrer no Bosque" style="max-width:120px; height:auto;" />
       </td>
@@ -2235,7 +2235,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/ZFuP3y9vfiq-TNV4rvYJhGTyC7uq4RwOACcFIbx5OWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTY4/NjAtMTM3NDUyOTMz/NC01OTIxLmpwZWc.jpeg" alt="Cover for Var Je Solblesten" style="max-width:120px; height:auto;" />
       </td>
@@ -2253,12 +2253,12 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 91</li>
+            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67870f7386814ace4884ad8dde9247ba.png" alt="Cover for Licht!" style="max-width:120px; height:auto;" />
       </td>
@@ -2284,7 +2284,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/Qb79qPGMRHP7VCjo2Y8HnTzUBU7-Oa6kR38WfXmtirc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODQ1/NTktMTM1NDcyMTYy/Ni00Njk5LmpwZWc.jpeg" alt="Cover for Whom The Moon A Nightsong Sings" style="max-width:120px; height:auto;" />
       </td>
@@ -2307,7 +2307,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8917c57899e8421ea1d271ff3eeb4d8b.png" alt="Cover for Вспомни о чем думал, вспомни о чем мечтал" style="max-width:120px; height:auto;" />
       </td>
@@ -2320,12 +2320,12 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 96</li>
+            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4694dec21a92aed50daaac3a0a609b3d.png" alt="Cover for Wilderness" style="max-width:120px; height:auto;" />
       </td>
@@ -2350,7 +2350,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/V14vDoWcLclaUEP3LPtaaeiL6ltUB7A-C468VrojkNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDA1/ODMtMTM5MzQyMTc3/Mi04MDUxLmpwZWc.jpeg" alt="Cover for Each Divine Spark" style="max-width:120px; height:auto;" />
       </td>
@@ -2370,7 +2370,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
       </td>
       <td>2014-06-06</td>
@@ -2393,7 +2393,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td>2014-06-17</td>
@@ -2416,7 +2416,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/DbLZTZjsGTwl42vLUc3Utzubg41-228mYbnO9kN_pmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY0/NTY3LTE1NDkxNzU2/MDQtNjgxMC5qcGVn.jpeg" alt="Cover for 2905 Дней Перемен" style="max-width:120px; height:auto;" />
       </td>
@@ -2434,12 +2434,12 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 99</li>
+            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2384d9f982982d02ed48525ecf96c0e.png" alt="Cover for Echo Echo" style="max-width:120px; height:auto;" />
       </td>
@@ -2458,7 +2458,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/024739868d1444077974a1b605236dbb.png" alt="Cover for The Falling" style="max-width:120px; height:auto;" />
       </td>
@@ -2487,7 +2487,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e2e482e749d4235ade99c7e30410a28.png" alt="Cover for Orpheus Looking Back" style="max-width:120px; height:auto;" />
       </td>
