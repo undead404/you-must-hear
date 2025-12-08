@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:41:33.857Z
+date: 2025-12-08T03:18:00.589Z
 permalink: tags/funk-metal
 title: funk metal
 ---
 
 ## funk metal
 
-Last updated: <time datetime="2025-12-05T04:41:33.857Z">Fri Dec 05 2025 06:41:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T03:18:00.589Z">Mon Dec 08 2025 05:18:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
   </thead>
   <tbody>
     <tr>
-      <td>56</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94a7c4ddc78d41bac19c51e22430df5a.png" alt="Cover for Introduce Yourself" style="max-width:120px; height:auto;" />
       </td>
@@ -46,7 +46,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/308c0c61eab29b2d9a80efea4655399e.png" alt="Cover for The Uplift Mofo Party Plan" style="max-width:120px; height:auto;" />
       </td>
@@ -65,7 +65,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>1988</td>
@@ -90,7 +90,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0b47859cbff4869cac8a00fa575e953.png" alt="Cover for Goddammit I Love America!" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2a013f8cb5b47f58f3f8e7b9dc095cb.png" alt="Cover for Vivid" style="max-width:120px; height:auto;" />
       </td>
@@ -125,7 +125,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>71</td>
       <td>
       </td>
       <td>1989</td>
@@ -143,13 +143,13 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 8</li>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 87</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 14</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2837663df27c2029cd0736ffa230ff4.png" alt="Cover for The Real Thing" style="max-width:120px; height:auto;" />
       </td>
@@ -169,7 +169,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef1013615d1aa51f2f5855f4a7d6e703.png" alt="Cover for OU818" style="max-width:120px; height:auto;" />
       </td>
@@ -187,7 +187,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36c53e9197366baed82c8cbcb29fb578.png" alt="Cover for Mother&#39;s Milk" style="max-width:120px; height:auto;" />
       </td>
@@ -207,7 +207,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed4001f48a9bbdc19de373d7b589755f.png" alt="Cover for Suck On This" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +224,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/TQ27TFsKoHTNwiypjRl9JWkxAGNrO6tlLGdsdZ7zztk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMw/ODExLTE1MTYyMDEw/NTgtNzYxNy5qcGVn.jpeg" alt="Cover for Six-Pack" style="max-width:120px; height:auto;" />
       </td>
@@ -249,7 +249,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fd8c2eb20b15e460bde5f79c70717d3.png" alt="Cover for Tales of Instant Knowledge and Sure Death" style="max-width:120px; height:auto;" />
       </td>
@@ -267,7 +267,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>57</td>
       <td>
       </td>
       <td>1990-05-10</td>
@@ -290,7 +290,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/873e1ce7ab357205515364a1b9a73c53.png" alt="Cover for Frizzle Fry" style="max-width:120px; height:auto;" />
       </td>
@@ -307,7 +307,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31f6a2761b26cd4f2b15944c03e7cebc.png" alt="Cover for Extreme II: Pornograffitti" style="max-width:120px; height:auto;" />
       </td>
@@ -326,7 +326,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b1702d7981e5211830993f629240094.png" alt="Cover for Time&#39;s Up" style="max-width:120px; height:auto;" />
       </td>
@@ -343,25 +343,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7b507e8ba74bccbbbd5c8e509eff67b.png" alt="Cover for In This Life" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Mordred</td>
-      <td>In This Life</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cbffa09334047bdc74764a445d94751.png" alt="Cover for Massacre Divine" style="max-width:120px; height:auto;" />
       </td>
@@ -381,7 +363,25 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7b507e8ba74bccbbbd5c8e509eff67b.png" alt="Cover for In This Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Mordred</td>
+      <td>In This Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>
       </td>
       <td>1991-05-14</td>
@@ -401,7 +401,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c707dcaf2abbc6561b5b808a531510aa.png" alt="Cover for Mr. Bungle" style="max-width:120px; height:auto;" />
       </td>
@@ -423,7 +423,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68306be5bf9906baca2b649468c29efa.png" alt="Cover for The Plague That Makes Your Booty Move... It&#39;s The Infectious Grooves" style="max-width:120px; height:auto;" />
       </td>
@@ -441,7 +441,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>1991-10-15</td>
@@ -459,7 +459,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3592f3a172745d08dacb3cbe3a8cb10.png" alt="Cover for This Is It, The Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -476,7 +476,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80296bbd1fec4801ae67ef3a4b70fd5f.png" alt="Cover for Miscellaneous Debris" style="max-width:120px; height:auto;" />
       </td>
@@ -495,7 +495,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9a158a88c169bb31fea3b83f3704d1c.png" alt="Cover for Angel Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -513,7 +513,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e44dcaf41254d8817de809f87dde1b40.png" alt="Cover for Vision" style="max-width:120px; height:auto;" />
       </td>
@@ -531,7 +531,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33481b240ab645d680f065cb8f4305a9.png" alt="Cover for Transmutation (Mutatis Mutandis)" style="max-width:120px; height:auto;" />
       </td>
@@ -550,7 +550,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f25a0a061254740c74a40a4e16337d6.png" alt="Cover for Rage Against the Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -569,7 +569,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/042dfe3e60e0e6836d4216e6c3c38a40.png" alt="Cover for Sarsippius&#39; Ark" style="max-width:120px; height:auto;" />
       </td>
@@ -587,7 +587,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99b205d208772be302e4e6f3d64a43d6.png" alt="Cover for Stain" style="max-width:120px; height:auto;" />
       </td>
@@ -604,7 +604,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c80a8a4049e5aed302db1e660689832.png" alt="Cover for Pork Soda" style="max-width:120px; height:auto;" />
       </td>
@@ -621,7 +621,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
       </td>
       <td>1993-10-19</td>
@@ -640,12 +640,13 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6900aed4df6144e281a8e97caa0965c4.png" alt="Cover for Riddles Are Abound Tonight" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
-      <td>Dink</td>
-      <td>Dink</td>
+      <td>Sausage</td>
+      <td>Riddles Are Abound Tonight</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
@@ -657,7 +658,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35276131024dfb353be20e7516cf7eb9.png" alt="Cover for Jammin&#39; In Vicious Environments" style="max-width:120px; height:auto;" />
       </td>
@@ -678,13 +679,12 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>97</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6900aed4df6144e281a8e97caa0965c4.png" alt="Cover for Riddles Are Abound Tonight" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
-      <td>Sausage</td>
-      <td>Riddles Are Abound Tonight</td>
+      <td>Dink</td>
+      <td>Dink</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
@@ -696,7 +696,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00cb189fad59e326c0304ee77c7c8b08.png" alt="Cover for Groove Family Cyco" style="max-width:120px; height:auto;" />
       </td>
@@ -714,7 +714,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96a5ae52a9a04676f4e1ce2081bc15b6.png" alt="Cover for Korn" style="max-width:120px; height:auto;" />
       </td>
@@ -734,18 +734,17 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94ca3f7c748d85258aa7efef661f9991.png" alt="Cover for Pride" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
-      <td>КОРРОЗИЯ МЕТАЛЛА</td>
-      <td>1.966</td>
+      <td>Living Colour</td>
+      <td>Pride</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 57.99999999999999 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
         </ul>
       </td>
       <td>
@@ -754,7 +753,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0e5be2e574c423dc2ad1933040365a6.png" alt="Cover for The Blood Splat Rating System" style="max-width:120px; height:auto;" />
       </td>
@@ -776,17 +775,18 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>94</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94ca3f7c748d85258aa7efef661f9991.png" alt="Cover for Pride" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
-      <td>Living Colour</td>
-      <td>Pride</td>
+      <td>КОРРОЗИЯ МЕТАЛЛА</td>
+      <td>1.966</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 57.99999999999999 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
         </ul>
       </td>
       <td>
@@ -795,7 +795,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/EhRI1DH0bj09GOWUVb2eD8hJ1HsfcFV6xURs_cjLofA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzA2/NTgtMTMyOTY0MzQw/MS5qcGVn.jpeg" alt="Cover for Evidence" style="max-width:120px; height:auto;" />
       </td>
@@ -816,7 +816,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4411c03bd2890fcb8e703487668124eb.png" alt="Cover for Tales From The Punchbowl" style="max-width:120px; height:auto;" />
       </td>
@@ -833,7 +833,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee14a6fd83804bfdb8c9c2a1c91c9ec2.png" alt="Cover for One Hot Minute" style="max-width:120px; height:auto;" />
       </td>
@@ -853,7 +853,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe32fc0262a14dcccd2b51ba213da08a.png" alt="Cover for Fungus Amongus" style="max-width:120px; height:auto;" />
       </td>
@@ -871,7 +871,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>41</td>
       <td>
       </td>
       <td>1996</td>
@@ -890,7 +890,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d80d5c896c914ce1a17548726d210a4c.png" alt="Cover for Lemonade and Brownies" style="max-width:120px; height:auto;" />
       </td>
@@ -908,7 +908,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>37</td>
       <td>
       </td>
       <td>1996-08-21</td>
@@ -938,7 +938,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41006b2356b2420e9fe2747540310d50.png" alt="Cover for Life Is Peachy" style="max-width:120px; height:auto;" />
       </td>
@@ -958,7 +958,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a1ea87e938125ff27b782247043f188.png" alt="Cover for Mate. Feed. Kill. Repeat." style="max-width:120px; height:auto;" />
       </td>
@@ -975,7 +975,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/629695e46cdc8d35815254ef402ced66.png" alt="Cover for Get Some" style="max-width:120px; height:auto;" />
       </td>
@@ -997,26 +997,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8acf728876bb4312c3d5a5a24edad7d0.png" alt="Cover for Album Of The Year (2cd Limited Edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Faith No More</td>
-      <td>Album Of The Year (2cd Limited Edition)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de874f6671db0a57b90d9991f7138a93.png" alt="Cover for ... Pushing The Salmanilla Envelope" style="max-width:120px; height:auto;" />
       </td>
@@ -1038,6 +1019,25 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8acf728876bb4312c3d5a5a24edad7d0.png" alt="Cover for Album Of The Year (2cd Limited Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Faith No More</td>
+      <td>Album Of The Year (2cd Limited Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57b651b71fe9a8e58fe425564e1793b2.png" alt="Cover for Enjoy Incubus" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-01-07</td>
@@ -1054,7 +1054,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30c87bd43954899fef931c75b75ee01e.png" alt="Cover for Pushing the Salmanilla Envelope" style="max-width:120px; height:auto;" />
       </td>
@@ -1074,7 +1074,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e25f4e2c3260b99087064f7eb5990342.png" alt="Cover for Floored" style="max-width:120px; height:auto;" />
       </td>
@@ -1091,7 +1091,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/717dd35d949c47868247938e65471d5b.png" alt="Cover for Brown Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,7 +1109,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/000806aaa5a2e9139c2fa4a7dd8bb840.png" alt="Cover for S.C.I.E.N.C.E." style="max-width:120px; height:auto;" />
       </td>
@@ -1130,26 +1130,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9def941ede83c04423e7659b784e465c.png" alt="Cover for They Sure Don&#39;t Make Basketball Shorts Like They Used To" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Hoobastank</td>
-      <td>They Sure Don&#39;t Make Basketball Shorts Like They Used To</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/978a6d7ecfba5980bdd6b56ecb09fde9.png" alt="Cover for We Care A Lot (Deluxe Band Edition Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1168,7 +1149,26 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>61</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9def941ede83c04423e7659b784e465c.png" alt="Cover for They Sure Don&#39;t Make Basketball Shorts Like They Used To" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Hoobastank</td>
+      <td>They Sure Don&#39;t Make Basketball Shorts Like They Used To</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a3769cdc95c4fda84cde387f395524c.png" alt="Cover for Rhinoplasty" style="max-width:120px; height:auto;" />
       </td>
@@ -1185,7 +1185,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85acb69962f54acf94c7be80d5c4bdf0.png" alt="Cover for Who Cares a Lot? The Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1203,7 +1203,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c0b55c433effb182626a80981a551d4.png" alt="Cover for Freedumb" style="max-width:120px; height:auto;" />
       </td>
@@ -1224,7 +1224,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfe56e24596e94ff5ac274252cea309c.png" alt="Cover for Struggle" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,7 +1246,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1237296716bc4fed8f4504ac661b7cd1.png" alt="Cover for Mas Borracho" style="max-width:120px; height:auto;" />
       </td>
@@ -1264,7 +1264,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
       </td>
       <td>1999-08-24</td>
@@ -1274,15 +1274,17 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/maryland" | relative_url }}">maryland</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/maryland" | relative_url }}">maryland</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11df5e46c810493983feb65066b2e9d9.png" alt="Cover for The Battle of Los Angeles" style="max-width:120px; height:auto;" />
       </td>
@@ -1302,7 +1304,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b88c59dfb851b5f508fe92814856af63.png" alt="Cover for Antipop" style="max-width:120px; height:auto;" />
       </td>
@@ -1319,7 +1321,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/eKcDeEIV7xvi9UUjrsc-rPIG1hxEkOCBanKB3YHQ-nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg1/NzEtMTMyNzI0MDgy/MC5qcGVn.jpeg" alt="Cover for O&#39;Funk&#39;Illo" style="max-width:120px; height:auto;" />
       </td>
@@ -1350,7 +1352,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2eaca0cd6684941c97b8e9c354a2840.png" alt="Cover for Renegades" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,7 +1370,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td>2001</td>
@@ -1385,7 +1387,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85c8fca5d2004b08a8957a48d79f9b34.png" alt="Cover for 鳳" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,7 +1416,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>65</td>
       <td>
       </td>
       <td>2001-04-10</td>
@@ -1432,7 +1434,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/T1AcapT0z6oA4mwrnuWJsPig6L8gyRUlPRA0ay63o9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDAz/OS0xMTUxODg4MTIz/LmpwZWc.jpeg" alt="Cover for Warszawa" style="max-width:120px; height:auto;" />
       </td>
@@ -1450,7 +1452,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6110b1479330511a8b731244893a385.png" alt="Cover for (The) New Release" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,6 +1466,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korn" | relative_url }}">korn</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
@@ -1471,11 +1474,12 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/korn" | relative_url }}">korn</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0394648346a608a30d41e71789d2714d.png" alt="Cover for Grand Opening and Closing" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,7 +1498,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>42</td>
       <td>
       </td>
       <td>2002</td>
@@ -1513,7 +1517,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4dc4c4fad098c1898ccadb4fdf1728d.png" alt="Cover for 耳噛じる" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,7 +1546,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/nzP04_MpIOIwnzae992PCFIIdaSqkU0DoaOdBXYxH8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTc0/OTctMTQxNjMyMjQy/Ni01NDc3LmpwZWc.jpeg" alt="Cover for ...en el Planeta Aseituna" style="max-width:120px; height:auto;" />
       </td>
@@ -1561,7 +1565,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>76</td>
       <td>
       </td>
       <td>2003-04-08</td>
@@ -1587,7 +1591,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/7ABiEpWgaxxh5GoNUDPKYBL0U9OvUd1zaSSVPKt3R4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDI3/MjgtMTY0MDg0MTMx/OS03NzY4LmpwZWc.jpeg" alt="Cover for Mutopia" style="max-width:120px; height:auto;" />
       </td>
@@ -1606,7 +1610,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4f149e35f77436597d99756a8ed1577.png" alt="Cover for Animals Should Not Try To Act Like People" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,7 +1627,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d2b191c5560033ab067ed96f9baf699.png" alt="Cover for No Te Cabe Na&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1659,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/hUINMFyzeoi2iXo9gf7a0RXQnF52XrEBQ9_QwlLJv2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzE4/NDItMTQ1MTkwMjg0/NS03NjgyLmpwZWc.jpeg" alt="Cover for Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,7 +1700,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc42dea337494a578290a332bd386ed7.png" alt="Cover for Of Whales And Woe" style="max-width:120px; height:auto;" />
       </td>
@@ -1716,7 +1720,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fa0650db6d270adcc7e9e1a166af860.png" alt="Cover for Lost (T)Apes" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,7 +1747,27 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae3b40f7c6af4a61a73dee0e2b0e1a9a.png" alt="Cover for The Moon Is Disgusting" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>That 1 Guy</td>
+      <td>The Moon Is Disgusting</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/k5yBZOnSb-toPxkw5PIyTQJxJAfK9a7wVnWA5tenhkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTQx/MzktMTU1NTUxMDQ2/OC03OTI5LmpwZWc.jpeg" alt="Cover for Purple Onion" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,27 +1788,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>75</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae3b40f7c6af4a61a73dee0e2b0e1a9a.png" alt="Cover for The Moon Is Disgusting" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>That 1 Guy</td>
-      <td>The Moon Is Disgusting</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bb98be573004e32ce2026300b1dd5f2.png" alt="Cover for Rage Against The Machine - XX (20th Anniversary Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1808,7 +1812,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>59</td>
       <td>
       </td>
       <td>2010-08-05</td>
@@ -1829,7 +1833,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/638e5822ba88958f856317d3757d12a7.png" alt="Cover for Original Album Series" style="max-width:120px; height:auto;" />
       </td>
@@ -1850,7 +1854,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/fxPzjIz0sLL1tu7oQDcjulK3uCZOZuthd-OOApbbWfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTY5/NjgtMTQ1NzMxNTM4/NC03MjExLmpwZWc.jpeg" alt="Cover for Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,13 +1871,13 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 21</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 24</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2d612c8c58a3cff83cf90857e33a507.png" alt="Cover for They Can&#39;t All Be Zingers" style="max-width:120px; height:auto;" />
       </td>
@@ -1890,7 +1894,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9650aa754a746cdc2f5cdeb672221a6.png" alt="Cover for The Desaturating Seven" style="max-width:120px; height:auto;" />
       </td>
@@ -1907,7 +1911,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/EyxTj5Vxi99NN2dLqI4QSxm8ll5lxa06NMM_E-xGZeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTY0/MTYzLTE1NjkwNTA1/OTYtNDU1Mi5qcGVn.jpeg" alt="Cover for PARRHESIASTES" style="max-width:120px; height:auto;" />
       </td>
@@ -1927,7 +1931,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
       </td>
       <td>2020</td>
@@ -1944,7 +1948,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e864bf5b3c64463b2aec1e354ed802d1.png" alt="Cover for The Studio Album Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,7 +1967,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4adacdd854dde442c7d0af4a776ff270.png" alt="Cover for Rock Bankurawase &#x2F; Minoreba Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -1982,7 +1986,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/lwi9oZlBTPhe-C6v4r9KS59jFq2gk1sGukz99IkDQsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjIz/LTEyNDkzMDQyMjgu/anBlZw.jpeg" alt="Cover for Dreamthread" style="max-width:120px; height:auto;" />
       </td>
@@ -2002,7 +2006,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/kGhFb0SPO-m3nxl9R442tuJkc41TU1vQtS1GA_0mMA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Nzg4/MC0xMTc0MDA1MzE4/LmpwZWc.jpeg" alt="Cover for Impetus" style="max-width:120px; height:auto;" />
       </td>
@@ -2022,7 +2026,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/933fb2f761db0cbc6c5e92af2a296aeb.png" alt="Cover for Sailing the Seas of Cheese" style="max-width:120px; height:auto;" />
       </td>

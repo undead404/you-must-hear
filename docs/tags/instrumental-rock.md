@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:41:48.636Z
+date: 2025-12-08T03:18:43.698Z
 permalink: tags/instrumental-rock
 title: instrumental rock
 ---
 
 ## instrumental rock
 
-Last updated: <time datetime="2025-12-05T04:41:48.636Z">Fri Dec 05 2025 06:41:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T03:18:43.698Z">Mon Dec 08 2025 05:18:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 86</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -294,8 +294,8 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 14</li>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 71</li>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -623,7 +623,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 65</li>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -705,7 +705,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       <td>
         <ul>
             <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 17</li>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 30</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -877,7 +877,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 88</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1056,8 +1056,8 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 9</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 43</li>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1080,8 +1080,8 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 11</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 46</li>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1161,7 +1161,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 91</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1217,6 +1217,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/maryland" | relative_url }}">maryland</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
@@ -1224,6 +1225,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/maryland" | relative_url }}">maryland</a> # 7</li>
             <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 9</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 30</li>
         </ul>
@@ -1540,8 +1542,8 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 4</li>
             <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 7</li>
             <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 9</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 17</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 17</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1565,7 +1567,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       <td>
         <ul>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 16</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 32</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1694,7 +1696,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 77</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1876,7 +1878,7 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 95</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 6</li>
         </ul>
       </td>
     </tr>

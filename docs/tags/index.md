@@ -1,18 +1,24 @@
 ---
 category: list
-date: 2025-12-08T01:01:53.196Z
+date: 2025-12-08T03:19:09.399Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-08T01:01:53.196Z">Mon Dec 08 2025 03:01:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T03:19:09.399Z">Mon Dec 08 2025 05:19:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [progressive trance]({{ "tags/progressive-trance" | relative_url }}) | <time datetime="2025-12-08T03:19:09.399Z">Mon Dec 08 2025 05:19:09 GMT+0200 (Eastern European Standard Time)</time> |
+| [instrumental rock]({{ "tags/instrumental-rock" | relative_url }}) | <time datetime="2025-12-08T03:18:43.698Z">Mon Dec 08 2025 05:18:43 GMT+0200 (Eastern European Standard Time)</time> |
+| [k-pop]({{ "tags/k-pop" | relative_url }}) | <time datetime="2025-12-08T03:18:07.057Z">Mon Dec 08 2025 05:18:07 GMT+0200 (Eastern European Standard Time)</time> |
+| [funk metal]({{ "tags/funk-metal" | relative_url }}) | <time datetime="2025-12-08T03:18:00.589Z">Mon Dec 08 2025 05:18:00 GMT+0200 (Eastern European Standard Time)</time> |
+| [chillout downtempo]({{ "tags/chillout-downtempo" | relative_url }}) | <time datetime="2025-12-08T01:28:50.412Z">Mon Dec 08 2025 03:28:50 GMT+0200 (Eastern European Standard Time)</time> |
+| [sextrance]({{ "tags/sextrance" | relative_url }}) | <time datetime="2025-12-08T01:18:39.315Z">Mon Dec 08 2025 03:18:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [heavy metal]({{ "tags/heavy-metal" | relative_url }}) | <time datetime="2025-12-08T01:01:53.196Z">Mon Dec 08 2025 03:01:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [broadway]({{ "tags/broadway" | relative_url }}) | <time datetime="2025-12-08T01:01:46.835Z">Mon Dec 08 2025 03:01:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [death doom metal]({{ "tags/death-doom-metal" | relative_url }}) | <time datetime="2025-12-08T00:51:39.721Z">Mon Dec 08 2025 02:51:39 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1386,9 +1392,3 @@ Last updated: <time datetime="2025-12-08T01:01:53.196Z">Mon Dec 08 2025 03:01:53
 | [uk hip hop]({{ "tags/uk-hip-hop" | relative_url }}) | <time datetime="2025-12-05T04:42:33.548Z">Fri Dec 05 2025 06:42:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [live show]({{ "tags/live-show" | relative_url }}) | <time datetime="2025-12-05T04:42:26.789Z">Fri Dec 05 2025 06:42:26 GMT+0200 (Eastern European Standard Time)</time> |
 | [rave]({{ "tags/rave" | relative_url }}) | <time datetime="2025-12-05T04:42:20.375Z">Fri Dec 05 2025 06:42:20 GMT+0200 (Eastern European Standard Time)</time> |
-| [progressive trance]({{ "tags/progressive-trance" | relative_url }}) | <time datetime="2025-12-05T04:41:54.326Z">Fri Dec 05 2025 06:41:54 GMT+0200 (Eastern European Standard Time)</time> |
-| [instrumental rock]({{ "tags/instrumental-rock" | relative_url }}) | <time datetime="2025-12-05T04:41:48.636Z">Fri Dec 05 2025 06:41:48 GMT+0200 (Eastern European Standard Time)</time> |
-| [k-pop]({{ "tags/k-pop" | relative_url }}) | <time datetime="2025-12-05T04:41:39.156Z">Fri Dec 05 2025 06:41:39 GMT+0200 (Eastern European Standard Time)</time> |
-| [funk metal]({{ "tags/funk-metal" | relative_url }}) | <time datetime="2025-12-05T04:41:33.857Z">Fri Dec 05 2025 06:41:33 GMT+0200 (Eastern European Standard Time)</time> |
-| [chillout downtempo]({{ "tags/chillout-downtempo" | relative_url }}) | <time datetime="2025-12-05T04:41:28.055Z">Fri Dec 05 2025 06:41:28 GMT+0200 (Eastern European Standard Time)</time> |
-| [sextrance]({{ "tags/sextrance" | relative_url }}) | <time datetime="2025-12-05T04:41:02.037Z">Fri Dec 05 2025 06:41:02 GMT+0200 (Eastern European Standard Time)</time> |

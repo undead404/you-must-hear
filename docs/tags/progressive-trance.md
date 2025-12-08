@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T04:41:54.326Z
+date: 2025-12-08T03:19:09.399Z
 permalink: tags/progressive-trance
 title: progressive trance
 ---
 
 ## progressive trance
 
-Last updated: <time datetime="2025-12-05T04:41:54.326Z">Fri Dec 05 2025 06:41:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T03:19:09.399Z">Mon Dec 08 2025 05:19:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -805,11 +805,11 @@ Progressive trance is an electronic dance music style that emerged in the 1990s,
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 1</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 28</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 29</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 29</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 29</li>
             <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 30</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 68</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 73</li>
             <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 79</li>
             <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 84</li>
         </ul>
@@ -2015,9 +2015,9 @@ Progressive trance is an electronic dance music style that emerged in the 1990s,
       <td>
         <ul>
             <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 4</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 6</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 7</li>
             <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 8</li>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 94</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 95</li>
         </ul>
       </td>
     </tr>
