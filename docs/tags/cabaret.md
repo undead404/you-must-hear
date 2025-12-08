@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:02:23.619Z
+date: 2025-12-08T08:31:35.710Z
 permalink: tags/cabaret
 title: cabaret
 ---
 
 ## cabaret
 
-Last updated: <time datetime="2025-12-05T05:02:23.619Z">Fri Dec 05 2025 07:02:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T08:31:35.710Z">Mon Dec 08 2025 10:31:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
   </thead>
   <tbody>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/uzzOCXQdtrwb2TKcT5S3xP9rjXBUiP_ZcXM_BLXl-HE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODg4/OTctMTMyNTM0MTEz/MC5qcGVn.jpeg" alt="Cover for Non, je ne regrette rien" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/oNzurXUGzsK017rGwpNraojJURxAz4ZzoN3lBbgp5eg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjI4/NzQtMTUzNzI2NzY0/Mi0xMTUyLmpwZWc.jpeg" alt="Cover for Chansons Eternelles &#x2F; Sony Music Box" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bf8f520ed2c3192ca0d896b467e658e.png" alt="Cover for 改造への躍動" style="max-width:120px; height:auto;" />
       </td>
@@ -92,7 +92,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/UWVqtrzmex509BHM4AbkirnB8q0a35bOnzlASEbF50w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzc5/MzktMTQyMDM4NDY2/Ni05Mzg0LmpwZWc.jpeg" alt="Cover for Life Is a Cabaret" style="max-width:120px; height:auto;" />
       </td>
@@ -110,7 +110,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
       </td>
       <td>1989</td>
@@ -132,7 +132,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa160b77171ab5e8b85f13fc153dea9d.png" alt="Cover for Don&#39;t Stop the Night" style="max-width:120px; height:auto;" />
       </td>
@@ -155,7 +155,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70fa36ce0dfa12a2bedc97299353fb26.png" alt="Cover for Paradise of Replica" style="max-width:120px; height:auto;" />
       </td>
@@ -182,7 +182,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>44</td>
       <td>
       </td>
       <td>1994</td>
@@ -194,12 +194,12 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 42</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/adCt68KWQ9N0hyFsQQVKlDlxowvu44PegKx4PvEYgXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc4/NTMtMTIzOTUzOTk1/My5qcGVn.jpeg" alt="Cover for The Brothel To The Cemetery" style="max-width:120px; height:auto;" />
       </td>
@@ -219,7 +219,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/NcSUJ9QwQQfWCETIcHWETVqfmQqjsMhihu1t_mq_VHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDI1/NTItMTYwODA0NDEx/MC0xNTM4LmpwZWc.jpeg" alt="Cover for Shockheaded Peter" style="max-width:120px; height:auto;" />
       </td>
@@ -239,25 +239,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-      </td>
-      <td>1999</td>
-      <td>The Tiger Lillies</td>
-      <td>Shockheaded Peter: A Junk Opera</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/041714c4f2c349bbb9dd26f4d4c390eb.png" alt="Cover for Bad Blood + Blasphemy" style="max-width:120px; height:auto;" />
       </td>
@@ -275,7 +257,25 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>92</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>The Tiger Lillies</td>
+      <td>Shockheaded Peter: A Junk Opera</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59387f46d4b241378579a4de762cfe40.png" alt="Cover for Diabolical Streak" style="max-width:120px; height:auto;" />
       </td>
@@ -292,7 +292,24 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>24</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>The Tiger Lillies</td>
+      <td>Circus Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/oydBEEHX7gTSJps3GAoaVOiHoNnTEZ4G1VeJJr_v29w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTg4/NTAtMTM2OTU0NTYx/MS03ODM2LmpwZWc.jpeg" alt="Cover for Freak Show" style="max-width:120px; height:auto;" />
       </td>
@@ -310,24 +327,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>77</td>
-      <td>
-      </td>
-      <td>2000</td>
-      <td>The Tiger Lillies</td>
-      <td>Circus Songs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/x5Ep3buCrBDD3R5H-aEB-SjzwBpUhQyYghLOKew_16Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTcz/MjQtMTI4MDQ1OTgw/MC5qcGVn.jpeg" alt="Cover for The Elephant&#39;s Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -345,7 +345,25 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/E4phqCT6ssqrd48JcLsXjXSgYB0YWZV6XDQr70TRI7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDIy/MjktMTY3ODk1OTc2/Ny0yMDkzLmpwZWc.jpeg" alt="Cover for Births, Marriages &amp; Deaths" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>The Tiger Lillies</td>
+      <td>Births, Marriages &amp; Deaths</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
       </td>
       <td>2001</td>
@@ -364,25 +382,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>57</td>
-      <td>
-          <img src="https://i.discogs.com/E4phqCT6ssqrd48JcLsXjXSgYB0YWZV6XDQr70TRI7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDIy/MjktMTY3ODk1OTc2/Ny0yMDkzLmpwZWc.jpeg" alt="Cover for Births, Marriages &amp; Deaths" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>The Tiger Lillies</td>
-      <td>Births, Marriages &amp; Deaths</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 43</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/IH6g0TqLV7b6S6RCE4jkIsobUGmmjGq0OP1egCst2DM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDcz/OTUtMTMzODc1MjUx/OS0xNDQ1LmpwZWc.jpeg" alt="Cover for Der Blonde Engel" style="max-width:120px; height:auto;" />
       </td>
@@ -400,7 +400,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d20d7dfff5fa4d62cd2084f832572629.png" alt="Cover for Ompa til du dør" style="max-width:120px; height:auto;" />
       </td>
@@ -422,7 +422,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2e87bbbf15aa3dc88a07f7df0b4ed5a.png" alt="Cover for Day of the Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -440,7 +440,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad3d41291ee8326c6bbf9f6ecdae3b85.png" alt="Cover for The Astonished Eyes of Evening" style="max-width:120px; height:auto;" />
       </td>
@@ -459,7 +459,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5facfb3ff0dfef00098d4c577bc2f190.png" alt="Cover for Just The Best Party" style="max-width:120px; height:auto;" />
       </td>
@@ -478,7 +478,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d1b4e2b00d14cde8495602603fd3e9c.png" alt="Cover for Accept the Gift of Sin" style="max-width:120px; height:auto;" />
       </td>
@@ -498,7 +498,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a2fcc5338a94aaba58100e2032ca6dd.png" alt="Cover for Burlesque Original Motion Picture Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -517,7 +517,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2058f31893d8978b71d6cf6cb12610b1.png" alt="Cover for A Is for Accident" style="max-width:120px; height:auto;" />
       </td>
@@ -536,7 +536,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2003-07-07</td>
@@ -553,7 +553,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4368663e9b016d9d3687c34069db01e.png" alt="Cover for Darth Vegas" style="max-width:120px; height:auto;" />
       </td>
@@ -584,7 +584,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
       </td>
       <td>2003-09-26</td>
@@ -601,7 +601,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/eum8Yd7xm8eXAJzNhWlrSPZGs-xNt3wTpKr7PRLjL0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ2/MzQ4LTE1NzQ2ODU2/OTUtMTU5Ny5qcGVn.jpeg" alt="Cover for Seventh &amp; Trade" style="max-width:120px; height:auto;" />
       </td>
@@ -619,7 +619,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/9-JiCjTHEQ5qRZpAXULF_PPE6XXQUUaEKCHUb3PsMx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDky/MS0xNDIzNjg5MDI1/LTUyNDcuanBlZw.jpeg" alt="Cover for Speak of Brave Men" style="max-width:120px; height:auto;" />
       </td>
@@ -643,7 +643,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9284ff12e19c16b927db5cc216fd840c.png" alt="Cover for Flammend&#39; Herz" style="max-width:120px; height:auto;" />
       </td>
@@ -662,7 +662,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e86d1f8e777041919272af0588dba24b.png" alt="Cover for Dresden Dolls" style="max-width:120px; height:auto;" />
       </td>
@@ -680,7 +680,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cac8fd0d335450d8bdad6d64d956820.png" alt="Cover for How It Ends" style="max-width:120px; height:auto;" />
       </td>
@@ -699,51 +699,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-          <img src="https://i.discogs.com/TGbC3Hu1Y174t6x4y6SBXIoxOzsoynRmbHLBgVoSfV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTgy/OTEtMTY3NTYyNzU0/OC04NzcyLmpwZWc.jpeg" alt="Cover for Me V. Angry Mob - EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>The World&#x2F;Inferno Friendship Society</td>
-      <td>Me V. Angry Mob - EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 8</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 63</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
-      <td>
-      </td>
-      <td>2005</td>
-      <td>The Real Tuesday Weld</td>
-      <td>The Return Of The Clerkenwell Kid</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 39</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/-G91SYvC4DC7DcAqzW-IFDdqIg1XK7cNrvqUCr0SkY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTE1/MTQtMTQ4ODQwMDEw/NC01NDczLmpwZWc.jpeg" alt="Cover for EP" style="max-width:120px; height:auto;" />
       </td>
@@ -764,13 +720,32 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>56</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c04ecd662c484d379dfaa15c116eb544.png" alt="Cover for Me V. Angry Mob" style="max-width:120px; height:auto;" />
       </td>
-      <td>2005-05-02</td>
+      <td>2005</td>
+      <td>The Real Tuesday Weld</td>
+      <td>The Return Of The Clerkenwell Kid</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/TGbC3Hu1Y174t6x4y6SBXIoxOzsoynRmbHLBgVoSfV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTgy/OTEtMTY3NTYyNzU0/OC04NzcyLmpwZWc.jpeg" alt="Cover for Me V. Angry Mob - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
       <td>The World&#x2F;Inferno Friendship Society</td>
-      <td>Me V. Angry Mob</td>
+      <td>Me V. Angry Mob - EP</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a></li>
@@ -789,7 +764,32 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c04ecd662c484d379dfaa15c116eb544.png" alt="Cover for Me V. Angry Mob" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-05-02</td>
+      <td>The World&#x2F;Inferno Friendship Society</td>
+      <td>Me V. Angry Mob</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 8</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb53cdf4020944b28ab59c8a715dc575.png" alt="Cover for Maestro" style="max-width:120px; height:auto;" />
       </td>
@@ -810,7 +810,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86a7cd58837a41608fb62818846b82ae.png" alt="Cover for Separated by Birth" style="max-width:120px; height:auto;" />
       </td>
@@ -831,25 +831,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>65</td>
-      <td>
-          <img src="https://i.discogs.com/iz8GNyBk8seJdWhKgO6yBdcwFwb-FxIl3jgxT6OzCow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzA1/NzktMTI2NjU2NTE0/Ni5qcGVn.jpeg" alt="Cover for Addicted To Bad Ideas" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>The World&#x2F;Inferno Friendship Society</td>
-      <td>Addicted To Bad Ideas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/eRGsNPg-yapNjemB7JNH6p5uoRSd6Lp96tfo6egNFgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDMy/MDQtMTQ4NzE2NzQ2/NC0xMDE5LmpwZWc.jpeg" alt="Cover for Yes Virginia" style="max-width:120px; height:auto;" />
       </td>
@@ -867,7 +849,25 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/iz8GNyBk8seJdWhKgO6yBdcwFwb-FxIl3jgxT6OzCow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzA1/NzktMTI2NjU2NTE0/Ni5qcGVn.jpeg" alt="Cover for Addicted To Bad Ideas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>The World&#x2F;Inferno Friendship Society</td>
+      <td>Addicted To Bad Ideas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e902f0cbada648e295d11b290b112708.png" alt="Cover for Six Demon Bag" style="max-width:120px; height:auto;" />
       </td>
@@ -885,7 +885,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e26aa6c91a0443c8529935fc1e175a4.png" alt="Cover for Achillesverse - live in Berlin" style="max-width:120px; height:auto;" />
       </td>
@@ -908,7 +908,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>2006-03-29</td>
@@ -924,7 +924,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/iuOSksftQpS35cauJvN3IcsET63cUOkPeD5h51PHRjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA5/NTMtMTIzNjE5NDMz/MS5qcGVn.jpeg" alt="Cover for An Entire Wardrobe of Doubt An" style="max-width:120px; height:auto;" />
       </td>
@@ -942,7 +942,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72d7fcea6cf77609716a22174c697bce.png" alt="Cover for An Entire Wardrobe Of Doubt And Uncertainty" style="max-width:120px; height:auto;" />
       </td>
@@ -960,7 +960,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b897083ddfb6d2353bd23385d2613891.png" alt="Cover for Songs From The Coal Mine Canary" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +978,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/edff45742f0f4b85cbeac9ca91a160af.png" alt="Cover for Yes, Virginia..." style="max-width:120px; height:auto;" />
       </td>
@@ -995,7 +995,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e29ec31864da59c045a4aa7df898ad04.png" alt="Cover for Katzenjammer Kabarett" style="max-width:120px; height:auto;" />
       </td>
@@ -1013,7 +1013,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
       </td>
       <td>2006-06-23</td>
@@ -1026,12 +1026,12 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 81</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed73aa5c16914e26fa03fc6652611cf7.png" alt="Cover for Waking The Mystics" style="max-width:120px; height:auto;" />
       </td>
@@ -1049,7 +1049,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d87b33af48b57196c7cc18dbadf1be3.png" alt="Cover for Red-Eyed Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,7 +1068,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01ff57c865af4d62b3e34a215c3cf6c7.png" alt="Cover for Memento Mori" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,7 +1086,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf4deeb0ef14475fce68c67ba101858b.png" alt="Cover for Addicted to Bad Ideas: Peter Lorre&#39;s Twentieth Century" style="max-width:120px; height:auto;" />
       </td>
@@ -1104,13 +1104,13 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/zyP3t3LlGB1KXh2zIaR44sqWM08_F3Y185vP35d8_mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjA0/MjktMTMwNDM4MjE3/OS5qcGVn.jpeg" alt="Cover for In New Orleans - Single" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/DsigquTM9GbRasgnsNlMevv7J9VwvooyFPFM98kFcvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODEy/NzUtMTQ4MjYxNTkw/NC00MzQzLmpwZWc.jpeg" alt="Cover for From The Circus To The Sea" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
-      <td>Vermillion Lies</td>
-      <td>In New Orleans - Single</td>
+      <td>The Irrepressibles</td>
+      <td>From The Circus To The Sea</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
@@ -1122,7 +1122,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ec054535f1e4971b3888e94d95a77ea.png" alt="Cover for Bouquet" style="max-width:120px; height:auto;" />
       </td>
@@ -1141,13 +1141,13 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/DsigquTM9GbRasgnsNlMevv7J9VwvooyFPFM98kFcvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODEy/NzUtMTQ4MjYxNTkw/NC00MzQzLmpwZWc.jpeg" alt="Cover for From The Circus To The Sea" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/zyP3t3LlGB1KXh2zIaR44sqWM08_F3Y185vP35d8_mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjA0/MjktMTMwNDM4MjE3/OS5qcGVn.jpeg" alt="Cover for In New Orleans - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
-      <td>The Irrepressibles</td>
-      <td>From The Circus To The Sea</td>
+      <td>Vermillion Lies</td>
+      <td>In New Orleans - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
@@ -1159,7 +1159,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>2008-05-20</td>
@@ -1175,7 +1175,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9aa0ab239bf3424c81503d1ae3bcc391.png" alt="Cover for Who Killed Amanda Palmer" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,7 +1195,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b2a151f083043e880f25a852b520cd3.png" alt="Cover for Who Killed Amanda Palmer?" style="max-width:120px; height:auto;" />
       </td>
@@ -1216,7 +1216,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fd082c645f0404dbc6d04ea3a7e8d1a.png" alt="Cover for Le Pop" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1234,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
       </td>
       <td>2008-12-02</td>
@@ -1250,7 +1250,27 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>61</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a302d2207d940ca934dbacce850cfb5.png" alt="Cover for El Tren de la Alegría" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Paté de Fuá</td>
+      <td>El Tren de la Alegría</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86ec1064f6ea48439ae75c398fedd0c1.png" alt="Cover for Artichoke Perfume" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,27 +1293,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>40</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a302d2207d940ca934dbacce850cfb5.png" alt="Cover for El Tren de la Alegría" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Paté de Fuá</td>
-      <td>El Tren de la Alegría</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66def2c2600147f4b6fcae1b17382f5d.png" alt="Cover for Huuro Kolkko" style="max-width:120px; height:auto;" />
       </td>
@@ -1313,7 +1313,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6501223ad982ef6ce5aef91207208365.png" alt="Cover for Sing Along Songs for the Damned &amp; Delirious" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1334,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b563316a192a6c97b2b79779121cae83.png" alt="Cover for Album One" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,7 +1355,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/kmE8Ia57dvaEMKMV3vcAAsJETImzbEOxeUwZqZNFPOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDE5/NDctMTUyNDYwNDk0/Mi02MzMwLmpwZWc.jpeg" alt="Cover for La mixture pour le voyage" style="max-width:120px; height:auto;" />
       </td>
@@ -1374,7 +1374,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5b59a0fd6844b1fb75b3f3f92174c5c.png" alt="Cover for Mirror Mirror" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,7 +1392,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
       </td>
       <td>2010-03-30</td>
@@ -1411,7 +1411,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
       </td>
       <td>2010-10</td>
@@ -1429,7 +1429,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49664abdde5a4bfa939f3296607846ab.png" alt="Cover for Amanda Palmer Goes Down Under" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,7 +1448,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/ByyS5qN6LEAsuAv-ecn9UjvDo3dxeDCb7hZx8YXwKF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjI4/MDgtMTQxNzUxNDgy/OS05NjE4LmpwZWc.jpeg" alt="Cover for The Last Werewolf" style="max-width:120px; height:auto;" />
       </td>
@@ -1468,7 +1468,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb630d89fc1c470eb6baf9ea518de4e1.png" alt="Cover for A Kiss Before You Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,7 +1489,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/BNtsfMDz5pyMBs7FXsucSHwWmp0NdiNYBb_g8BFiKN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTE3/NDUtMTQ4ODQwMTc4/OS00MTg4LmpwZWc.jpeg" alt="Cover for Bare Bones Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1513,7 +1513,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
       </td>
       <td>2012-02-01</td>
@@ -1532,7 +1532,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f65dcdcde1e843c895742beb5235c98d.png" alt="Cover for The 2¢ Show" style="max-width:120px; height:auto;" />
       </td>
@@ -1550,7 +1550,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd951d3de1e840ce86beb768eebedc2a.png" alt="Cover for Once Upon A Time (In Space)" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,7 +1572,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>2012-08-12</td>
@@ -1589,7 +1589,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9ce909a4bb24fb6a3183122f6384edc.png" alt="Cover for Nude" style="max-width:120px; height:auto;" />
       </td>
@@ -1608,7 +1608,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/BNtsfMDz5pyMBs7FXsucSHwWmp0NdiNYBb_g8BFiKN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTE3/NDUtMTQ4ODQwMTc4/OS00MTg4LmpwZWc.jpeg" alt="Cover for 3 Song Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1627,7 +1627,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a621c7098de4170c1b11f7906a2a42a.png" alt="Cover for MK III" style="max-width:120px; height:auto;" />
       </td>
@@ -1647,7 +1647,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/S_JDWNh9zzfk8V9NJCcjP1h0lAPdgipGK_zzU1hgfQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzAz/MTUtMTQ2MDA2NjYw/My02NjMyLmpwZWc.jpeg" alt="Cover for El Viaje A Ninguna Parte" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,7 +1672,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf95b5eff07315e5f4dcada0f122b4f9.png" alt="Cover for The Vice Quadrant, Pt. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1690,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4929f340b1986b6048d55d3fa7e3e166.png" alt="Cover for The Vice Quadrant, Pt. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,7 +1707,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6664f24c885cb2cd658da0774a6fafb1.png" alt="Cover for Quintessential" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,7 +1729,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f575b01f7368e6d14ef85911d2304e3.png" alt="Cover for If" style="max-width:120px; height:auto;" />
       </td>
@@ -1749,7 +1749,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/agnv105F1jrEUzTMHpqwuuvmZ9ks51_oQ7LiX2PVLEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjk4/OTYxLTE1MTM3MDM1/MDEtNDY1Mi5qcGVn.jpeg" alt="Cover for Rogue EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,7 +1767,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fc2632bd025b35e59e1b5cc13d344f3.png" alt="Cover for Mon Laferte (Vol. 1&#x2F; Edicion Especial)" style="max-width:120px; height:auto;" />
       </td>
@@ -1790,7 +1790,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46d928eb5e80d6e53c49c328dd4cc1b1.png" alt="Cover for Melodija" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,7 +1809,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ced8a1277459a33a917e1989c6dc91fd.png" alt="Cover for I LOVE" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,7 +1827,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61c2a79d0ecb9b6daf2d265c3deeb5e9.png" alt="Cover for Frank’s Wild Years (2023 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,7 +1851,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/4hIFyT6AYzRmOzBrA2vjZ7r1f5ZCgC7xN3gOn0IIxPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzI2/Mjk0LTE2ODEyMjY5/OTktMTk2MS5qcGVn.jpeg" alt="Cover for IN CASE I DIE (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,7 +1877,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1d864785760439b8615076da519d040.png" alt="Cover for Violeta Violeta Volume III" style="max-width:120px; height:auto;" />
       </td>
@@ -1897,27 +1897,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>36</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Grégoire Leprince-Ringuet &amp; Louis Garrel</td>
-      <td>Love Songs (Les Chansons d&#39;Amour) : Soundtrack from the motion picture</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
       </td>
       <td></td>
@@ -1937,15 +1917,38 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>65</td>
       <td>
       </td>
       <td></td>
-      <td>Pickathon Roots Music Festival</td>
-      <td>Pickathon 2002</td>
+      <td>Grégoire Leprince-Ringuet &amp; Louis Garrel</td>
+      <td>Love Songs (Les Chansons d&#39;Amour) : Soundtrack from the motion picture</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Gavin Friday &amp; The Man Seezer</td>
+      <td>Each Man Kills The Thing He Loves</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -1954,7 +1957,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88a9e27e662746749f3083491be6f24f.png" alt="Cover for The Rose ～I Love Cinemas～" style="max-width:120px; height:auto;" />
       </td>
@@ -1977,18 +1980,15 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>88</td>
       <td>
       </td>
       <td></td>
-      <td>Gavin Friday &amp; The Man Seezer</td>
-      <td>Each Man Kills The Thing He Loves</td>
+      <td>Pickathon Roots Music Festival</td>
+      <td>Pickathon 2002</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>

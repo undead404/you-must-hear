@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:02:29.448Z
+date: 2025-12-08T08:31:45.339Z
 permalink: tags/indie-dance
 title: indie dance
 ---
 
 ## indie dance
 
-Last updated: <time datetime="2025-12-05T05:02:29.448Z">Fri Dec 05 2025 07:02:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T08:31:45.339Z">Mon Dec 08 2025 10:31:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
   </thead>
   <tbody>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70801e1651314a25bdef0c2b8682e7c1.png" alt="Cover for Falling Down" style="max-width:120px; height:auto;" />
       </td>
@@ -62,7 +62,28 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6733556df6a7454bc51966503ced9f9c.png" alt="Cover for Into the Blue (Remixes)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Kylie Minogue</td>
+      <td>Into the Blue (Remixes)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4da38cdc013b4694be3ff8e0420b4ee7.png" alt="Cover for Summer Holidays" style="max-width:120px; height:auto;" />
       </td>
@@ -90,19 +111,15 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>40</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6733556df6a7454bc51966503ced9f9c.png" alt="Cover for Into the Blue (Remixes)" style="max-width:120px; height:auto;" />
       </td>
-      <td>1990</td>
-      <td>Kylie Minogue</td>
-      <td>Into the Blue (Remixes)</td>
+      <td>1991</td>
+      <td>The Impossibles</td>
+      <td>The Drum</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
         </ul>
       </td>
       <td>
@@ -111,7 +128,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
       </td>
       <td>1991</td>
@@ -132,24 +149,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>61</td>
-      <td>
-      </td>
-      <td>1991</td>
-      <td>The Impossibles</td>
-      <td>The Drum</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a075c7ab90eb4401904cbe0e39d1d65a.png" alt="Cover for Doubt" style="max-width:120px; height:auto;" />
       </td>
@@ -168,7 +168,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/uUwnZqXVupzBthHKewFU46TfWUcWRrkHy6wPLgDHb8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY4/My0xMTc3NzgxNTE3/LmpwZWc.jpeg" alt="Cover for Post Historic Monsters" style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +188,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fb6c54d3be143c8fec5203efc1a828b.png" alt="Cover for Countdown 1992-1983" style="max-width:120px; height:auto;" />
       </td>
@@ -206,7 +206,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/SluwnBfjuVBgWjdtczf53RcAZzMMhzAvuQw7p7D9hig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY5/MDctMTI4MjI5NDE3/MC5qcGVn.jpeg" alt="Cover for Discipline EP" style="max-width:120px; height:auto;" />
       </td>
@@ -238,7 +238,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59514102b95448da8d0d3ac22e0ea685.png" alt="Cover for Sinus" style="max-width:120px; height:auto;" />
       </td>
@@ -285,7 +285,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/1_xazAj1u06quD3-XIcD_DrEwcTHNR4QggQCi1FeRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc2/NTEtMTI3MjIwNjQ4/MC5qcGVn.jpeg" alt="Cover for Corporate Butcher" style="max-width:120px; height:auto;" />
       </td>
@@ -331,7 +331,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c367294e7ae3841b8b955b608fcfba3.png" alt="Cover for Smash the System: Singles and More" style="max-width:120px; height:auto;" />
       </td>
@@ -354,7 +354,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/P7Pu4ursrh69jonwY7Hjc8PUI043dTfHGf7t2w6BAGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEx/NjQtMTM5NTQzNDQ5/NC0xOTU1LmpwZWc.jpeg" alt="Cover for C: My Consciousness" style="max-width:120px; height:auto;" />
       </td>
@@ -402,7 +402,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90b6f98ab70cfce11d535d87d1f939df.png" alt="Cover for Clinker" style="max-width:120px; height:auto;" />
       </td>
@@ -427,7 +427,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/xA_vevLxZk32iqlg1kp6SaJOL766T0i0ns-aD7MbEXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzI3/NC0xMTk4MTgyNDA3/LmpwZWc.jpeg" alt="Cover for Children Of The Wild (feat. Mako)" style="max-width:120px; height:auto;" />
       </td>
@@ -446,7 +446,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d165d6c4d054f93bb5fc5cc49b344cf.png" alt="Cover for Lazer Beam" style="max-width:120px; height:auto;" />
       </td>
@@ -470,7 +470,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/z3GvF2p-goVAC8s1ZFtPiD9eIbvx-b5afQY_kMSwv7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTY2/MjEtMTM4NzY1Njk3/OC0yNDc5LmpwZWc.jpeg" alt="Cover for Tales From Turnpike House - Bonus Tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -491,7 +491,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/BitH8PBEOR4gyXwn9CQEFMRWxiClzeyIlvIXx19c_tU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDYz/NTgtMTMwMTg5NjE1/My5qcGVn.jpeg" alt="Cover for On The Beat" style="max-width:120px; height:auto;" />
       </td>
@@ -510,7 +510,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
       </td>
       <td>2007-10-13</td>
@@ -540,42 +540,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td>2008</td>
-      <td>Fans Of Jimmy Century</td>
-      <td>Lips On Mine</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>
-          <img src="https://i.discogs.com/RMNMVVDo6B2qYLBBpyAKFgTqHIA1xzsILfbNOwzPT9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjgz/MzgtMTMyNzYyMTk1/Mi5qcGVn.jpeg" alt="Cover for Shake It Loose&#x2F;Dammo single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Blonde Acid Cult</td>
-      <td>Shake It Loose&#x2F;Dammo single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/ElTzRRY3u5oychZXPs0Opzj4twFr5D8b78GATlrQ6ZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ1/Mjc1LTE1MDg4Mzc1/MDUtMTI1Mi5qcGVn.jpeg" alt="Cover for Twist of the Banshees" style="max-width:120px; height:auto;" />
       </td>
@@ -593,7 +558,42 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/RMNMVVDo6B2qYLBBpyAKFgTqHIA1xzsILfbNOwzPT9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjgz/MzgtMTMyNzYyMTk1/Mi5qcGVn.jpeg" alt="Cover for Shake It Loose&#x2F;Dammo single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Blonde Acid Cult</td>
+      <td>Shake It Loose&#x2F;Dammo single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Fans Of Jimmy Century</td>
+      <td>Lips On Mine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bf66a215fc944988dc6efe591a4e674.png" alt="Cover for Electronic Damage" style="max-width:120px; height:auto;" />
       </td>
@@ -642,7 +642,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c564da84a5414bbbb69bf9305d4d7208.png" alt="Cover for Rubblebucket" style="max-width:120px; height:auto;" />
       </td>
@@ -662,7 +662,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32265c2facfd880193a7be6d16feed74.png" alt="Cover for Contact Book" style="max-width:120px; height:auto;" />
       </td>
@@ -698,7 +698,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79128288050204ad0df696a6d2756a4b.png" alt="Cover for People In Grass Houses" style="max-width:120px; height:auto;" />
       </td>
@@ -728,7 +728,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/CCfTgD0ot0B7C3AbuRWfXg2rypXYnCzhnsYD2xne7Hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTEx/NDktMTI0OTgzOTE3/OC5qcGVn.jpeg" alt="Cover for Pale Horses" style="max-width:120px; height:auto;" />
       </td>
@@ -747,7 +747,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f1edf3241494ded919558babfd7c32c.png" alt="Cover for Cold" style="max-width:120px; height:auto;" />
       </td>
@@ -766,7 +766,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3d1d8b061694a80bd3dcb856f808718.png" alt="Cover for Spaceship" style="max-width:120px; height:auto;" />
       </td>
@@ -787,7 +787,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ed8a1501874a08a825eb2ae147690b.png" alt="Cover for No Problem" style="max-width:120px; height:auto;" />
       </td>
@@ -805,7 +805,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/I2Eqej6z7Dx06C_s4rAeyvdWpvflrWE29H3d45Ehijg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODkz/NjQtMTMwMTExMzM4/MS5qcGVn.jpeg" alt="Cover for Destroy Your World" style="max-width:120px; height:auto;" />
       </td>
@@ -827,13 +827,13 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 14</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 87</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/LiEk7VUVNUu-MA2xCMzvgBY9nCLAxzgMQV0SneTBHCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODgx/MzItMTI5MTkxMzAx/OC5qcGVn.jpeg" alt="Cover for Somewhere I Can Hear My Heart Beating" style="max-width:120px; height:auto;" />
       </td>
@@ -872,7 +872,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
       </td>
       <td>2010-11-12</td>
@@ -903,7 +903,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1c88983583841468ff7403c69f7e497.png" alt="Cover for Society" style="max-width:120px; height:auto;" />
       </td>
@@ -923,7 +923,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/icdLwhUWIBLBv_4R3ehBCKUfFosWNjojSU-jt91oa8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTY1/MTItMTI5MjM0NTQ5/Mi5qcGVn.jpeg" alt="Cover for Leather Nation EP" style="max-width:120px; height:auto;" />
       </td>
@@ -942,7 +942,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/pDLHBofNiEX32NalF2Bcf2rWyfyi_ppX5UNxajViTVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDM2/NDYtMTMwMzU5OTA0/My5qcGVn.jpeg" alt="Cover for Edition Five: NO ZU &#39;New Age EP&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -983,7 +983,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/0cEwLg9oi_Ls81yDSdMl2CTyQ78zN7pLJb72rp35cPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzEw/NjMtMTMwNDk0NDcy/Ni5qcGVn.jpeg" alt="Cover for Speakeasy" style="max-width:120px; height:auto;" />
       </td>
@@ -1015,7 +1015,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/p4H3PqXoOBsZR7j6o0sBL3YnA3g-WoFDFybWjrgVLLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTc0/MzQtMTMyNzYwOTA5/My5qcGVn.jpeg" alt="Cover for EP One" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,7 +1044,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39615bc32c1f43d1ad4bf5c7ab82aeb5.png" alt="Cover for I Love You, Dude" style="max-width:120px; height:auto;" />
       </td>
@@ -1062,7 +1062,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/07dq4tlSPenttfHHsWhcXKBJJJdStSxsUcjE8uSiDBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTk2/NzItMTMyNTYwMjUy/MC5qcGVn.jpeg" alt="Cover for Quiet Colours" style="max-width:120px; height:auto;" />
       </td>
@@ -1080,7 +1080,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12e25912ed40dd1a96ceeb280f05e69f.png" alt="Cover for Welcome Reality" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,7 +1099,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7b6f6ddf2aa4cf6aa3e9522a5221b31.png" alt="Cover for Stones &amp; Holes EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1119,7 +1119,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/rUU1dVW8Iu9ZYvtgtI2wzbVaSpuPl5Oba3yBRmVkEOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzUx/OTc0LTE1ODA5MDAw/OTktOTY5MS5naWY.jpeg" alt="Cover for Go Manchester!!!" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,7 +1149,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/XRh8_OLW4LmYXCPDWzLNvlpg1zMFmubXvawZw_MYdss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDQ4/ODU1LTE2NTEyMDUz/MzUtOTc2OS5qcGVn.jpeg" alt="Cover for Ghost" style="max-width:120px; height:auto;" />
       </td>
@@ -1167,7 +1167,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>2012-01-28</td>
@@ -1186,7 +1186,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/3DTUaka3rAtn3LaY_wQBck5xp7vfKCm7PZyeAPC-Upw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTc0/MTgtMTMzNTE3OTE1/OS5qcGVn.jpeg" alt="Cover for We Have Band - Still Life (The Horrors Cover)" style="max-width:120px; height:auto;" />
       </td>
@@ -1207,7 +1207,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
       </td>
       <td>2012-07-03</td>
@@ -1226,7 +1226,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/P2cR604AVZQ7XbdlBZiqr9gFwaXjWfwsDn4WB81WfK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTY2/MzItMTM0NDc4MjYz/NC01MTEwLmpwZWc.jpeg" alt="Cover for Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -1249,7 +1249,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0d5566a5d9d5dc8ea425e56a9ed34a3.png" alt="Cover for Feed Me Diamonds" style="max-width:120px; height:auto;" />
       </td>
@@ -1266,7 +1266,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/mkkuGHqdOfISrPANh5OBv2D2V0RdguvfEiwoEmAPyvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDI3/MzktMTM1ODQzMzQz/Ny00NDU0LmpwZWc.jpeg" alt="Cover for Need U (100%) [feat. A*M*E] [Remixes] - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1285,7 +1285,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/E7Ge2Ug27CURAEAv3LzCYI63MiBIxU3huoaTdqILqbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg3/ODk1LTE2MDY2MTg5/MDQtNjA5Ny5qcGVn.jpeg" alt="Cover for Skinwalker" style="max-width:120px; height:auto;" />
       </td>
@@ -1305,7 +1305,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d901499ac23a4e578d86afba92b5e0bd.png" alt="Cover for Applause (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,7 +1328,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b89705c81324338c3c07d9a2de9c151.png" alt="Cover for Remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,7 +1352,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/A2vW5e6ikPdBXkwa_7bAdHnYJO8kuwgsfaYqWsLSNOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTg3/MzYtMTQwMDI1MjUz/Ny01MjYyLmpwZWc.jpeg" alt="Cover for Love Sublime" style="max-width:120px; height:auto;" />
       </td>
@@ -1389,21 +1389,21 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       <td>
         <ul>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 2</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 3</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 3</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 3</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 4</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 4</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 13</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 17</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 38</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 79</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 80</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 87</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/OayPGgmHkn9uKJkYVQMmMJx2aZfmktWKi7Un0z_iLT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzgx/MDMtMTQ1ODQ5Nzky/MC01NjQwLmpwZWc.jpeg" alt="Cover for A Country Mile (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1422,7 +1422,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f1888054a0a4779c77452e529a931c4.png" alt="Cover for Mess" style="max-width:120px; height:auto;" />
       </td>
@@ -1439,7 +1439,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f091d5082e04691c6d7f4b2e2efbdc0.png" alt="Cover for French Exit" style="max-width:120px; height:auto;" />
       </td>
@@ -1458,7 +1458,47 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/5PPQBalXh7fdrQV_05vDJwCtRu1JrD6Kd2ARvyxod-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjM4/NzEtMTQxNjQ4MjI0/OC04NTg0LmpwZWc.jpeg" alt="Cover for Down From The Rafters Remixes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-11-06</td>
+      <td>Hundred Waters</td>
+      <td>Down From The Rafters Remixes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 15</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 18</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 28</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/6WV1tmBQBDFyGHsqnOsFQ1TRutnhBVHR879ctGxIJh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDU5/MzMtMTQ3MTE5NTQz/MS0yMzA3LmpwZWc.jpeg" alt="Cover for fabric 82: Art Department" style="max-width:120px; height:auto;" />
       </td>
@@ -1502,47 +1542,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>68</td>
-      <td>
-          <img src="https://i.discogs.com/5PPQBalXh7fdrQV_05vDJwCtRu1JrD6Kd2ARvyxod-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjM4/NzEtMTQxNjQ4MjI0/OC04NTg0LmpwZWc.jpeg" alt="Cover for Down From The Rafters Remixes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014-11-06</td>
-      <td>Hundred Waters</td>
-      <td>Down From The Rafters Remixes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 15</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 18</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 28</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 58</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/372f15dc01d059203c6dc7b65bedf7eb.png" alt="Cover for Aware" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,7 +1564,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9669e8ef955923d5ff2382a5ff5fb92e.png" alt="Cover for Chase It EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1585,7 +1585,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3984450a9dc6cd7a382ba09631ccb207.png" alt="Cover for To You Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,7 +1605,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/babbe1e57c6e2b4b420c3ee22dc27d2f.png" alt="Cover for Aware - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1627,7 +1627,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/OthC2fsSdnT3T5OGRfBocbbmp-ihT4NqsdNPwN520qI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTAw/MDAtMTQ3Mjg1ODcz/MC00MDA2LnBuZw.jpeg" alt="Cover for Dance Or Die" style="max-width:120px; height:auto;" />
       </td>
@@ -1648,7 +1648,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1596e5ac39d814a1e98d699898058c5.png" alt="Cover for Disconnect" style="max-width:120px; height:auto;" />
       </td>
@@ -1671,7 +1671,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/pGLzoATLfk3VMRXaGxLypdWpJrd1E4Zi7FfjF2BK7H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODE2/ODQtMTQ4MTM0NDU5/OC04NDA4LmpwZWc.jpeg" alt="Cover for Fear Is Fleeting" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1690,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f109764137838c0544283bd1863548.png" alt="Cover for Speeding" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,7 +1712,25 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/KEYKa66CxgUT1sk-aXIFrx5nxJYGMTkX5eOfwh8iDEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI2/MTg5LTE1MDY2Mzcy/NTgtNDgxOS5qcGVn.jpeg" alt="Cover for Keox" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-05-17</td>
+      <td>spaceschneider</td>
+      <td>Keox</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4bbbebecadba8fa0884963c40244be6.png" alt="Cover for Dimension of Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -1732,25 +1750,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>55</td>
-      <td>
-          <img src="https://i.discogs.com/KEYKa66CxgUT1sk-aXIFrx5nxJYGMTkX5eOfwh8iDEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI2/MTg5LTE1MDY2Mzcy/NTgtNDgxOS5qcGVn.jpeg" alt="Cover for Keox" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-05-17</td>
-      <td>spaceschneider</td>
-      <td>Keox</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/u3nnajadYB11tG4KhJycE5iobmXXItYFHecp9W9V_d4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQx/OTczLTE1MDEzNTA4/NjMtNDkzNS5qcGVn.jpeg" alt="Cover for The Unspoken" style="max-width:120px; height:auto;" />
       </td>
@@ -1769,7 +1769,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bcc6999b06c88fd0b3d85d0b105d29c.png" alt="Cover for Parakosmos" style="max-width:120px; height:auto;" />
       </td>
@@ -1792,7 +1792,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/lev26RudGaeJvPR7Q2aeILKURl5nB1clx5sgRb8Hv9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIx/Mjc3LTE1MTAyNDE2/NjItNTY1My5qcGVn.jpeg" alt="Cover for Endless Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,7 +1815,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/poTZntmJH3iYQf-AFW514t4rMMH0uuE4y7ivy0ItEh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY2/MzE4LTE1MTg2MTk4/NjEtNDU4OC5qcGVn.jpeg" alt="Cover for Première vague" style="max-width:120px; height:auto;" />
       </td>
@@ -1839,7 +1839,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/WWT6_zy07S9fd5xaKB6uhqbdYtUU372WLsq1_NyWRgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NTc1LTE1NDI0MTMy/MDEtOTY5My5qcGVn.jpeg" alt="Cover for Sorry" style="max-width:120px; height:auto;" />
       </td>
@@ -1859,7 +1859,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e06b7264a851f9570fad91cd2ce24e0.png" alt="Cover for A Journey to House" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,7 +1880,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/08ARYNOoEgf4cQfGlzO2MasK8BY3VhfyrZITar-mtno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI5/MzgxLTE1ODA0ODM2/ODgtNTQ4MS5qcGVn.jpeg" alt="Cover for Fosforinis Baseinas" style="max-width:120px; height:auto;" />
       </td>
@@ -1901,7 +1901,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03b7f27f311665fe3f8952a902683499.png" alt="Cover for The Night in Question: French Exit Outtakes" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,7 +1922,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ac0578af4d42c0c9f8b24d04f804688.png" alt="Cover for TDJ123 DELUXE" style="max-width:120px; height:auto;" />
       </td>
@@ -1947,7 +1947,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd702568905cdd5fa698c2aa3ef0a73e.png" alt="Cover for Summer Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1973,7 +1973,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a547356735603b832dbf1d540c1045ee.png" alt="Cover for IV" style="max-width:120px; height:auto;" />
       </td>
@@ -1991,7 +1991,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af2093360ae355d586253e3259e1a624.png" alt="Cover for Hellraiser IV" style="max-width:120px; height:auto;" />
       </td>
@@ -2009,7 +2009,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/Ti5bYU_o__Hg9HUGxFonjDOjgReLvyI7yrS6j-IsNCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk3/OTIwLTE2NDI1NzU0/MDMtNTE0MC5qcGVn.jpeg" alt="Cover for Interference" style="max-width:120px; height:auto;" />
       </td>
@@ -2029,7 +2029,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4bfd8d6844241c52bcbb0b8944f7021.png" alt="Cover for Jesus Was An Alien" style="max-width:120px; height:auto;" />
       </td>
@@ -2053,7 +2053,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/A0iC4hffdXE5-MmCLKdkWa9q3n_O0p0IrUGokmOK1RY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODgz/MjAwLTE2NTc4MDkx/MzktMjg1MS5qcGVn.jpeg" alt="Cover for Airports" style="max-width:120px; height:auto;" />
       </td>
@@ -2073,7 +2073,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b87367b55e10cb52de34244a38b2022.png" alt="Cover for Clockin Time" style="max-width:120px; height:auto;" />
       </td>
@@ -2094,7 +2094,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
       </td>
       <td>2023</td>
@@ -2111,7 +2111,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/916feee8d183ca2f22e63caddb3a2b89.png" alt="Cover for Oro Balionu (Shkema remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -2133,7 +2133,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd5984ade8f06194b14454c3caaba77a.png" alt="Cover for Envious" style="max-width:120px; height:auto;" />
       </td>
@@ -2158,7 +2158,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/zFZnVS-L5X3nJAzyAnqRgVBYKVFEKUnM1imvoacrMcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzg4/ODIxLTE2OTU2NDU0/NjAtODAwNi5qcGVn.jpeg" alt="Cover for First Impressions" style="max-width:120px; height:auto;" />
       </td>
@@ -2179,31 +2179,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Hey Chica!</td>
-      <td>Bonus Track</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55bfb9774be14af96d0b46434c0a201a.png" alt="Cover for Maya" style="max-width:120px; height:auto;" />
       </td>
@@ -2239,115 +2215,50 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2813cf99f3964253a48fbaadf21f7c1a.png" alt="Cover for Love in the serpent way" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Ricarda79</td>
-      <td>Love in the serpent way</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49c05513d7774bc89a9393514bd6d5bf.png" alt="Cover for My Destination" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Ricarda79</td>
-      <td>My Destination</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5208f4a6a22b4a09afeb56f96ab5dca7.png" alt="Cover for Saturday Night Rave" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Coyote running wild</td>
-      <td>Saturday Night Rave</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
+      <td>78</td>
       <td>
       </td>
       <td></td>
-      <td>Cubscout and the Rhinoceros</td>
-      <td>Greetings From Holly Street Park</td>
+      <td>Hey Chica!</td>
+      <td>Bonus Track</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>43</td>
       <td>
       </td>
       <td></td>
-      <td>Alpha-Beta</td>
-      <td>EP Remix</td>
+      <td>the breakaholics</td>
+      <td>Our Friends Eclectic - LP Sampler</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australian" | relative_url }}">australian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a></li>
         </ul>
       </td>
       <td>
@@ -2356,48 +2267,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-      </td>
-      <td></td>
-      <td>One of the Unique</td>
-      <td>Untitled Album</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f21b1c3bcc9e6ea314b918014ed14f27.png" alt="Cover for Classick EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Pop On Acid</td>
-      <td>Classick EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f7c168677a18ea4e2bdd09ec67891a1.png" alt="Cover for Delhotel Records: Club Comfort Remezclado" style="max-width:120px; height:auto;" />
       </td>
@@ -2428,26 +2298,156 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f21b1c3bcc9e6ea314b918014ed14f27.png" alt="Cover for Classick EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Pop On Acid</td>
+      <td>Classick EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
       </td>
       <td></td>
-      <td>the breakaholics</td>
-      <td>Our Friends Eclectic - LP Sampler</td>
+      <td>One of the Unique</td>
+      <td>Untitled Album</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australian" | relative_url }}">australian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alpha-Beta</td>
+      <td>EP Remix</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Cubscout and the Rhinoceros</td>
+      <td>Greetings From Holly Street Park</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5208f4a6a22b4a09afeb56f96ab5dca7.png" alt="Cover for Saturday Night Rave" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Coyote running wild</td>
+      <td>Saturday Night Rave</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49c05513d7774bc89a9393514bd6d5bf.png" alt="Cover for My Destination" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Ricarda79</td>
+      <td>My Destination</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2813cf99f3964253a48fbaadf21f7c1a.png" alt="Cover for Love in the serpent way" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Ricarda79</td>
+      <td>Love in the serpent way</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
         </ul>
       </td>
       <td>

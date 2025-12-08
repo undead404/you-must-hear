@@ -1,18 +1,22 @@
 ---
 category: list
-date: 2025-12-08T08:16:10.640Z
+date: 2025-12-08T08:46:56.299Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-08T08:16:10.640Z">Mon Dec 08 2025 10:16:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T08:46:56.299Z">Mon Dec 08 2025 10:46:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [neofolk]({{ "tags/neofolk" | relative_url }}) | <time datetime="2025-12-08T08:46:56.299Z">Mon Dec 08 2025 10:46:56 GMT+0200 (Eastern European Standard Time)</time> |
+| [indie dance]({{ "tags/indie-dance" | relative_url }}) | <time datetime="2025-12-08T08:31:45.339Z">Mon Dec 08 2025 10:31:45 GMT+0200 (Eastern European Standard Time)</time> |
+| [cabaret]({{ "tags/cabaret" | relative_url }}) | <time datetime="2025-12-08T08:31:35.710Z">Mon Dec 08 2025 10:31:35 GMT+0200 (Eastern European Standard Time)</time> |
+| [tech house]({{ "tags/tech-house" | relative_url }}) | <time datetime="2025-12-08T08:21:26.214Z">Mon Dec 08 2025 10:21:26 GMT+0200 (Eastern European Standard Time)</time> |
 | [russian black metal]({{ "tags/russian-black-metal" | relative_url }}) | <time datetime="2025-12-08T08:16:10.640Z">Mon Dec 08 2025 10:16:10 GMT+0200 (Eastern European Standard Time)</time> |
 | [synth punk]({{ "tags/synth-punk" | relative_url }}) | <time datetime="2025-12-08T08:06:00.710Z">Mon Dec 08 2025 10:06:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [flamenco]({{ "tags/flamenco" | relative_url }}) | <time datetime="2025-12-08T07:57:29.099Z">Mon Dec 08 2025 09:57:29 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1388,7 +1392,3 @@ Last updated: <time datetime="2025-12-08T08:16:10.640Z">Mon Dec 08 2025 10:16:10
 | [brazilian rock]({{ "tags/brazilian-rock" | relative_url }}) | <time datetime="2025-12-05T05:03:12.759Z">Fri Dec 05 2025 07:03:12 GMT+0200 (Eastern European Standard Time)</time> |
 | [poetry]({{ "tags/poetry" | relative_url }}) | <time datetime="2025-12-05T05:03:07.108Z">Fri Dec 05 2025 07:03:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [polish rock]({{ "tags/polish-rock" | relative_url }}) | <time datetime="2025-12-05T05:03:01.291Z">Fri Dec 05 2025 07:03:01 GMT+0200 (Eastern European Standard Time)</time> |
-| [neofolk]({{ "tags/neofolk" | relative_url }}) | <time datetime="2025-12-05T05:02:32.740Z">Fri Dec 05 2025 07:02:32 GMT+0200 (Eastern European Standard Time)</time> |
-| [indie dance]({{ "tags/indie-dance" | relative_url }}) | <time datetime="2025-12-05T05:02:29.448Z">Fri Dec 05 2025 07:02:29 GMT+0200 (Eastern European Standard Time)</time> |
-| [cabaret]({{ "tags/cabaret" | relative_url }}) | <time datetime="2025-12-05T05:02:23.619Z">Fri Dec 05 2025 07:02:23 GMT+0200 (Eastern European Standard Time)</time> |
-| [tech house]({{ "tags/tech-house" | relative_url }}) | <time datetime="2025-12-05T05:01:56.583Z">Fri Dec 05 2025 07:01:56 GMT+0200 (Eastern European Standard Time)</time> |
