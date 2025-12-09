@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T09:17:48.791Z
+date: 2025-12-08T13:15:03.239Z
 permalink: tags/midwest-rap
 title: midwest rap
 ---
 
 ## midwest rap
 
-Last updated: <time datetime="2025-12-05T09:17:48.791Z">Fri Dec 05 2025 11:17:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T13:15:03.239Z">Mon Dec 08 2025 15:15:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
   </thead>
   <tbody>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
       </td>
       <td>1977</td>
@@ -51,12 +51,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       <td>
         <ul>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 27</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 61</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/643cd1e0aa611add0d41eafe76d98237.png" alt="Cover for Bag of Hammers:eXtreme - Weed-n-Coffee" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/0kzQTvo2VSTzdImAO8pM5zvP7CLVqWibLDRkgTOutrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc3/MzQtMTYwMDg1NDE1/Ni04NTQxLmpwZWc.jpeg" alt="Cover for 313" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/858ce21bfb4bcb7866cef90fce14d2fc.png" alt="Cover for Resurrection" style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +124,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cc42cf3fcef422e9a254c07d44a969c.png" alt="Cover for E 1999 Eternal" style="max-width:120px; height:auto;" />
       </td>
@@ -142,7 +142,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c3a78c2840f48a0b1b2627066133496.png" alt="Cover for Lickkuiddrano" style="max-width:120px; height:auto;" />
       </td>
@@ -170,7 +170,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
       </td>
       <td>1995-02-24</td>
@@ -190,7 +190,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/705065d70e0348eb96222d121927f851.png" alt="Cover for Dead Flowerz" style="max-width:120px; height:auto;" />
       </td>
@@ -207,7 +207,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
       </td>
       <td>1997</td>
@@ -228,7 +228,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72220923aa5719714d2a9801d677f61b.png" alt="Cover for 16 Minutes with an O.G." style="max-width:120px; height:auto;" />
       </td>
@@ -247,7 +247,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/ogU9oA8yn4tHLOsW8jeF7NpT_MiUftOz2C_8hZyyk54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDg5/Ni0xMTc3MTYzODU5/LmpwZWc.jpeg" alt="Cover for Heaven&#39;z Movie" style="max-width:120px; height:auto;" />
       </td>
@@ -266,7 +266,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/wKJ-MXn_zCaVCRovuSSAbDloxygVgaKrorprlyOvqI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTM5/MzUtMTY0NzU4MzA0/MC0xMDg5LmpwZWc.jpeg" alt="Cover for Paragraphs" style="max-width:120px; height:auto;" />
       </td>
@@ -290,32 +290,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>40</td>
-      <td>
-          <img src="https://i.discogs.com/Lz58ejc_FlVZqiGD7PD6mvSL5TaxabZ5nirgZokKlEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDE3/NzQtMTQxOTMwNDcy/Ni00OTQ1LmpwZWc.jpeg" alt="Cover for Serial Killaz" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Halfbreed</td>
-      <td>Serial Killaz</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 64</li>
-            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c22bba47afe4429c8c98571864ce7814.png" alt="Cover for Born Dead 2" style="max-width:120px; height:auto;" />
       </td>
@@ -340,7 +315,32 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/Lz58ejc_FlVZqiGD7PD6mvSL5TaxabZ5nirgZokKlEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDE3/NzQtMTQxOTMwNDcy/Ni00OTQ1LmpwZWc.jpeg" alt="Cover for Serial Killaz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Halfbreed</td>
+      <td>Serial Killaz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 64</li>
+            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10872fa443844c9eab34f6495f4cc05e.png" alt="Cover for Vices" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +367,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3ce75f2cf32d8e079f4321cb8f0360e.png" alt="Cover for Release Me" style="max-width:120px; height:auto;" />
       </td>
@@ -387,7 +387,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/757e8d4b8869f36adf82e8320ef62734.png" alt="Cover for Nellyville (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -404,7 +404,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/395471812f48415695bf2c87f7a48236.png" alt="Cover for Theneighborhoodshittalka" style="max-width:120px; height:auto;" />
       </td>
@@ -431,7 +431,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9d8fb76c814bb259ca4da3c8c1468d5.png" alt="Cover for The Entity" style="max-width:120px; height:auto;" />
       </td>
@@ -451,7 +451,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61d5e94c9aa712b29e283325bc5ae87f.png" alt="Cover for The College Dropout" style="max-width:120px; height:auto;" />
       </td>
@@ -464,13 +464,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 35</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 71</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d68c403f99cba445cb4e1730a2f3eaa5.png" alt="Cover for Bedlamitez Rize" style="max-width:120px; height:auto;" />
       </td>
@@ -495,7 +495,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54b253f559f2e5fae3ab89a8a947cfa6.png" alt="Cover for D12 World" style="max-width:120px; height:auto;" />
       </td>
@@ -511,13 +511,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       <td>
         <ul>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 8</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 9</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 10</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af3abfad2930d22b5068c0c0c5741988.png" alt="Cover for 11 Steps Down" style="max-width:120px; height:auto;" />
       </td>
@@ -544,7 +544,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6337559957a0444ea2350644dbfc50bd.png" alt="Cover for The New Prescription" style="max-width:120px; height:auto;" />
       </td>
@@ -569,7 +569,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0faace3c84645cdbefd6f3fe8393e7e.png" alt="Cover for The Drugz LP" style="max-width:120px; height:auto;" />
       </td>
@@ -595,7 +595,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6a1d0c30ef5164c4e11399ce0b93117.png" alt="Cover for The 12 Step Program" style="max-width:120px; height:auto;" />
       </td>
@@ -622,7 +622,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c033abe191e445f181151892716f2a95.png" alt="Cover for Against All Odds" style="max-width:120px; height:auto;" />
       </td>
@@ -647,7 +647,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>2006</td>
@@ -671,7 +671,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cf4601967c425e104df77cbebfd20fc.png" alt="Cover for Second Rounds On Me" style="max-width:120px; height:auto;" />
       </td>
@@ -686,12 +686,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       <td>
         <ul>
             <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 32</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 53</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>2006-08-15</td>
@@ -708,7 +709,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/582023a980294c5f96f6183ef5ae0ae4.png" alt="Cover for Once Upon A Time In The Projects" style="max-width:120px; height:auto;" />
       </td>
@@ -733,7 +734,25 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9d8bb06a1044fc99d7e19ea7b3cd67a.png" alt="Cover for Lupe Fiasco&#39;s The Cool" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Lupe Fiasco</td>
+      <td>Lupe Fiasco&#39;s The Cool</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/487f0db723634a5597e7a835b7076bda.png" alt="Cover for The Remix Experience" style="max-width:120px; height:auto;" />
       </td>
@@ -759,25 +778,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9d8bb06a1044fc99d7e19ea7b3cd67a.png" alt="Cover for Lupe Fiasco&#39;s The Cool" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Lupe Fiasco</td>
-      <td>Lupe Fiasco&#39;s The Cool</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ddd1959a2bef460a5149b3e0cf5e18a.png" alt="Cover for Graduation" style="max-width:120px; height:auto;" />
       </td>
@@ -793,12 +794,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
         <ul>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 5</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 28</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 31</li>
             <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13a45324446349eac90a397e065a238b.png" alt="Cover for Fresh Out Da Kitchen" style="max-width:120px; height:auto;" />
       </td>
@@ -823,7 +825,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/3e_NGf2lW2MF9X7Q9do0w9mQVe4DEvdNZt4qFvzs7JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ2/NzU0LTE1MDUyNjYz/MTktNjcxOS5qcGVn.jpeg" alt="Cover for Fresh Out Da Kitchen (Explicit)" style="max-width:120px; height:auto;" />
       </td>
@@ -845,7 +847,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c2fa4df7e5d4423bf18fb06cd42e157.png" alt="Cover for The Villain" style="max-width:120px; height:auto;" />
       </td>
@@ -872,7 +874,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2e4e7fefb7a40748399c29d23d64c7b.png" alt="Cover for Certified WhiteBoy" style="max-width:120px; height:auto;" />
       </td>
@@ -902,7 +904,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd67f114bdca411d9e279de8e62cec0b.png" alt="Cover for Hatred Vol 2" style="max-width:120px; height:auto;" />
       </td>
@@ -927,83 +929,38 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>20</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6bb0906fb714811b3a96f7e145ab4f9.png" alt="Cover for Lace up!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0195ba18c7fb5ea34adbbabe4b7aa3a5.png" alt="Cover for Lace Up (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Machine Gun Kelly</td>
-      <td>Lace up!</td>
+      <td>Lace Up (Deluxe)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 79</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 82</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 8</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 10</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 22</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 32</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab25f5c63a4930cbd3e6c4dcbb8e7628.png" alt="Cover for Fuck It" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Machine Gun Kelly</td>
-      <td>Fuck It</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 29</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 64</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd1ce848a0e3538a1e21e6d583fa4297.png" alt="Cover for Lace Up (The Prelude)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Machine Gun Kelly</td>
-      <td>Lace Up (The Prelude)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 26</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 58</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a1793e4d97f428fa7de486f5c619fcd.png" alt="Cover for Rage Pack" style="max-width:120px; height:auto;" />
       </td>
@@ -1027,44 +984,90 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       <td>
         <ul>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 23</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 51</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 55</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>35</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0195ba18c7fb5ea34adbbabe4b7aa3a5.png" alt="Cover for Lace Up (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd1ce848a0e3538a1e21e6d583fa4297.png" alt="Cover for Lace Up (The Prelude)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Machine Gun Kelly</td>
-      <td>Lace Up (Deluxe)</td>
+      <td>Lace Up (The Prelude)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 26</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab25f5c63a4930cbd3e6c4dcbb8e7628.png" alt="Cover for Fuck It" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Machine Gun Kelly</td>
+      <td>Fuck It</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 29</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6bb0906fb714811b3a96f7e145ab4f9.png" alt="Cover for Lace up!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Machine Gun Kelly</td>
+      <td>Lace up!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 8</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 10</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 22</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 26</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 32</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 58</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 76</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 79</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b793ca113a844dd89fe670d1899e1ed.png" alt="Cover for 100 Words and Running" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,13 +1089,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       <td>
         <ul>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 24</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 52</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 56</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2011-08-07</td>
@@ -1111,31 +1114,65 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>12</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65d7be7ee4222dc22685fc9d45a697de.png" alt="Cover for Against the World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53de7eee55b70dfd5ebaee64d7d7b13d.png" alt="Cover for Half Naked &amp; Almost Famous - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Machine Gun Kelly</td>
-      <td>Against the World</td>
+      <td>Half Naked &amp; Almost Famous - EP</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 10</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 17</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 26</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c617745b99fe49a48454248440c45932.png" alt="Cover for EST 4 Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Machine Gun Kelly</td>
+      <td>EST 4 Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 75</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 25</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 58</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04f3fcbc881bc09d54ef46d49051fe34.png" alt="Cover for Heated Speech w&#x2F; bonus DVD" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,65 +1201,31 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>96</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c617745b99fe49a48454248440c45932.png" alt="Cover for EST 4 Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65d7be7ee4222dc22685fc9d45a697de.png" alt="Cover for Against the World" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Machine Gun Kelly</td>
-      <td>EST 4 Life</td>
+      <td>Against the World</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 25</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 54</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 93</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53de7eee55b70dfd5ebaee64d7d7b13d.png" alt="Cover for Half Naked &amp; Almost Famous - EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Machine Gun Kelly</td>
-      <td>Half Naked &amp; Almost Famous - EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 10</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 14</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 26</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 41</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f26161d329b7c30fe65d1e2abbb240c.png" alt="Cover for Lace Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1254,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>2012-05-15</td>
@@ -1273,7 +1276,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51e50ecac61f57cc54104c45a4d3bce9.png" alt="Cover for Black Flag" style="max-width:120px; height:auto;" />
       </td>
@@ -1302,7 +1305,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/561ac6bfbbeb46fbc65245149d563f45.png" alt="Cover for Sail" style="max-width:120px; height:auto;" />
       </td>
@@ -1325,67 +1328,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>60</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16a169135c43a602649c10a2e3f4f281.png" alt="Cover for Lace Up (Deluxe Version)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-10-16</td>
-      <td>Machine Gun Kelly</td>
-      <td>Lace Up (Deluxe Version)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 30</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc800a3babc1f09e0182cead6da8c651.png" alt="Cover for General Admission (Deluxe)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-10-16</td>
-      <td>Machine Gun Kelly</td>
-      <td>General Admission (Deluxe)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 9</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 12</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 15</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 39</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf2a0d05966862d0d69491a8967bef49.png" alt="Cover for General Admission" style="max-width:120px; height:auto;" />
       </td>
@@ -1409,15 +1352,75 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
         <ul>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 2</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 2</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 9</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 12</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 15</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 16</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 20</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc800a3babc1f09e0182cead6da8c651.png" alt="Cover for General Admission (Deluxe)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-16</td>
+      <td>Machine Gun Kelly</td>
+      <td>General Admission (Deluxe)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 9</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 15</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 15</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 39</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16a169135c43a602649c10a2e3f4f281.png" alt="Cover for Lace Up (Deluxe Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-16</td>
+      <td>Machine Gun Kelly</td>
+      <td>Lace Up (Deluxe Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 30</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7803ec61faa7f9a4e18beb939a8e1856.png" alt="Cover for Dillatronic" style="max-width:120px; height:auto;" />
       </td>
@@ -1435,7 +1438,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76e6d8327ead7a5c816c7dad9a1a3539.png" alt="Cover for Genre : Sadboy" style="max-width:120px; height:auto;" />
       </td>
@@ -1454,59 +1457,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 90</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/047e4164a5203409bf354ebe9066fba3.png" alt="Cover for BMXXing" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-06-30</td>
-      <td>Machine Gun Kelly</td>
-      <td>BMXXing</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8771d8f83b367cb2d89df82522b1905.png" alt="Cover for Wanna Ball" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-06-30</td>
-      <td>Machine Gun Kelly</td>
-      <td>Wanna Ball</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 58</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfcd4a168fbc1a658be4e3015a75995b.png" alt="Cover for PRESSURE" style="max-width:120px; height:auto;" />
       </td>
@@ -1533,7 +1489,54 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>67</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8771d8f83b367cb2d89df82522b1905.png" alt="Cover for Wanna Ball" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-30</td>
+      <td>Machine Gun Kelly</td>
+      <td>Wanna Ball</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/047e4164a5203409bf354ebe9066fba3.png" alt="Cover for BMXXing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-30</td>
+      <td>Machine Gun Kelly</td>
+      <td>BMXXing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53c12a7294e552791bdf5f9671dda847.png" alt="Cover for Stamp of Approval" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,7 +1561,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b239142162f54203f7f04d4c166db17.png" alt="Cover for Binge" style="max-width:120px; height:auto;" />
       </td>
@@ -1579,7 +1582,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48051b7ece1ddeecfb474340a31603af.png" alt="Cover for Hotel Diablo" style="max-width:120px; height:auto;" />
       </td>
@@ -1607,17 +1610,76 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
         <ul>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 1</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 1</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 2</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 3</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 6</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 38</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 45</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 80</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 85</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for genre : sadboy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-26</td>
+      <td>MGK</td>
+      <td>genre : sadboy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 11</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/Z7b6zliZx31ISoRdj1579lOx_KkXY5nQNTRUXp8_EoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzYyLTE2NTkzNTU1/NzctODQwOC5qcGVn.jpeg" alt="Cover for Lace Up (Deluxe)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-26</td>
+      <td>MGK</td>
+      <td>Lace Up (Deluxe)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 12</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 18</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 30</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 43</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/Z7b6zliZx31ISoRdj1579lOx_KkXY5nQNTRUXp8_EoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzYyLTE2NTkzNTU1/NzctODQwOC5qcGVn.jpeg" alt="Cover for General Admission" style="max-width:120px; height:auto;" />
       </td>
@@ -1647,66 +1709,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>88</td>
-      <td>
-          <img src="https://i.discogs.com/Z7b6zliZx31ISoRdj1579lOx_KkXY5nQNTRUXp8_EoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzYyLTE2NTkzNTU1/NzctODQwOC5qcGVn.jpeg" alt="Cover for Lace Up (Deluxe)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-03-26</td>
-      <td>MGK</td>
-      <td>Lace Up (Deluxe)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 12</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 15</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 30</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 43</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for genre : sadboy" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-03-26</td>
-      <td>MGK</td>
-      <td>genre : sadboy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 5</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 11</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/HFZ79yjihH4LF_kljcJouO5gYkHzYPuyMoR3R-oQbj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/ODI4LTE2NTkzNTYw/ODUtMTAyNy5qcGVn.jpeg" alt="Cover for The Land (Music from the Motion Picture)" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,133 +1733,44 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for Lace up!" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for Hotel Diablo" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-29</td>
       <td>MGK</td>
-      <td>Lace up!</td>
+      <td>Hotel Diablo</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 66</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/Z7b6zliZx31ISoRdj1579lOx_KkXY5nQNTRUXp8_EoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzYyLTE2NTkzNTU1/NzctODQwOC5qcGVn.jpeg" alt="Cover for Lace Up (The Prelude)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-03-29</td>
-      <td>MGK</td>
-      <td>Lace Up (The Prelude)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 57</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for El Pistolero" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-03-29</td>
-      <td>MGK</td>
-      <td>El Pistolero</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 47</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 1</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 3</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 8</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for Black Flag" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-03-29</td>
-      <td>MGK</td>
-      <td>Black Flag</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 41</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
-      <td>
-          <img src="https://i.discogs.com/pzD6FbOuIBVsu517TvuXbXfS9NiJgLRI8sAdupAm3Tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/ODEzLTE2NTkzNTU5/MzMtOTQ0Ni5qcGVn.jpeg" alt="Cover for Till I Die" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-03-29</td>
-      <td>MGK</td>
-      <td>Till I Die</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 20</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for Lace Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1886,65 +1800,154 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for Hotel Diablo" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/pzD6FbOuIBVsu517TvuXbXfS9NiJgLRI8sAdupAm3Tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/ODEzLTE2NTkzNTU5/MzMtOTQ0Ni5qcGVn.jpeg" alt="Cover for Till I Die" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-29</td>
       <td>MGK</td>
-      <td>Hotel Diablo</td>
+      <td>Till I Die</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 1</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 2</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 8</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 55</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
-      <td>
-          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for el diablo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-03-29</td>
-      <td>MGK</td>
-      <td>el diablo</td>
-      <td>
-        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for Black Flag" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-03-29</td>
+      <td>MGK</td>
+      <td>Black Flag</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for El Pistolero" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-03-29</td>
+      <td>MGK</td>
+      <td>El Pistolero</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/Z7b6zliZx31ISoRdj1579lOx_KkXY5nQNTRUXp8_EoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzYyLTE2NTkzNTU1/NzctODQwOC5qcGVn.jpeg" alt="Cover for Lace Up (The Prelude)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-03-29</td>
+      <td>MGK</td>
+      <td>Lace Up (The Prelude)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 57</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for Lace up!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-03-29</td>
+      <td>MGK</td>
+      <td>Lace up!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for Invincible" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-03-29</td>
+      <td>MGK</td>
+      <td>Invincible</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/-jgbr9Y_zaOmcgG3o0xZQ5i9jjhn8o8AjeiOwZiXg60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzgzLTE2NTkzNTU3/NDctMjQxMC5qcGVn.jpeg" alt="Cover for Gone" style="max-width:120px; height:auto;" />
       </td>
@@ -1966,19 +1969,19 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for Invincible" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for el diablo" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-29</td>
       <td>MGK</td>
-      <td>Invincible</td>
+      <td>el diablo</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
@@ -1987,13 +1990,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/-jgbr9Y_zaOmcgG3o0xZQ5i9jjhn8o8AjeiOwZiXg60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzgzLTE2NTkzNTU3/NDctMjQxMC5qcGVn.jpeg" alt="Cover for EST 4 Life" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/-jgbr9Y_zaOmcgG3o0xZQ5i9jjhn8o8AjeiOwZiXg60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzgzLTE2NTkzNTU3/NDctMjQxMC5qcGVn.jpeg" alt="Cover for BMXXing" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-09</td>
       <td>MGK</td>
-      <td>EST 4 Life</td>
+      <td>BMXXing</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
@@ -2002,41 +2005,18 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 49</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 87</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 4</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 10</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
-      <td>
-          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for Hated" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-04-09</td>
-      <td>MGK</td>
-      <td>Hated</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 37</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/-jgbr9Y_zaOmcgG3o0xZQ5i9jjhn8o8AjeiOwZiXg60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzgzLTE2NTkzNTU3/NDctMjQxMC5qcGVn.jpeg" alt="Cover for Half Naked &amp; Almost Famous - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2059,20 +2039,42 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       <td>
         <ul>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 7</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 9</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 12</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 21</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/-jgbr9Y_zaOmcgG3o0xZQ5i9jjhn8o8AjeiOwZiXg60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzgzLTE2NTkzNTU3/NDctMjQxMC5qcGVn.jpeg" alt="Cover for BMXXing" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for Hated" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-09</td>
       <td>MGK</td>
-      <td>BMXXing</td>
+      <td>Hated</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/-jgbr9Y_zaOmcgG3o0xZQ5i9jjhn8o8AjeiOwZiXg60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzgzLTE2NTkzNTU3/NDctMjQxMC5qcGVn.jpeg" alt="Cover for EST 4 Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-09</td>
+      <td>MGK</td>
+      <td>EST 4 Life</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
@@ -2081,59 +2083,19 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 4</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 17</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
-      <td>
-          <img src="https://i.discogs.com/-jgbr9Y_zaOmcgG3o0xZQ5i9jjhn8o8AjeiOwZiXg60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzgzLTE2NTkzNTU3/NDctMjQxMC5qcGVn.jpeg" alt="Cover for Rap Devil" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-04-09</td>
-      <td>MGK</td>
-      <td>Rap Devil</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-          <img src="https://i.discogs.com/-jgbr9Y_zaOmcgG3o0xZQ5i9jjhn8o8AjeiOwZiXg60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzgzLTE2NTkzNTU3/NDctMjQxMC5qcGVn.jpeg" alt="Cover for Binge" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-04-09</td>
-      <td>MGK</td>
-      <td>Binge</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 49</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/-jgbr9Y_zaOmcgG3o0xZQ5i9jjhn8o8AjeiOwZiXg60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzgzLTE2NTkzNTU3/NDctMjQxMC5qcGVn.jpeg" alt="Cover for Wild Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -2154,7 +2116,48 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/-jgbr9Y_zaOmcgG3o0xZQ5i9jjhn8o8AjeiOwZiXg60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzgzLTE2NTkzNTU3/NDctMjQxMC5qcGVn.jpeg" alt="Cover for Binge" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-09</td>
+      <td>MGK</td>
+      <td>Binge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/-jgbr9Y_zaOmcgG3o0xZQ5i9jjhn8o8AjeiOwZiXg60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzgzLTE2NTkzNTU3/NDctMjQxMC5qcGVn.jpeg" alt="Cover for Rap Devil" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-09</td>
+      <td>MGK</td>
+      <td>Rap Devil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/pBkkydCBLIPTubgNiqZYIXQ9EGOwmk9kAc7SQ5nzYTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY0/MjIzLTE2NTkzNDQ4/NDgtODMyNC5qcGVn.jpeg" alt="Cover for Alice In Wonderland" style="max-width:120px; height:auto;" />
       </td>
@@ -2172,12 +2175,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 74</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/pzD6FbOuIBVsu517TvuXbXfS9NiJgLRI8sAdupAm3Tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/ODEzLTE2NTkzNTU5/MzMtOTQ0Ni5qcGVn.jpeg" alt="Cover for World Series" style="max-width:120px; height:auto;" />
       </td>
@@ -2198,66 +2201,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>56</td>
-      <td>
-          <img src="https://i.discogs.com/KG_vq_sxqVX-5Li5XcKazl2-QGAwEr8LOH7Ze869qYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY0/MDMxLTE2NTkzNDM5/MjYtMzE3MC5qcGVn.jpeg" alt="Cover for Lace Up (Deluxe Version)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-08-01</td>
-      <td>MGK</td>
-      <td>Lace Up (Deluxe Version)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 38</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
-      <td>
-          <img src="https://i.discogs.com/Z7b6zliZx31ISoRdj1579lOx_KkXY5nQNTRUXp8_EoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzYyLTE2NTkzNTU1/NzctODQwOC5qcGVn.jpeg" alt="Cover for General Admission (Deluxe)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-08-01</td>
-      <td>MGK</td>
-      <td>General Admission (Deluxe)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 14</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 18</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 28</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 49</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/KG_vq_sxqVX-5Li5XcKazl2-QGAwEr8LOH7Ze869qYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY0/MDMxLTE2NTkzNDM5/MjYtMzE3MC5qcGVn.jpeg" alt="Cover for Hotel Diablo: FLOOR 13 EDITION" style="max-width:120px; height:auto;" />
       </td>
@@ -2286,14 +2230,73 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       <td>
         <ul>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 5</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 8</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 11</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 18</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/Z7b6zliZx31ISoRdj1579lOx_KkXY5nQNTRUXp8_EoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzYyLTE2NTkzNTU1/NzctODQwOC5qcGVn.jpeg" alt="Cover for General Admission (Deluxe)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-08-01</td>
+      <td>MGK</td>
+      <td>General Admission (Deluxe)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 14</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 21</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 28</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/KG_vq_sxqVX-5Li5XcKazl2-QGAwEr8LOH7Ze869qYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY0/MDMxLTE2NTkzNDM5/MjYtMzE3MC5qcGVn.jpeg" alt="Cover for Lace Up (Deluxe Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-08-01</td>
+      <td>MGK</td>
+      <td>Lace Up (Deluxe Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 38</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3546a2eb5a3f3ac1e910334ebc6d5057.png" alt="Cover for Homecoming" style="max-width:120px; height:auto;" />
       </td>
@@ -2314,18 +2317,43 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       <td>
         <ul>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 28</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 62</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>74</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c99058804a540eeb27c74b876c9a2e7.png" alt="Cover for Ride Wit Us Or Get Ran Ova Vol 2.0 MixTape" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2c00415445348738efcb1c4407866e9.png" alt="Cover for Welcome to Detroit Muthafuckaz" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>1st Dagree</td>
-      <td>Ride Wit Us Or Get Ran Ova Vol 2.0 MixTape</td>
+      <td>M.O.B.  ...featuring Shane Capone</td>
+      <td>Welcome to Detroit Muthafuckaz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/304a7884480142d986e3637f55b5c925.png" alt="Cover for Terror..." style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>M.O.B.  ...featuring Shane Capone</td>
+      <td>Terror...</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
@@ -2341,36 +2369,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 96</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ea8b42ca77b4a97bdc77c40de980575.png" alt="Cover for Against All Odds" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Teflon Trigga</td>
-      <td>Against All Odds</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef2c4f7ef2eb44d5964173d3916f4ce3.png" alt="Cover for Where is the P***y and Beer?" style="max-width:120px; height:auto;" />
       </td>
@@ -2398,13 +2402,37 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>86</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/304a7884480142d986e3637f55b5c925.png" alt="Cover for Terror..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ea8b42ca77b4a97bdc77c40de980575.png" alt="Cover for Against All Odds" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>M.O.B.  ...featuring Shane Capone</td>
-      <td>Terror...</td>
+      <td>Teflon Trigga</td>
+      <td>Against All Odds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c99058804a540eeb27c74b876c9a2e7.png" alt="Cover for Ride Wit Us Or Get Ran Ova Vol 2.0 MixTape" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>1st Dagree</td>
+      <td>Ride Wit Us Or Get Ran Ova Vol 2.0 MixTape</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
@@ -2420,63 +2448,35 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 81</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>94</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2c00415445348738efcb1c4407866e9.png" alt="Cover for Welcome to Detroit Muthafuckaz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73d38a8abdff4182bc7a3e805759285a.png" alt="Cover for Deebee- Duct tape" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>M.O.B.  ...featuring Shane Capone</td>
-      <td>Welcome to Detroit Muthafuckaz</td>
+      <td>crats crew</td>
+      <td>Deebee- Duct tape</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jay-z" | relative_url }}">jay z</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 80</li>
+            <li> <a href="{{ "/tags/jay-z" | relative_url }}">jay z</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Lokey Kartel</td>
-      <td>Lokey Kartel : A Look In The Mirror</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
       </td>
       <td></td>
@@ -2494,19 +2494,24 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>100</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73d38a8abdff4182bc7a3e805759285a.png" alt="Cover for Deebee- Duct tape" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>crats crew</td>
-      <td>Deebee- Duct tape</td>
+      <td>Lokey Kartel</td>
+      <td>Lokey Kartel : A Look In The Mirror</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
         </ul>
       </td>
       <td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:03:53.359Z
+date: 2025-12-08T09:08:00.429Z
 permalink: tags/boston
 title: boston
 ---
 
 ## boston
 
-Last updated: <time datetime="2025-12-05T05:03:53.359Z">Fri Dec 05 2025 07:03:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T09:08:00.429Z">Mon Dec 08 2025 11:08:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
   </thead>
   <tbody>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/9r90t7GcfolLlRErDRduOCqHi3Gd1HsnsXaf1RwkIvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjg5/NDItMTQxMzQ1NzM3/NC0zNjMzLmpwZWc.jpeg" alt="Cover for ATLANTICS" style="max-width:120px; height:auto;" />
       </td>
@@ -44,12 +44,12 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 57</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/Z3AzGkII2bo3ouTwzKyx8-35wLH9HlMtoD2YzCVA7Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTM1/Nzk1LTE1NTYwNTIw/MjctOTE0MC5qcGVn.jpeg" alt="Cover for Soundtrack to a Suicide" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c88c27c1882542ae880ac063af38d647.png" alt="Cover for Boston" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/lVBXaD5VUaPITyQkpVREM1ZWZ3OFd3WgDdyjzcoR5mI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDYy/OTctMTQ1NTI2MDU5/Ny01MzQ0LmpwZWc.jpeg" alt="Cover for Unsuccessful Attempt at Failure Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -111,7 +111,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/jn0KgmXp1ehwQ0cUVDvTxIq7JnCoGS6CSvddtszqfZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTQ0/OTYtMTQ1MzMwODUy/Mi01NzQ4LmpwZWc.jpeg" alt="Cover for Discover Further" style="max-width:120px; height:auto;" />
       </td>
@@ -132,7 +132,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2421a41fa9246368a0eec13715d2dca.png" alt="Cover for Vs." style="max-width:120px; height:auto;" />
       </td>
@@ -150,7 +150,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/zVLVW_IgYwVZwPUZL46c7FgFgs0yNlXRGYawPFqlPGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDU4/ODgtMTM1MTA5NjM2/NS0zOTA4LmpwZWc.jpeg" alt="Cover for Brotherhood" style="max-width:120px; height:auto;" />
       </td>
@@ -169,7 +169,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e57cdb071e34cc0a64d92b86867ac70.png" alt="Cover for Third Stage" style="max-width:120px; height:auto;" />
       </td>
@@ -186,7 +186,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/OJnaODtzYv50CQ0zbb1fLC51wjqUYy3uEUosmI6DDMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njky/Njc1LTE1ODE4OTAw/OTQtMTY4MC5tcG8.jpeg" alt="Cover for The Wake" style="max-width:120px; height:auto;" />
       </td>
@@ -206,7 +206,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/FOYyKb93KU7xYvOpysDC6r-TH9AzD4IZNj2UU7pnbBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODI0/MzctMTQyMjU3NDUw/Mi0xMzMzLmpwZWc.jpeg" alt="Cover for The Early Years (1979-1983)" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +224,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/5lPOhsG4TaKEbhnQaXuKJ4wuIESw4FUnwT1x7lY0rYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTQ3/NjMtMTQ1NTQwNzM2/Mi00MDEzLmpwZWc.jpeg" alt="Cover for Precise Modern Lovers Order" style="max-width:120px; height:auto;" />
       </td>
@@ -245,7 +245,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57229a1dd8c8d515d2bc184b41186608.png" alt="Cover for Tied To The Tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -263,7 +263,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
       </td>
       <td>1991-01</td>
@@ -280,7 +280,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>1991-03-05</td>
@@ -300,7 +300,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/1u7ozwFBQ_Q9PhKK2fa5gcVfPo9IzKsr8V6WKhDhnv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzQw/NDEtMTU4NDYyNjM2/NS05MTE4LmpwZWc.jpeg" alt="Cover for An Announcement" style="max-width:120px; height:auto;" />
       </td>
@@ -331,7 +331,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/TjhGWnVvMdprlqMfye_sXN-K1iVAnSNQUJ7Ee5kednU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTUy/OC0xMTU0MDM3MzUy/LmpwZWc.jpeg" alt="Cover for Soon the Love Balloon Will Pop" style="max-width:120px; height:auto;" />
       </td>
@@ -355,7 +355,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td>1993</td>
@@ -374,7 +374,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>20</td>
       <td>
       </td>
       <td>1993</td>
@@ -393,7 +393,25 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>41</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Michael Sweet</td>
+      <td>Michael Sweet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ba92de5eafb01d1fc3c81c8748d4484.png" alt="Cover for Sea Monkee" style="max-width:120px; height:auto;" />
       </td>
@@ -413,25 +431,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>60</td>
-      <td>
-      </td>
-      <td>1994</td>
-      <td>Michael Sweet</td>
-      <td>Michael Sweet</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/z_D5NxGV-AUE7Cszu3wzsTfYLq0FIidK51Pq_AeWMNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDIz/MC0xMjk2MzAzNTk1/LmpwZWc.jpeg" alt="Cover for Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -451,7 +451,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/dTuG5cW01lv9HO_kYWRV8-SBIRNG5AoE1JYtO9UC5JM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI2/NDYtMTM3ODYwOTUw/OC02MTEzLmpwZWc.jpeg" alt="Cover for Negative FX &amp; Last Rights" style="max-width:120px; height:auto;" />
       </td>
@@ -474,7 +474,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
       </td>
       <td>1997</td>
@@ -492,7 +492,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f00deba6e09424c8a382c6488907bf2.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -510,7 +510,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/537c37d55a134b8b1fe40834a3c2e5bd.png" alt="Cover for Back On Track" style="max-width:120px; height:auto;" />
       </td>
@@ -529,7 +529,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa51cdf9ae868b883b39aee48ecb54bd.png" alt="Cover for Universal Mind Decoder" style="max-width:120px; height:auto;" />
       </td>
@@ -548,7 +548,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/ZVVHpuhegpqeaCpBPDeOAqm_ZM00Z0lk7FRb15pBxqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDE0/ODktMTY2MjU2OTIx/MC00NTk3LnBuZw.jpeg" alt="Cover for Meet The Lothars" style="max-width:120px; height:auto;" />
       </td>
@@ -571,7 +571,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ebd1947575170555ef71b9dc2495d9a.png" alt="Cover for 89-99" style="max-width:120px; height:auto;" />
       </td>
@@ -591,7 +591,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
       </td>
       <td>1999-06-29</td>
@@ -608,7 +608,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>1999-12-14</td>
@@ -628,82 +628,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-          <img src="https://i.discogs.com/0p8uhBKQTg6iWW9dFnB8GIa9cEy9fRPl_CTAr91ItFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDIw/My0xMTY1Nzc4MjIw/LmpwZWc.jpeg" alt="Cover for S&#x2F;T Cassette" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Girlfriends</td>
-      <td>S&#x2F;T Cassette</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-          <img src="https://i.discogs.com/5Rd0tHFGM-9vB3UjT43iatf_Vbu7JJZ_y2WMG7EXWFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTA1/MDgtMTUyOTAyMzA3/Mi04NTA1LmpwZWc.jpeg" alt="Cover for Split" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Toxic Narcotic</td>
-      <td>Split</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
-          <img src="https://i.discogs.com/hxNsygM5_BRejD-bgwhUEb7wtE2cqByW5VAkOU90tv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTc2/NzQtMTQyMDYyOTYx/OS02ODQwLmpwZWc.jpeg" alt="Cover for Cortez" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Cortez</td>
-      <td>Cortez</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
-      <td>
-          <img src="https://i.discogs.com/MFY5eWaY0BgbxLNOSwvKkyY1oxxG2ayb7uxzDmoDwAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDEx/OTEtMTQ0ODgwMjY3/MS0zNzg2LmpwZWc.jpeg" alt="Cover for Mystic Soldiers" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Front Page Review</td>
-      <td>Mystic Soldiers</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>17</td>
       <td>
       </td>
       <td>2000</td>
@@ -722,7 +647,82 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/MFY5eWaY0BgbxLNOSwvKkyY1oxxG2ayb7uxzDmoDwAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDEx/OTEtMTQ0ODgwMjY3/MS0zNzg2LmpwZWc.jpeg" alt="Cover for Mystic Soldiers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Front Page Review</td>
+      <td>Mystic Soldiers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/hxNsygM5_BRejD-bgwhUEb7wtE2cqByW5VAkOU90tv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTc2/NzQtMTQyMDYyOTYx/OS02ODQwLmpwZWc.jpeg" alt="Cover for Cortez" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Cortez</td>
+      <td>Cortez</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/5Rd0tHFGM-9vB3UjT43iatf_Vbu7JJZ_y2WMG7EXWFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTA1/MDgtMTUyOTAyMzA3/Mi04NTA1LmpwZWc.jpeg" alt="Cover for Split" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Toxic Narcotic</td>
+      <td>Split</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/0p8uhBKQTg6iWW9dFnB8GIa9cEy9fRPl_CTAr91ItFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDIw/My0xMTY1Nzc4MjIw/LmpwZWc.jpeg" alt="Cover for S&#x2F;T Cassette" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Girlfriends</td>
+      <td>S&#x2F;T Cassette</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d53ec4dd177b1a6d2ea88eb855e1e948.png" alt="Cover for Round-Wound" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +744,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c313d43b39f3efac9bc54ba3b1c4896.png" alt="Cover for Collections" style="max-width:120px; height:auto;" />
       </td>
@@ -767,7 +767,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/IHmoC44qZgGiX_iHOWgRLDrlPShsovkuCX5o8lkNlr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDUy/Mi0xNTAyOTExMTE4/LTcxNDMuanBlZw.jpeg" alt="Cover for The Truth Hurts" style="max-width:120px; height:auto;" />
       </td>
@@ -787,7 +787,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/007ff5fb112725572c438e05ce7676c9.png" alt="Cover for We&#39;re All Doomed" style="max-width:120px; height:auto;" />
       </td>
@@ -806,7 +806,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/dlArMKy_QKJ8CcsKPQAhwz3S7VDm9EVS7fcz3lFR1qY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDcw/NC0xNjE4NDg3Njkz/LTM4MTcuanBlZw.jpeg" alt="Cover for Kill. Crush. Destroy." style="max-width:120px; height:auto;" />
       </td>
@@ -825,43 +825,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td>2004</td>
-      <td>Peter C. Johnson</td>
-      <td>Soul Sherpa</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-          <img src="https://i.discogs.com/LVdkTs5OIQwehf9wO1xJmNXMIHHphAYVU5S4-WrLRP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDMx/MC0xMTMyNzc3MTkx/LmpwZWc.jpeg" alt="Cover for The Feeling of Now" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Raw Produce</td>
-      <td>The Feeling of Now</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b36de9219da40e4965407c0e7adcf98.png" alt="Cover for Life&#39;s A Struggle" style="max-width:120px; height:auto;" />
       </td>
@@ -884,7 +848,43 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/LVdkTs5OIQwehf9wO1xJmNXMIHHphAYVU5S4-WrLRP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDMx/MC0xMTMyNzc3MTkx/LmpwZWc.jpeg" alt="Cover for The Feeling of Now" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Raw Produce</td>
+      <td>The Feeling of Now</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>Peter C. Johnson</td>
+      <td>Soul Sherpa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df969897a8214ac39288f495c4d4b35a.png" alt="Cover for ONoffON" style="max-width:120px; height:auto;" />
       </td>
@@ -902,7 +902,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/hvszpicfxJ_R72wvPetIClBdCRRnWltcjY5a4LCLJig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjYz/OTgtMTUzNzk1MDAw/MS0zOTYwLmpwZWc.jpeg" alt="Cover for The Ghosts Are Out" style="max-width:120px; height:auto;" />
       </td>
@@ -929,12 +929,13 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>27</td>
       <td>
+          <img src="https://i.discogs.com/xTMfQet0scRadz_IyNi8FL2h67YtF4yRUwvo7Mdpdrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjgz/NjUtMTM1OTEzMjQ2/Ny00MDk2LmpwZWc.jpeg" alt="Cover for Stars and Boulevards" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
-      <td>Robby Roadsteamer</td>
-      <td>The Heart Of A Rhino</td>
+      <td>Augustana</td>
+      <td>Stars and Boulevards</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
@@ -946,7 +947,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/3g6BL0tweY2Zvf1jY-crUKaek8c_MMzoI_ooIRYN238/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM4/NTY4LTE1NzI1Mjk4/MDYtNzM5Ny5qcGVn.jpeg" alt="Cover for Kalifornia" style="max-width:120px; height:auto;" />
       </td>
@@ -965,13 +966,12 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/xTMfQet0scRadz_IyNi8FL2h67YtF4yRUwvo7Mdpdrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjgz/NjUtMTM1OTEzMjQ2/Ny00MDk2LmpwZWc.jpeg" alt="Cover for Stars and Boulevards" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
-      <td>Augustana</td>
-      <td>Stars and Boulevards</td>
+      <td>Robby Roadsteamer</td>
+      <td>The Heart Of A Rhino</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
@@ -983,7 +983,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>2005-03-02</td>
@@ -1003,26 +1003,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-          <img src="https://i.discogs.com/GYJNJjteA8RviPo2tcLto1sEUO-uZga5-M_Iad-UKPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTAx/NDMtMTQ3OTcxNTU1/NC02Mjg1LmpwZWc.jpeg" alt="Cover for Postcards From The Den Of Failure" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Robby Roadsteamer</td>
-      <td>Postcards From The Den Of Failure</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8da57f3f80f176839afac09358705e71.png" alt="Cover for Boston Drops the Gloves: A Tribute to Slapshot" style="max-width:120px; height:auto;" />
       </td>
@@ -1041,7 +1022,26 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/GYJNJjteA8RviPo2tcLto1sEUO-uZga5-M_Iad-UKPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTAx/NDMtMTQ3OTcxNTU1/NC02Mjg1LmpwZWc.jpeg" alt="Cover for Postcards From The Den Of Failure" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Robby Roadsteamer</td>
+      <td>Postcards From The Den Of Failure</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1092caac202154278cd8f5857bb80a60.png" alt="Cover for The Obliterati" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,7 +1059,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/VvUqOmerpn1g3j_pkNuz90DXA7k53r-L1COtlZ84hvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mjgw/ODctMTU4NTM1MDMw/Mi01MTMxLmpwZWc.jpeg" alt="Cover for ....And Tomorrow We Will Have Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,7 +1088,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce55f1248d7d2ade5d598279f18a3717.png" alt="Cover for Fading American Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,7 +1109,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/AoN9UvOXF1pzaFD0EyE2o_MxizPhs3oVpFlaJ_SgPZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDEw/OTMtMTM0MjQ5MTEw/MC02MDEwLmpwZWc.jpeg" alt="Cover for Thunder In A Forgotten Town" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,7 +1133,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee141323469aca656814a8d850548e62.png" alt="Cover for Pink &amp; Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1152,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/8kZL6fNjoWqzfRNDOzWNqUfjcMot1GzlJq_g9VSyb0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTky/MzctMTQzMzExNTI0/OS03NjEyLmpwZWc.jpeg" alt="Cover for Flying Together" style="max-width:120px; height:auto;" />
       </td>
@@ -1175,7 +1175,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/T16QtXMpl7tFViynhEAhJWsMxDu0310iO8wFqoKi7BQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjA5/NTItMTQ3MjMwNDU4/MC01OTkxLmpwZWc.jpeg" alt="Cover for appeal" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,7 +1195,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1b483b6a6bf44d7bc24d071e3bd4985.png" alt="Cover for Rose Tattoo: For Boston Charity EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,7 +1219,25 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/ICdM2BZb-Rk2zDcthzfcBzQQUPx8PtmIpZfU0zwKD24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTM5/MzUtMTMzNjY1MDg0/NS0yMzMzLmpwZWc.jpeg" alt="Cover for Obsession - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Ian McIntosh</td>
+      <td>Obsession - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/448f6170ccc87ecf436c4d5450d05018.png" alt="Cover for Light the Day on Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1240,25 +1258,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>84</td>
-      <td>
-          <img src="https://i.discogs.com/ICdM2BZb-Rk2zDcthzfcBzQQUPx8PtmIpZfU0zwKD24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTM5/MzUtMTMzNjY1MDg0/NS0yMzMzLmpwZWc.jpeg" alt="Cover for Obsession - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Ian McIntosh</td>
-      <td>Obsession - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c7a1840f862c70a9bb47a7937725a99.png" alt="Cover for Jerk Routine" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1277,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/E7SQQSOLmUFovIwv8N6zA38FGccZFsS5K9-DBLeSh-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA5/NDEtMTI2MjkwMjU3/Mi5wbmc.jpeg" alt="Cover for 5439 EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,12 +1309,12 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 55</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76ac2cb2766a43488fb6a9d03692de55.png" alt="Cover for The Sound, the Speed, the Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1331,7 +1331,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/LLof8q5yFR1WDO1SbuqLSkpavic5TWrwJeXQ99rIU2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjkw/MjgtMTM4MzY1NzQ2/MS0zMzc1LmpwZWc.jpeg" alt="Cover for Complications" style="max-width:120px; height:auto;" />
       </td>
@@ -1349,7 +1349,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5b7e19f457f33d8a7cf633b01b37fc1.png" alt="Cover for Real Life Color" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,7 +1369,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/910ffdeb067d4ffdcf67212fb823fe74.png" alt="Cover for Magic Isn&#39;t Real" style="max-width:120px; height:auto;" />
       </td>
@@ -1388,7 +1388,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/aYjYLKOAZ-53ib_9rxK73mFO47T_QkeN0jjNCDCbUx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODMy/MjEtMTQxMzEzMTkz/Mi05OTE2LmpwZWc.jpeg" alt="Cover for Old Flames" style="max-width:120px; height:auto;" />
       </td>
@@ -1407,7 +1407,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/8kZL6fNjoWqzfRNDOzWNqUfjcMot1GzlJq_g9VSyb0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTky/MzctMTQzMzExNTI0/OS03NjEyLmpwZWc.jpeg" alt="Cover for Spiritual Elders" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,7 +1430,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4b99b0b67134e57b25e28cf3cca5c2e.png" alt="Cover for Bring Back The Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,7 +1452,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/jtN2tVvDMnlUgvBV7D9_Ntj6Pga5JIF55pIDSrDVy34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTg5/MTktMTM1ODMxNTQ4/Mi03MzMxLmpwZWc.jpeg" alt="Cover for For the Good, For the the Bad, For The Worse" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,7 +1469,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43af661cb0424a0581b457c099645457.png" alt="Cover for Reactions" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,7 +1506,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>2011-08-01</td>
@@ -1523,7 +1523,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>2011-09-11</td>
@@ -1544,7 +1544,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c81dfdf7fd24b75aa9b93333ee5bf7f.png" alt="Cover for Cyclops" style="max-width:120px; height:auto;" />
       </td>
@@ -1566,28 +1566,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/aHvvxPgkj5QAVZzSs6iT5aeZNdgtMh4Vi7U3NKglKgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Mzg2/NDgtMTQ2MTYxMjE4/Ni02MzAzLmpwZWc.jpeg" alt="Cover for Mondegreen" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Plumerai</td>
-      <td>Mondegreen</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06aac5e1790e1095d39d0299e43539fd.png" alt="Cover for Guerilla Toss on Audiotree Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1610,7 +1589,28 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/aHvvxPgkj5QAVZzSs6iT5aeZNdgtMh4Vi7U3NKglKgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Mzg2/NDgtMTQ2MTYxMjE4/Ni02MzAzLmpwZWc.jpeg" alt="Cover for Mondegreen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Plumerai</td>
+      <td>Mondegreen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/Ll2QEgoC4Pfy7gctBbVs_VG2aETCS84igEuJIE0Fztc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODk1/NzItMTM3NTYxNjI1/MS03NDczLmpwZWc.jpeg" alt="Cover for Dan Webb and the Spiders" style="max-width:120px; height:auto;" />
       </td>
@@ -1633,7 +1633,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/Ti9Cx_c1vpKT_EkUsU_OqRNSI-kR_SoEOCtSeIkKXkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzA1/NTYtMTQwMTY3NTAy/OS0yNzI0LmpwZWc.jpeg" alt="Cover for All a Man Can Do" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1655,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/jzKlw1HQ9TQY-KxTFtUH3kE5iyt4c_nKc_3GOvq4p10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTA4/MjQtMTQxMjM0NzE0/Ni00MjE5LmpwZWc.jpeg" alt="Cover for Kowloon" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,7 +1677,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb17fa6210f046d2ad6a0bd74ae93619.png" alt="Cover for Partygoing" style="max-width:120px; height:auto;" />
       </td>
@@ -1695,14 +1695,14 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 22</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 41</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 60</li>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/r0gscFjEJMeEKRU652VNhAKcm_gWqxBbdVfY06Zwvtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTc1/MDktMTQwNTcxOTMy/Ny02NTU3LmpwZWc.jpeg" alt="Cover for The Dispensary" style="max-width:120px; height:auto;" />
       </td>
@@ -1721,7 +1721,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e80a44046fc2a45bba71a91be28ed11.png" alt="Cover for Life, Love &amp; Hope" style="max-width:120px; height:auto;" />
       </td>
@@ -1738,7 +1738,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a5d324aba7cf297364e763c4415fb86.png" alt="Cover for Harm" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,7 +1761,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/849ec74775904b66b070a8e3fdfe790d.png" alt="Cover for Dark Academy" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,7 +1782,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/W50PmSlDsy_lIS2WzYL7vm9CJU4KFCyzl-pst-f7KiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzc5/NjEtMTQ0ODU2NjA5/NC0zNzQyLmpwZWc.jpeg" alt="Cover for Demo MMXV" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,7 +1802,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e3c968ce8483e64f3ffcb1f9ef790ee.png" alt="Cover for No Revolution" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,7 +1823,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/cjEnZnT6p_aO4ZNfvMmlOeNyutxDYNb98OtPGZ4QdsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDg4/NjktMTQ1NTMwMzQ1/NS0zNTI2LmpwZWc.jpeg" alt="Cover for OUR LOVE" style="max-width:120px; height:auto;" />
       </td>
@@ -1844,7 +1844,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/T16QtXMpl7tFViynhEAhJWsMxDu0310iO8wFqoKi7BQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjA5/NTItMTQ3MjMwNDU4/MC01OTkxLmpwZWc.jpeg" alt="Cover for Lensing" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,7 +1870,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/518f395960c327aaedce92c2923f484b.png" alt="Cover for American Nightmare" style="max-width:120px; height:auto;" />
       </td>
@@ -1888,19 +1888,18 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>31</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ce768f6826041ccb809534dbc5b906c.png" alt="Cover for Field Guide for the Zombie Survivalist" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/am5ax_QV_w9NZMzIUMdVDhjqhXekNm9obhGG5tGV5B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA4/MTE3LTE1NjU5NzY1/NjMtNDU3MS5qcGVn.jpeg" alt="Cover for Baptism of Desire" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
-      <td>The Longwalls</td>
-      <td>Field Guide for the Zombie Survivalist</td>
+      <td>Final Gasp</td>
+      <td>Baptism of Desire</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
         </ul>
       </td>
       <td>
@@ -1909,7 +1908,26 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/FGcG7LJAxEkxPqDfvfX5Okj-UmXDpFc1XRpSU0luf74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTI0/MjAzLTE1NzYzMjUz/ODgtNTcxMy5qcGVn.jpeg" alt="Cover for Demo Tape" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Battle Ruins</td>
+      <td>Demo Tape</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5b1d83cef5841ccb57102a655241df4.png" alt="Cover for Careers in Science" style="max-width:120px; height:auto;" />
       </td>
@@ -1931,17 +1949,19 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/FGcG7LJAxEkxPqDfvfX5Okj-UmXDpFc1XRpSU0luf74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTI0/MjAzLTE1NzYzMjUz/ODgtNTcxMy5qcGVn.jpeg" alt="Cover for Demo Tape" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ce768f6826041ccb809534dbc5b906c.png" alt="Cover for Field Guide for the Zombie Survivalist" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
-      <td>Battle Ruins</td>
-      <td>Demo Tape</td>
+      <td>The Longwalls</td>
+      <td>Field Guide for the Zombie Survivalist</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
       <td>
@@ -1950,27 +1970,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>70</td>
-      <td>
-          <img src="https://i.discogs.com/am5ax_QV_w9NZMzIUMdVDhjqhXekNm9obhGG5tGV5B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA4/MTE3LTE1NjU5NzY1/NjMtNDU3MS5qcGVn.jpeg" alt="Cover for Baptism of Desire" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019</td>
-      <td>Final Gasp</td>
-      <td>Baptism of Desire</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/SIvgr2dB4E29YNXdauV9Imtvn2WX4zTvMdVHFgUFLe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODkx/MTExLTE2NTkzMDc0/MjUtMzYyNS5qcGVn.jpeg" alt="Cover for Mystic River Sound, The" style="max-width:120px; height:auto;" />
       </td>
@@ -1987,17 +1987,18 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>67</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8da8ca3ec8bccf6bc6b26150ce42646c.png" alt="Cover for Different Styles" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Dudja</td>
-      <td>Different Styles</td>
+      <td>Cooper Kaminsky Music</td>
+      <td>City Bird EP</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
@@ -2006,45 +2007,7 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Dear Old Stockholm Syndrome</td>
-      <td>Dear Old Stockholm Syndrome</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Orgy of Noise</td>
-      <td>Plague</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>76</td>
       <td>
       </td>
       <td></td>
@@ -2065,18 +2028,55 @@ Boston represents the distinctive musical output of Massachusetts&#39; largest c
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>84</td>
       <td>
       </td>
       <td></td>
-      <td>Cooper Kaminsky Music</td>
-      <td>City Bird EP</td>
+      <td>Orgy of Noise</td>
+      <td>Plague</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Dear Old Stockholm Syndrome</td>
+      <td>Dear Old Stockholm Syndrome</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8da8ca3ec8bccf6bc6b26150ce42646c.png" alt="Cover for Different Styles" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Dudja</td>
+      <td>Different Styles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boston" | relative_url }}">boston</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>

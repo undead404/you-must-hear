@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T09:34:00.824Z
+date: 2025-12-08T13:20:23.552Z
 permalink: tags/feminist
 title: feminist
 ---
 
 ## feminist
 
-Last updated: <time datetime="2025-12-05T09:34:00.824Z">Fri Dec 05 2025 11:34:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T13:20:23.552Z">Mon Dec 08 2025 15:20:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -849,8 +849,8 @@ Feminist music encompasses works that champion gender equality, challenge patria
             <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 3</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 4</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 5</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 6</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 27</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -895,8 +895,8 @@ Feminist music encompasses works that champion gender equality, challenge patria
             <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 5</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 7</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 7</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 9</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 38</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -923,8 +923,8 @@ Feminist music encompasses works that champion gender equality, challenge patria
             <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 4</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 5</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 6</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 7</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 33</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -970,8 +970,8 @@ Feminist music encompasses works that champion gender equality, challenge patria
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 1</li>
             <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 1</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 1</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 2</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 5</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1020,9 +1020,9 @@ Feminist music encompasses works that champion gender equality, challenge patria
         <ul>
             <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 7</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 10</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 14</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 20</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 59</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 87</li>
         </ul>
       </td>
     </tr>

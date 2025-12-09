@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:09:46.015Z
+date: 2025-12-08T09:23:54.774Z
 permalink: tags/neocrust
 title: neocrust
 ---
 
 ## neocrust
 
-Last updated: <time datetime="2025-12-05T05:09:46.015Z">Fri Dec 05 2025 07:09:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T09:23:54.774Z">Mon Dec 08 2025 11:23:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -963,9 +963,8 @@ Neocrust is a subgenre of Crust Punk that infuses more metal elements, most ofte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 12</li>
-            <li> <a href="{{ "/tags/fastcore" | relative_url }}">fastcore</a> # 45</li>
             <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 45</li>
+            <li> <a href="{{ "/tags/fastcore" | relative_url }}">fastcore</a> # 45</li>
         </ul>
       </td>
     </tr>

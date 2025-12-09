@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:03:07.108Z
+date: 2025-12-08T08:57:17.958Z
 permalink: tags/poetry
 title: poetry
 ---
 
 ## poetry
 
-Last updated: <time datetime="2025-12-05T05:03:07.108Z">Fri Dec 05 2025 07:03:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T08:57:17.958Z">Mon Dec 08 2025 10:57:17 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,44 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
   </thead>
   <tbody>
     <tr>
-      <td>3</td>
+      <td>40</td>
+      <td>
+      </td>
+      <td>1959</td>
+      <td>Allen Ginsberg</td>
+      <td>Howl and Other Poems</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b42c525a99db4044c068674183ceacbe.png" alt="Cover for Blues and Haikus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1959</td>
+      <td>Jack Kerouac</td>
+      <td>Blues and Haikus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/sc5yB17CkwQ9Q41osOygyWKGBGUJaeNhFUUFRxLAImA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg2/OTQtMTIwMTI4MzAx/Ny5qcGVn.jpeg" alt="Cover for Word Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -53,44 +90,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b42c525a99db4044c068674183ceacbe.png" alt="Cover for Blues and Haikus" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1959</td>
-      <td>Jack Kerouac</td>
-      <td>Blues and Haikus</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>
-      </td>
-      <td>1959</td>
-      <td>Allen Ginsberg</td>
-      <td>Howl and Other Poems</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d5bda3945372685c9981171fbdafbd4.png" alt="Cover for Flowers Of Evil" style="max-width:120px; height:auto;" />
       </td>
@@ -109,7 +109,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8870875c920e4192d3e1f398be4d4666.png" alt="Cover for Small Talk at 125th and Lenox" style="max-width:120px; height:auto;" />
       </td>
@@ -132,25 +132,6 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
     <tr>
       <td>30</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51f0001e0488514abe02b64fdff1896b.png" alt="Cover for Songs of Love and Hate" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1971</td>
-      <td>Leonard Cohen</td>
-      <td>Songs of Love and Hate</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59b29309a29d516f04ec41386459a49f.png" alt="Cover for Non al denaro non all&#39;amore né al cielo" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
@@ -171,7 +152,45 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51f0001e0488514abe02b64fdff1896b.png" alt="Cover for Songs of Love and Hate" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Leonard Cohen</td>
+      <td>Songs of Love and Hate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/YWWClF4oHZsGjGjlAtqWuU6J5G4f4FXEYyElbLLTEeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTMx/MTMtMTM3NDg1ODg2/NS00MDQ3LmpwZWc.jpeg" alt="Cover for Construcao" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Chico Buarque</td>
+      <td>Construcao</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bffa994bfa03424fa70cd915c1a73aa5.png" alt="Cover for An American Prayer (1978)" style="max-width:120px; height:auto;" />
       </td>
@@ -192,26 +211,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>96</td>
-      <td>
-          <img src="https://i.discogs.com/YWWClF4oHZsGjGjlAtqWuU6J5G4f4FXEYyElbLLTEeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTMx/MTMtMTM3NDg1ODg2/NS00MDQ3LmpwZWc.jpeg" alt="Cover for Construcao" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1971</td>
-      <td>Chico Buarque</td>
-      <td>Construcao</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa8620995a30af4e139becc4b349e3c2.png" alt="Cover for The Revolution Will Not Be Televised" style="max-width:120px; height:auto;" />
       </td>
@@ -229,7 +229,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/FXrJYzNahy-cXJwtc-weo3bhOQVcJh1WxGrlGAewoIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDU3/NjctMTI4NzcwOTI0/OS5qcGVn.jpeg" alt="Cover for Howl" style="max-width:120px; height:auto;" />
       </td>
@@ -247,7 +247,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>1978-11-17</td>
@@ -264,7 +264,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/348b75be8f1e558086179fd069104d98.png" alt="Cover for 1980" style="max-width:120px; height:auto;" />
       </td>
@@ -284,7 +284,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cc64818ef48422fb4f2005f631bc799.png" alt="Cover for Snap, Crackle &amp; Bop" style="max-width:120px; height:auto;" />
       </td>
@@ -301,7 +301,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/D4ZAvtebIL7pomY8QnyhNx5-U0_8lwFVO6xOB9ynm3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTYw/Mi0xMzQ2NDgzMjA4/LTE5NTcuanBlZw.jpeg" alt="Cover for Break Through In Grey Room" style="max-width:120px; height:auto;" />
       </td>
@@ -320,7 +320,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/SxVC0cOM_n_GpBoT3ewyurQLj-ZoTrZnMeE5dG3iadY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTgz/My0xNTAwNTA3NTI1/LTc5NDgucG5n.jpeg" alt="Cover for Joined Up Writing&#x2F;The Sitting Room" style="max-width:120px; height:auto;" />
       </td>
@@ -341,7 +341,26 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/7lh4OPLCM6Iv_B_M_IQXAjOeXuaGUu7BisThp19T6xU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDA5/MTMtMTYyMjczNDQx/Mi00MDEzLmpwZWc.jpeg" alt="Cover for Naprawde Nie Dzieje Sie Nic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Grzegorz Turnau</td>
+      <td>Naprawde Nie Dzieje Sie Nic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
       <td>
       </td>
       <td>1994</td>
@@ -362,26 +381,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>79</td>
-      <td>
-          <img src="https://i.discogs.com/7lh4OPLCM6Iv_B_M_IQXAjOeXuaGUu7BisThp19T6xU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDA5/MTMtMTYyMjczNDQx/Mi00MDEzLmpwZWc.jpeg" alt="Cover for Naprawde Nie Dzieje Sie Nic" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Grzegorz Turnau</td>
-      <td>Naprawde Nie Dzieje Sie Nic</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a2c3e3548194ffe961ac4f5ecc434ab.png" alt="Cover for Nigredo" style="max-width:120px; height:auto;" />
       </td>
@@ -403,25 +403,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://i.discogs.com/bKd3p1RO5Ia96n5se7PiaWLvBb0G0_pMJ04tDzVTNCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDYx/ODctMTI2MDYyNTk4/NC5qcGVn.jpeg" alt="Cover for Ogród koncentracyjny" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>Świetliki</td>
-      <td>Ogród koncentracyjny</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e572b374cb70b62b1845625502be1e34.png" alt="Cover for To Tu To Tam" style="max-width:120px; height:auto;" />
       </td>
@@ -440,7 +422,25 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/bKd3p1RO5Ia96n5se7PiaWLvBb0G0_pMJ04tDzVTNCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDYx/ODctMTI2MDYyNTk4/NC5qcGVn.jpeg" alt="Cover for Ogród koncentracyjny" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Świetliki</td>
+      <td>Ogród koncentracyjny</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a2cfdd59b1d468d94a11c29148df753.png" alt="Cover for Dotyk" style="max-width:120px; height:auto;" />
       </td>
@@ -460,7 +460,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
       </td>
       <td>1996</td>
@@ -477,7 +477,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>1996-09-17</td>
@@ -500,7 +500,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
       </td>
       <td>1997</td>
@@ -519,7 +519,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e5365203b92490db3bdec2225dd18fb.png" alt="Cover for Soft Black Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -538,7 +538,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ed41389090eae665d66e60ce2ddc3ee.png" alt="Cover for Dionysus" style="max-width:120px; height:auto;" />
       </td>
@@ -556,7 +556,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
       </td>
       <td>2000</td>
@@ -574,7 +574,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/m5h_JFpoV1Eg1fHTMuH5kQOSOlVOOdQV7MJy7d2FlyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgz/NDU1LTE1MzIxMjEw/MjYtODQ1My5qcGVn.jpeg" alt="Cover for The 30th Anniversary Concert Celebration" style="max-width:120px; height:auto;" />
       </td>
@@ -599,7 +599,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
       </td>
       <td>2001</td>
@@ -622,7 +622,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
       </td>
       <td>2001</td>
@@ -639,7 +639,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
       </td>
       <td>2001-11-28</td>
@@ -662,16 +662,16 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 1</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 25</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 29</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 36</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 41</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 76</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c348c8be1c0471ab0edfaa0c365bee7.png" alt="Cover for Hazel Steps through a Weathered Home" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +696,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/Jl6ZbfQwDujf_yk3c7tnOb83W4G24L1VPEG51WsUfLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTYz/OS0xMjI0Njc0MjM5/LmpwZWc.jpeg" alt="Cover for MTV Unplugged 2.0" style="max-width:120px; height:auto;" />
       </td>
@@ -716,7 +716,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4723cc9c5422844b9359081f15e3cb93.png" alt="Cover for Поэзия" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +736,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/cAQXXSeU9fCoCQpQ9VCozWqITl9Bd39hhLkqeEPpExM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ4/ODAtMTMxNDMwNTgw/MS5qcGVn.jpeg" alt="Cover for Co Lepsze Kawalki" style="max-width:120px; height:auto;" />
       </td>
@@ -755,7 +755,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/nFgAfcwGmrKn2yO8dwWoDpfLsbX5rph5D2Hj-dM6YfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjY4/Mi0xNjgxMjM1NDYx/LTkxMDAuanBlZw.jpeg" alt="Cover for Faith In Chaos" style="max-width:120px; height:auto;" />
       </td>
@@ -773,7 +773,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>2003-05-20</td>
@@ -791,7 +791,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/wk47HzVplrGXmvZ11skmfuRs2McTCogr118x-lv4ce8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTE4/MC0xNjEzMDc2MjU2/LTEyNzkuanBlZw.jpeg" alt="Cover for 1" style="max-width:120px; height:auto;" />
       </td>
@@ -809,12 +809,12 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 6</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 95</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/XGuY0OvSmH_cEjX22GkOAQuVGZanYdGyCHsYviaUMmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzk3/MzgtMTIyNzAyNDU0/Mi5qcGVn.jpeg" alt="Cover for Poems And Insults" style="max-width:120px; height:auto;" />
       </td>
@@ -835,7 +835,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/573800bf9fb3136a84e3ec25aacb121e.png" alt="Cover for Poetry" style="max-width:120px; height:auto;" />
       </td>
@@ -853,7 +853,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/t6kouRMMQZt2ET7wgmUW1bPediTf06Kek_RgaAANGuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODA3/MDgxLTE2NTcxNjMx/NTItODAyMS5qcGVn.jpeg" alt="Cover for Greetings from Michigan, the Great Lake State (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -868,13 +868,13 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
         <ul>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 9</li>
             <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 13</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 23</li>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 23</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ed2cc052e69a24757a21abc16ee708b.png" alt="Cover for Dear Heather" style="max-width:120px; height:auto;" />
       </td>
@@ -895,7 +895,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
       </td>
       <td>2005</td>
@@ -919,25 +919,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bce6abf6ec9d47ed9567b1d214132ae0.png" alt="Cover for Secret" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Anna Maria Jopek</td>
-      <td>Secret</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>2005</td>
@@ -955,7 +937,25 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bce6abf6ec9d47ed9567b1d214132ae0.png" alt="Cover for Secret" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Anna Maria Jopek</td>
+      <td>Secret</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/Y3WocCc0gxEZxryWsomeaKdqsUfL0Piq4ayOvYfimQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDAz/NTgtMTQ3NjMxMDE4/NC05ODM3LmpwZWc.jpeg" alt="Cover for Pushing Through the Seasons" style="max-width:120px; height:auto;" />
       </td>
@@ -976,7 +976,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6df0a419239ec0247be760f6d0f7e522.png" alt="Cover for Navigatoria" style="max-width:120px; height:auto;" />
       </td>
@@ -1004,53 +1004,15 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 18</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 29</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 40</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 42</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 43</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 56</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 59</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e445bf096144759aad3e92c7e009634.png" alt="Cover for Strange Conversation" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Kris Delmhorst</td>
-      <td>Strange Conversation</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dacca586e6da46d9bd71eb7595e893d8.png" alt="Cover for Historia pewnej podróży" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Grzegorz Turnau</td>
-      <td>Historia pewnej podróży</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>2006</td>
@@ -1069,7 +1031,45 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dacca586e6da46d9bd71eb7595e893d8.png" alt="Cover for Historia pewnej podróży" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Grzegorz Turnau</td>
+      <td>Historia pewnej podróży</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e445bf096144759aad3e92c7e009634.png" alt="Cover for Strange Conversation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Kris Delmhorst</td>
+      <td>Strange Conversation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/GD5YVjeZrs9DzPPzos9YkptJm44ygztELnPJ_MnbiOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUy/NjA3LTE2ODAzNTI1/MTQtMjIwMi5qcGVn.jpeg" alt="Cover for WHEN THE BOUGH BREAKS" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,7 +1087,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>2006-11-30</td>
@@ -1101,7 +1101,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 49</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 52</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 57</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 63</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 78</li>
@@ -1109,7 +1109,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>2007</td>
@@ -1135,8 +1135,8 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 10</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 12</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 12</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 12</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 15</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 16</li>
             <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 21</li>
@@ -1145,7 +1145,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/2d8FZYYieG_y2Xx7AMFgEiW3ryN7oUMdiLz5qnn4RSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE5/NzM1LTE2MDM3NTEz/MTAtMjM3OC5wbmc.jpeg" alt="Cover for the pledge" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,7 +1164,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/gTzANP1lhlfVqQVvVs_nuTj0b7JnE2yJKW6OGZ3ipXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU3/MDItMTcwNTcyODI4/NS03NjcxLmpwZWc.jpeg" alt="Cover for Fallen From Grace" style="max-width:120px; height:auto;" />
       </td>
@@ -1182,7 +1182,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
       </td>
       <td>2008-07-01</td>
@@ -1203,7 +1203,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2008-09-15</td>
@@ -1220,26 +1220,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>43</td>
-      <td>
-      </td>
-      <td>2009</td>
-      <td>Grzegorz Turnau</td>
-      <td>Do Zobaczenia</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95f658c3eb9e2afa88e8de0e65892cb3.png" alt="Cover for Fucking Mess" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,7 +1239,26 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>58</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Grzegorz Turnau</td>
+      <td>Do Zobaczenia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/iIFEPf_q7ubkwBRXDP5CRVftJlbH0nPpH2hFn4faqTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjY0/MzctMTQxMDg5OTUw/NS04NTcxLmpwZWc.jpeg" alt="Cover for The Blaqprint [Explicit]" style="max-width:120px; height:auto;" />
       </td>
@@ -1276,7 +1276,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77bf7a429fe44b60966131247483dce1.png" alt="Cover for Cafe Brumba" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,7 +1297,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>2010-02-22</td>
@@ -1315,7 +1315,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/km0H0tRlkiNwXl9t3DcVYv9jjwRCdV49VR3YtBpvybQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzIx/NjQtMTU0MjIyMTM3/Ny01NzY1LmpwZWc.jpeg" alt="Cover for SkąDokąd" style="max-width:120px; height:auto;" />
       </td>
@@ -1332,7 +1332,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7db6c992b71844fb9f4212aacb19cc02.png" alt="Cover for Ania Movie" style="max-width:120px; height:auto;" />
       </td>
@@ -1350,7 +1350,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fac970ddb6900fdf88864a9f9a582b38.png" alt="Cover for Kari-gurashi" style="max-width:120px; height:auto;" />
       </td>
@@ -1380,13 +1380,13 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 12</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 34</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 35</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2010-11-11</td>
@@ -1428,7 +1428,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>2011</td>
@@ -1448,7 +1448,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25a941d374d69af84aef2f2a7d99bd59.png" alt="Cover for Czesław Śpiewa &amp; Arte dei Suonatori" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,7 +1469,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>2011-01-06</td>
@@ -1487,7 +1487,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
       </td>
       <td>2011-11-07</td>
@@ -1504,7 +1504,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
       </td>
       <td>2012</td>
@@ -1522,7 +1522,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/Z5RqSIskjHpa6cNau8L-2Ygp-DE6iXhx9FddF67lex8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjY1/NzctMTY0MTgzODQ1/My0xNzg3LmpwZWc.jpeg" alt="Cover for Killer Road" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,7 +1542,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
       </td>
       <td>2012-12-21</td>
@@ -1562,7 +1562,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/-3wBxcXKKFuQewdQgZJp3UP-Kmooiy06zG99y6vmiHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NzQ2/NDMtMTQ3NTc4MjQ4/Mi00NjI4LmpwZWc.jpeg" alt="Cover for Zlota Kolekcja" style="max-width:120px; height:auto;" />
       </td>
@@ -1581,7 +1581,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99e6655fb7404c2595188ff646148487.png" alt="Cover for Amethyst" style="max-width:120px; height:auto;" />
       </td>
@@ -1630,15 +1630,15 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 25</li>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 41</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 43</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 51</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 51</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 51</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 63</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>2013-10-12</td>
@@ -1657,7 +1657,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/s_W8UIgxlEWmtKwfZLrPk-I7b7EN22xkIE7IG_0PuoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzMy/NTAtMTI4MDI0MDM1/Ny5qcGVn.jpeg" alt="Cover for Never Not Fresh" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,7 +1676,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68c11974e24c4fbca6f762c3c4e17764.png" alt="Cover for Sleep Has Its house" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,7 +1707,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
       </td>
       <td>2014-03-17</td>
@@ -1727,15 +1727,15 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 14</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 14</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 40</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 44</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 48</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a0e69bcce114c0accae835346268cb4.png" alt="Cover for Popular Problems" style="max-width:120px; height:auto;" />
       </td>
@@ -1752,7 +1752,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86b35c4eb3c479da49c915d8771bbd1a.png" alt="Cover for To Pimp a Butterfly" style="max-width:120px; height:auto;" />
       </td>
@@ -1778,7 +1778,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cc9c2dfe29708ccc74e0628875917c6.png" alt="Cover for Moth &#x2F; Lake" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,7 +1802,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/483e650edebf449e0e2807a4fa594b3b.png" alt="Cover for Dandelion Hands is Dead!! Vol 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1824,7 +1824,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e1da66b752b07534663fd18dee37cde.png" alt="Cover for Emily’s D+Evolution" style="max-width:120px; height:auto;" />
       </td>
@@ -1850,7 +1850,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4fcacf245e57d6205b65ebbccc507c6.png" alt="Cover for x Infinity" style="max-width:120px; height:auto;" />
       </td>
@@ -1868,7 +1868,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b864694bb4f4564c5f4d6bdfe7689af.png" alt="Cover for The Coral Sea" style="max-width:120px; height:auto;" />
       </td>
@@ -1891,7 +1891,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/bOlovZ6zg_ZuhXl9omWlWM-2lcJe6HOOUS5c4OzqxHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc1/Njg4LTE1MzkzMDI3/MjQtOTE1Mi5qcGVn.jpeg" alt="Cover for Dionysus" style="max-width:120px; height:auto;" />
       </td>
@@ -1927,7 +1927,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/A7_rsrcIJ6wG36wUoUU2p1FXC91icYJF6bclv_HNoaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkw/ODA3LTE2MDU5MTUz/MTEtNzE0NC5qcGVn.jpeg" alt="Cover for Violet Bent Backwards Over the Grass" style="max-width:120px; height:auto;" />
       </td>
@@ -1946,7 +1946,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/7Zf3rCmobjtxPYKcgV7Uh7qxeH4bkSsj6FVwMmShpWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTAw/MDYwLTE1ODY2ODIz/NDAtMzUyOC5qcGVn.jpeg" alt="Cover for Everything Evaporate" style="max-width:120px; height:auto;" />
       </td>
@@ -1966,7 +1966,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d4aabd40a883fb89182170e64440cac.png" alt="Cover for Whities 029" style="max-width:120px; height:auto;" />
       </td>
@@ -1989,7 +1989,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d9d673cd333e04c0dec46f90edbd683.png" alt="Cover for Mickiewicz" style="max-width:120px; height:auto;" />
       </td>
@@ -2009,7 +2009,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/3Z4RlMNrT1Z99kXSklNlzPLEfAufJ8wiGho2hbB0aGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzE1/OS0xNjQ2ODQ2NTYy/LTU3NTUuanBlZw.jpeg" alt="Cover for Jacques Prevert: Et Ses Interpretes" style="max-width:120px; height:auto;" />
       </td>
@@ -2027,7 +2027,25 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>88</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Marek Grechuta</td>
+      <td>Zlote Przeboje</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/898fefdba7cc47b19c83ad8054fcbbf6.png" alt="Cover for Gadis Kecil" style="max-width:120px; height:auto;" />
       </td>
@@ -2048,66 +2066,12 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
-      <td>Marek Grechuta</td>
-      <td>Zlote Przeboje</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 47</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Neil Hilborn</td>
-      <td>Northbound</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Magda Umer i Grzegorz Turnau</td>
-      <td>Kołysanki - utulanki</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Schönherz &amp; Fleer&#39;s Rilke Projekt</td>
-      <td>Rilke Projekt Limited Edition 2006</td>
+      <td>Ethan Jewell</td>
+      <td>Loneliness In the Presence of Company</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
@@ -2119,7 +2083,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7ab9bdd01b4d2eeb106cdcf4f54eb9b.png" alt="Cover for Ewa Demarczyk" style="max-width:120px; height:auto;" />
       </td>
@@ -2137,15 +2101,51 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>51</td>
       <td>
       </td>
       <td></td>
-      <td>Ethan Jewell</td>
-      <td>Loneliness In the Presence of Company</td>
+      <td>Schönherz &amp; Fleer&#39;s Rilke Projekt</td>
+      <td>Rilke Projekt Limited Edition 2006</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Magda Umer i Grzegorz Turnau</td>
+      <td>Kołysanki - utulanki</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Neil Hilborn</td>
+      <td>Northbound</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
         </ul>
       </td>
       <td>

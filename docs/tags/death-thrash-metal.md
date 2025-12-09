@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:04:47.724Z
+date: 2025-12-08T09:13:11.717Z
 permalink: tags/death-thrash-metal
 title: death-thrash metal
 ---
 
 ## death-thrash metal
 
-Last updated: <time datetime="2025-12-05T05:04:47.724Z">Fri Dec 05 2025 07:04:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T09:13:11.717Z">Mon Dec 08 2025 11:13:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -200,7 +200,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf3f261a28024c19b866662e531e3c6f.png" alt="Cover for Break the Curse" style="max-width:120px; height:auto;" />
       </td>
@@ -221,7 +221,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c1daf8ebd9edc44b6223afddc9eea60.png" alt="Cover for Nile" style="max-width:120px; height:auto;" />
       </td>
@@ -258,7 +258,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d881a79044704ed54b2d03ffe405b29f.png" alt="Cover for Unbound" style="max-width:120px; height:auto;" />
       </td>
@@ -278,7 +278,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0256b1ecd5494515c5f0ef0c4a0ffb30.png" alt="Cover for Dead Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -313,7 +313,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/GqoOHMVjA7e6blwIGjWSlpJ62uPy0J8lcZdQKEG1F-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzE0/MTUtMTU3ODMyOTM0/My0xMDMyLnBuZw.jpeg" alt="Cover for Evilized" style="max-width:120px; height:auto;" />
       </td>
@@ -332,7 +332,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td>1999</td>
@@ -349,7 +349,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/scSvrflJAUO09JeUydKvuIjZyDmIrJJCEnpChr252Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg5/ODItMTI4MDQ5Njcz/MS5qcGVn.jpeg" alt="Cover for Subliminal Fear" style="max-width:120px; height:auto;" />
       </td>
@@ -368,7 +368,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56f06b12ea7f4536baaf37b7863b18d0.png" alt="Cover for Fast Forward" style="max-width:120px; height:auto;" />
       </td>
@@ -386,7 +386,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a427cf5885b24ee4802a741de3cdd2e8.png" alt="Cover for Claustrofobia" style="max-width:120px; height:auto;" />
       </td>
@@ -406,7 +406,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d87ff6af104b005a9c0b62b1e0953cb.png" alt="Cover for Деликатесы" style="max-width:120px; height:auto;" />
       </td>
@@ -425,7 +425,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/WaBW4Hr3yxLe1GHJFF0mSLrBdlqS-yLw6UvBiMEkHr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTQz/OTctMTM2MzcxNzc2/My02Njc0LmpwZWc.jpeg" alt="Cover for Rage to Revenge" style="max-width:120px; height:auto;" />
       </td>
@@ -465,7 +465,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td>2001-08</td>
@@ -482,7 +482,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f58616685cbd465e87d02a25135f04bc.png" alt="Cover for Thrasher" style="max-width:120px; height:auto;" />
       </td>
@@ -520,7 +520,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/ra5NnH-yWkVxkaIifkbRRleER4L1hrDm6KRf3ahDM9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTA3/MC0xMzEwNjY2ODA3/LmpwZWc.jpeg" alt="Cover for The Killer" style="max-width:120px; height:auto;" />
       </td>
@@ -539,7 +539,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/ReAJ_Tqezi2Hezg2QiB7l9ij6DEGd2Dddn-9e_Bk5wU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU3/NTMtMTIzNzUwMjA3/MC5qcGVn.jpeg" alt="Cover for Perfection In Pain" style="max-width:120px; height:auto;" />
       </td>
@@ -577,7 +577,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td>2002-12-27</td>
@@ -594,7 +594,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td>2003</td>
@@ -679,7 +679,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7f2b13de90d42c7a80fd8e07b9c551c.png" alt="Cover for Ghouls Of Grandeur" style="max-width:120px; height:auto;" />
       </td>
@@ -697,7 +697,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a96142528d8fbc7b998e2233aceab73.png" alt="Cover for Deadmeat Disciples" style="max-width:120px; height:auto;" />
       </td>
@@ -751,7 +751,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
       </td>
       <td>2004-03</td>
@@ -788,7 +788,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae07a4335a9a4969b39c47a54464bff4.png" alt="Cover for Crowned Unholy" style="max-width:120px; height:auto;" />
       </td>
@@ -806,7 +806,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/MZOI8_qWrTfXQFn3WDQvfZa7uwgPUb_0MgCLQcYZMHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjk0/NDEtMTIzOTYyMzM3/MC5qcGVn.jpeg" alt="Cover for Let Me Be Your Tank" style="max-width:120px; height:auto;" />
       </td>
@@ -824,7 +824,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/pahzZplZPGp3gqB7i1Y8iPXaYs8h0_YkOtAtN7WsbMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTMw/Ny0xMTA4MjE3MDM3/LmpwZw.jpeg" alt="Cover for Dawn of the Stillborn" style="max-width:120px; height:auto;" />
       </td>
@@ -860,7 +860,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>2005-01-31</td>
@@ -878,7 +878,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e09f1a3ec69740d6b84137accb046f38.png" alt="Cover for Hammers of Mayhem" style="max-width:120px; height:auto;" />
       </td>
@@ -898,7 +898,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7b7a1dd66b44972ba3060b578108c1c.png" alt="Cover for Reclaim the Beat" style="max-width:120px; height:auto;" />
       </td>
@@ -916,7 +916,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28247dcf65f04793b6f922daa02092da.png" alt="Cover for Evil Never Dies" style="max-width:120px; height:auto;" />
       </td>
@@ -937,7 +937,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab3b00351056f0e77e9d98372df8b1ee.png" alt="Cover for Sicario" style="max-width:120px; height:auto;" />
       </td>
@@ -974,7 +974,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9102938dc7b157c9ed0e26c43a21668a.png" alt="Cover for Deathrash Assault" style="max-width:120px; height:auto;" />
       </td>
@@ -993,7 +993,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ddffb373db147ef996148936441ba42.png" alt="Cover for Malevolent Rapture" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,7 +1010,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21501d37cae54a04bda0e29d54f7c2d9.png" alt="Cover for 100% Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1030,7 +1030,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/fVyhRUQdwTxK8ltf6QTjtGxruhD8cy93fiKTPYsUD9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTkx/NDEtMTIyNDI2OTQ3/Mi5qcGVn.jpeg" alt="Cover for United Havoc" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,7 +1072,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/pq9TVtV0-opHDgNd5hShE5jwXJq0M-U8ntjHRbfGOLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODg4/MTAtMTY2NDU2MzAy/NS00NzA1LmpwZWc.jpeg" alt="Cover for Failure to perfection" style="max-width:120px; height:auto;" />
       </td>
@@ -1091,7 +1091,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e41a17898f54501ba13c3ae0cec3f89.png" alt="Cover for The Eternal Conflagration" style="max-width:120px; height:auto;" />
       </td>
@@ -1112,7 +1112,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51fad0a5fcc244e38cd4a7b61a7dfa89.png" alt="Cover for Seitsemän surman siunausliitto" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,7 +1133,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc354ed4c8d543428cd4e60199dc4c1d.png" alt="Cover for Sons of the Jackal" style="max-width:120px; height:auto;" />
       </td>
@@ -1171,7 +1171,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c91ef155705b3671d482a042f8c2e381.png" alt="Cover for Future Of The Past II - Hell In The East" style="max-width:120px; height:auto;" />
       </td>
@@ -1249,7 +1249,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c87b7467501f4744858c6318e7f00b12.png" alt="Cover for Feel The Blade" style="max-width:120px; height:auto;" />
       </td>
@@ -1267,7 +1267,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ae291bb1f0ba19a94724985eae116a8.png" alt="Cover for Hellbound" style="max-width:120px; height:auto;" />
       </td>
@@ -1286,7 +1286,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db451b92c54f4ec5a64a9a092c240d34.png" alt="Cover for I See Red" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,7 +1306,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a44d93884b2c4d53a6e9c90cfcf2ca6e.png" alt="Cover for White Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1324,7 +1324,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1da2612d4ad54052ae822d27fad88819.png" alt="Cover for The Crusher - Reissue" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,7 +1383,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18a90203a6ca454c9d32fca66b109ef5.png" alt="Cover for C.I.A." style="max-width:120px; height:auto;" />
       </td>
@@ -1408,7 +1408,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/sLh-X_bt53blbucagJxxLxOD1HnQQ2dftmltwKMwXAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk4/OTIzLTE1MjA4NjQ1/MDktMTIwMC5qcGVn.jpeg" alt="Cover for Feared" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,7 +1446,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9f53c05dae94c4db269c41b49e71a98.png" alt="Cover for AEquilibrium" style="max-width:120px; height:auto;" />
       </td>
@@ -1465,7 +1465,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/vNmQ2W_hCc3-jfIyLZNI52O4PzTE_w3y-VnEmAfz4wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDQw/MjAtMTMyNjY0MzY4/MC5qcGVn.jpeg" alt="Cover for Rejects" style="max-width:120px; height:auto;" />
       </td>
@@ -1501,7 +1501,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/4AjU7cd6yXLch4jMEK3PyJMjCSGIv5pH0-Zrmb-cjWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDAx/MzctMTMwMzQyODU3/NS5qcGVn.jpeg" alt="Cover for Pervertopia" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1523,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
       </td>
       <td>2011-03-13</td>
@@ -1544,7 +1544,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/018e43b88e7744119919090335485cd6.png" alt="Cover for The Great Bludgeoning" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1588,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a09895ace4f483bafdda502d9dc6f56.png" alt="Cover for The Myth Of Purity" style="max-width:120px; height:auto;" />
       </td>
@@ -1606,7 +1606,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c432e497b1d64dd0883683f05af4d910.png" alt="Cover for Furor Incarnatus" style="max-width:120px; height:auto;" />
       </td>
@@ -1632,7 +1632,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e60c3e16bec4494bf296087cfc33ce3.png" alt="Cover for Murderlust" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,7 +1654,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/ORWFjm94RsXYCFasomgArBqDotBAreHqgsuVzzIx7Mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc1/NzItMTQ4NjgwMzY5/Mi02ODU0LmpwZWc.jpeg" alt="Cover for New Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1711,7 +1711,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/839a09a1ff8aef763c7f12a8b635011b.png" alt="Cover for Fear Itself" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,7 +1730,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/HLfvooZTyyN3Ncr8GEckwStDHg8IPwlVgSB7L76uMWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQ1/NTQ3LTE2MTc1MDU3/NDMtNjU2NC5qcGVn.jpeg" alt="Cover for Reborn" style="max-width:120px; height:auto;" />
       </td>
@@ -1766,7 +1766,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Pw6bKZj0VIGs2F56NmBRujnS7Td_dnYKr77uEuCDJ28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjIx/MzI5LTE2MTc1MDU1/MTQtOTA5NC5qcGVn.jpeg" alt="Cover for Svart" style="max-width:120px; height:auto;" />
       </td>
@@ -1784,7 +1784,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f67551d15355b76670cdc41ac4bbd5dd.png" alt="Cover for Reduced to Flesh" style="max-width:120px; height:auto;" />
       </td>
@@ -1803,7 +1803,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca9bada37b0b16f1b36ffad56f298d00.png" alt="Cover for The Rise of Heresy" style="max-width:120px; height:auto;" />
       </td>
@@ -1821,7 +1821,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c53e9179a376a9d4eacaf3fa8e174fc.png" alt="Cover for The Absence Of Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1842,7 +1842,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/uvaTvso47QzEqA9_Q_kl2GXEV3fmya62YGXT3-k1jvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYy/MzUyLTE2MzQzNDMw/NjEtMzM2MS5qcGVn.jpeg" alt="Cover for Sacrificio" style="max-width:120px; height:auto;" />
       </td>
@@ -1860,7 +1860,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5629afb5db467b67fd277523cb6b834.png" alt="Cover for Hatred Reborn" style="max-width:120px; height:auto;" />
       </td>
@@ -1942,7 +1942,7 @@ Death-thrash metal fuses the aggressive speed and rhythmic precision of thrash m
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/gK_bbv_ezuiW8_elWqp6a3sNo4eTT-rX9cyQW62nFEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg4/MTM3LTE3MjM3NTE4/NTctNjM5My5qcGVn.jpeg" alt="Cover for Guardian of the Universe" style="max-width:120px; height:auto;" />
       </td>

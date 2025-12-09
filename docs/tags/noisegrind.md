@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:03:48.123Z
+date: 2025-12-09T05:07:27.372Z
 permalink: tags/noisegrind
 title: noisegrind
 ---
 
 ## noisegrind
 
-Last updated: <time datetime="2025-12-05T05:03:48.123Z">Fri Dec 05 2025 07:03:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:07:27.372Z">Tue Dec 09 2025 07:07:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
   </thead>
   <tbody>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
       </td>
       <td>1972</td>
@@ -49,25 +49,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>
-          <img src="https://i.discogs.com/WNFmk5ScIXEdlWbP7HKCSyhMWuJk2kJR2OfPR5F0YyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY0/NTgtMTQ0Mzg3MTEz/OC00NDk3LmpwZWc.jpeg" alt="Cover for cripple bastards&#x2F;psychotic noise" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989</td>
-      <td>Cripple Bastards</td>
-      <td>cripple bastards&#x2F;psychotic noise</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/6s9IzVqi1i_U_ByybMyALNnW1Yyik7Yp2ZwtYQnUWy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc5/NDQtMTMxMjU4MDE1/NS5qcGVn.jpeg" alt="Cover for 5643 Song EP (7&#39;&#39; EP)" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +67,25 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/WNFmk5ScIXEdlWbP7HKCSyhMWuJk2kJR2OfPR5F0YyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY0/NTgtMTQ0Mzg3MTEz/OC00NDk3LmpwZWc.jpeg" alt="Cover for cripple bastards&#x2F;psychotic noise" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Cripple Bastards</td>
+      <td>cripple bastards&#x2F;psychotic noise</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>
       </td>
       <td>1989-09-05</td>
@@ -102,7 +102,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/VWCG_DuYeX7PCUnbKrU21s1MWks4Rbvw6rKSYaUq6I4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjA4/NC0xMzQxMjYyMDMx/LTcyMDAuanBlZw.jpeg" alt="Cover for Never Mind The Napalm Here&#39;s Sore Throat" style="max-width:120px; height:auto;" />
       </td>
@@ -120,7 +120,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/NtB8zg8rUxYpb7QckEZ4xTqgzUknI1pZT32JpXJSwwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzUw/NzctMTMyMzcwNjI1/NC5qcGVn.jpeg" alt="Cover for Stichpimpulibockforzelorum" style="max-width:120px; height:auto;" />
       </td>
@@ -138,7 +138,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/lhgMNC2dqEog603gr7iZoGPUuKovQ7xM4MA4ojr9V_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzk4/NS0xMTU0NzYzNjY3/LmpwZWc.jpeg" alt="Cover for Therapy of Noise" style="max-width:120px; height:auto;" />
       </td>
@@ -157,7 +157,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/7r2eiurQuKbNP2ecfeQ1Xs-LK9FZdBQoApYumw2rw-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTYw/My0xNTQ2MzQ5MDU2/LTI4MzEuanBlZw.jpeg" alt="Cover for Te Pudres" style="max-width:120px; height:auto;" />
       </td>
@@ -177,25 +177,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>
-          <img src="https://i.discogs.com/4tllijEEtDyN_P6cFrUobPTdlxFjp5z_cc6OrKw3EqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjM2/OTMtMTQ0NjIzMTU1/MC00MTE0LmpwZWc.jpeg" alt="Cover for Demo #1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>DICK TRACY LOVES NOISE</td>
-      <td>Demo #1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/p06hfGm-_m-jconUzyTc0osfK8JxMZ3MOa-YxPKlssc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzUw/MjQtMTQ1MDI2MDY2/Ni03ODA5LmpwZWc.jpeg" alt="Cover for Pneumatic Slaughter" style="max-width:120px; height:auto;" />
       </td>
@@ -213,7 +195,25 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/4tllijEEtDyN_P6cFrUobPTdlxFjp5z_cc6OrKw3EqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjM2/OTMtMTQ0NjIzMTU1/MC00MTE0LmpwZWc.jpeg" alt="Cover for Demo #1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>DICK TRACY LOVES NOISE</td>
+      <td>Demo #1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/PuvO2_rWjYk5iHzmD3E-RzE8kYPalmzU5wTvoTZH6hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzk2/Ny0xNTUzMTU0MTI3/LTM5OTEuanBlZw.jpeg" alt="Cover for Me voy a cagar en tu puta madre" style="max-width:120px; height:auto;" />
       </td>
@@ -231,7 +231,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/t4rbJVSJfa-lVawfAdb2aNnaYe12s8eAm2Qnd_6xLGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDU3/NC0xNTgzNjA3MDE0/LTc3ODMuanBlZw.jpeg" alt="Cover for Rectal Grinder" style="max-width:120px; height:auto;" />
       </td>
@@ -250,18 +250,18 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 61</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/CuiWMsEiauPicFFjvPbf-DRh5xjtOI1srR5FAxgDM3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjA5/Ni0xMTU2MTg2MDg2/LmpwZWc.jpeg" alt="Cover for Excreted Alive-Ulzera" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/KMvHMEW953nLES4EpxcgqbuNevj7A1eer7AbjqeVgLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTUz/NjgtMTI1MDc3MzAy/NC5qcGVn.jpeg" alt="Cover for Agacoples &#x2F; Brutal Noise" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
-      <td>Ulzera</td>
-      <td>Excreted Alive-Ulzera</td>
+      <td>agacoples</td>
+      <td>Agacoples &#x2F; Brutal Noise</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
@@ -273,7 +273,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/Im3OHPWzjKxsEKPt_JARwYKGGjfytu-Quj9CV_dXLpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTI5/OTktMTIzODYxMTI2/Mi5qcGVn.jpeg" alt="Cover for Are You Ready For Noise ?" style="max-width:120px; height:auto;" />
       </td>
@@ -294,13 +294,13 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/KMvHMEW953nLES4EpxcgqbuNevj7A1eer7AbjqeVgLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTUz/NjgtMTI1MDc3MzAy/NC5qcGVn.jpeg" alt="Cover for Agacoples &#x2F; Brutal Noise" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/CuiWMsEiauPicFFjvPbf-DRh5xjtOI1srR5FAxgDM3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjA5/Ni0xMTU2MTg2MDg2/LmpwZWc.jpeg" alt="Cover for Excreted Alive-Ulzera" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
-      <td>agacoples</td>
-      <td>Agacoples &#x2F; Brutal Noise</td>
+      <td>Ulzera</td>
+      <td>Excreted Alive-Ulzera</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
@@ -312,7 +312,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/xvJlWrdvagsy9nNGT_ReBi3LCeuQfzK6Zqu-P2JKaQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTU4/NS0xMzU1NzY4MDY3/LTM2OTQuZ2lm.jpeg" alt="Cover for Denak - Excreted Alive Split" style="max-width:120px; height:auto;" />
       </td>
@@ -331,7 +331,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>1997</td>
@@ -349,13 +349,12 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 39</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 99</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/QdyOCkvBGwxbrkitr-_8gBeCwLUxRvHBoT54KaBVG8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzYy/ODEtMTI5OTY5NTE1/OS5qcGVn.jpeg" alt="Cover for Seasons Are Going and Going..." style="max-width:120px; height:auto;" />
       </td>
@@ -377,7 +376,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>1997-02-11</td>
@@ -390,11 +389,12 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/kd74dezNAEkN59Tf8CAxTGGulNA2KlJXXB5EqJ0Rz_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzMz/OS0xMTY0NTIwMzQz/LmpwZWc.jpeg" alt="Cover for Realmente Disfruto Comiendo Cadáveres" style="max-width:120px; height:auto;" />
       </td>
@@ -414,7 +414,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/yok-Ew0uP24a7-UCVPlSBbPzTGbotI78ma_2bZEqjQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzg0/NS0xNjU0NTQ4MTQz/LTEzNzIuanBlZw.jpeg" alt="Cover for Noise-A-Go Go !!!" style="max-width:120px; height:auto;" />
       </td>
@@ -432,7 +432,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>47</td>
       <td>
       </td>
       <td>1999-11-09</td>
@@ -445,11 +445,12 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/q7SV9RUjULcWDOwN_dzWmVo0ZJ-6UiK13v3F4tg4yJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI1/NDYtMTQ5ODUzMzM1/OC02MTAxLmpwZWc.jpeg" alt="Cover for Arsedestroyer &#x2F; Gore Beyond Necropsy" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +470,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/Pf-nrgxQKz9qcsHoYMgKKS3XSsQ7UtD8J_fDsghal0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjAw/MzMtMTM0NTY4Mjk3/Mi05NjI4LmpwZWc.jpeg" alt="Cover for Goatsblood" style="max-width:120px; height:auto;" />
       </td>
@@ -489,7 +490,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/IVdmDNUzB5KEQmzBT-DxqAgWTy0sLffRUaEWG7lWZv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzYt/MTY4NTIxMzIwNi01/NDAxLmpwZWc.jpeg" alt="Cover for Live at Brixton Academy 1999" style="max-width:120px; height:auto;" />
       </td>
@@ -503,15 +504,17 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 10</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 16</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 23</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 93</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 11</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 14</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 18</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 61</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 66</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/1iahhedzlgRXFRdmiN7W_CYFyG15zxtYCd1jjHwkqY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjM0/NjAtMTM0NzI5NzIx/My01ODIzLmpwZWc.jpeg" alt="Cover for Demos I &amp; II" style="max-width:120px; height:auto;" />
       </td>
@@ -535,7 +538,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/3e98syxLPOREQN_sWemPpzSQ8jZlSBt_jFeUijxPCHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njgx/ODAtMTQ0NDIwNjM4/NC04OTc3LmpwZWc.jpeg" alt="Cover for Cultivating The Devil Goat Vomit Harvest" style="max-width:120px; height:auto;" />
       </td>
@@ -560,7 +563,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/5tGzV3OsuHgnSzDQXKtw87Fyb3D1zhatz6jMehFKPk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDY4/My0xMDc5MzgyMTkz/LmdpZg.jpeg" alt="Cover for Scissors" style="max-width:120px; height:auto;" />
       </td>
@@ -581,7 +584,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7bc7444552ea6d4f440e859ac78bd91.png" alt="Cover for All Is Lost...All Is Lost...All Is Yet To Be Found" style="max-width:120px; height:auto;" />
       </td>
@@ -594,12 +597,13 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathgrind" | relative_url }}">mathgrind</a> # 89</li>
+            <li> <a href="{{ "/tags/mathgrind" | relative_url }}">mathgrind</a> # 12</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/zzAtjVZeAN-D0jV6L9WbGhyhheAE_q0I7EgbAjwATXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzk3/Mi0xNjEwNDk5OTM0/LTI0MTIuanBlZw.jpeg" alt="Cover for Simian Hybrid Prototype" style="max-width:120px; height:auto;" />
       </td>
@@ -616,47 +620,11 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-      </td>
-      <td>2006</td>
-      <td>sete star step</td>
-      <td>napalm death is dead &#x2F; sete star step</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
-      <td>
-          <img src="https://i.discogs.com/tPnNSwM7HWbqj1lYbZ-yRyZdGrFty_pzPmnuVpxrPUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mzkw/Mi0xMTY2NzUyMDA4/LmpwZWc.jpeg" alt="Cover for permanent death &#x2F; slaughtergrave" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Slaughtergrave</td>
-      <td>permanent death &#x2F; slaughtergrave</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/aWadq_asyC6Fe8va3WpP-QoC7FlKY__hJtWCi06AvGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTIy/OC0xMTYzNjMxNTg1/LmpwZWc.jpeg" alt="Cover for napalm death is dead &#x2F; sete star step" style="max-width:120px; height:auto;" />
       </td>
@@ -674,7 +642,42 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/tPnNSwM7HWbqj1lYbZ-yRyZdGrFty_pzPmnuVpxrPUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mzkw/Mi0xMTY2NzUyMDA4/LmpwZWc.jpeg" alt="Cover for permanent death &#x2F; slaughtergrave" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Slaughtergrave</td>
+      <td>permanent death &#x2F; slaughtergrave</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>sete star step</td>
+      <td>napalm death is dead &#x2F; sete star step</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/AxwNAzTaGXb8pq6f6keiVfYJi0D8A_BR4b43WZrvKqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDAw/Mi0xMjU3MTAzODE3/LmpwZWc.jpeg" alt="Cover for Kasumi Toilet &#x2F; Warsore" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +696,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/R1QB_VZRvKs8QnSL5ohHF6T-PKgKHmeoGovMuKiTdXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIz/MjMtMTIzNTMxOTM5/My5qcGVn.jpeg" alt="Cover for Evolved Into Obliteration" style="max-width:120px; height:auto;" />
       </td>
@@ -709,12 +712,12 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 49</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/WP9ZW-3CDWUPDhSRg0ewFAaVlsn2BpNsf74uPZsuVz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDAy/OS0xMjk5NTE1ODUx/LmpwZWc.jpeg" alt="Cover for Anal Cunt Old Stuff Part 3" style="max-width:120px; height:auto;" />
       </td>
@@ -732,25 +735,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>
-          <img src="https://i.discogs.com/poVz-XdDeEokx-MbnzmMXIfA9dQqrU3dPukUKSgG90I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTAw/OTctMTM4MDEwNjUy/NC0yNjIwLmpwZWc.jpeg" alt="Cover for The Noisecore Days" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Violent Headache</td>
-      <td>The Noisecore Days</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/56x5154mpHmr5bzeUEQZ8iZFUV8L03T7Dqxr6b9n64Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTgx/NzAtMTQxODcxNzk2/NC01NTkzLmpwZWc.jpeg" alt="Cover for Total Glossectomy" style="max-width:120px; height:auto;" />
       </td>
@@ -768,7 +753,25 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/poVz-XdDeEokx-MbnzmMXIfA9dQqrU3dPukUKSgG90I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTAw/OTctMTM4MDEwNjUy/NC0yNjIwLmpwZWc.jpeg" alt="Cover for The Noisecore Days" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Violent Headache</td>
+      <td>The Noisecore Days</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/dEiwCcINcIJNTW_w34dVeJI8mlvLAzByLM9ot_vHNws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY4/NjY0LTE1OTM3ODQ4/NjQtMzgzNS5qcGVn.jpeg" alt="Cover for Full F**king Catharsis" style="max-width:120px; height:auto;" />
       </td>
@@ -789,7 +792,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/qNTby7Y0N5eXm6d7__BJWnROpJCYqoYxXx_6fu9W5Qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTgz/MjItMTM3NTg1ODgz/OS04NjE3LmpwZWc.jpeg" alt="Cover for Obsessed with Roadkill" style="max-width:120px; height:auto;" />
       </td>
@@ -807,7 +810,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07f2089a3b2d4781b1389882aff34941.png" alt="Cover for Augļi ir domāti, lai tos izmantotu ārēji" style="max-width:120px; height:auto;" />
       </td>
@@ -824,7 +827,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ded19add25563295cd639ef55d60305.png" alt="Cover for Wearing Out Our Welcome" style="max-width:120px; height:auto;" />
       </td>
@@ -838,12 +841,32 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 79</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/yIAk58HNvMtTH8nKK6KKSobErccwmXzmebp95817uCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjAz/NTMtMTI5OTc5OTI4/Ni5wbmc.jpeg" alt="Cover for Beibi Beibi Beibi EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Alonso Lopez</td>
+      <td>Beibi Beibi Beibi EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/TZs3G3pEiksNlNbpxE8W6JzrP1B2fE3PLMNOHf9OK3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjI4/OTYtMTM0NzI4Mjk2/MC04MDk0LmpwZWc.jpeg" alt="Cover for Goatfucked Demology: The Years of HellNoize" style="max-width:120px; height:auto;" />
       </td>
@@ -867,27 +890,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>50</td>
-      <td>
-          <img src="https://i.discogs.com/yIAk58HNvMtTH8nKK6KKSobErccwmXzmebp95817uCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjAz/NTMtMTI5OTc5OTI4/Ni5wbmc.jpeg" alt="Cover for Beibi Beibi Beibi EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Alonso Lopez</td>
-      <td>Beibi Beibi Beibi EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/bM5dwVzyq6PO_JbYaotVMFeFwBB-lk38YEP4HfD9m4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjYw/Nzc3LTE1NzA5NTA4/MjItMzc1Ny5qcGVn.jpeg" alt="Cover for Инвалидное Буйство" style="max-width:120px; height:auto;" />
       </td>
@@ -909,7 +912,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/ClTXX7VCIn2wEjqQb3eTq2OH4cX_NMUVSlxOqTilV20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjM4/NTQtMTM1MDcyMjIx/MC0zMjI2LmpwZWc.jpeg" alt="Cover for SaGoatan Rehearshellz" style="max-width:120px; height:auto;" />
       </td>
@@ -929,12 +932,12 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 91</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/PM4aBjUHXYdNA40AC6B2ZOCcvyqILeL09VJeR6lLeeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTk0/MDYtMTMyMjc1NzU1/Ny5wbmc.jpeg" alt="Cover for Segunda Violacion Sonora" style="max-width:120px; height:auto;" />
       </td>
@@ -954,7 +957,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37fe6d6d3e6d40baa38b909b619116c2.png" alt="Cover for Why The Innocent Die Young" style="max-width:120px; height:auto;" />
       </td>
@@ -978,47 +981,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-          <img src="https://i.discogs.com/UUkL6P9x_m6rb6TqcFbA8yc3jOZtyZEUgw2Q_Ozxbtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODU1/MzQtMTM0ODA2Njcw/My01ODU4LmpwZWc.jpeg" alt="Cover for Submit to Only Noise" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Gowl</td>
-      <td>Submit to Only Noise</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
-      <td>
-          <img src="https://i.discogs.com/VYX83WlCmAN8U-raI6zXwQFtvR2_Tp5-kiYcp6liJWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzE0/MzktMTQxNjY2NDEy/OC02NzU0LmpwZWc.jpeg" alt="Cover for Stenching Putrefaction Of Decomposing Cadaveric Organs" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Putrefaction Pestilence</td>
-      <td>Stenching Putrefaction Of Decomposing Cadaveric Organs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/hD3-XV-f3mNdS893wIb-XVTsWTvVc2ik12IApHKkMGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDU5/MzA5LTE2NzEwMDIx/NzItNjkxMi5qcGVn.jpeg" alt="Cover for Putrefactive decomposition of craneoencephalic and facial traumatic destruction" style="max-width:120px; height:auto;" />
       </td>
@@ -1040,7 +1003,47 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/VYX83WlCmAN8U-raI6zXwQFtvR2_Tp5-kiYcp6liJWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzE0/MzktMTQxNjY2NDEy/OC02NzU0LmpwZWc.jpeg" alt="Cover for Stenching Putrefaction Of Decomposing Cadaveric Organs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Putrefaction Pestilence</td>
+      <td>Stenching Putrefaction Of Decomposing Cadaveric Organs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/UUkL6P9x_m6rb6TqcFbA8yc3jOZtyZEUgw2Q_Ozxbtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODU1/MzQtMTM0ODA2Njcw/My01ODU4LmpwZWc.jpeg" alt="Cover for Submit to Only Noise" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Gowl</td>
+      <td>Submit to Only Noise</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
       </td>
       <td>2012-01-26</td>
@@ -1055,12 +1058,12 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 49</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/WJs2r5BMbUpL-EroTjFOIvh4-FJ_CU5l-J_3K-2vygs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTg0/MTItMTMzMTE1NTE4/Mi5qcGVn.jpeg" alt="Cover for Bonan Apetiton" style="max-width:120px; height:auto;" />
       </td>
@@ -1080,7 +1083,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/jNHfNdw6g5PU_vUPLbXeCfHMHmiB1lcpjxRy_NjaIck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjMz/NDQtMTQxNDEwOTg5/MC05NzQ4LmpwZWc.jpeg" alt="Cover for eat pussy,not animals ep" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,7 +1100,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/_6t7wCDfHcdBAbLYzE99D1PHHjRjIROgTHVOkUIkXS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzM2/MzgtMTQzNjc3MjMx/OS02NTU4LmpwZWc.jpeg" alt="Cover for Frostfucked SaGoatan Blasphemies" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,7 +1124,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/rOKYQhdbPBqiCtKN1KGiGqFB2szYsjwS3GRavZFFDew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTE5/MzItMTQyNDcyNDI1/OS04Nzg1LmpwZWc.jpeg" alt="Cover for Thought Index" style="max-width:120px; height:auto;" />
       </td>
@@ -1140,7 +1143,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/A-n_Hejm1V-Mw-jGC-yBnl5zlv4DFtnL3UT1zapHOH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjMz/NjMtMTQxNDExMDc1/MC00NjU3LmpwZWc.jpeg" alt="Cover for my life is winter hell ep" style="max-width:120px; height:auto;" />
       </td>
@@ -1159,7 +1162,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/EY0NIOOSk5UvOJy1g0skDxZhNl30OcqRIyR3h-JmvjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjUy/MzUtMTQzNzUzMzU0/NS00NTM3LmpwZWc.jpeg" alt="Cover for Rock &#39;n Roll or Fuck Off!!" style="max-width:120px; height:auto;" />
       </td>
@@ -1180,12 +1183,12 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 96</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/R0McVqnNc7aqTfTbsjXPNI1OWNMQ5dCFyMv-QdWzANg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTQ4/NTctMTM5NjQyMDYz/NC05ODk1LmpwZWc.jpeg" alt="Cover for The Zombies EP (Kusari Gama Kill&#x2F;Sarkofachocrss88 7&quot; split)" style="max-width:120px; height:auto;" />
       </td>
@@ -1204,7 +1207,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/bt6xWhckDTD1IErg6oxL75PTQqRfwxxEWbXM-lKbjU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mzcx/OTgtMTQyMzU5MDQ2/NC02NDUwLmpwZWc.jpeg" alt="Cover for demo 2014" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,7 +1226,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/756914bc31504aacca4baf6d9e86c668.png" alt="Cover for Mortis Fatum EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1245,7 +1248,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/TtzXNMWoZpTA4yyqtjU2pLCKzpc8ESBO6TC2P97vEa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjQ0/MzMtMTQ1MDQ1MDQy/OC03MDY0LmpwZWc.jpeg" alt="Cover for A putrid moment of pestilence" style="max-width:120px; height:auto;" />
       </td>
@@ -1266,7 +1269,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/6Tg4yc8jABlYwlC_l1smf8GeRH7wDZEWOrFubXV8Ke4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDg1/MjUtMTM0NDM1MzQw/Ni00Nzg3LmpwZWc.jpeg" alt="Cover for Death To Capitalist Halmshaw" style="max-width:120px; height:auto;" />
       </td>
@@ -1284,7 +1287,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/pVMJoaofPqFI_-LHown25jD2Wb0Aa5zFEjem0niGGDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjUy/NjYtMTQzNzUzNTE1/MC02MDI2LmpwZWc.jpeg" alt="Cover for Lard Curlyton&#39;z Greazy Chikken Fried Leftoverz" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,7 +1312,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/958c41aa54389dad1330f7a65943e2e0.png" alt="Cover for Sleep Betrays Us" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,7 +1339,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/-fZSi7E5uObDa0m65dM8k9VyBFgD1NJ37xV0D54H_2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njgy/MjAtMTQ0NDIwNzEy/MC03Njk0LmpwZWc.jpeg" alt="Cover for PRAISE THE FUKKEN LARD!!!!" style="max-width:120px; height:auto;" />
       </td>
@@ -1357,12 +1360,12 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 80</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/mpiEMyERtWHvoQXWSCvi4-nbAX88HT_jbxUOQpUCFM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTc0/NzgtMTQ0ODE0ODUy/OC0yNjQwLmpwZWc.jpeg" alt="Cover for Fukken Fat As Fukkin Fukk" style="max-width:120px; height:auto;" />
       </td>
@@ -1387,7 +1390,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/zlLRDLZqRNs3_IkvMtb1MBoZe6hHWrr6d6d3hpsJ8i8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTkw/ODYtMTQ1NzM2NjI0/Ni00Mzk0LmpwZWc.jpeg" alt="Cover for Lardmongers for Curlyton" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,7 +1415,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/qgR28bcFZxnSFoFdA2xVzL3FUySIUFEPGBYmQWCCNeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzg5/MzctMTQ2MDMzMTYz/Ni04NTY4LmpwZWc.jpeg" alt="Cover for Reversed Normalization" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,12 +1433,12 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 15</li>
+            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/_QJ4UBO4Kdyj60tTLmFCoiomx25Hq8LH2hHTloYARFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjQ4/ODgtMTQ2NTM5MjE0/OS0yMTc2LmpwZWc.jpeg" alt="Cover for Satanism&#39;s for Pussy&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,7 +1462,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/iq1AWKd38Pq9p9xF3WyAaVbI8dkid1XzjoF1WGnUSbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NzE2/MzYtMTQ3MDUwNzE3/Ni0yMzc0LmpwZWc.jpeg" alt="Cover for FUKK THIS WORLD" style="max-width:120px; height:auto;" />
       </td>
@@ -1484,7 +1487,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/z9ZIGaXqHDv8sUo9t3QIQv8dmcItmF80a7D-yeUmk10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM2/MzUtMTQ3MzQ0OTk5/MC04OTQwLmpwZWc.jpeg" alt="Cover for Los Black Noise Mariachi&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,12 +1509,12 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 88</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/aVVvvncs9_2E5dLm5U93dknD3UDABMXT4nlqKC2bL50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjEy/MzItMTQ4NDM3ODA2/MC03ODA3LmpwZWc.jpeg" alt="Cover for Hippy Helloween" style="max-width:120px; height:auto;" />
       </td>
@@ -1536,7 +1539,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/BPk0vj-e0eli2IoEf0C8_bR2CBWVf7ehFuEOC6ihm-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc2/NDEzLTE1NjUyOTgx/NjUtNTkxNi5qcGVn.jpeg" alt="Cover for 2016 demo" style="max-width:120px; height:auto;" />
       </td>
@@ -1555,7 +1558,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/rHFAUtD5D86PxzUZZM6agKfr2KQO7HIyECJOoBZqck4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjEz/MTAtMTQ4NDM3OTE3/MS00NTgxLmpwZWc.jpeg" alt="Cover for LORD OF THE LARD" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,7 +1583,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/XjYNc3tmDAdzN7ifNZX3npF8GjAonCALL3fFBJrYDTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYx/OTU4LTE0OTA5NjQy/ODgtMjk3Ny5qcGVn.jpeg" alt="Cover for Let Us In" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,7 +1608,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/yBEpjWiCmqeSlBixB06feomN0fte-xIQPbJS5-SO6g0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgx/Mzk1LTE1MDAzMTg1/MjEtMzg2Ni5qcGVn.jpeg" alt="Cover for Offerings to Curlyton" style="max-width:120px; height:auto;" />
       </td>
@@ -1629,7 +1632,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/KCZHJPGIkZ4qaOIIvsm_MWYy1e08gllEhbhphsvrEhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzg5/ODItMTQ1ODY3NTQx/Mi0zNTQ0LmpwZWc.jpeg" alt="Cover for Maximum Thrash &#x2F; Gorgonized Dorks" style="max-width:120px; height:auto;" />
       </td>
@@ -1650,7 +1653,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/q5ms1yUbWPvzZOKSzqK9BuoqdwkGnWA-in10ACQAziY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDA1/MzcyLTE2MDE5OTA1/OTgtNDM1My5qcGVn.jpeg" alt="Cover for Live @ Rock N Roll Gas Station" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,7 +1675,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9031bf91ba45d938cd0b72ca0341835.png" alt="Cover for Placebo Reality" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,7 +1700,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/_6t7wCDfHcdBAbLYzE99D1PHHjRjIROgTHVOkUIkXS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzM2/MzgtMTQzNjc3MjMx/OS02NTU4LmpwZWc.jpeg" alt="Cover for Frostfucked Black Metal Goatsodomy" style="max-width:120px; height:auto;" />
       </td>
@@ -1722,7 +1725,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/974d76fa877a7f5c6e6d636fc5e96373.png" alt="Cover for Death Monolith" style="max-width:120px; height:auto;" />
       </td>
@@ -1744,14 +1747,14 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 15</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 24</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 77</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 28</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 54</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/om9KaR__QZxiRZrNGPQxwzbDSKfgj2W9G5ajxeW3AKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzYw/NDE4LTE1MzM2NzI1/ODgtNDM3Ny5qcGVn.jpeg" alt="Cover for Ways Of Confusion" style="max-width:120px; height:auto;" />
       </td>
@@ -1769,7 +1772,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/oTxDsiazwZ0MqAuuOufT9mN2mEKfTg-uE5EYL1pCxoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE1/MjM4LTE1NTAwODU1/MDQtNTY4MC5qcGVn.jpeg" alt="Cover for TOYS FOR CATS" style="max-width:120px; height:auto;" />
       </td>
@@ -1789,7 +1792,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/jQ7YFnNGloCbkSIOtp1AV-SMd2HgUFDgviawjGcAoVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzYx/MzA3LTE2NzMwMzU3/NTgtNjU0My5qcGVn.jpeg" alt="Cover for Heralds Of The Untruth" style="max-width:120px; height:auto;" />
       </td>
@@ -1816,7 +1819,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/57qnE5UFqp1I9RsaDjnFgD0522YOljmFDT8bcbwsrAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjEx/OTItMTQ4NDM3Njkx/Mi01Nzg5LmpwZWc.jpeg" alt="Cover for Why Don&#39;t You Fukk Off?" style="max-width:120px; height:auto;" />
       </td>
@@ -1841,7 +1844,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/763b8b5782852c78f3b6c5c106d0b3ef.png" alt="Cover for Podarunok Pid Podushku Nahui" style="max-width:120px; height:auto;" />
       </td>
@@ -1861,7 +1864,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/EVoGLKVF2eaifyakv4ZPh0qLU0od4sZVxSAEp-yIcps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY2/MDE2LTE1OTg2NjYw/NDQtMzE2Mi5qcGVn.jpeg" alt="Cover for JapariGate" style="max-width:120px; height:auto;" />
       </td>
@@ -1883,12 +1886,11 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/lf75l-LKifdKfc4DF_iCv-KE_756Kdi_RhR1TTC7t00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjQ1/My0xMTEyNjk3MjMw/LmpwZw.jpeg" alt="Cover for copy" style="max-width:120px; height:auto;" />
       </td>
@@ -1908,7 +1910,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/OTNT18aQAQwu5W1P8t0a6s5wqYgxNWYAOw4XUdfu9yA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI4/ODE4LTE1MzcwMzc3/MDItMjAyMi5qcGVn.jpeg" alt="Cover for Expanding Antiverse" style="max-width:120px; height:auto;" />
       </td>
@@ -1926,7 +1928,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/e5VMEIGEJu_O_lnKT6Lo98AP13FRXvIu1KcUEgQB9ts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTc1/MDc1LTE2MzU4Nzg1/OTQtNDMxMi5qcGVn.jpeg" alt="Cover for A Fresh Breath On The Neck" style="max-width:120px; height:auto;" />
       </td>
@@ -1945,7 +1947,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
       </td>
       <td>2021-10-12</td>
@@ -1964,7 +1966,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>100</td>
       <td>
       </td>
       <td>2021-12-02</td>
@@ -1981,12 +1983,12 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathgrind" | relative_url }}">mathgrind</a> # 10</li>
+            <li> <a href="{{ "/tags/mathgrind" | relative_url }}">mathgrind</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/0nPhQQXTkBi_c9r54WCgvkbkGVvUw5pqRieAEJTnOVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzM1/MTkzLTE2NTMzNjk0/MzktMjY1NC5qcGVn.jpeg" alt="Cover for Every Drug All At Once" style="max-width:120px; height:auto;" />
       </td>
@@ -2007,7 +2009,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/WfDBaZJ817xcD-6mBcfUox7kcWw9V9825z6_xuCG67s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTEx/ODc5LTE2NDA2ODIw/NzYtMTE5MC5qcGVn.jpeg" alt="Cover for DEMO (2021)" style="max-width:120px; height:auto;" />
       </td>
@@ -2022,12 +2024,12 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 79</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
       </td>
       <td>2022-02-22</td>
@@ -2045,7 +2047,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/iuekOGuDedvSuyaKMZsTcRrG-X3x7eAkzK7wMAysXcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjQy/MjI4LTE2NTU3Njcy/OTItNDcxOC5qcGVn.jpeg" alt="Cover for II" style="max-width:120px; height:auto;" />
       </td>
@@ -2064,7 +2066,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/b82hvZMQS9pbTH7YEOjj13PyOBtyAOM_BLtpLRzress/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTgz/NDU1LTE2ODg1Mjg2/NzEtNzYyMS5qcGVn.jpeg" alt="Cover for Dynamite With a Laserbeam - Queen as Heard Through the Meat Grinder of Three One G" style="max-width:120px; height:auto;" />
       </td>
@@ -2081,12 +2083,12 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 63</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03500ac16f2a3dcb2488708eedce3874.png" alt="Cover for XBXSX" style="max-width:120px; height:auto;" />
       </td>
@@ -2112,7 +2114,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
       </td>
       <td></td>

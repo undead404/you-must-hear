@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:17:45.952Z
+date: 2025-12-08T09:44:51.686Z
 permalink: tags/thrashcore
 title: thrashcore
 ---
 
 ## thrashcore
 
-Last updated: <time datetime="2025-12-05T05:17:45.952Z">Fri Dec 05 2025 07:17:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T09:44:51.686Z">Mon Dec 08 2025 11:44:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -177,7 +177,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 16</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -610,7 +610,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 71</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -745,7 +745,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 88</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1220,7 +1220,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 77</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1759,7 +1759,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 95</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1847,9 +1847,9 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
         <ul>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 5</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 6</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 10</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 64</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1892,7 +1892,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 3</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2043,8 +2043,8 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fastcore" | relative_url }}">fastcore</a> # 43</li>
             <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 43</li>
+            <li> <a href="{{ "/tags/fastcore" | relative_url }}">fastcore</a> # 43</li>
         </ul>
       </td>
     </tr>

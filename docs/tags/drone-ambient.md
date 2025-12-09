@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T09:33:22.372Z
+date: 2025-12-08T13:20:10.848Z
 permalink: tags/drone-ambient
 title: drone ambient
 ---
 
 ## drone ambient
 
-Last updated: <time datetime="2025-12-05T09:33:22.372Z">Fri Dec 05 2025 11:33:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-08T13:20:10.848Z">Mon Dec 08 2025 15:20:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
   </thead>
   <tbody>
     <tr>
-      <td>53</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/RKFXAwdm_3sRfvAsUT3Je2oKqAZGl6f0R0CsGMd6H8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTY3/MC0xNTk4NjU4MTA5/LTIxOTcuanBlZw.jpeg" alt="Cover for Four Full Flutes" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9b7c3f1e3474a63a8fe0bd32228e157.png" alt="Cover for Teimo" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b1994f1a2e344a486558b073cc27833.png" alt="Cover for Permafrost" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/zvWutB2Nb5jWxPhGTc1ZAw19bguChX0NFoWieLcxm1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDMw/NS0xNDQ2ODI5MjEy/LTg2MjcuanBlZw.jpeg" alt="Cover for Archaic States" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
       </td>
       <td>1994-11</td>
@@ -127,7 +127,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd89865c692845318dbc7fee8da95fda.png" alt="Cover for Vesperia" style="max-width:120px; height:auto;" />
       </td>
@@ -153,7 +153,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86f1a08a78c6487a84869275bca87b17.png" alt="Cover for Commissioned Music" style="max-width:120px; height:auto;" />
       </td>
@@ -174,7 +174,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b31d6e8cd792d25e9c2574da5f6d3ab1.png" alt="Cover for The Beauty of Sadness" style="max-width:120px; height:auto;" />
       </td>
@@ -194,7 +194,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93afc598e76643dea7eac5fae7b4be2e.png" alt="Cover for All My Dead Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -218,7 +218,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/X7EfwF6W0c9PR8pL3kUj8ZEwo4BupgVU0gfJ-TZ3XaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQx/My0xNDYwNjM5ODU3/LTMzNzQuanBlZw.jpeg" alt="Cover for Colori" style="max-width:120px; height:auto;" />
       </td>
@@ -236,7 +236,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/mfqagrqXZ4k-pelBJdVt50_qD3H08b7Iw-UsyAKpWXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTYw/OS0xMTIyMjQzNTk4/LmpwZw.jpeg" alt="Cover for Dreaming Muzak" style="max-width:120px; height:auto;" />
       </td>
@@ -256,7 +256,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/eXldqVvRQGHbde2m9hbHIk9KH6qdjocYZ5a7RJBzq_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk3/ODAtMTI1NTAxMDcz/My5qcGVn.jpeg" alt="Cover for ...Из Мрака Могил. Каменные Колодцы Вечности" style="max-width:120px; height:auto;" />
       </td>
@@ -275,7 +275,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
       </td>
       <td>2000</td>
@@ -302,7 +302,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>2000-09</td>
@@ -320,7 +320,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/h0INeTfIjU-Zkca2Uki-8b3ppYC2-EG-G9u6Z1kymA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTY0/LTEyMjA3MTE2NTMu/anBlZw.jpeg" alt="Cover for Mercurius" style="max-width:120px; height:auto;" />
       </td>
@@ -339,7 +339,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>60</td>
       <td>
       </td>
       <td>2001-04-03</td>
@@ -362,7 +362,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>2002</td>
@@ -379,7 +379,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9942b669e60c4d93ae1453279efcd900.png" alt="Cover for Collected" style="max-width:120px; height:auto;" />
       </td>
@@ -400,13 +400,13 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/WyHCx3X0-9JauiCT1r9Ww--ffqKVHzZSJ3YJH1jBy-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODAx/MS0xMjgxMjI0Nzcy/LmpwZWc.jpeg" alt="Cover for The Spirals of Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b57b01b9195f09d777228febc4067857.png" alt="Cover for Vision" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
-      <td>Oöphoi</td>
-      <td>The Spirals of Time</td>
+      <td>Klaus Wiese</td>
+      <td>Vision</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
@@ -416,12 +416,34 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 54</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8456c92a879402f143b6b3880f0a3068.png" alt="Cover for Mare Tranquillitatis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Oöphoi</td>
+      <td>Mare Tranquillitatis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 10</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
       </td>
       <td>2004</td>
@@ -447,35 +469,13 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>90</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8456c92a879402f143b6b3880f0a3068.png" alt="Cover for Mare Tranquillitatis" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/WyHCx3X0-9JauiCT1r9Ww--ffqKVHzZSJ3YJH1jBy-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODAx/MS0xMjgxMjI0Nzcy/LmpwZWc.jpeg" alt="Cover for The Spirals of Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Oöphoi</td>
-      <td>Mare Tranquillitatis</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
-            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 10</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b57b01b9195f09d777228febc4067857.png" alt="Cover for Vision" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Klaus Wiese</td>
-      <td>Vision</td>
+      <td>The Spirals of Time</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
@@ -485,12 +485,12 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 8</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/sotayOd8DQvJE4y0XICvPGh4r1dYaCEFfIfk0KI-BvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI3/NzgtMTE4Mjg0ODQ5/MC5naWY.jpeg" alt="Cover for Mystical Violin" style="max-width:120px; height:auto;" />
       </td>
@@ -512,7 +512,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/wd4Dk5QXQfOC3PYD5mi3UhGMTvFqTSrhJnHX5nAWMg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODA2/NS0xNDk4NTgwMTgz/LTY3MzYuanBlZw.jpeg" alt="Cover for Graveflowers" style="max-width:120px; height:auto;" />
       </td>
@@ -532,7 +532,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/609e1f0876c94dae9284ec18be921b2e.png" alt="Cover for Nuuk" style="max-width:120px; height:auto;" />
       </td>
@@ -553,7 +553,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7301d4a169424f5f8e7c4ad7ef904f1b.png" alt="Cover for The Starwheel" style="max-width:120px; height:auto;" />
       </td>
@@ -572,7 +572,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/V6cAKXQWvwueXdIDtKBMEnGZE1VuktGm68sp5tcXv_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODI3/NDMtMTQ0NDUxNDYy/NC05OTAxLmpwZWc.jpeg" alt="Cover for Space" style="max-width:120px; height:auto;" />
       </td>
@@ -590,7 +590,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
       </td>
       <td>2005-02</td>
@@ -612,7 +612,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d57e6906153590c90f7f762895156553.png" alt="Cover for Hymns to a Silent Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -632,7 +632,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
       </td>
       <td>2005-06-16</td>
@@ -649,7 +649,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/QQ-fX0hRCtPI8Yly8Y2a5ljsCEsQvVAd4ESvRmcYZvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwODky/NS0xMTcxNzI4ODU4/LmpwZWc.jpeg" alt="Cover for You never atone for..." style="max-width:120px; height:auto;" />
       </td>
@@ -667,7 +667,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4486ea3c83124b53b3bf14e6d8b26480.png" alt="Cover for Stases" style="max-width:120px; height:auto;" />
       </td>
@@ -685,7 +685,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8fd46b6c50608c6239f02e44b97ec9b.png" alt="Cover for Nova Lux" style="max-width:120px; height:auto;" />
       </td>
@@ -704,7 +704,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0af4ef7eb2d0e9648454c1fd418710e9.png" alt="Cover for SERENE LIFE OF MICROBES" style="max-width:120px; height:auto;" />
       </td>
@@ -730,7 +730,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/bbf-0lYE9aLz8UQ0FrNWSyTx1FPsHmnWZrvyppDrwdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTMz/Mi0xNjc5Nzg5MDQx/LTIyMTAuanBlZw.jpeg" alt="Cover for Devotio" style="max-width:120px; height:auto;" />
       </td>
@@ -749,25 +749,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>50</td>
-      <td>
-          <img src="https://i.discogs.com/xArha4cClXZwSzovFORJie_R-xLRc7knYTgq2JNBQr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjk1/MDktMTMyMzQ5MzAx/Ny5qcGVn.jpeg" alt="Cover for New Dominions" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Locrian</td>
-      <td>New Dominions</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2007</td>
@@ -785,7 +767,25 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/xArha4cClXZwSzovFORJie_R-xLRc7knYTgq2JNBQr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjk1/MDktMTMyMzQ5MzAx/Ny5qcGVn.jpeg" alt="Cover for New Dominions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Locrian</td>
+      <td>New Dominions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/eCwzuqyWZlF3v0UiPT-9anVKREZtQiu2SPZG80CBrls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDA1/MS0xMzIyMzIyOTkx/LmpwZWc.jpeg" alt="Cover for Vol. I" style="max-width:120px; height:auto;" />
       </td>
@@ -805,7 +805,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1586c91e8e5b43ab8e8200cb79f0fdab.png" alt="Cover for Deep Frieze" style="max-width:120px; height:auto;" />
       </td>
@@ -824,7 +824,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>2007-06</td>
@@ -844,7 +844,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>2007-07-13</td>
@@ -861,7 +861,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>2007-08-01</td>
@@ -880,7 +880,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
       </td>
       <td>2007-08-13</td>
@@ -897,7 +897,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/vkJlSfHbIBF77xgLVQslY9gNlYo3myKv1_iWa6Vugj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTky/NDQtMTE5MTk0MTg0/MS5qcGVn.jpeg" alt="Cover for seme&gt;zemlya" style="max-width:120px; height:auto;" />
       </td>
@@ -917,7 +917,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/YOqfXQkg0yvEiBrwWWi-xEElvm_OkO_wl1UT0BXIo2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjEw/NTUtMTM0MzM5MjUx/Ni02NTI5LmpwZWc.jpeg" alt="Cover for Impale Golden Horn" style="max-width:120px; height:auto;" />
       </td>
@@ -935,7 +935,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/kIPuMjH5osE-nU3cnfCG0HBzQGRR0Bj2SrjrUcwigEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDAz/Mi0xMTUzODIxMjI5/LmpwZWc.jpeg" alt="Cover for Heaku Bervisz" style="max-width:120px; height:auto;" />
       </td>
@@ -958,7 +958,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/m2eHxY8ANhX7QZdGT2UXvcG7m-PEFZH89xAKe3CBgAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTE1/MDktMTI0MTAwOTgw/MC5qcGVn.jpeg" alt="Cover for Хорна" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +978,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/FAOxMMR9hvIZ1fTtC082zkogPq3KIh6V6usqIrIj6ZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjE2/MzMtMTIwNDU3Mjc1/OC5qcGVn.jpeg" alt="Cover for unicorn power" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,7 +1007,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/094e98ec370a4951c928cc1a21850c65.png" alt="Cover for Discourses Of The Withered" style="max-width:120px; height:auto;" />
       </td>
@@ -1025,7 +1025,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/HWhTTrTfJ2XnFJgzt-TjoyASMDr8IyKc3_pz_t9G2ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDk0/NDUtMTIyNDIwMjk0/MC5qcGVn.jpeg" alt="Cover for Breath of Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1043,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/QRiN3wRjwpqb3i66_C90KurcPz5I0XC6-2HT5kE_Goo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQw/MDktMTI4MjUwNDg1/My5qcGVn.jpeg" alt="Cover for Zerkalo" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,7 +1064,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0957539cface48e79d12e52026859462.png" alt="Cover for Early morning | 2009" style="max-width:120px; height:auto;" />
       </td>
@@ -1083,7 +1083,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2009-01-30</td>
@@ -1103,7 +1103,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>54</td>
       <td>
       </td>
       <td>2009-04-28</td>
@@ -1121,7 +1121,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/BgIOQkDMU2UOrhOuZojMO83nDOLlVLlkDjAM3ilNE-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTk1/ODItMTI0NDEyMzY2/Ni5qcGVn.jpeg" alt="Cover for Erotikon" style="max-width:120px; height:auto;" />
       </td>
@@ -1139,7 +1139,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad36af1f61d74d1c8b1b2cb9a2b1b072.png" alt="Cover for Vespertine: A Tragedy In Several Tones Of Grey" style="max-width:120px; height:auto;" />
       </td>
@@ -1159,7 +1159,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/938861c56aeb46308d1a80bf151703bd.png" alt="Cover for Modlitewnik" style="max-width:120px; height:auto;" />
       </td>
@@ -1179,7 +1179,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/Tm8RbMjUIZTmRzzJVEm2ZKi9osDfwsZSOLp_2Foksa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTE1/NzgtMTQwOTc2MTI5/My0xMzM3LmpwZWc.jpeg" alt="Cover for Рябина" style="max-width:120px; height:auto;" />
       </td>
@@ -1198,7 +1198,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2010-10-25</td>
@@ -1221,7 +1221,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/5U3tlNh-B57E2M65yO550cAjtFgfXfeFb8juMLsLx6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjc1/NzEtMTI4ODg4MTI3/Ny5qcGVn.jpeg" alt="Cover for Memories in Widescreen" style="max-width:120px; height:auto;" />
       </td>
@@ -1239,7 +1239,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/ZydnmRcXxruIF2KiPOqZ0uSmpu7cLj9eaZdPYCrhX0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU5/NjUtMTM0NTY4NjYz/NS04MDI3LmpwZWc.jpeg" alt="Cover for Progression" style="max-width:120px; height:auto;" />
       </td>
@@ -1257,7 +1257,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/xjA9vurc_glptsHnTk15dxZPJluQwa5dcV94Lpid3t4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjg5/MjAtMTMwODMxNjgy/Mi5qcGVn.jpeg" alt="Cover for The Astral Travels" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1277,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9f556197a5b4c3c95df78e78fc726c1.png" alt="Cover for Of Luminous Things..." style="max-width:120px; height:auto;" />
       </td>
@@ -1304,7 +1304,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>2011-12-17</td>
@@ -1325,7 +1325,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
       </td>
       <td>2011-12</td>
@@ -1342,61 +1342,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td>2012</td>
-      <td>The Legendary Pink Dots</td>
-      <td>The Creature That Tasted Sound</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td>
-          <img src="https://i.discogs.com/5p3t0DhNue2T2s6RmApxDMX6CYiW0GP5lRu0EA2k3HA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTI1/MjEtMTMzMDkzNDg4/NC5qcGVn.jpeg" alt="Cover for Cosmic Despair" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Wastelanders</td>
-      <td>Cosmic Despair</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
-      <td>
-      </td>
-      <td>2012</td>
-      <td>Arktau Eos</td>
-      <td>Unworeldes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
       </td>
       <td>2012</td>
@@ -1414,7 +1360,61 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2012</td>
+      <td>Arktau Eos</td>
+      <td>Unworeldes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/5p3t0DhNue2T2s6RmApxDMX6CYiW0GP5lRu0EA2k3HA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTI1/MjEtMTMzMDkzNDg4/NC5qcGVn.jpeg" alt="Cover for Cosmic Despair" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Wastelanders</td>
+      <td>Cosmic Despair</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2012</td>
+      <td>The Legendary Pink Dots</td>
+      <td>The Creature That Tasted Sound</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/01N_tANJU18HX2R6QsILre9jWftYkuw-bTuBpoTNzGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDkx/MDgtMTM0Njc4NDI2/My03ODQ5LmpwZWc.jpeg" alt="Cover for Nuclear Winter" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,7 +1438,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Z441Yc4Vpc-nyX2Iy3HyE-HIBuIeY1ph5zidiI6_-io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzky/MzQtMTMzNDQzMDE5/NS5qcGVn.jpeg" alt="Cover for Already Gone" style="max-width:120px; height:auto;" />
       </td>
@@ -1456,7 +1456,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2012-06-04</td>
@@ -1473,7 +1473,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/cb9pC3V6Lvt-c78YwtJUsOVFHCVIC6_8YaWzA-vUUS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDQ3/NjEtMTM1NjE2ODAz/MC05MzE5LnBuZw.jpeg" alt="Cover for The Pace of Which" style="max-width:120px; height:auto;" />
       </td>
@@ -1514,7 +1514,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f851fc5419444439459e700211839c6.png" alt="Cover for Wanderlust" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,7 +1537,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
       </td>
       <td>2013-02-05</td>
@@ -1555,7 +1555,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/l54BpDUy0i3f3cEOnfWPX3K4cjMgnb-bL4pnJ8Xv0ks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDM5/ODAtMTM2NDU5OTI0/My00Njk5LmpwZWc.jpeg" alt="Cover for Ekhar" style="max-width:120px; height:auto;" />
       </td>
@@ -1574,7 +1574,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/ESfk3OXPjfwrKxUxMXcbGOgoqfKxBirDZmx-L56w76Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDkw/ODEtMTQzODYxODA2/MS04NjUyLmpwZWc.jpeg" alt="Cover for The Word As Power" style="max-width:120px; height:auto;" />
       </td>
@@ -1595,7 +1595,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/6PONLKjoF_WFnOSr42UWnPAtU0m78kxUvzoM89g_3ho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODUz/MDktMTQxNTA1NzYx/NC00ODY4LmpwZWc.jpeg" alt="Cover for Mytrip | EUS Split" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1616,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
       </td>
       <td>2013-12-15</td>
@@ -1633,7 +1633,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dec06f5f72064502c5e50cfdece16657.png" alt="Cover for Looping Around the Forest I Thought I Remembered" style="max-width:120px; height:auto;" />
       </td>
@@ -1653,7 +1653,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdb24afa8808419fc189617ffbca95f0.png" alt="Cover for длинные песни приятные слуху" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,7 +1673,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/sowRb5MpmmuX1b4pje1jbqrRRi0WXzIlApM5P_9u08w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjc1/NDUtMTM5NTY3OTYx/MC01NzQ3LmpwZWc.jpeg" alt="Cover for Indrawing" style="max-width:120px; height:auto;" />
       </td>
@@ -1695,7 +1695,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b688af0756a149a6c92581ede088fe88.png" alt="Cover for Flowertraces" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1715,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/uj7yBtttvxDxZGizvvMv96lE_-GPckS7Vw0qXnYBnWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk4/NTEtMTQyMjIwNjcz/NC00NzM5LmpwZWc.jpeg" alt="Cover for Parallel Landscapes" style="max-width:120px; height:auto;" />
       </td>
@@ -1733,7 +1733,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/x38QJYDbwSAEtvmBLqY-zU8lG2s1Nm5hP95e3a-Kj7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDYx/NDMtMTQ0NzEwODM0/MS0zNDUzLmpwZWc.jpeg" alt="Cover for Землеведение" style="max-width:120px; height:auto;" />
       </td>
@@ -1754,7 +1754,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/YuxPxcWF4V1NWX2qyqP0E_3yx65Jhx1b9bRPoh5sOG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDky/MzYyLTE1OTI0Mjk4/NjgtMTk3Mi5qcGVn.jpeg" alt="Cover for Vespertine" style="max-width:120px; height:auto;" />
       </td>
@@ -1772,7 +1772,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d4d77181aecb0305d08ee11ef9ad4aa.png" alt="Cover for Above All Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1792,7 +1792,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/gJsfb73WQmyRuUqCCLeK042B9HkaWkFYYqZF4QH7Fac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTkw/MTMxLTE1NDk2NDgy/MjctODkzMS5qcGVn.jpeg" alt="Cover for hope this finds you well" style="max-width:120px; height:auto;" />
       </td>
@@ -1810,7 +1810,45 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1ce55610c6082a6bab9351bc8510cb1.png" alt="Cover for Selected Organ Works" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-07-12</td>
+      <td>øjeRum</td>
+      <td>Selected Organ Works</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 53</li>
+            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 72</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e82301f3919ff766adf2bfa77e422e22.png" alt="Cover for Forgotten Works" style="max-width:120px; height:auto;" />
       </td>
@@ -1848,45 +1886,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>29</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1ce55610c6082a6bab9351bc8510cb1.png" alt="Cover for Selected Organ Works" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-07-12</td>
-      <td>øjeRum</td>
-      <td>Selected Organ Works</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 53</li>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 71</li>
-            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 72</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aa985e21d60cd4aeaf17dcb55156f05.png" alt="Cover for Constants" style="max-width:120px; height:auto;" />
       </td>
@@ -1905,7 +1905,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/279QvKPFDGSo8gsTB2nDVX6Yfhpz3htnw9TfSh7cOAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDk5/NTI2LTE2NTk3OTMx/NTUtNzk3MC5qcGVn.jpeg" alt="Cover for Norns" style="max-width:120px; height:auto;" />
       </td>
@@ -1923,7 +1923,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/sC8RxQz_s2Kpyx-af-qdrAu1MSbeqiYGDUGc8wc76Sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/NjE5LTE0OTc1NjU0/ODUtMjYzNi5qcGVn.jpeg" alt="Cover for he remembers there were gardens" style="max-width:120px; height:auto;" />
       </td>
@@ -1960,7 +1960,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a88e62f4fff8faad09599ae91387b8d8.png" alt="Cover for Pure" style="max-width:120px; height:auto;" />
       </td>
@@ -1980,7 +1980,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/nAP9MrrcrygH4N7pzrOq1s13fFL61WToktfSjD4PqgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTgz/NzMyLTE2ODQ5OTk1/MTQtMjQwOS5qcGVn.jpeg" alt="Cover for Des Larmes Et Des Saints" style="max-width:120px; height:auto;" />
       </td>
@@ -2001,7 +2001,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16d5e9c19e001acf46ddd9f7c7ec6f04.png" alt="Cover for EnVain III : Voices of the Night" style="max-width:120px; height:auto;" />
       </td>
@@ -2020,7 +2020,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -2041,12 +2041,31 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>47</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Crassus</td>
+      <td>These Darkening Days</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a052dd443326e1d52661682ab7d06501.png" alt="Cover for Cellophane Memories" style="max-width:120px; height:auto;" />
       </td>
@@ -2064,26 +2083,6 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Crassus</td>
-      <td>These Darkening Days</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
         </ul>
       </td>
       <td>

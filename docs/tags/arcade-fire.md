@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:04:40.015Z
+date: 2025-12-09T05:07:39.327Z
 permalink: tags/arcade-fire
 title: arcade fire
 ---
 
 ## arcade fire
 
-Last updated: <time datetime="2025-12-05T05:04:40.015Z">Fri Dec 05 2025 07:04:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:07:39.327Z">Tue Dec 09 2025 07:07:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -166,7 +166,6 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -204,7 +203,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 68</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -225,6 +224,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -372,7 +372,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 76</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -400,7 +400,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 36</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -502,8 +502,8 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 19</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 75</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 27</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -522,6 +522,24 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca8743e0b5274e5ba59a43d1a3cb2241.png" alt="Cover for The Early Year" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>School Is Cool</td>
+      <td>The Early Year</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -549,23 +567,6 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca8743e0b5274e5ba59a43d1a3cb2241.png" alt="Cover for The Early Year" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>School Is Cool</td>
-      <td>The Early Year</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>23</td>
       <td>
       </td>
@@ -581,7 +582,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 74</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -600,7 +601,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 36</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -618,6 +619,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -664,7 +666,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 94</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -690,7 +692,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 93</li>
+            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -813,7 +815,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 58</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -959,7 +961,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 30</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1066,8 +1068,8 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 47</li>
-            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 95</li>
+            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 51</li>
+            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1142,7 +1144,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 23</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1169,7 +1171,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 31</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1195,8 +1197,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       <td>
         <ul>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 1</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 2</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 80</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1337,27 +1338,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 19</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Replica Sounds</td>
-      <td>Progress</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam" | relative_url }}">jam</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 100</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1374,11 +1355,9 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 39</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 53</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 77</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 94</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 97</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 41</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 55</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1414,7 +1393,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 52</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1442,7 +1421,7 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 69</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1466,9 +1445,9 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 23</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 29</li>
-            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 96</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 19</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 24</li>
+            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1493,7 +1472,74 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 33</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Max Kain</td>
+      <td>Ruins</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/justice" | relative_url }}">justice</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/justice" | relative_url }}">justice</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>A2Z&#39;s</td>
+      <td>2 Past Midnight</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/charts" | relative_url }}">charts</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/charts" | relative_url }}">charts</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1549,6 +1595,25 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Replica Sounds</td>
+      <td>Progress</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam" | relative_url }}">jam</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
         </ul>
       </td>
       <td>
@@ -1904,69 +1969,6 @@ This tag captures indie rock with grand, emotional orchestration featuring rich 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Max Kain</td>
-      <td>Ruins</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
-      <td>
-      </td>
-      <td></td>
-      <td>A2Z&#39;s</td>
-      <td>2 Past Midnight</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
         </ul>
       </td>
       <td>
