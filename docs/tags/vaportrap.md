@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:32:49.797Z
+date: 2025-12-09T05:15:25.250Z
 permalink: tags/vaportrap
 title: vaportrap
 ---
 
 ## vaportrap
 
-Last updated: <time datetime="2025-12-05T05:32:49.797Z">Fri Dec 05 2025 07:32:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:15:25.250Z">Tue Dec 09 2025 07:15:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -59,7 +59,7 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 88</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -78,7 +78,9 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 60</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 14</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 43</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -94,6 +96,23 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27221eb94035473ab9740b99dac93ea4.png" alt="Cover for suicideyear" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-10-16</td>
+      <td>Suicideyear</td>
+      <td>suicideyear</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -162,6 +181,24 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
     </tr>
     <tr>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c632bc42f9594f53cfb5fdb3e3ec08f6.png" alt="Cover for Seapunk" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-04-08</td>
+      <td>Ultrademon</td>
+      <td>Seapunk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>5</td>
       <td>
       </td>
@@ -173,6 +210,23 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/039d65afc11f4a10afa8644246d1d733.png" alt="Cover for Japan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-01</td>
+      <td>Suicideyear</td>
+      <td>Japan</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -195,7 +249,10 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 73</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 8</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 29</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 39</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -213,7 +270,7 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 89</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -231,6 +288,8 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 55</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -274,7 +333,6 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -310,7 +368,7 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 56</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -395,6 +453,23 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d707639490dc4af2ca830cc0abb751a6.png" alt="Cover for Remembrance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-09-23</td>
+      <td>Suicideyear</td>
+      <td>Remembrance</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -501,8 +576,7 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 62</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 66</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -554,8 +628,9 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 3</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 57</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 15</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -578,8 +653,7 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 34</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 95</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -607,7 +681,7 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 41</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -647,6 +721,23 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
     </tr>
     <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d9f9d44c187fff6e2a138d95a7cd486.png" alt="Cover for Spectral Bands: [Green]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01-20</td>
+      <td>Spectra Vision Corp.</td>
+      <td>Spectral Bands: [Green]</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94abe08fcbf3eb7fc0ee2f2bd9a26fe0.png" alt="Cover for Acid Arcadia" style="max-width:120px; height:auto;" />
@@ -660,7 +751,9 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 37</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 26</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 68</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -747,7 +840,6 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -800,7 +892,27 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 50</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 31</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 60</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0ec8fd0c8f4fb852c9041f84f84a5d9.png" alt="Cover for Disc Atmospherics" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-01</td>
+      <td>Acetantina</td>
+      <td>Disc Atmospherics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -830,6 +942,23 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
     </tr>
     <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb27a3da00047ec652cf9d8e0d4ad228.png" alt="Cover for Cure for Pharma" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-12-21</td>
+      <td>VHS MIDNIGHT STYLE</td>
+      <td>Cure for Pharma</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7ee44337b915de37ba39c7ca6ad8742.png" alt="Cover for Metamorphosis" style="max-width:120px; height:auto;" />
@@ -844,6 +973,7 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -862,7 +992,7 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 57</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -906,11 +1036,11 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
         <ul>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 1</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 2</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 4</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 9</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 15</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 17</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 18</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 10</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 10</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 12</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -936,7 +1066,6 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -990,7 +1119,8 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 29</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 22</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1186,6 +1316,24 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
     </tr>
     <tr>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db2000128120efe860a728f7f8a74cea.png" alt="Cover for Vintage LSD Compilation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-21</td>
+      <td>Yung Bruh</td>
+      <td>Vintage LSD Compilation</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9bd0323c1845f6b04c46ffdd8da54af.png" alt="Cover for Vintage LSD Compilation (feat. Vim Shadows)" style="max-width:120px; height:auto;" />
@@ -1211,23 +1359,6 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db2000128120efe860a728f7f8a74cea.png" alt="Cover for Vintage LSD Compilation" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-09-21</td>
-      <td>Yung Bruh</td>
-      <td>Vintage LSD Compilation</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ef9b096e18b39983191a7c575666c3e.png" alt="Cover for I&#39;ll Try Living Like This" style="max-width:120px; height:auto;" />
@@ -1241,9 +1372,10 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 18</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 44</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 82</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 14</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 16</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 29</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1278,6 +1410,7 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1301,7 +1434,7 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 39</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1329,7 +1462,26 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 79</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34048d1ebf45accbb1696c070ca24d49.png" alt="Cover for The Endless Everyday" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Luv Exposure</td>
+      <td>The Endless Everyday</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1344,24 +1496,6 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c632bc42f9594f53cfb5fdb3e3ec08f6.png" alt="Cover for Seapunk" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Ultrademon</td>
-      <td>Seapunk</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
         </ul>
       </td>
       <td>
@@ -1496,24 +1630,6 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
     </tr>
     <tr>
-      <td>58</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0ec8fd0c8f4fb852c9041f84f84a5d9.png" alt="Cover for Disc Atmospherics" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Acetantina</td>
-      <td>Disc Atmospherics</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfd9fca991802d50412c0375029d1b7a.png" alt="Cover for SEX" style="max-width:120px; height:auto;" />
@@ -1609,24 +1725,6 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
     </tr>
     <tr>
-      <td>97</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34048d1ebf45accbb1696c070ca24d49.png" alt="Cover for The Endless Everyday" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Luv Exposure</td>
-      <td>The Endless Everyday</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a221f4cadb1d699689143c505da01a2.png" alt="Cover for selected gems: hand-picked trax from macroprojects to dissociate to" style="max-width:120px; height:auto;" />
@@ -1649,40 +1747,6 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/039d65afc11f4a10afa8644246d1d733.png" alt="Cover for Japan" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Suicideyear</td>
-      <td>Japan</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d707639490dc4af2ca830cc0abb751a6.png" alt="Cover for Remembrance" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Suicideyear</td>
-      <td>Remembrance</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>
@@ -1742,23 +1806,6 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27221eb94035473ab9740b99dac93ea4.png" alt="Cover for suicideyear" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Suicideyear</td>
-      <td>suicideyear</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce8d5f49d682c1a8bf68fcd60ddb62d4.png" alt="Cover for Instrumentals Vol.1 - Remember 1995" style="max-width:120px; height:auto;" />
@@ -1793,23 +1840,6 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       </td>
     </tr>
     <tr>
-      <td>76</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d9f9d44c187fff6e2a138d95a7cd486.png" alt="Cover for Spectral Bands: [Green]" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Spectra Vision Corp.</td>
-      <td>Spectral Bands: [Green]</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/337a30a9083d44159320a74af54954b8.png" alt="Cover for Asami Yamazaki" style="max-width:120px; height:auto;" />
@@ -1834,23 +1864,6 @@ Vaportrap blends the hazy, nostalgic aesthetics of vaporwave with trap music&#39
       <td></td>
       <td>Dj Cannabiz</td>
       <td>Ripping Private Bowls</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb27a3da00047ec652cf9d8e0d4ad228.png" alt="Cover for Cure for Pharma" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>VHS MIDNIGHT STYLE</td>
-      <td>Cure for Pharma</td>
       <td>
         <ul>
         </ul>

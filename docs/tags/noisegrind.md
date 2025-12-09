@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:07:27.372Z
+date: 2025-12-09T05:34:56.609Z
 permalink: tags/noisegrind
 title: noisegrind
 ---
 
 ## noisegrind
 
-Last updated: <time datetime="2025-12-09T05:07:27.372Z">Tue Dec 09 2025 07:07:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:34:56.609Z">Tue Dec 09 2025 07:34:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -538,7 +538,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/3e98syxLPOREQN_sWemPpzSQ8jZlSBt_jFeUijxPCHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njgx/ODAtMTQ0NDIwNjM4/NC04OTc3LmpwZWc.jpeg" alt="Cover for Cultivating The Devil Goat Vomit Harvest" style="max-width:120px; height:auto;" />
       </td>
@@ -2009,7 +2009,7 @@ Noisegrind is a subgenre of extreme music that combines elements of noise music 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/WfDBaZJ817xcD-6mBcfUox7kcWw9V9825z6_xuCG67s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTEx/ODc5LTE2NDA2ODIw/NzYtMTE5MC5qcGVn.jpeg" alt="Cover for DEMO (2021)" style="max-width:120px; height:auto;" />
       </td>

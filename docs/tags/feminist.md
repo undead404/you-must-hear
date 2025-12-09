@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-08T13:20:23.552Z
+date: 2025-12-09T05:11:44.012Z
 permalink: tags/feminist
 title: feminist
 ---
 
 ## feminist
 
-Last updated: <time datetime="2025-12-08T13:20:23.552Z">Mon Dec 08 2025 15:20:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:11:44.012Z">Tue Dec 09 2025 07:11:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -105,9 +105,9 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 10</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 31</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 43</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 23</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 39</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -130,7 +130,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 95</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -152,7 +152,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 79</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -192,7 +192,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 2</li>
+            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -215,9 +215,9 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 11</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 33</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 44</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 24</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 41</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -278,7 +278,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 89</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -323,7 +323,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 51</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 60</li>
             <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 91</li>
         </ul>
       </td>
@@ -347,10 +347,14 @@ Feminist music encompasses works that champion gender equality, challenge patria
       <td>
         <ul>
             <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 1</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 2</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 26</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 49</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 60</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 3</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 10</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 21</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 60</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 71</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 81</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 96</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -373,7 +377,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 85</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -416,8 +420,8 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 35</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 64</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 44</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -440,7 +444,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 69</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -460,7 +464,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 93</li>
+            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -483,7 +487,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 68</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -505,9 +509,8 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 26</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 53</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 89</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 35</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -527,7 +530,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 66</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -550,7 +553,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 71</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -573,9 +576,9 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 8</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 25</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 34</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 18</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 34</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -635,10 +638,9 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 45</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 46</li>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 73</li>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 80</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 59</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 60</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +663,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 70</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -763,8 +765,8 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 23</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 37</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 4</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -846,11 +848,11 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 3</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 4</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 4</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 5</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 6</li>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 27</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 7</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -892,11 +894,11 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 5</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 7</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 7</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 9</li>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 38</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 7</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 8</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 10</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -920,11 +922,11 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 4</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 5</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 6</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 6</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 7</li>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 33</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 6</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 8</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -968,8 +970,8 @@ Feminist music encompasses works that champion gender equality, challenge patria
       <td>
         <ul>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 1</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 1</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 1</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 1</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 2</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 5</li>
         </ul>
@@ -993,8 +995,8 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 12</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 13</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 15</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1018,11 +1020,11 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 7</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 10</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 14</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 20</li>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 59</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 11</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 15</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 27</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1065,7 +1067,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 33</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1439,7 +1441,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 25</li>
+            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1481,9 +1483,8 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 28</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 54</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 90</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 37</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1542,29 +1543,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 66</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Michelle Mays</td>
-      <td>The Promise</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chant" | relative_url }}">chant</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 98</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1815,6 +1794,27 @@ Feminist music encompasses works that champion gender equality, challenge patria
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Michelle Mays</td>
+      <td>The Promise</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chant" | relative_url }}">chant</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
         </ul>
       </td>
       <td>

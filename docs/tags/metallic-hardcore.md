@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:32:04.998Z
+date: 2025-12-09T05:15:11.323Z
 permalink: tags/metallic-hardcore
 title: metallic hardcore
 ---
 
 ## metallic hardcore
 
-Last updated: <time datetime="2025-12-05T05:32:04.998Z">Fri Dec 05 2025 07:32:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:15:11.323Z">Tue Dec 09 2025 07:15:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 74</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -68,7 +68,6 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -95,7 +94,6 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -134,7 +132,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 43</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -258,8 +256,8 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fastcore" | relative_url }}">fastcore</a> # 3</li>
             <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 3</li>
+            <li> <a href="{{ "/tags/fastcore" | relative_url }}">fastcore</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -376,7 +374,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 6</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -510,7 +508,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 18</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -667,7 +665,6 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -875,8 +872,8 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 11</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 23</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 20</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -955,9 +952,8 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 3</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 5</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 54</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 5</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -977,8 +973,8 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 19</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 34</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 30</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -993,25 +989,6 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-          <img src="https://i.discogs.com/GosrKt-VshaDYlhGmkBZkd6PpLCieJ8EhNeYuKABky4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjY5/NTYtMTU1MzU0MTMz/Ny0zMTgwLmpwZWc.jpeg" alt="Cover for Bloodmines" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014</td>
-      <td>Baptists</td>
-      <td>Bloodmines</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a></li>
         </ul>
       </td>
@@ -1074,7 +1051,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 76</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1089,6 +1066,25 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/GosrKt-VshaDYlhGmkBZkd6PpLCieJ8EhNeYuKABky4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjY5/NTYtMTU1MzU0MTMz/Ny0zMTgwLmpwZWc.jpeg" alt="Cover for Bloodmines" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-10-14</td>
+      <td>Baptists</td>
+      <td>Bloodmines</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a></li>
         </ul>
       </td>
@@ -1131,7 +1127,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 27</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1155,6 +1151,26 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
     </tr>
     <tr>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/022870861f0d408fc0c29a90018230d8.png" alt="Cover for Widow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-03-17</td>
+      <td>Darke Complex</td>
+      <td>Widow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>9</td>
       <td>
           <img src="https://i.discogs.com/EWT7-TDHNvj3_unUBZYLTD5mtlbad-0y_a8YwmZ-RIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTcw/MjgtMTQyNjgxNjcy/MC03NTAzLmpwZWc.jpeg" alt="Cover for WIDOW" style="max-width:120px; height:auto;" />
@@ -1170,7 +1186,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 11</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1231,7 +1247,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 26</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1286,7 +1302,10 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 36</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 3</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 48</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1341,7 +1360,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 42</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1359,7 +1378,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 93</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1381,7 +1400,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 14</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1421,7 +1440,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 67</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1477,7 +1496,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 50</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1630,7 +1649,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 41</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1673,8 +1692,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 65</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 88</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1716,7 +1734,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 50</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1854,7 +1872,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 36</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1973,27 +1991,7 @@ Metallic hardcore fuses the aggressive intensity of hardcore punk with the crush
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 3</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/022870861f0d408fc0c29a90018230d8.png" alt="Cover for Widow" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Darke Complex</td>
-      <td>Widow</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 9</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 4</li>
         </ul>
       </td>
     </tr>

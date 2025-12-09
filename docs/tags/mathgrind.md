@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-08T13:20:35.918Z
+date: 2025-12-09T05:11:58.671Z
 permalink: tags/mathgrind
 title: mathgrind
 ---
 
 ## mathgrind
 
-Last updated: <time datetime="2025-12-08T13:20:35.918Z">Mon Dec 08 2025 15:20:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:11:58.671Z">Tue Dec 09 2025 07:11:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -85,7 +85,7 @@ Mathgrind, also known as Techgrind, is a subgenre of grindcore that incorporates
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -103,7 +103,7 @@ Mathgrind, also known as Techgrind, is a subgenre of grindcore that incorporates
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 53</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -122,7 +122,7 @@ Mathgrind, also known as Techgrind, is a subgenre of grindcore that incorporates
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 60</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -331,9 +331,11 @@ Mathgrind, also known as Techgrind, is a subgenre of grindcore that incorporates
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 24</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 48</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 76</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 3</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 14</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 25</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 46</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -370,7 +372,9 @@ Mathgrind, also known as Techgrind, is a subgenre of grindcore that incorporates
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 35</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 27</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 30</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -425,6 +429,7 @@ Mathgrind, also known as Techgrind, is a subgenre of grindcore that incorporates
       <td>
         <ul>
             <li> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a> # 80</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -552,6 +557,7 @@ Mathgrind, also known as Techgrind, is a subgenre of grindcore that incorporates
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -603,6 +609,7 @@ Mathgrind, also known as Techgrind, is a subgenre of grindcore that incorporates
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -779,7 +786,7 @@ Mathgrind, also known as Techgrind, is a subgenre of grindcore that incorporates
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 96</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -990,7 +997,7 @@ Mathgrind, also known as Techgrind, is a subgenre of grindcore that incorporates
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 54</li>
+            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1201,6 +1208,7 @@ Mathgrind, also known as Techgrind, is a subgenre of grindcore that incorporates
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1327,7 +1335,7 @@ Mathgrind, also known as Techgrind, is a subgenre of grindcore that incorporates
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 90</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1543,6 +1551,7 @@ Mathgrind, also known as Techgrind, is a subgenre of grindcore that incorporates
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 91</li>
             <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 92</li>
         </ul>
       </td>
@@ -1578,6 +1587,7 @@ Mathgrind, also known as Techgrind, is a subgenre of grindcore that incorporates
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 89</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:26:45.907Z
+date: 2025-12-09T05:13:46.529Z
 permalink: tags/ghettotech
 title: ghettotech
 ---
 
 ## ghettotech
 
-Last updated: <time datetime="2025-12-05T05:26:45.907Z">Fri Dec 05 2025 07:26:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:13:46.529Z">Tue Dec 09 2025 07:13:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
   </thead>
   <tbody>
     <tr>
-      <td>62</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/hRxsFjd9yc8rTYG5RxVa1AsIBji8UZBNnRjU4K1tnho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDUx/NTItMTQ4MzUzNjQx/My05MzIzLmpwZWc.jpeg" alt="Cover for The Disses" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>37</td>
       <td>
       </td>
       <td>1977</td>
@@ -63,12 +63,31 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 78</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>24</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>LI$029</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/bH5DoQdkVG92kkm3UCewOkt0aAEZqVu1VrohZvB2Ugs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjIt/MTE0MTY1MzIxMS5q/cGVn.jpeg" alt="Cover for LI$025" style="max-width:120px; height:auto;" />
       </td>
@@ -88,26 +107,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>76</td>
-      <td>
-      </td>
-      <td>1977</td>
-      <td>Various Artists</td>
-      <td>LI$029</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2aabda5239f95d793d5a9c3278837d5.png" alt="Cover for a nite life thang" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +126,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/noa0eqK35mZJoRLHBvEeeVseNxc8z49qPXbgxMeMIJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Njgw/OS0xNTkwNDAzMjc0/LTYxNTUuanBlZw.jpeg" alt="Cover for Pumpin The Trax" style="max-width:120px; height:auto;" />
       </td>
@@ -147,7 +147,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31dbaf184f0445ebc5b0b9d7b3b4bcd4.png" alt="Cover for Stop Trippin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -167,7 +167,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/BX8m7NYNwD4NPSdHekySylPEJTFBDbCq_UKZNK-lt_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkx/My0xMjE5MzMwNDg1/LmpwZWc.jpeg" alt="Cover for A Lil Somethin-Somethin" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +185,63 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/qpjbtwTyKdzoxPDDx749rzQVZp8w6YSSip6Ncwt5WQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODQw/Ny0xMTQyMTU3MTQ3/LmpwZWc.jpeg" alt="Cover for Da Bomb Vol 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>DJ Godfather</td>
+      <td>Da Bomb Vol 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/qpjbtwTyKdzoxPDDx749rzQVZp8w6YSSip6Ncwt5WQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODQw/Ny0xMTQyMTU3MTQ3/LmpwZWc.jpeg" alt="Cover for Da Bomb Volume 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>DJ Godfather</td>
+      <td>Da Bomb Volume 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>disco d vs. paradime</td>
+      <td>Detroit Zoo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/MmOBiLW2sRvvYePFhZBWhMubjzQFs7UFmBXaFBOl2wA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjkz/NDM4LTE2MTMxODc1/NDAtNzEyNy5qcGVn.jpeg" alt="Cover for Miss U Raving" style="max-width:120px; height:auto;" />
       </td>
@@ -205,63 +261,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-      </td>
-      <td>2000</td>
-      <td>disco d vs. paradime</td>
-      <td>Detroit Zoo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
-      <td>
-          <img src="https://i.discogs.com/qpjbtwTyKdzoxPDDx749rzQVZp8w6YSSip6Ncwt5WQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODQw/Ny0xMTQyMTU3MTQ3/LmpwZWc.jpeg" alt="Cover for Da Bomb Volume 3" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>DJ Godfather</td>
-      <td>Da Bomb Volume 3</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-          <img src="https://i.discogs.com/qpjbtwTyKdzoxPDDx749rzQVZp8w6YSSip6Ncwt5WQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODQw/Ny0xMTQyMTU3MTQ3/LmpwZWc.jpeg" alt="Cover for Da Bomb Vol 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>DJ Godfather</td>
-      <td>Da Bomb Vol 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/UP7esaGreZkTDTTRWJEYetlQyfGTASsqJ2oVawE02zQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODIy/LTExNjQ3MDg0MjIu/anBlZw.jpeg" alt="Cover for Time Space Scrilla" style="max-width:120px; height:auto;" />
       </td>
@@ -282,7 +282,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>2001-01-01</td>
@@ -299,7 +299,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/AW3gz3RTecljLNZ9mURNxsJbWUUwjr4cgUQzJ32DNb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEt/MTMzNTQ3MzY5Mi5q/cGVn.jpeg" alt="Cover for Freaky Bitches" style="max-width:120px; height:auto;" />
       </td>
@@ -318,7 +318,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>2001-06-28</td>
@@ -331,14 +331,14 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 8</li>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 30</li>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 75</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 10</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 20</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94f2055b4a39ace9a1b18e18923f183c.png" alt="Cover for Booty Bar Anthem EP" style="max-width:120px; height:auto;" />
       </td>
@@ -356,7 +356,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/_zyH-9hv_B-BjOMncsd24TSU8AZYAAvHjAIXKxbfg0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI1/ODIwLTE0OTUzNjQ2/MzEtNDIwMi5qcGVn.jpeg" alt="Cover for umana44" style="max-width:120px; height:auto;" />
       </td>
@@ -378,7 +378,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/UIvUz_inb-zxm08gHD3tHxd1KD93lVz_z-Y7JfGJeMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY1/ODktMTIyNjE1Mzcx/NS5qcGVn.jpeg" alt="Cover for JA-501" style="max-width:120px; height:auto;" />
       </td>
@@ -397,7 +397,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/O9ntIYJfmxyiX-IRDUsVUkzcqxLyp1XLhNtPYvx47t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODE1/Mi0xMzA3NzQ0MjU5/LmpwZWc.jpeg" alt="Cover for Heart It Races" style="max-width:120px; height:auto;" />
       </td>
@@ -416,7 +416,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>62</td>
       <td>
       </td>
       <td>2007-12</td>
@@ -441,7 +441,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/seVoZBSsR5tsOjKRbMZd1ftYH2e01HW6TSNMzjMyFsw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzM2/ODItMTI2MjQ3Njkw/NC5qcGVn.jpeg" alt="Cover for speaking balkanian" style="max-width:120px; height:auto;" />
       </td>
@@ -460,7 +460,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/7QfN2U4U0OPMVptXXwYzj5aeupW-7ye5EQbZJ0HgGOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk2/ODgyLTE2MzQyOTQx/ODUtNzQ5OC5wbmc.jpeg" alt="Cover for AN INTRODUCTION TO DOOMG▲ZE" style="max-width:120px; height:auto;" />
       </td>
@@ -489,12 +489,12 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 95</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57b0952c5d2f2e93ff95bb5ebb56dc35.png" alt="Cover for Somethin&#39; &#39;Bout Kreay" style="max-width:120px; height:auto;" />
       </td>
@@ -507,12 +507,30 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 46</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2996a6d9d2c282413726c3c35cfdfd1.png" alt="Cover for Hi Tech Soca Mix" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Bitch Ass Darius + Mr One Hundred</td>
+      <td>Hi Tech Soca Mix</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/AoGbdIyTwq58NuMrJK2K15b6hyKolHVJsPerEuVIzdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDEw/NDItMTM5ODk5NzY1/NC0yNzA1LmpwZWc.jpeg" alt="Cover for ABSOLUTE SHITLIFE" style="max-width:120px; height:auto;" />
       </td>
@@ -533,7 +551,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/deb3ec88b53b94911c75f8f4fa868e56.png" alt="Cover for EF-2002-1" style="max-width:120px; height:auto;" />
       </td>
@@ -555,7 +573,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/CJrX2oVDaDv-ne-xWT-vIuMtVh--nQBBHo3J3RXGGIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzI2/MTEtMTQyMzQ5ODIy/My00NzkxLmpwZWc.jpeg" alt="Cover for WHY EP" style="max-width:120px; height:auto;" />
       </td>
@@ -575,7 +593,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62209cf07481f54754addb6e1fb90179.png" alt="Cover for It&#39;s Just Like a Mini-Mall!" style="max-width:120px; height:auto;" />
       </td>
@@ -592,7 +610,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/yDLUr5TrUZOguPY5C2BJRd2m2vSeiJWx8Q9nNLo8gKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDg2/MzctMTQyNTgyMjU3/Ny0xODMzLmpwZWc.jpeg" alt="Cover for 014 Crack" style="max-width:120px; height:auto;" />
       </td>
@@ -612,7 +630,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72d403125d5d7b9d969a22ceb0b22862.png" alt="Cover for Advance Beyond Human EP" style="max-width:120px; height:auto;" />
       </td>
@@ -633,7 +651,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/d-E9Fly6FDO3RGc1q1CKe38KpsX5yMnZQY7vuJLhEF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc4/NDczLTE1NDc2NjQ0/NjItNjMyMC5qcGVn.jpeg" alt="Cover for INTERNET SURVIVORS" style="max-width:120px; height:auto;" />
       </td>
@@ -657,7 +675,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/us_iXDJzz_jORuF_PcQPQqXeh4Pyry9cWWqZ7DIgWBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDY4/MDUtMTQ1NDExNTU1/My00MDc1LmpwZWc.jpeg" alt="Cover for Serene Grace" style="max-width:120px; height:auto;" />
       </td>
@@ -675,7 +693,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/595ad5d06d4dec0399f15e3dd9500ae7.png" alt="Cover for Afterlife" style="max-width:120px; height:auto;" />
       </td>
@@ -692,13 +710,13 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 16</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 41</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 17</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f183c38964a6ff6b9e2157c6851de2d4.png" alt="Cover for Big Juicy" style="max-width:120px; height:auto;" />
       </td>
@@ -711,13 +729,13 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 4</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 73</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 2</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2db025295c79837e4382fc2e9997a210.png" alt="Cover for Barely Legal" style="max-width:120px; height:auto;" />
       </td>
@@ -733,15 +751,15 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 5</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 11</li>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 12</li>
             <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 12</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 25</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/DY2M66l9nxiiBD-WPyaU-8daiKQ8u6i-AqkYN7tIJa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjg4/MDY4LTE1MzIyMTYw/NjItMzk1NS5qcGVn.jpeg" alt="Cover for Booty Wars" style="max-width:120px; height:auto;" />
       </td>
@@ -761,7 +779,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/zAqsekykEHuz-CaNxPd9R1Q6EQNFiZtISC3bZnoOJ70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzg0/NzUyLTE1OTc3NDc0/MzUtNzMxOS5qcGVn.jpeg" alt="Cover for WESEX 69.9FM" style="max-width:120px; height:auto;" />
       </td>
@@ -783,7 +801,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/ka5lgT2sVW9lCiEyimLw-ehpvkdcKqfxKvAad3uLfTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA4/OTA2LTE1MTM5MDA0/MTktOTgxMy5qcGVn.jpeg" alt="Cover for أسلحة ضخ جاف حدب" style="max-width:120px; height:auto;" />
       </td>
@@ -800,14 +818,14 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 19</li>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 27</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 64</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 29</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 29</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/sL5WqJ6qYVQRzwizfTeIUtTSFE-eOOqRalRD6hvJ4sE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/Mzc4LTE0OTc1NjEz/NDMtODIwMC5qcGVn.jpeg" alt="Cover for LI$033" style="max-width:120px; height:auto;" />
       </td>
@@ -828,7 +846,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/sqINo_yrFTIZN-gdsXxxChymNjZTv6iCFtO9fZfMwro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM2/ODk0LTE1NDI5MDM5/MzAtNjEzMS5qcGVn.jpeg" alt="Cover for INTERNET SURVIVORS" style="max-width:120px; height:auto;" />
       </td>
@@ -852,7 +870,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/jVYI2j2EKNwaA_lZh0UmxDKJpfTh8V_5awvujvSFB1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI3/MzIyLTE1MTQzMDk1/MzMtNDQ1My5qcGVn.jpeg" alt="Cover for The Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -877,7 +895,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/6xp5P1LXAqMgyUgeZJRkMm1clqjVtZD2IKZsnnv2jIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY4/MTI3LTE1NDkyMjI2/MjktNjI0OS5qcGVn.jpeg" alt="Cover for Booty Blaster" style="max-width:120px; height:auto;" />
       </td>
@@ -894,12 +912,12 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 35</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e0471f04cdc5199e506d4dd92d64cb9.png" alt="Cover for YB MEMORY" style="max-width:120px; height:auto;" />
       </td>
@@ -921,7 +939,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/fKMltwLDJkdhG__Rir1BkL7WFWSMQ52H3eMZmtqKScY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk3/ODY5LTE1MzAyODUy/OTAtMTEwNS5wbmc.jpeg" alt="Cover for ISMVA002.1" style="max-width:120px; height:auto;" />
       </td>
@@ -944,7 +962,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/PiGNwDnlo4i1N3_h8-drixDOfYvouHbgh2qgTZ35J4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk1/ODQ5LTE1NDc5ODcx/MDMtNDIwNy5qcGVn.jpeg" alt="Cover for KIKIMIKA" style="max-width:120px; height:auto;" />
       </td>
@@ -966,7 +984,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/dCaFPgNRiG5lglzkQd-0EQdQ0Gi7WG1gevGbKXupiaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODcz/MDQyLTE2ODQ2NTA3/OTgtMjMyMi5qcGVn.jpeg" alt="Cover for Horny.4U" style="max-width:120px; height:auto;" />
       </td>
@@ -984,13 +1002,13 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 33</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 49</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 38</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc9eb6fd3dbeb564fac6c711397fab1f.png" alt="Cover for BL!NG BL!NG" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,7 +1036,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/CP0GCQiroZnpPWvn3gE6XYEkrww8DYf6IHhwXax9p44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk2/NDQ2LTE1NjU3MjM4/MzQtMTE1OS5qcGVn.jpeg" alt="Cover for UNDERRATED" style="max-width:120px; height:auto;" />
       </td>
@@ -1039,7 +1057,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/Pnj--S170QA4QL0PejE3R1LWTPn7qI2NOUwnhxkaSBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM3/MzE5LTE1NzA0NjM2/NTQtMjU1MC5qcGVn.jpeg" alt="Cover for Death of Faith" style="max-width:120px; height:auto;" />
       </td>
@@ -1058,7 +1076,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/161923905e868ba8fcd9ac9e03c22339.png" alt="Cover for ༺ dark ♰ world ༻" style="max-width:120px; height:auto;" />
       </td>
@@ -1082,30 +1100,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>
-          <img src="https://i.discogs.com/aLgNUuItQQau5iZmhx3bivV_q1Qt-NuD6pZTf-F58gA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY4/MzEwLTE1ODc1NzQ5/OTktOTcxNi5qcGVn.jpeg" alt="Cover for BOOTLEGZ Vol. 3" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-03-26</td>
-      <td>Zpectrum</td>
-      <td>BOOTLEGZ Vol. 3</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/YhQqezUnAwoXjvwScbXIsWlj2QKhQGhG-zWa3pjdlls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY4/MjA0LTE1ODc1NzQx/MDYtOTcyNS5qcGVn.jpeg" alt="Cover for Bootlegz Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1129,7 +1124,30 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/aLgNUuItQQau5iZmhx3bivV_q1Qt-NuD6pZTf-F58gA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY4/MzEwLTE1ODc1NzQ5/OTktOTcxNi5qcGVn.jpeg" alt="Cover for BOOTLEGZ Vol. 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-26</td>
+      <td>Zpectrum</td>
+      <td>BOOTLEGZ Vol. 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/aLgNUuItQQau5iZmhx3bivV_q1Qt-NuD6pZTf-F58gA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY4/MzEwLTE1ODc1NzQ5/OTktOTcxNi5qcGVn.jpeg" alt="Cover for Bootlegz, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,7 +1164,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/QrnfyqEuZ9k7tF8RbVUoJDS9HOpc_J5vr0fvSJrqV0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg5/Mjg1LTE2MDY2NTIx/MjEtMzQxOS5wbmc.jpeg" alt="Cover for dancemaniac" style="max-width:120px; height:auto;" />
       </td>
@@ -1168,7 +1186,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/zbreXDLK-Q9_bfkvSnYrgvrwTlbkgVymLfG2Fs_xTtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODAx/NDY3LTE2NjU1ODkw/MjAtNjUwOS5qcGVn.jpeg" alt="Cover for Feed My Addiction" style="max-width:120px; height:auto;" />
       </td>
@@ -1189,7 +1207,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/R-5RKbBJ1RKUD8qU7LVOo2du1ZjlW-nkt5KA252dE0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg5/NjgwLTE1OTQxMzgw/NTEtNjEyNi5qcGVn.jpeg" alt="Cover for LI$025" style="max-width:120px; height:auto;" />
       </td>
@@ -1209,7 +1227,29 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/UvUWCfsX59iCobOLWpuEIARSyt2luNsGHWR9Rl4WEPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM3/MTE0LTE1OTQ5ODc4/ODEtMTgyNS5qcGVn.jpeg" alt="Cover for umana44" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-07-17</td>
+      <td>R1R1R1R1R1R1R1R1R</td>
+      <td>umana44</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/UvUWCfsX59iCobOLWpuEIARSyt2luNsGHWR9Rl4WEPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM3/MTE0LTE1OTQ5ODc4/ODEtMTgyNS5qcGVn.jpeg" alt="Cover for INTERNET SURVIVORS" style="max-width:120px; height:auto;" />
       </td>
@@ -1233,29 +1273,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>37</td>
-      <td>
-          <img src="https://i.discogs.com/UvUWCfsX59iCobOLWpuEIARSyt2luNsGHWR9Rl4WEPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM3/MTE0LTE1OTQ5ODc4/ODEtMTgyNS5qcGVn.jpeg" alt="Cover for umana44" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-07-17</td>
-      <td>R1R1R1R1R1R1R1R1R</td>
-      <td>umana44</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
+      <td>69</td>
       <td>
       </td>
       <td>2020-12-04</td>
@@ -1275,7 +1293,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/tIazhdDqMYXMnGrY-haeQ7JA4infw2Ew4TzIsHzvFeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzcw/MzA4LTE2MjEyODE1/NTctNzk1NS5qcGVn.jpeg" alt="Cover for Bootlegs &amp; Unreleaseds Vol. I" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,7 +1315,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/Z4H2e1uGaDzt0vZC41sp-Iqe0BjuNJXISjkXuFVdgCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njky/MTI5LTE2NjQ2Njgz/OTctMjkwMy5qcGVn.jpeg" alt="Cover for KIKIMIKA" style="max-width:120px; height:auto;" />
       </td>
@@ -1319,7 +1337,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>43</td>
       <td>
       </td>
       <td>2021-01-17</td>
@@ -1340,7 +1358,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4233acca7dd3113cecb77a7c5aa1f3ee.png" alt="Cover for Limp Pumpo Full Discography" style="max-width:120px; height:auto;" />
       </td>
@@ -1360,7 +1378,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f6d2e11ed1d1da3b1d808bd4f725d7b.png" alt="Cover for ʄʀʊɨȶʏ ƈǟʟʟ" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,7 +1400,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f5aea2f2e8f6a0fe5a676c3af506ccb.png" alt="Cover for « Ć𝕣Ⓐ𝓩𝕐 в𝓞Ⓨ »" style="max-width:120px; height:auto;" />
       </td>
@@ -1407,7 +1425,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/SNed2CFJuyHb-8gE4tIE_9IxJkg4E4GAV4YLVmwaBZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjU4/MzMwLTE2MjQ1Mzcx/NTEtMjI0Mi5qcGVn.jpeg" alt="Cover for Burn Rate" style="max-width:120px; height:auto;" />
       </td>
@@ -1423,12 +1441,12 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 68</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0545cb1074db28a80c007f5a364c7f84.png" alt="Cover for Clubs Are Closed Vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,7 +1469,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/3jWrPrlCI9_tAPnSZ94N69202PlWReMfbf9LfxodygA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc3/MjUyLTE2NjIwMTgx/MDgtMjM1MS5qcGVn.jpeg" alt="Cover for LI$029" style="max-width:120px; height:auto;" />
       </td>
@@ -1474,24 +1492,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>42</td>
-      <td>
-      </td>
-      <td>2021-11-01</td>
-      <td>adrain asher</td>
-      <td>SNAKE EYES MIXXX</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5723bccc6ef75cb116b3903c98536ed5.png" alt="Cover for Mutual Pleasure 002" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,7 +1513,24 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>61</td>
+      <td>
+      </td>
+      <td>2021-11-01</td>
+      <td>adrain asher</td>
+      <td>SNAKE EYES MIXXX</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef994ef4cea95df870d533b803213ca9.png" alt="Cover for Haqueleauboisdeleau" style="max-width:120px; height:auto;" />
       </td>
@@ -1535,29 +1553,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-      </td>
-      <td>2022</td>
-      <td>YTP</td>
-      <td>¥𝔱𝕡</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a> # 37</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/f7uH5USvrxEgfgXRtQpMfzgbZkmVBp9u_tJ7p55cRGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzMx/MTAxLTE2NDIxNTcw/ODctNTUwOC5qcGVn.jpeg" alt="Cover for Acid Inferno" style="max-width:120px; height:auto;" />
       </td>
@@ -1574,32 +1570,34 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugues" | relative_url }}">portugues</a> # 29</li>
+            <li> <a href="{{ "/tags/portugues" | relative_url }}">portugues</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>56</td>
       <td>
       </td>
       <td>2022</td>
-      <td>soft grunge</td>
-      <td>.｡.:* ☆:. 𝐗𝐗𝐗 :.☆*.:｡.</td>
+      <td>YTP</td>
+      <td>¥𝔱𝕡</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/6tpgkK_OAPHNjGMWHEXsMO9rhwlhcMZellcv5nUZW9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc2/NTYwLTE2NzAyNTMw/NjEtODgzNS5qcGVn.jpeg" alt="Cover for DNA" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,7 +1617,27 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>66</td>
+      <td>
+      </td>
+      <td>2022</td>
+      <td>soft grunge</td>
+      <td>.｡.:* ☆:. 𝐗𝐗𝐗 :.☆*.:｡.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/1r-1Afq6CKPl_gTHbVOGcmV2Sa30HVZt4IGD7yYoCNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODY2/MjIyLTE3MDg0NTc2/NzYtNDUyMC5qcGVn.jpeg" alt="Cover for encomia" style="max-width:120px; height:auto;" />
       </td>
@@ -1639,7 +1657,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/e2ndn2CqtuQSoUVoERY1vSexX03Rb96SqxmZ26OunMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDky/MzQ5LTE2NTE1MzM1/NzMtNTI5My5qcGVn.jpeg" alt="Cover for Cuddling Kerosine" style="max-width:120px; height:auto;" />
       </td>
@@ -1661,7 +1679,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/e2ndn2CqtuQSoUVoERY1vSexX03Rb96SqxmZ26OunMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDky/MzQ5LTE2NTE1MzM1/NzMtNTI5My5qcGVn.jpeg" alt="Cover for Dangerous" style="max-width:120px; height:auto;" />
       </td>
@@ -1681,7 +1699,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/HhahYLKu97MC12r-9DW4c2PIpFGXHDbTBCXeuXABVh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzM2/NTA2LTE3MDM4NDE0/NjUtOTQwMS5qcGVn.jpeg" alt="Cover for Plaizir Coupable, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,7 +1716,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/VuuFUMUDHljv9Pv-eoYob4WfeypzuDj20fO4cnsrcTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzMz/MjI3LTE2NTY1MzE5/OTYtNTU2Ny5wbmc.jpeg" alt="Cover for IT&#39;S TOO QUIET..&#39;!!" style="max-width:120px; height:auto;" />
       </td>
@@ -1716,7 +1734,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/jZw6ngG7hWFEIuSJ78ZolN33IU1JiFS6h3ZGkr7autU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDUz/NTk3LTE2NTQyNjYw/NTktODUwNC5qcGVn.jpeg" alt="Cover for Drugs Here" style="max-width:120px; height:auto;" />
       </td>
@@ -1735,7 +1753,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/t7aunNniSQx7O9Ob3CH3JZiLGy-VKEnqYS46DXNpn6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTE2/NjYyLTE2NjMyMDAy/MTQtMjcwMi5qcGVn.jpeg" alt="Cover for PHASE IV" style="max-width:120px; height:auto;" />
       </td>
@@ -1755,7 +1773,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/368bbdba66213bf7b6b8cc2e7339bb54.png" alt="Cover for Wrong Way Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1772,7 +1790,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>79</td>
       <td>
       </td>
       <td>2022-08-26</td>
@@ -1794,7 +1812,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/AL8jQ6MzXQHJOq_XaZZ7O1fHme3S4FhyBzlZAGxygLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTc5LTE3MTAzMjkz/MTMtOTYzMC5qcGVn.jpeg" alt="Cover for LI$025" style="max-width:120px; height:auto;" />
       </td>
@@ -1814,7 +1832,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2022-10-11</td>
@@ -1833,7 +1851,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>35</td>
       <td>
       </td>
       <td>2022-10-14</td>
@@ -1854,7 +1872,26 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/141bfd593de4deae0909e1181e66d86a.png" alt="Cover for 777" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-12-31</td>
+      <td>maniken05</td>
+      <td>777</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 52</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b7c12b2b74f6c747a5310376eee16e7.png" alt="Cover for YUNG STUNNA EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1876,24 +1913,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/141bfd593de4deae0909e1181e66d86a.png" alt="Cover for 777" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-12-31</td>
-      <td>maniken05</td>
-      <td>777</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/9Cu_g-ezsoadVXekWngtZe-AyfeMrPw0n54B2jrCWqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDUx/ODcyLTE2NzcxODI5/NzYtNjI1Mi5qcGVn.jpeg" alt="Cover for Chase Scene Morality" style="max-width:120px; height:auto;" />
       </td>
@@ -1911,7 +1931,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2023-05-19</td>
@@ -1933,7 +1953,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>87</td>
       <td>
       </td>
       <td>2023-09-11</td>
@@ -1953,7 +1973,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/2SRUWZg87eWV6Frn0T85RzeGfDE-_bDxhPXsrScAaWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgy/NzYyLTE3Mjg3NTk5/NzUtMjY2MC5qcGVn.jpeg" alt="Cover for Sleepless in Brooklyn" style="max-width:120px; height:auto;" />
       </td>
@@ -1973,7 +1993,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6749f2c7314e078d3d31028fd8284912.png" alt="Cover for BAILE" style="max-width:120px; height:auto;" />
       </td>
@@ -1987,12 +2007,13 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 2</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 3</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/-sg8Ytg85sWBA4Jpd1ylknU-xeGzSQ8KA2NCOWZx-20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDY1/Mjg0LTE3MTAxNTcy/OTUtODI3My5qcGVn.jpeg" alt="Cover for Satisfy EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2012,37 +2033,18 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>70</td>
       <td>
       </td>
       <td></td>
-      <td>Ratibor Kukarekov</td>
-      <td>KIKIMIKA</td>
+      <td>greenwald</td>
+      <td>LI$029</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Kittenbear</td>
-      <td>LI$033</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
@@ -2053,28 +2055,7 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-      </td>
-      <td></td>
-      <td>dj lisbon treaty</td>
-      <td>dancemaniac</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>77</td>
       <td>
       </td>
       <td></td>
@@ -2095,18 +2076,37 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>93</td>
       <td>
       </td>
       <td></td>
-      <td>greenwald</td>
-      <td>LI$029</td>
+      <td>dj lisbon treaty</td>
+      <td>dancemaniac</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Kittenbear</td>
+      <td>LI$033</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>

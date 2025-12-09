@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:23:45.896Z
+date: 2025-12-09T05:12:50.862Z
 permalink: tags/nwothm
 title: nwothm
 ---
 
 ## nwothm
 
-Last updated: <time datetime="2025-12-05T05:23:45.896Z">Fri Dec 05 2025 07:23:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:12:50.862Z">Tue Dec 09 2025 07:12:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
   </thead>
   <tbody>
     <tr>
-      <td>77</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac6117a7649e8e147ec6394da1f36eac.png" alt="Cover for Flight" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3c052aa77dd66a03a6f2de409b2a082.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14a2ae03608dae5a6a2f1ed25b28a2f6.png" alt="Cover for SOURCE" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +86,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/E_zzOnfZDtQJgBz_ip2HdGKtVJB5gi-AD1iXlDJ9hvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM4/NzItMTQ0MTIzMDYx/OS0xNjY5LmpwZWc.jpeg" alt="Cover for Accelerator" style="max-width:120px; height:auto;" />
       </td>
@@ -102,12 +102,12 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 26</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd06cb73dbf704dae6cabf5423c1b16d.png" alt="Cover for Savage" style="max-width:120px; height:auto;" />
       </td>
@@ -126,12 +126,30 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 15</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/bhUEmGm-hHLjgqvb-FsqlrLHBG4LgS7jTU8RtfZMbrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzcw/NTgtMTQxNjQzOTc0/Ny0xNTA4LmpwZWc.jpeg" alt="Cover for End of the Line" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Sister Sin</td>
+      <td>End of the Line</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/133b13b373b4f9e30ee3e7c83e615cbd.png" alt="Cover for HIGH SPEED VENOM" style="max-width:120px; height:auto;" />
       </td>
@@ -150,25 +168,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>93</td>
-      <td>
-          <img src="https://i.discogs.com/bhUEmGm-hHLjgqvb-FsqlrLHBG4LgS7jTU8RtfZMbrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzcw/NTgtMTQxNjQzOTc0/Ny0xNTA4LmpwZWc.jpeg" alt="Cover for End of the Line" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Sister Sin</td>
-      <td>End of the Line</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/T2KvNbqAjphWuvSROw0ozKdceAqQTxDGhT9ASROVONA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzkz/NDktMTM2NDkxMjgz/MS00NDI1LmpwZWc.jpeg" alt="Cover for Roses on White Lace" style="max-width:120px; height:auto;" />
       </td>
@@ -187,7 +187,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/5lzizoKwWImbOAP8L_jP71QqXGt1_nvndrbqN9LM_Bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/ODMtMTI3NzUyMjE4/NC5qcGVn.jpeg" alt="Cover for Capture the Magic" style="max-width:120px; height:auto;" />
       </td>
@@ -207,43 +207,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/ha269Y32YnkrKbIVF3GTJzkBUtCYI5LmN3j18luz3SU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTc4/OTItMTQ2OTQzOTE1/OS0yNjk5LmpwZWc.jpeg" alt="Cover for Heart of Tokyo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Katana</td>
-      <td>Heart of Tokyo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
-      <td>
-          <img src="https://i.discogs.com/TIK9L754fk129zAa3V7o7uvVGdTws9rgF-_YPtlg_dI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTAw/NDAtMTY3OTk2NDU5/Ny05MzAwLmpwZWc.jpeg" alt="Cover for Metal Strike" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Helvetets Port</td>
-      <td>Metal Strike</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/re8F-D8JK8KxVJpPumjjxspJK6NkBkdJPECBaBg9NfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTI5/MTQtMTI4NzAxNzk1/Ny5qcGVn.jpeg" alt="Cover for Path To Glory" style="max-width:120px; height:auto;" />
       </td>
@@ -261,7 +225,43 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/TIK9L754fk129zAa3V7o7uvVGdTws9rgF-_YPtlg_dI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTAw/NDAtMTY3OTk2NDU5/Ny05MzAwLmpwZWc.jpeg" alt="Cover for Metal Strike" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Helvetets Port</td>
+      <td>Metal Strike</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/ha269Y32YnkrKbIVF3GTJzkBUtCYI5LmN3j18luz3SU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTc4/OTItMTQ2OTQzOTE1/OS0yNjk5LmpwZWc.jpeg" alt="Cover for Heart of Tokyo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Katana</td>
+      <td>Heart of Tokyo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/L_f6sWyDfWqHEl7J8G2Kp8_IGfG0ohY1txrrK3xnwlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjQ3/MTctMTQzMDU1Nzkx/MS01NTE4LmpwZWc.jpeg" alt="Cover for Tokyo Flying V Massacre" style="max-width:120px; height:auto;" />
       </td>
@@ -280,7 +280,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86837ded923d4460c415f8423aaf0d9a.png" alt="Cover for Into The Cauldron" style="max-width:120px; height:auto;" />
       </td>
@@ -300,7 +300,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/069cd808deea1ccd6a9c55d549e3d997.png" alt="Cover for Songs For The Lost" style="max-width:120px; height:auto;" />
       </td>
@@ -319,7 +319,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a305e63d81172fe5c3a800206c051a9e.png" alt="Cover for Pulver" style="max-width:120px; height:auto;" />
       </td>
@@ -337,12 +337,12 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 53</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/zSfAPyI6Hs1NGELohmYTaOlvfKz8dccPdEBfzZBHcxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ0/ODY2LTE1MjE2NTA1/MjUtNzQ5Ny5qcGVn.jpeg" alt="Cover for Strike of the Viper" style="max-width:120px; height:auto;" />
       </td>
@@ -360,7 +360,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5db76d468e1d46148667683ba1798bc0.png" alt="Cover for Bite the Bullet" style="max-width:120px; height:auto;" />
       </td>
@@ -378,7 +378,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/020320a9ac3b66ca15de599cc8ac5430.png" alt="Cover for Into the Night" style="max-width:120px; height:auto;" />
       </td>
@@ -393,12 +393,11 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7091ccf544948d1c86858acf88220f7.png" alt="Cover for In Solitude" style="max-width:120px; height:auto;" />
       </td>
@@ -416,15 +415,16 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/co5Or7Fyf1-kvM0VSAX3V7DRoF6g6oeJueTdiAb-pdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDc2/OTEtMTQwODExMjQw/OS03NDA3LmpwZWc.jpeg" alt="Cover for Wild And Nasty" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afd84e05f7f43df0a42f7c34eac88458.png" alt="Cover for Exodus to Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
-      <td>Nasty Tendency</td>
-      <td>Wild And Nasty</td>
+      <td>Helvetets Port</td>
+      <td>Exodus to Hell</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a></li>
         </ul>
       </td>
@@ -434,7 +434,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fab753e47324d3ba00b97c7039172a9.png" alt="Cover for Coming Out" style="max-width:120px; height:auto;" />
       </td>
@@ -455,16 +455,15 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>75</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afd84e05f7f43df0a42f7c34eac88458.png" alt="Cover for Exodus to Hell" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/co5Or7Fyf1-kvM0VSAX3V7DRoF6g6oeJueTdiAb-pdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDc2/OTEtMTQwODExMjQw/OS03NDA3LmpwZWc.jpeg" alt="Cover for Wild And Nasty" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
-      <td>Helvetets Port</td>
-      <td>Exodus to Hell</td>
+      <td>Nasty Tendency</td>
+      <td>Wild And Nasty</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a></li>
         </ul>
       </td>
@@ -474,7 +473,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/wEFd4xZmo1ARmj-SP92uimCVW12N1c-MjFHs3GYvO6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTgy/ODgtMTM3NjQ3MzQw/MC00ODE1LmpwZWc.jpeg" alt="Cover for We Are The Hammer" style="max-width:120px; height:auto;" />
       </td>
@@ -492,7 +491,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dac2188aef10745b1a9ec94e918c1aa2.png" alt="Cover for Road Warrior" style="max-width:120px; height:auto;" />
       </td>
@@ -513,7 +512,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1407e174833456e38110088711c1c6ee.png" alt="Cover for Chained to the Nite" style="max-width:120px; height:auto;" />
       </td>
@@ -531,7 +530,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
       </td>
       <td>2009-05-05</td>
@@ -549,7 +548,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36b8bc3929b24cb4a5a289bf2128e9dc.png" alt="Cover for Lightbringer" style="max-width:120px; height:auto;" />
       </td>
@@ -567,7 +566,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7492b483c44845fa9c299d9ad145c38d.png" alt="Cover for Improper Burial" style="max-width:120px; height:auto;" />
       </td>
@@ -587,7 +586,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/433b575260614a81998a199a15993176.png" alt="Cover for Armour" style="max-width:120px; height:auto;" />
       </td>
@@ -606,7 +605,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/GkzwQtXuuHft0gPbyrwqy10-RQg4nAPiYvrRm4p2zxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDIx/NzMtMTI5NzE5NTMw/MC5qcGVn.jpeg" alt="Cover for Defenders Of The Magic Circle: Live In Germany" style="max-width:120px; height:auto;" />
       </td>
@@ -624,7 +623,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ab54f51953f6ad76da09f4c53f7b46c.png" alt="Cover for Nemesis Divine" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +643,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/104a3d5be4364fe686f6aec6ab65cd03.png" alt="Cover for Crisis In Utopia" style="max-width:120px; height:auto;" />
       </td>
@@ -662,7 +661,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2010-10-22</td>
@@ -679,7 +678,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/otm26iIpWeo8V-ft_J33RcFVl9De1JeHHOpqryCW2oM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTEz/MTEtMTQwODEwOTk1/OS0zODI4LmpwZWc.jpeg" alt="Cover for Hello Suckers" style="max-width:120px; height:auto;" />
       </td>
@@ -697,7 +696,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e402a39eb234e86b061a3105f924398.png" alt="Cover for Burning Fortune" style="max-width:120px; height:auto;" />
       </td>
@@ -715,7 +714,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/QXBklgzuM1ftHg9_RxM_ZMXPGNzB46VCq9hyF9O5gYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTI2/NTktMTMwMjE2MDg4/Ny5qcGVn.jpeg" alt="Cover for The Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -733,7 +732,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb823ae1cb39a4a2577c08c9a542e6f4.png" alt="Cover for Time Is Up" style="max-width:120px; height:auto;" />
       </td>
@@ -751,7 +750,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/_Z_hGTVtEE7bL4X4bGjZXFrJ6sq8lyRPkC_Nw_T-qT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDYz/MzktMTMxNjA0NTA3/NS5qcGVn.jpeg" alt="Cover for Fire Signs" style="max-width:120px; height:auto;" />
       </td>
@@ -769,7 +768,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a425f206ecb5af016c24cfc272e4f311.png" alt="Cover for The Crystal Eye" style="max-width:120px; height:auto;" />
       </td>
@@ -788,7 +787,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/DQf6dcVEP-hh2L4x9pkobLGDIBnz1PkJGQPWigzF4n0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODk4/MjEtMTUzNDg5MjU3/My0xMzI5LmpwZWc.jpeg" alt="Cover for Midnight Priest" style="max-width:120px; height:auto;" />
       </td>
@@ -803,12 +802,11 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b3c8cbd9afb4a61b3d461156359df9f.png" alt="Cover for Flying Tigers" style="max-width:120px; height:auto;" />
       </td>
@@ -826,7 +824,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/cE_iDD4rMpvPxW-HhGspRH_HTGjjv2i7Wc6o6ZSze-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQ1/MTYtMTMxNzgyMzQy/MC5qcGVn.jpeg" alt="Cover for Rock &#39;N Roll" style="max-width:120px; height:auto;" />
       </td>
@@ -844,7 +842,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/1szeERn3OodKL7wHE2VgS2MuwRumqruTJQVgLxhGu4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTk5/MjctMTMyNTY0MzM3/Ny5qcGVn.jpeg" alt="Cover for Seasons Bleedings" style="max-width:120px; height:auto;" />
       </td>
@@ -862,7 +860,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f2168e9932141a887bf11d6da6f5c8b.png" alt="Cover for Full Pull" style="max-width:120px; height:auto;" />
       </td>
@@ -881,7 +879,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/580e900c665b432ab954b43c89321dd7.png" alt="Cover for Tomorrow&#39;s Lost" style="max-width:120px; height:auto;" />
       </td>
@@ -900,7 +898,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7664035cdc34d0dcd8bfc62acd131df.png" alt="Cover for Jaguar Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -920,7 +918,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/utSZXoJiYc2hoU9KNDYWQaITbkq5Aek4VXDCXzwhvD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTY4/ODMtMTQ4ODEzNDM1/NS01NzI5LmpwZWc.jpeg" alt="Cover for Legionnaire" style="max-width:120px; height:auto;" />
       </td>
@@ -938,7 +936,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72d500af904b4046c013d25409c2e799.png" alt="Cover for Firestorm" style="max-width:120px; height:auto;" />
       </td>
@@ -956,7 +954,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fc65ed80fac106118a7ceaf00f12975.png" alt="Cover for The Lightning Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +976,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d4c59a3e4034babcb1e07233db83499.png" alt="Cover for Storm of Blades" style="max-width:120px; height:auto;" />
       </td>
@@ -996,27 +994,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fd5e7e8246a43f0c3a66ff3439603e9.png" alt="Cover for Midnight Steel" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015</td>
-      <td>Midnight Priest</td>
-      <td>Midnight Steel</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/162112967b2c4b2fb32d0a54d70b89c9.png" alt="Cover for Night Viper" style="max-width:120px; height:auto;" />
       </td>
@@ -1038,13 +1016,33 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 5</li>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 7</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 10</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fd5e7e8246a43f0c3a66ff3439603e9.png" alt="Cover for Midnight Steel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Midnight Priest</td>
+      <td>Midnight Steel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3c0d47f6024a8301070663b1f9b8e53.png" alt="Cover for Sinister Lightning" style="max-width:120px; height:auto;" />
       </td>
@@ -1063,7 +1061,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4b93fd30ed7e36dfe2f74dc254424ec.png" alt="Cover for Unis Dans La Gloire" style="max-width:120px; height:auto;" />
       </td>
@@ -1079,12 +1077,12 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 50</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/cSkrhP1pdxuu_e59ujTGqPKhwv2y0lufLxW2GR_QHuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDE5/NjQtMTQzMDAzODgx/NS0yNTkwLmpwZWc.jpeg" alt="Cover for The Enigma of Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,7 +1100,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9d8e75709bee1d508dd990ea815afc1.png" alt="Cover for Desecrator" style="max-width:120px; height:auto;" />
       </td>
@@ -1120,7 +1118,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4099ef33693598378954eaccea866902.png" alt="Cover for Midnight Chaser" style="max-width:120px; height:auto;" />
       </td>
@@ -1140,7 +1138,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/3Mrxowf1K7944EsPlHwxGDDgIhcHDvR-KM2UCCn5shQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzc1/MjEtMTQ1NDcwNTM1/My0zOTU5Lm1wbw.jpeg" alt="Cover for Legion Of The Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,7 +1156,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8684afed63120877c859b9d1e80d7f99.png" alt="Cover for Wild Temple" style="max-width:120px; height:auto;" />
       </td>
@@ -1175,12 +1173,12 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 64</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c4b89879380fca960bdce4ea2c2c9d5.png" alt="Cover for Glorious Death" style="max-width:120px; height:auto;" />
       </td>
@@ -1200,7 +1198,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ae019ba2e2d2e8f074212f54077ac35.png" alt="Cover for Musta käsi" style="max-width:120px; height:auto;" />
       </td>
@@ -1224,7 +1222,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/070cbe75dc814e40f91a60e617c2764f.png" alt="Cover for Sacrifice" style="max-width:120px; height:auto;" />
       </td>
@@ -1240,12 +1238,12 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 17</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a16746322367881e86292b2e71b2e92a.png" alt="Cover for Visions In The Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1265,7 +1263,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ae1eccec6ba7790af249fe178ef4520.png" alt="Cover for Dawn Of Genesis" style="max-width:120px; height:auto;" />
       </td>
@@ -1283,7 +1281,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22fccc7de0f37fc78396e30c43aace71.png" alt="Cover for Armed To Exist" style="max-width:120px; height:auto;" />
       </td>
@@ -1302,13 +1300,13 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 25</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 41</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/adcfc91b0793dcfd3d36c9595835d89e.png" alt="Cover for Free Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,7 +1327,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2d2322fe071ea157d9d1e09c3ab30a4.png" alt="Cover for Raft of the World" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,7 +1345,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3ff549a627a927254c44a3826432cb2.png" alt="Cover for Exterminator" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,12 +1366,12 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 19</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8f126d6081c611375eee6654901ae8c.png" alt="Cover for Conqueror&#39;s Oath" style="max-width:120px; height:auto;" />
       </td>
@@ -1387,12 +1385,12 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 41</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/096a4f5a0438d1d18a953a0f7e672c4c.png" alt="Cover for Dust To Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -1411,7 +1409,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b7de40a6c5bd52de99f1944b1accb14.png" alt="Cover for Ültra Raptör" style="max-width:120px; height:auto;" />
       </td>
@@ -1433,7 +1431,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a48d5e82f26d403a5e58b73011f2c19.png" alt="Cover for A Leap Through Matter" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,7 +1449,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2abf455e7082584634cd57c9050575a7.png" alt="Cover for Midnight Dice" style="max-width:120px; height:auto;" />
       </td>
@@ -1470,12 +1468,12 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 37</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/944a4d9fefd5967874aff9378bb6edfc.png" alt="Cover for Aggressive Hauntings" style="max-width:120px; height:auto;" />
       </td>
@@ -1490,12 +1488,12 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 35</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/847aaf8bd544d92e48930090557b7e61.png" alt="Cover for Burn The Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1514,7 +1512,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b9e00c9affd1a8c2076565be862ee53.png" alt="Cover for Return Of The Shadow Warrior" style="max-width:120px; height:auto;" />
       </td>
@@ -1534,12 +1532,12 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 74</li>
+            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d4aff35c677ebc9c4dbf9d2eaad14a5.png" alt="Cover for Welcome to the Row" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,7 +1562,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d864a563b25f60ca335ac1105951171.png" alt="Cover for Mind Freeze" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,7 +1598,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6d3b4ecf7f10ec137be4eabb4eb8f3e.png" alt="Cover for Termination Shock" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,12 +1614,11 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56b88d1e252d6b0dcf3ac24062ea0de7.png" alt="Cover for Flashback" style="max-width:120px; height:auto;" />
       </td>
@@ -1640,7 +1637,44 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97ed27f11a16d3e0d1ba89d78e5ea4ca.png" alt="Cover for Ravening Iron" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Eternal Champion</td>
+      <td>Ravening Iron</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db328085eae90f279cd4368bdaeb5c3c.png" alt="Cover for The Necromancer&#39;s Castle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Shadowland</td>
+      <td>The Necromancer&#39;s Castle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cfe85f551566f05ad0fccf344cd86e5.png" alt="Cover for Unchain the Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1660,7 +1694,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/oRX0sh3iYJzeTw9fnVUQShao42CFTNYmVcqjvYCgVek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTE1/ODQ2LTE2MzM2OTY5/OTktNzIzNC5qcGVn.jpeg" alt="Cover for Knights Of Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -1678,44 +1712,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db328085eae90f279cd4368bdaeb5c3c.png" alt="Cover for The Necromancer&#39;s Castle" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021</td>
-      <td>Shadowland</td>
-      <td>The Necromancer&#39;s Castle</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97ed27f11a16d3e0d1ba89d78e5ea4ca.png" alt="Cover for Ravening Iron" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021</td>
-      <td>Eternal Champion</td>
-      <td>Ravening Iron</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4e0741faf2ceb5957000a5a67d8ee81.png" alt="Cover for Electric Conjuring" style="max-width:120px; height:auto;" />
       </td>
@@ -1734,13 +1731,13 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 23</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 65</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 42</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/UgKuFz7v3KnAR9U9uhaYIak7KwJ-REY8T5AirI2RESw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTg2/NDk4LTE2MjAxMzQ5/NjgtNzY3Ni5qcGVn.jpeg" alt="Cover for The Lightbringer" style="max-width:120px; height:auto;" />
       </td>
@@ -1756,12 +1753,12 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 50</li>
+            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d49d8c17c72945b1a291c68c1098f207.png" alt="Cover for Tyrant&#39;s Rise" style="max-width:120px; height:auto;" />
       </td>
@@ -1778,12 +1775,12 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 46</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c600244a7a8ec42dfad0b5991f76b420.png" alt="Cover for Force of Danger" style="max-width:120px; height:auto;" />
       </td>
@@ -1801,25 +1798,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://i.discogs.com/uYPvF-pFSj_ARac4rRw17p5PsWdnt8oBmIbBT41xGg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE3/MDQ3LTE2NTk3ODA2/MzgtNjcyMS5qcGVn.jpeg" alt="Cover for An Age Undreamed Of" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022</td>
-      <td>VanQuisheR</td>
-      <td>An Age Undreamed Of</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fadad253876eed91d73469456ab8030.png" alt="Cover for Born to Sin" style="max-width:120px; height:auto;" />
       </td>
@@ -1837,7 +1816,25 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/uYPvF-pFSj_ARac4rRw17p5PsWdnt8oBmIbBT41xGg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE3/MDQ3LTE2NTk3ODA2/MzgtNjcyMS5qcGVn.jpeg" alt="Cover for An Age Undreamed Of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>VanQuisheR</td>
+      <td>An Age Undreamed Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0258b79f7ae90fadd26046326b74a257.png" alt="Cover for Ancient Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1857,7 +1854,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4566c63e0238757c3315bae0e01a2926.png" alt="Cover for Sturdy As An Oak" style="max-width:120px; height:auto;" />
       </td>
@@ -1876,7 +1873,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/Jf9gWHzvFQz4Fcorr3PSKlZJj88-rRgzLA5jV_HZnIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjIz/NTg3LTE2Njg5MzY5/NTctNzM5MS5qcGVn.jpeg" alt="Cover for A Light In The Black" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,7 +1892,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/199ea0f547a57e5df5c73c671b89c420.png" alt="Cover for If Icarus Could Fly" style="max-width:120px; height:auto;" />
       </td>
@@ -1915,7 +1912,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/UtekBhtG50U89ChBHA-MSgt0zxnQjkNkmBbsMiZfK20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTI5/NzUzLTE2NzY1ODMw/ODMtMTIwNi5qcGVn.jpeg" alt="Cover for Blinding Force" style="max-width:120px; height:auto;" />
       </td>
@@ -1933,7 +1930,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d9b4ab474782cfa7ec676d8a5922996.png" alt="Cover for Crooked Mirror" style="max-width:120px; height:auto;" />
       </td>
@@ -1948,12 +1945,12 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 73</li>
+            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3f288dc495671dc2bae9435b89e449d.png" alt="Cover for Lost in Space" style="max-width:120px; height:auto;" />
       </td>
@@ -1975,7 +1972,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/wXSpi4QnxZFmRn8FUUXVsvB5A6PQNDLboe5S9JGB2tE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE4/MjQxLTE3MDcyNDYx/NTItMzE0Ny5wbmc.jpeg" alt="Cover for Street Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -1991,7 +1988,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 28</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 72</li>
         </ul>
       </td>
     </tr>

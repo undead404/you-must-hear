@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-08T13:15:10.163Z
+date: 2025-12-09T05:10:39.877Z
 permalink: tags/psychobilly
 title: psychobilly
 ---
 
 ## psychobilly
 
-Last updated: <time datetime="2025-12-08T13:15:10.163Z">Mon Dec 08 2025 15:15:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:10:39.877Z">Tue Dec 09 2025 07:10:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,6 +62,9 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 13</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 45</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -134,6 +137,10 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 33</li>
+            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 34</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 36</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -171,7 +178,8 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 44</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 47</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -243,6 +251,8 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 63</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -296,6 +306,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -452,6 +463,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -749,7 +761,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 82</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -859,8 +871,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 51</li>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 89</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -898,6 +909,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -934,8 +946,8 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 42</li>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 62</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 77</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -954,7 +966,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 51</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1136,7 +1148,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 33</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1157,7 +1169,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 39</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1196,7 +1208,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 65</li>
+            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1235,7 +1247,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 66</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1291,7 +1303,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 19</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1319,10 +1331,8 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 16</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 43</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 71</li>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 88</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 36</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1359,6 +1369,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1413,6 +1424,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1464,7 +1476,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 32</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1483,7 +1495,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 86</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1557,7 +1569,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 20</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1576,7 +1588,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 52</li>
+            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1594,7 +1606,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1667,8 +1679,9 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 48</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 61</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 18</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 64</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1688,7 +1701,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1746,7 +1759,6 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1766,7 +1778,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 58</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1786,7 +1798,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 34</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1851,7 +1863,6 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 58</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 95</li>
         </ul>
       </td>

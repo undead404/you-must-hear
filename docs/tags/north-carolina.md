@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:21:45.910Z
+date: 2025-12-09T05:12:33.136Z
 permalink: tags/north-carolina
 title: north carolina
 ---
 
 ## north carolina
 
-Last updated: <time datetime="2025-12-05T05:21:45.910Z">Fri Dec 05 2025 07:21:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:12:33.136Z">Tue Dec 09 2025 07:12:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,27 +29,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
   </thead>
   <tbody>
     <tr>
-      <td>19</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a07b886c2be84a6cb7d4ad360444a0f2.png" alt="Cover for Shirley Logan" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1963</td>
-      <td>Shirley Logan</td>
-      <td>Shirley Logan</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/z0LGE95K-sWBo0i_QGH5nK8OjcUNoyAF0cwkRdQyPA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUw/NjU2LTE1MzkzNTI0/MzItODkyMy5qcGVn.jpeg" alt="Cover for So Much to Say" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +49,27 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a07b886c2be84a6cb7d4ad360444a0f2.png" alt="Cover for Shirley Logan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1963</td>
+      <td>Shirley Logan</td>
+      <td>Shirley Logan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/8tYJTMWgAHwmQMpizBDuV3QJOIE7zH5qMh1GlYd1eQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTM4/OTQtMTQxMjkwNjcy/Ny0zNTAxLmpwZWc.jpeg" alt="Cover for Your Face Or Mine" style="max-width:120px; height:auto;" />
       </td>
@@ -87,7 +87,25 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/BF4K1AscdbBsevvvGjHGuMExv3Mft_rrEV_vKn52vpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzg2/NTYtMTM4MTkzMjQ4/Ni05NDkxLmpwZWc.jpeg" alt="Cover for Toasterhead" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>A Number Of Things</td>
+      <td>Toasterhead</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a68458942b53847296ce80316c926e1.png" alt="Cover for Drop Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -108,25 +126,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/BF4K1AscdbBsevvvGjHGuMExv3Mft_rrEV_vKn52vpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzg2/NTYtMTM4MTkzMjQ4/Ni05NDkxLmpwZWc.jpeg" alt="Cover for Toasterhead" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1985</td>
-      <td>A Number Of Things</td>
-      <td>Toasterhead</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7283b995a58d4ba18ed73415698a27e6.png" alt="Cover for Animosity" style="max-width:120px; height:auto;" />
       </td>
@@ -141,12 +141,12 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 52</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>1989</td>
@@ -165,14 +165,14 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       <td>
         <ul>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 7</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 11</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 21</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 64</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 13</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 25</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/GC3lwJruC8Y1FcxOeb9rPb8h9jymvpvg24FJKj1KRyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgz/NDAyLTE1Njg0MDU5/ODUtNTc5NC5qcGVn.jpeg" alt="Cover for Twisted Laurel&#x2F;Merchants Lunch" style="max-width:120px; height:auto;" />
       </td>
@@ -190,23 +190,21 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 69</li>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>47</td>
       <td>
+          <img src="https://i.discogs.com/2YsqG8ewQ-ja7o28ZMpWFgKV9WWB5xa0xNXcgcAw9CI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzYz/MjEtMTMxOTE5MTM3/My5qcGVn.jpeg" alt="Cover for 10 Million Summers" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
-      <td>The Red Clay Ramblers</td>
-      <td>Twisted Laurel &#x2F; Merchants Lunch</td>
+      <td>Johnny Quest</td>
+      <td>10 Million Summers</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
         </ul>
       </td>
       <td>
@@ -215,7 +213,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>1992</td>
@@ -235,16 +233,18 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/2YsqG8ewQ-ja7o28ZMpWFgKV9WWB5xa0xNXcgcAw9CI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzYz/MjEtMTMxOTE5MTM3/My5qcGVn.jpeg" alt="Cover for 10 Million Summers" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
-      <td>Johnny Quest</td>
-      <td>10 Million Summers</td>
+      <td>The Red Clay Ramblers</td>
+      <td>Twisted Laurel &#x2F; Merchants Lunch</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
         </ul>
       </td>
       <td>
@@ -253,7 +253,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
       </td>
       <td>1992-11-16</td>
@@ -270,7 +270,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c6af5ee9dc94878e0bfbcd1f03db163.png" alt="Cover for Icky Mettle" style="max-width:120px; height:auto;" />
       </td>
@@ -284,11 +284,12 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ba5360dcc8f43f6af573bf73c1e6e98.png" alt="Cover for Deliverance" style="max-width:120px; height:auto;" />
       </td>
@@ -302,12 +303,12 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 11</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86fce017e9a3415baa920da97f0350db.png" alt="Cover for Snuggle Buddy" style="max-width:120px; height:auto;" />
       </td>
@@ -327,28 +328,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/4b9-UcE-N-J8kV189HsSHDfaTgjX5Onupu7BBBcAdLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTIx/MDctMTQ0MjU5MTI1/NC05NjE5LmpwZWc.jpeg" alt="Cover for Live" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>The Red Clay Ramblers</td>
-      <td>Live</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/GrAvqNGX2nUBg_A3vDc7m8qMgDb8j9SggL_tqNNeves/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTMx/MjM1LTE1Njg0MDYw/NzQtMzI1MS5qcGVn.jpeg" alt="Cover for The Red Clay Ramblers LIVE" style="max-width:120px; height:auto;" />
       </td>
@@ -369,7 +349,28 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/4b9-UcE-N-J8kV189HsSHDfaTgjX5Onupu7BBBcAdLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTIx/MDctMTQ0MjU5MTI1/NC05NjE5LmpwZWc.jpeg" alt="Cover for Live" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>The Red Clay Ramblers</td>
+      <td>Live</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
       </td>
       <td>1998</td>
@@ -387,14 +388,31 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 5</li>
-            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 25</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 68</li>
+            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 26</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 77</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>17</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Shark Quest</td>
+      <td>Battle of the Loons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
       </td>
       <td>1998</td>
@@ -414,24 +432,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>84</td>
-      <td>
-      </td>
-      <td>1998</td>
-      <td>Shark Quest</td>
-      <td>Battle of the Loons</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/q52vldFFlsVYgdYdcWuDhjp420Ms8hkO6g8dvZjPIAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjMx/MzMtMTQ4MDMwMzcz/Ny03NzA3LmpwZWc.jpeg" alt="Cover for Love Shape Bruise" style="max-width:120px; height:auto;" />
       </td>
@@ -451,7 +452,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/pxT8uWbvNZcmPpEbYBm80xA5JbFS27abRaR00x4Bb_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTM1/MzktMTMwMTI4Njcy/NS5qcGVn.jpeg" alt="Cover for Man on Stilts" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +470,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
       </td>
       <td>2001</td>
@@ -485,12 +486,30 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 89</li>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>75</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Granola Funk Express</td>
+      <td>Slaktivism</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08a9569ef31a5990bc3e409d50ea6e69.png" alt="Cover for Mr. Rozzi Live at the dotmatrix project" style="max-width:120px; height:auto;" />
       </td>
@@ -512,25 +531,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-      </td>
-      <td>2001</td>
-      <td>Granola Funk Express</td>
-      <td>Slaktivism</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/9vYXMlGWNruqok8DoXyx47DTLSzTONxJhpgAocIMQCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDU1/MzktMTU0MzMzMTk2/NS00MjQyLmpwZWc.jpeg" alt="Cover for The Art of Resistance" style="max-width:120px; height:auto;" />
       </td>
@@ -549,70 +550,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-          <img src="https://i.discogs.com/tGuUvRCFjG5YLCR2s8MWaSDB9Gi3lgYyFHL74w40bzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk2/ODgtMTMzNDA3MDcx/OC5qcGVn.jpeg" alt="Cover for Taco Stories" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>jimmy and the teasers</td>
-      <td>Taco Stories</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-          <img src="https://i.discogs.com/tGuUvRCFjG5YLCR2s8MWaSDB9Gi3lgYyFHL74w40bzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk2/ODgtMTMzNDA3MDcx/OC5qcGVn.jpeg" alt="Cover for Fabulously Trashy" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>jimmy and the teasers</td>
-      <td>Fabulously Trashy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>
-          <img src="https://i.discogs.com/tGuUvRCFjG5YLCR2s8MWaSDB9Gi3lgYyFHL74w40bzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk2/ODgtMTMzNDA3MDcx/OC5qcGVn.jpeg" alt="Cover for Jimmy And The Teasers" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>jimmy and the teasers</td>
-      <td>Jimmy And The Teasers</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/tGuUvRCFjG5YLCR2s8MWaSDB9Gi3lgYyFHL74w40bzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk2/ODgtMTMzNDA3MDcx/OC5qcGVn.jpeg" alt="Cover for Jimmy and the Teasers LIVE PIE" style="max-width:120px; height:auto;" />
       </td>
@@ -635,6 +573,69 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
     <tr>
       <td>70</td>
       <td>
+          <img src="https://i.discogs.com/tGuUvRCFjG5YLCR2s8MWaSDB9Gi3lgYyFHL74w40bzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk2/ODgtMTMzNDA3MDcx/OC5qcGVn.jpeg" alt="Cover for Jimmy And The Teasers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>jimmy and the teasers</td>
+      <td>Jimmy And The Teasers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/tGuUvRCFjG5YLCR2s8MWaSDB9Gi3lgYyFHL74w40bzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk2/ODgtMTMzNDA3MDcx/OC5qcGVn.jpeg" alt="Cover for Fabulously Trashy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>jimmy and the teasers</td>
+      <td>Fabulously Trashy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/tGuUvRCFjG5YLCR2s8MWaSDB9Gi3lgYyFHL74w40bzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk2/ODgtMTMzNDA3MDcx/OC5qcGVn.jpeg" alt="Cover for Taco Stories" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>jimmy and the teasers</td>
+      <td>Taco Stories</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd5d432a0c724cc39705ef2a0d5223bd.png" alt="Cover for One Big Party" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
@@ -650,19 +651,19 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 43</li>
-            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 52</li>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 50</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/YHTCsIOHT02h4GBvCWqq0hBd1A9uhjrbq-XunVH-zko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzQ4/NDctMTQ1Mjk3NDIy/MC02Mzg5LmpwZWc.jpeg" alt="Cover for The Beautiful World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68f67a544d4a2a1dd236e12ce0885fc9.png" alt="Cover for Gods and Devils" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
-      <td>Regina Hexaphone</td>
-      <td>The Beautiful World</td>
+      <td>Shark Quest</td>
+      <td>Gods and Devils</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
@@ -674,7 +675,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/tLqpz9wVScG652AZmE93mOY3CUdkW_jRM8JPz12vjhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzQx/NzYtMTQ1NDc3ODIz/MC0yODU1LmpwZWc.jpeg" alt="Cover for Spoon Box" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +694,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>27</td>
       <td>
       </td>
       <td>2004</td>
@@ -711,13 +712,13 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>90</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68f67a544d4a2a1dd236e12ce0885fc9.png" alt="Cover for Gods and Devils" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/YHTCsIOHT02h4GBvCWqq0hBd1A9uhjrbq-XunVH-zko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzQ4/NDctMTQ1Mjk3NDIy/MC02Mzg5LmpwZWc.jpeg" alt="Cover for The Beautiful World" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
-      <td>Shark Quest</td>
-      <td>Gods and Devils</td>
+      <td>Regina Hexaphone</td>
+      <td>The Beautiful World</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
@@ -729,7 +730,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/Qw6yYdkH-SeQfvHmGw_Z5pMH0mgouKoWFlIn0_a4sr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTEz/MzMtMTQ4ODM5NzAx/MC00MDAxLmpwZWc.jpeg" alt="Cover for Bigga Than It Really Is" style="max-width:120px; height:auto;" />
       </td>
@@ -748,7 +749,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/0Jdgt6CEg24t493t0UlXdablGcYJWvv2hfEHMXHmvgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTM2/MDctMTUzMDA3NzUz/OC04ODkwLnBuZw.jpeg" alt="Cover for Red Devil Dawn Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -764,30 +765,11 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://i.discogs.com/8BfEwHLsaAHkELBeyzuQIvoZzKPXvBfkkDahNj_bLHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTg4/NzgtMTQwMzU0NzQ5/NC0xNjYzLmpwZWc.jpeg" alt="Cover for Everything Else" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Johnny Quest</td>
-      <td>Everything Else</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/erQuH7Kk9r-t9LYmylyhnkQy8iYTX23AOr6ncdKIJYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzk5/MjQtMTMzODQ1NjIx/MS03MTY4LmpwZWc.jpeg" alt="Cover for Carte Postale EP" style="max-width:120px; height:auto;" />
       </td>
@@ -807,7 +789,25 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/8BfEwHLsaAHkELBeyzuQIvoZzKPXvBfkkDahNj_bLHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTg4/NzgtMTQwMzU0NzQ5/NC0xNjYzLmpwZWc.jpeg" alt="Cover for Everything Else" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Johnny Quest</td>
+      <td>Everything Else</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/Z5_K0slsGAStiHcU-xsGbmALhGDiPGgnOaYkJuxk0Kw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MTE4/MzgtMTQ4MjE3NjMx/MC02Mzg0LmpwZWc.jpeg" alt="Cover for I&#39;m Sorry, What Was That? (Live In the Living Room)" style="max-width:120px; height:auto;" />
       </td>
@@ -824,7 +824,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2005-01-03</td>
@@ -840,29 +840,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46e784be4bf213213ad28416f95c89c1.png" alt="Cover for Anti-Rust EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-06-05</td>
-      <td>ShamGrammar</td>
-      <td>Anti-Rust EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2005-06-05</td>
@@ -882,7 +860,29 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>67</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46e784be4bf213213ad28416f95c89c1.png" alt="Cover for Anti-Rust EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-06-05</td>
+      <td>ShamGrammar</td>
+      <td>Anti-Rust EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8319093a9ac84147c1342e3266e7a58f.png" alt="Cover for The Gleam" style="max-width:120px; height:auto;" />
       </td>
@@ -901,7 +901,25 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/oXkA5lE91zInHeFUwX3iWj9etyzukuCAJ2tRA6-rPAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTY2/NjktMTQ0NjEyNzUy/MS01MTAwLmpwZWc.jpeg" alt="Cover for Into Your Sleeping Heart" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Regina Hexaphone</td>
+      <td>Into Your Sleeping Heart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ef3ce457f934fef83ee47182010183f.png" alt="Cover for Free Your Mellow" style="max-width:120px; height:auto;" />
       </td>
@@ -918,12 +936,29 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/_5ml6XXBKn5IDHXQLc-8O9j0dPspThZ2jFf6M5dOwLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA5/OTkyLTE1MDYzNjIz/NDMtODMwOC5qcGVn.jpeg" alt="Cover for Hammer No More The Fingers Live at the dotmatrix project" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Hammer No More the Fingers</td>
+      <td>Hammer No More The Fingers Live at the dotmatrix project</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/NQfZnGocKULoPORnENrflrW9JEaJ1E6atVTDqlHLRYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/MzU5LTE1OTE1NjA3/MzctODY2Ni5qcGVn.jpeg" alt="Cover for A Vile Of Vegetables" style="max-width:120px; height:auto;" />
       </td>
@@ -949,43 +984,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-          <img src="https://i.discogs.com/_5ml6XXBKn5IDHXQLc-8O9j0dPspThZ2jFf6M5dOwLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA5/OTkyLTE1MDYzNjIz/NDMtODMwOC5qcGVn.jpeg" alt="Cover for Hammer No More The Fingers Live at the dotmatrix project" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Hammer No More the Fingers</td>
-      <td>Hammer No More The Fingers Live at the dotmatrix project</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
-      <td>
-          <img src="https://i.discogs.com/oXkA5lE91zInHeFUwX3iWj9etyzukuCAJ2tRA6-rPAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTY2/NjktMTQ0NjEyNzUy/MS01MTAwLmpwZWc.jpeg" alt="Cover for Into Your Sleeping Heart" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Regina Hexaphone</td>
-      <td>Into Your Sleeping Heart</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cf8d380a34747d9a72b241e4c68e419.png" alt="Cover for Median&#39;s Relief" style="max-width:120px; height:auto;" />
       </td>
@@ -1002,7 +1001,25 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/IMVcD3tGHm76uON8lhuZtiJg8lWZGQZSmXQ9adnvo3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTEy/NDMtMTQ2NDY2NDQ5/My03NDUyLmpwZWc.jpeg" alt="Cover for Up to This Point" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Rhett And Link</td>
+      <td>Up to This Point</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
       </td>
       <td>2008</td>
@@ -1022,25 +1039,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>92</td>
-      <td>
-          <img src="https://i.discogs.com/IMVcD3tGHm76uON8lhuZtiJg8lWZGQZSmXQ9adnvo3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTEy/NDMtMTQ2NDY2NDQ5/My03NDUyLmpwZWc.jpeg" alt="Cover for Up to This Point" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Rhett And Link</td>
-      <td>Up to This Point</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
       </td>
       <td>2008-02-12</td>
@@ -1060,14 +1059,32 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       <td>
         <ul>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 4</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 9</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 19</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 68</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 11</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 23</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>49</td>
+      <td>
+      </td>
+      <td>2008-08-02</td>
+      <td>ShamGrammar</td>
+      <td>Lend An Ear (2009)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7b458bc49f40c6915bafc4a985dc5cd.png" alt="Cover for Lend An Ear" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,30 +1102,12 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 87</li>
+            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-      </td>
-      <td>2008-08-02</td>
-      <td>ShamGrammar</td>
-      <td>Lend An Ear (2009)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/KxqbDe8BO2lgOevKysYgT5kY-wipa9DmTD7gW2m80NY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjM3/NTYtMTQyMzMyMjkw/MS05MDA4LmpwZWc.jpeg" alt="Cover for Snake Charmer and Destiny at the Stroke of Midnight" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1125,29 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/517ECzPEB5Lbpf3uyJReOYe3rF6WYjriNfbK2rKSLwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDMw/OTE1LTE2NTk3MTUz/OTYtNjU2MS5qcGVn.jpeg" alt="Cover for Old North State" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>The Red Clay Ramblers</td>
+      <td>Old North State</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df1e081743b6e3cd9dfd19eb0bae6163.png" alt="Cover for This is Not an Entrance" style="max-width:120px; height:auto;" />
       </td>
@@ -1147,29 +1168,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>65</td>
-      <td>
-          <img src="https://i.discogs.com/517ECzPEB5Lbpf3uyJReOYe3rF6WYjriNfbK2rKSLwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDMw/OTE1LTE2NTk3MTUz/OTYtNjU2MS5qcGVn.jpeg" alt="Cover for Old North State" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>The Red Clay Ramblers</td>
-      <td>Old North State</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b319f6209df4bee9aaf32948a46af72.png" alt="Cover for Island Diplomacy" style="max-width:120px; height:auto;" />
       </td>
@@ -1192,7 +1191,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/4xfbf-g5_POW5bVe3u730luHltAun6hAdEe5LZSrfGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTgy/OTgtMTIzNzY4NDY5/Ny5qcGVn.jpeg" alt="Cover for more fun than a cardboard box EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1217,7 +1216,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/202lTt5LHnOkMXSgwq6C2r_dgeUFsh_H67ywC1hrGzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkx/NDc3LTE1MTkwNDk2/NDctNjQzNy5qcGVn.jpeg" alt="Cover for Chair Bell Floor" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1233,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b58fca6195094ed0a7030edc0b393faa.png" alt="Cover for The Show Is On The Road" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,13 +1251,13 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 53</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 57</li>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 63</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/upTKdEJ1_YBFA7z8TDgyVH0Zlk7gEgCZSMhv5Im-1Ts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTcy/MzUtMTI3ODI3NjY2/NC5qcGVn.jpeg" alt="Cover for ATAK013 Ligne" style="max-width:120px; height:auto;" />
       </td>
@@ -1285,7 +1284,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>2010-03-10</td>
@@ -1307,7 +1306,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/aVwWKp96EYNJbvZRcY8p5E-bjpYcWz1mZL5hUOFlHdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzcx/NTYtMTI4MDQ3NDIz/MS5qcGVn.jpeg" alt="Cover for Quartet for Instruments" style="max-width:120px; height:auto;" />
       </td>
@@ -1326,7 +1325,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/Mchoz2cGtl89Pa0Z-FmZU8xpbXSeOzi-cauVylmhlhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjg5/MDAtMTI4MzUzOTIx/OC5qcGVn.jpeg" alt="Cover for S&#x2F;T -Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,7 +1344,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b5e3cbd5f87484c9c034b809d1e802f.png" alt="Cover for A Different Story" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,13 +1360,13 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 44</li>
-            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 95</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 55</li>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td>2011-03-28</td>
@@ -1395,7 +1394,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48038d1674d9427d9bba5acf066761e9.png" alt="Cover for Escher EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,7 +1418,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/fI2ggcuTeV2FZqkfUE37ywN5BoJzeNHxZYRT9zryff0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDE4/OTQtMTMyNDc0ODE3/NC5qcGVn.jpeg" alt="Cover for beko_92" style="max-width:120px; height:auto;" />
       </td>
@@ -1450,13 +1449,13 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 65</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 66</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
       </td>
       <td>2011-09-13</td>
@@ -1478,7 +1477,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d093971ffaa499c8bef59ff8f22dfed0.png" alt="Cover for Music In General" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,7 +1497,30 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e98f2af08d94d048558af50de38bca5.png" alt="Cover for Dark Fruit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-04-20</td>
+      <td>Alligator Indian</td>
+      <td>Dark Fruit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffc086d8897d4f398fdaed595d5d2864.png" alt="Cover for Radical Graves" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,30 +1545,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>73</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e98f2af08d94d048558af50de38bca5.png" alt="Cover for Dark Fruit" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-04-20</td>
-      <td>Alligator Indian</td>
-      <td>Dark Fruit</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
       </td>
       <td>2012-04-25</td>
@@ -1561,12 +1560,13 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 68</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 78</li>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/rW6obaOe3vbfZ1456LT36oWEDHUjlx-b0gEg4YQb_OQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTQ2/MDAtMTQ0MTAzMTMz/Ny03NzUwLmpwZWc.jpeg" alt="Cover for Lowcountry" style="max-width:120px; height:auto;" />
       </td>
@@ -1589,7 +1589,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ccfd56bac772434482cd1a41973a5dba.png" alt="Cover for More Songs About Animals and TV" style="max-width:120px; height:auto;" />
       </td>
@@ -1620,16 +1620,13 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 29</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 54</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 61</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 95</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 98</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 99</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 69</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0e3c09bf396e3c8f20f0df18c18e5b0.png" alt="Cover for Progress In Works (produced by LoFi)" style="max-width:120px; height:auto;" />
       </td>
@@ -1646,12 +1643,12 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 98</li>
+            <li> <a href="{{ "/tags/avanthop" | relative_url }}">avanthop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/Mn10JGTva7W8e3_YOMRoUQkkHx9HfmgftxEH64FTlcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM5/NzE1LTE0OTA1NTc0/NzUtNzExNy5qcGVn.jpeg" alt="Cover for Progress In Works (produced by LoFi) [2006]" style="max-width:120px; height:auto;" />
       </td>
@@ -1669,7 +1666,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/yb1Sx0TQqhfc6bX1EglO0Q1dfa1Kz1K-te_qUFIlN8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQ3/MDczLTE1NjQ2NzA0/ODctMjkyNy5qcGVn.jpeg" alt="Cover for Time Dilations" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1687,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be97f0f38ac043959db6d807fb3878f3.png" alt="Cover for Compress" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,7 +1714,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/070b61d271fd38f3b656497d2b27ad17.png" alt="Cover for Autumn" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,7 +1738,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/ekwyHqk_UTldQ5xiYlIcQeUEB6GpPDvoFz1S2bLasqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTI0/Njk1LTE2NjY1NzUy/NjMtNDc5MS5wbmc.jpeg" alt="Cover for Buddy System (Music from Season 1)" style="max-width:120px; height:auto;" />
       </td>
@@ -1759,7 +1756,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/579ea283cdac2ba0ef7f4fc9d2fbcbb6.png" alt="Cover for Loss Memory" style="max-width:120px; height:auto;" />
       </td>
@@ -1775,12 +1772,12 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 11</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/jVYI2j2EKNwaA_lZh0UmxDKJpfTh8V_5awvujvSFB1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI3/MzIyLTE1MTQzMDk1/MzMtNDQ1My5qcGVn.jpeg" alt="Cover for The Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1800,12 +1797,12 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 39</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/b5mWsJmo9bfS5rmP4LuVFfyGCng_5tAB4vWmmwlT4QM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTEx/MDQzLTE2MTM4NTg2/OTYtNzY1Ny5qcGVn.jpeg" alt="Cover for Feels Like Heaven - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1824,7 +1821,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/kLRcxLarxJ433hrIk9vi3PfUpdF9mAHrGNxyu24Cc7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTYw/MjA3LTE2MzQwMjMz/MjctNDEyMi5qcGVn.jpeg" alt="Cover for Oneirophrenia" style="max-width:120px; height:auto;" />
       </td>
@@ -1842,7 +1839,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/851cdff917c1e23bba8ac123c403aa18.png" alt="Cover for Easy Weapons" style="max-width:120px; height:auto;" />
       </td>
@@ -1862,7 +1859,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5edaabb4b54f0fc9f55337861442c64.png" alt="Cover for Beyond What Is Real" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,19 +1882,17 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>25</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40e70b8c4da84b792bf34507d72b04b8.png" alt="Cover for One Man Search Party - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1997ff63d04c92510136d2ad4bbe3eda.png" alt="Cover for Ascension" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>We Build Rockets</td>
-      <td>One Man Search Party - Single</td>
+      <td>Shoko Kurai</td>
+      <td>Ascension</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
       <td>
@@ -1906,50 +1901,13 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>44</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/914adcc5f13480221b62965b89b0c690.png" alt="Cover for The Best of LATRUTH Vol.1 2009" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d40319d70a0b9a37c600e80b71c55d93.png" alt="Cover for Who Is Latruth" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>LATruth</td>
-      <td>The Best of LATRUTH Vol.1 2009</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d70699dd572fb2d3d1a5d0b69144f870.png" alt="Cover for Cardinals At The Window" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Various Artists</td>
-      <td>Cardinals At The Window</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-      </td>
-      <td></td>
-      <td>LAtruth Black Wallstreet</td>
-      <td>Hate Is Fuel</td>
+      <td>Who Is Latruth</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a></li>
@@ -1965,17 +1923,18 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>54</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/993c2f5d37abd0e29ccb8e6fea79df5f.png" alt="Cover for The Leeves Live at the dotmatrix project" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>The Leeves</td>
-      <td>The Leeves Live at the dotmatrix project</td>
+      <td>The Red Clay Ramblers</td>
+      <td>Fool Moon</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
         </ul>
       </td>
       <td>
@@ -1984,61 +1943,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>
-      </td>
-      <td></td>
-      <td>The Future Kings of Nowhere</td>
-      <td>The Future Kings of Nowhere (Solo) Live at the dotmatrix project</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d97dbf41ef80d7d0e19b98dd26bef6ae.png" alt="Cover for Black Space Soul" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>KID-80</td>
-      <td>Black Space Soul</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7c1a3ff2515dfdd98bb62e9b806eb19.png" alt="Cover for Sounds of the Cypher" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Johnny Madwreck</td>
-      <td>Sounds of the Cypher</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/173c14cc62b45dc7307e6b538742ce02.png" alt="Cover for It&#39;s Feeling Heavy" style="max-width:120px; height:auto;" />
       </td>
@@ -2064,18 +1969,17 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7c1a3ff2515dfdd98bb62e9b806eb19.png" alt="Cover for Sounds of the Cypher" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>The Red Clay Ramblers</td>
-      <td>Fool Moon</td>
+      <td>Johnny Madwreck</td>
+      <td>Sounds of the Cypher</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
         </ul>
       </td>
       <td>
@@ -2084,13 +1988,66 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>71</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d40319d70a0b9a37c600e80b71c55d93.png" alt="Cover for Who Is Latruth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d97dbf41ef80d7d0e19b98dd26bef6ae.png" alt="Cover for Black Space Soul" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>LATruth</td>
-      <td>Who Is Latruth</td>
+      <td>KID-80</td>
+      <td>Black Space Soul</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Future Kings of Nowhere</td>
+      <td>The Future Kings of Nowhere (Solo) Live at the dotmatrix project</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/993c2f5d37abd0e29ccb8e6fea79df5f.png" alt="Cover for The Leeves Live at the dotmatrix project" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>The Leeves</td>
+      <td>The Leeves Live at the dotmatrix project</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td></td>
+      <td>LAtruth Black Wallstreet</td>
+      <td>Hate Is Fuel</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a></li>
@@ -2106,17 +2063,57 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>91</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1997ff63d04c92510136d2ad4bbe3eda.png" alt="Cover for Ascension" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d70699dd572fb2d3d1a5d0b69144f870.png" alt="Cover for Cardinals At The Window" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Shoko Kurai</td>
-      <td>Ascension</td>
+      <td>Various Artists</td>
+      <td>Cardinals At The Window</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/914adcc5f13480221b62965b89b0c690.png" alt="Cover for The Best of LATRUTH Vol.1 2009" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>LATruth</td>
+      <td>The Best of LATRUTH Vol.1 2009</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40e70b8c4da84b792bf34507d72b04b8.png" alt="Cover for One Man Search Party - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>We Build Rockets</td>
+      <td>One Man Search Party - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
         </ul>
       </td>
       <td>

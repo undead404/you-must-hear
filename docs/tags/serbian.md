@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T05:33:48.675Z
+date: 2025-12-09T05:15:34.257Z
 permalink: tags/serbian
 title: serbian
 ---
 
 ## serbian
 
-Last updated: <time datetime="2025-12-05T05:33:48.675Z">Fri Dec 05 2025 07:33:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:15:34.257Z">Tue Dec 09 2025 07:15:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 38</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -67,7 +67,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 44</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -90,7 +90,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 63</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -202,7 +202,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d5960d8a6cfc0141fc758cfcb8e0a40.png" alt="Cover for Touch The Wind" style="max-width:120px; height:auto;" />
       </td>
@@ -293,8 +293,8 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 54</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 58</li>
+            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 29</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -334,15 +334,15 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 19</li>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 43</li>
-            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 63</li>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 76</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 11</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 20</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 22</li>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
       </td>
       <td>2000-01-01</td>
@@ -401,7 +401,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/AL-78w85xY2FXpBhkq7Uw3q77NhzZ1hgsXDpEqZCFd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDk0/NTQtMTM0MjgyMzUz/Ny03NDkxLmpwZWc.jpeg" alt="Cover for gypsy king of serbia" style="max-width:120px; height:auto;" />
       </td>
@@ -460,7 +460,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 46</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -482,7 +482,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 54</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -506,7 +506,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/6RqxLFCh9sqHqsNtUEQJ2VhPcrEp01O1yrqPnq8inNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDM1/OTEtMTM0NTA0Njk1/MC0xMjA0LmpwZWc.jpeg" alt="Cover for Nakon toliko godina" style="max-width:120px; height:auto;" />
       </td>
@@ -546,6 +546,24 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/cnIT3gS9dTKTE639FwUgl-13jSBQcIUktzhl8QYNlCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDA2/MS0xMzk1NDUzOTYw/LTEzNTQuanBlZw.jpeg" alt="Cover for Rani Mraz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Đorđe Balašević</td>
+      <td>Rani Mraz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/453120a4f4602e888a590802ebf00c14.png" alt="Cover for Tango" style="max-width:120px; height:auto;" />
@@ -557,25 +575,6 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/cnIT3gS9dTKTE639FwUgl-13jSBQcIUktzhl8QYNlCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDA2/MS0xMzk1NDUzOTYw/LTEzNTQuanBlZw.jpeg" alt="Cover for Rani Mraz" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Đorđe Balašević</td>
-      <td>Rani Mraz</td>
-      <td>
-        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a></li>
         </ul>
       </td>
@@ -715,7 +714,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/vY8Yl1AfDe9_nPoah0DECewrvHl0yEoTp2DUwl84NSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTA4/MTAtMTU4Njg3MDM1/MS02NzM4LmpwZWc.jpeg" alt="Cover for Više Od Igre" style="max-width:120px; height:auto;" />
       </td>
@@ -751,7 +750,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1aec43b99f4a4fc28ab2fcc7fcddcbbe.png" alt="Cover for Morning Sun - EKO001" style="max-width:120px; height:auto;" />
       </td>
@@ -770,7 +769,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       <td>
         <ul>
             <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 25</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 34</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -811,7 +810,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
       </td>
       <td>2007</td>
@@ -826,12 +825,12 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 35</li>
+            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/FFv56fac4f5SRRYrqp5uNqt7__clZhicqS4JUChBQUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTg1/NTktMTIzNzcyMTk2/Ni5qcGVn.jpeg" alt="Cover for Cafe Sevdah" style="max-width:120px; height:auto;" />
       </td>
@@ -849,7 +848,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64aaddea6d5e428b82243a5063170f50.png" alt="Cover for Tarpoš" style="max-width:120px; height:auto;" />
       </td>
@@ -886,7 +885,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/7Paydk2J1Si9_Jbk1OvuCYhYsqEn-9LAL0D7Jlr4njc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc3/MzM5LTE1MTc3NDA0/MTctODExMS5qcGVn.jpeg" alt="Cover for Boleritza" style="max-width:120px; height:auto;" />
       </td>
@@ -904,7 +903,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 58</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -964,7 +963,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/vKwJrWG_dCbByhZ0YDQWwBA1bv40WOsQHSs2j2sC1P8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjg4/NTYtMTM5MDY4MDM5/OC0yMzk0LmpwZWc.jpeg" alt="Cover for Minut Sa Njom" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,7 +1059,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/CpWiMBPvrPQS5MNa3ziLP3KchxejErubFqlGdyfGty4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDQ0/NDItMTY1NTQ3MDI3/Mi05MTM4LmpwZWc.jpeg" alt="Cover for Pamtim Ja" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,7 +1098,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/BfRwCrg3ExC-fxaoLE0RvlVdnqf5-WnMuYRgAuNZ5r8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzM2/OTgtMTI0MzUwOTU4/OS5qcGVn.jpeg" alt="Cover for Eleven Axis" style="max-width:120px; height:auto;" />
       </td>
@@ -1123,8 +1122,8 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 24</li>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 30</li>
+            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 25</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1163,7 +1162,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 79</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1186,7 +1185,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56ab953f4b8f4e9e8ccb6732fdcbb62f.png" alt="Cover for One With The Earth ( Demo )" style="max-width:120px; height:auto;" />
       </td>
@@ -1231,12 +1230,12 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 33</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f4f70b957134dadba0b8377d8185879.png" alt="Cover for Misterija" style="max-width:120px; height:auto;" />
       </td>
@@ -1257,7 +1256,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
       </td>
       <td>2010-09-03</td>
@@ -1274,7 +1273,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/757f6210c83b44f0855da0b132f5e217.png" alt="Cover for Kriticna Masa vol 1 Eros" style="max-width:120px; height:auto;" />
       </td>
@@ -1390,7 +1389,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/zO1P8M2Sw9jLe9oVp1daZkXyorKI8Siz8YHH0AKktxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTEy/OTktMTQ2MDcxNjk3/MS02NjM5LmpwZWc.jpeg" alt="Cover for Untitled" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,9 +1418,9 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 28</li>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 41</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 80</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 32</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 46</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1446,7 +1445,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b63a798b9624fa29a6d0d87e2d88e8c.png" alt="Cover for Eclectic Youth" style="max-width:120px; height:auto;" />
       </td>
@@ -1468,7 +1467,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 52</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1490,7 +1489,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 53</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1739,7 +1738,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 19</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1762,7 +1761,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 46</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1783,12 +1782,12 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 67</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
       </td>
       <td>2016-12</td>
@@ -1813,7 +1812,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a5b814f906b041e79c00e0633f9bf94.png" alt="Cover for Lunar &#x2F; Solar" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,7 +1830,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 32</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1923,7 +1922,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 21</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1942,10 +1941,10 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 20</li>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 44</li>
-            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 64</li>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 77</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 12</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 21</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 23</li>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1967,7 +1966,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 68</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1991,7 +1990,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/srdM_l_wgCoxv2lptJsk34myyIygtuvuhzvoy9rhbHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTEw/NzgzLTE2NDMyODYy/NTctOTQ2My5qcGVn.jpeg" alt="Cover for Kopenhagen" style="max-width:120px; height:auto;" />
       </td>
@@ -2009,7 +2008,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/wrdljmWrCJyd-F7osqr_VxCi_SovI2_cRUsskRPd4SE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDE1/ODYtMTUwOTIxMTk0/MC0zMzY5LmpwZWc.jpeg" alt="Cover for Mastilo" style="max-width:120px; height:auto;" />
       </td>
@@ -2027,7 +2026,7 @@ Serbian music refers to the music of Serbia and the Serbian diaspora, which incl
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/252424430a9f46bd463edfb9a9ec36f9.png" alt="Cover for Vodi me" style="max-width:120px; height:auto;" />
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T09:02:32.784Z
+date: 2025-12-09T05:29:47.431Z
 permalink: tags/italian
 title: italian
 ---
 
 ## italian
 
-Last updated: <time datetime="2025-12-05T09:02:32.784Z">Fri Dec 05 2025 11:02:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:29:47.431Z">Tue Dec 09 2025 07:29:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
   </thead>
   <tbody>
     <tr>
-      <td>5</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/ElsBr46Gx635PW5gMG6tf3dkgDkmhhAJaoDcto2jKCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDk5/ODMtMTQxNDc3MDc0/MC01NjkxLmpwZWc.jpeg" alt="Cover for Ornella Vanoni" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac2177ffffa04fe18dcbf805a4aa164c.png" alt="Cover for La Buona Novella" style="max-width:120px; height:auto;" />
       </td>
@@ -61,12 +61,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 28</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>36</td>
       <td>
       </td>
       <td>1974</td>
@@ -83,7 +83,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ffd31abb8fa4980c9043f1fefbdc828.png" alt="Cover for Ingresso libero" style="max-width:120px; height:auto;" />
       </td>
@@ -98,12 +98,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 35</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b99c3de2c134ea587b5442410fdc0f9.png" alt="Cover for Mio fratello è figlio unico" style="max-width:120px; height:auto;" />
       </td>
@@ -122,7 +122,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
       </td>
       <td>1980-02</td>
@@ -141,7 +141,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/OiRgce3rqwMh7HsPLUcmols5ZNya_wxJJtBrdn9Di5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzIw/ODgtMTU2MzA5Nzk4/NC0yNjM5LmpwZWc.jpeg" alt="Cover for Sono Solo Canzonette" style="max-width:120px; height:auto;" />
       </td>
@@ -160,7 +160,28 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>100</td>
+      <td>
+      </td>
+      <td>1983</td>
+      <td>Gigliola Cinquetti</td>
+      <td>Non ho l&#39;età</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 2</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9067c0efda83165213dfe7f8505c918d.png" alt="Cover for VERA BADDIE" style="max-width:120px; height:auto;" />
       </td>
@@ -179,24 +200,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-      </td>
-      <td>1990</td>
-      <td>Vasco Rossi</td>
-      <td>Fronte Del Palco</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/uHuz9nfkV7WQnJHZGxppAw-0AI0s-MWdwiauy_zo9hY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTU0/MjMtMTU0MDA2OTQ3/Mi04NDQ4LmpwZWc.jpeg" alt="Cover for Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -215,7 +219,24 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>86</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Vasco Rossi</td>
+      <td>Fronte Del Palco</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
       <td>
       </td>
       <td>1993</td>
@@ -229,12 +250,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 11</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06a64384940345ac96f72cb2f5c43877.png" alt="Cover for The Best of Laura Pausini" style="max-width:120px; height:auto;" />
       </td>
@@ -252,7 +273,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d02d0297a9749c0c99ac40d657be138.png" alt="Cover for T&#39;Innamorerai" style="max-width:120px; height:auto;" />
       </td>
@@ -267,12 +288,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 17</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83263ba67d121c70a1ab6794fa72b4d4.png" alt="Cover for Tutte Storie" style="max-width:120px; height:auto;" />
       </td>
@@ -291,7 +312,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31dc9056dfba432ec388f0fcc95a90f1.png" alt="Cover for Laura Pausini" style="max-width:120px; height:auto;" />
       </td>
@@ -306,13 +327,13 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 8</li>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 64</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 9</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
       </td>
       <td>1994</td>
@@ -329,7 +350,26 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/GFlywSXy-2gTey3w6JpaYvcO1PwY9N6qK63iPn4E-4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDUy/OTQtMTQ1MDU1OTc2/NC03MjI1LmpwZWc.jpeg" alt="Cover for ZU &amp; Co." style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Zucchero</td>
+      <td>ZU &amp; Co.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0594eb348146e11637c944c1b86cad6c.png" alt="Cover for COSMOTRONIC" style="max-width:120px; height:auto;" />
       </td>
@@ -350,26 +390,30 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/GFlywSXy-2gTey3w6JpaYvcO1PwY9N6qK63iPn4E-4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDUy/OTQtMTQ1MDU1OTc2/NC03MjI1LmpwZWc.jpeg" alt="Cover for ZU &amp; Co." style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/9hZVs89tjB6Il6DJkn13JgcchmqigwLyiCqkz2FkizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTQ5/Ni0xMjQ3NDcwNDU4/LmpwZWc.jpeg" alt="Cover for Romanza" style="max-width:120px; height:auto;" />
       </td>
-      <td>1995</td>
-      <td>Zucchero</td>
-      <td>ZU &amp; Co.</td>
+      <td>1996</td>
+      <td>Andrea Bocelli</td>
+      <td>Romanza</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 11</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 20</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 33</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>96</td>
       <td>
       </td>
       <td>1996</td>
@@ -385,75 +429,13 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 2</li>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 51</li>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 3</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8aa04ca2d308835c5ad07a9331f6495.png" alt="Cover for The Essential Gigi D\&#39;Agostino" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Gigi D&#39;Agostino</td>
-      <td>The Essential Gigi D\&#39;Agostino</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
-      <td>
-          <img src="https://i.discogs.com/9hZVs89tjB6Il6DJkn13JgcchmqigwLyiCqkz2FkizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTQ5/Ni0xMjQ3NDcwNDU4/LmpwZWc.jpeg" alt="Cover for Romanza" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Andrea Bocelli</td>
-      <td>Romanza</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 26</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>
-          <img src="https://i.discogs.com/UlpM_Zmg7PAJevI82ua4Yk6DcTV44faZuf28KZQ5YmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjQy/NjE4LTE2ODkwNjg2/OTUtMzYxNS5qcGVn.jpeg" alt="Cover for Dove ce musica" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Eros Ramazzotti</td>
-      <td>Dove ce musica</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03257c7ebd474397ae6a753e2ab2fb1c.png" alt="Cover for The Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -472,7 +454,47 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8aa04ca2d308835c5ad07a9331f6495.png" alt="Cover for The Essential Gigi D\&#39;Agostino" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Gigi D&#39;Agostino</td>
+      <td>The Essential Gigi D\&#39;Agostino</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/UlpM_Zmg7PAJevI82ua4Yk6DcTV44faZuf28KZQ5YmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjQy/NjE4LTE2ODkwNjg2/OTUtMzYxNS5qcGVn.jpeg" alt="Cover for Dove ce musica" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Eros Ramazzotti</td>
+      <td>Dove ce musica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/ZL8fEpCUe265oN99Phc9DqH8ieDr0cSA1EI8j18myZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTc4/ODQtMTQxODcwNDcx/OS0xODY3LmpwZWc.jpeg" alt="Cover for Lei, gli amici e tutto il resto" style="max-width:120px; height:auto;" />
       </td>
@@ -489,7 +511,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f4b6e470473b9c24167c7a98b03d4e0.png" alt="Cover for Dove c&#39;è musica" style="max-width:120px; height:auto;" />
       </td>
@@ -507,7 +529,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a37ca056ac8f48c7a1fabaf759cef76f.png" alt="Cover for Anime salve" style="max-width:120px; height:auto;" />
       </td>
@@ -521,12 +543,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 26</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>14</td>
       <td>
       </td>
       <td>1997</td>
@@ -543,7 +565,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dccc1f7c225a4e9e86c1a1229cd426c7.png" alt="Cover for Eros" style="max-width:120px; height:auto;" />
       </td>
@@ -556,11 +578,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1118dfaa3f06481ac873b720363fcb0e.png" alt="Cover for La mia risposta" style="max-width:120px; height:auto;" />
       </td>
@@ -575,11 +598,13 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 35</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
       </td>
       <td>1998-11-17</td>
@@ -596,7 +621,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/McoeEIFIX1-tyGRe8nw750manMdjkOsplGmOnu3q4fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzUw/MTAtMTY3MjY0Nzc3/NS0zMTU5LmpwZWc.jpeg" alt="Cover for it.pop" style="max-width:120px; height:auto;" />
       </td>
@@ -614,7 +639,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/_Rpcd2x_aay9RF8lMTGzgskNcXQERi_tGAm_JOnegtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTU3/MTgtMTMyODMxMDYx/Mi5qcGVn.jpeg" alt="Cover for Microchip Emozionale" style="max-width:120px; height:auto;" />
       </td>
@@ -632,7 +657,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbe5164f4a708f63e40331328d129f07.png" alt="Cover for Fleurs" style="max-width:120px; height:auto;" />
       </td>
@@ -651,7 +676,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecd2528d18f8446c9e6f3e8ae884c3e2.png" alt="Cover for La Cura" style="max-width:120px; height:auto;" />
       </td>
@@ -667,32 +692,32 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 25</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>31</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70252b8f3493aee3667344135dc7095c.png" alt="Cover for Stilelibero" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e1772bb189ae7d165c9289a91f7aeb3.png" alt="Cover for Mondo Difficile" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
-      <td>Eros Ramazzotti</td>
-      <td>Stilelibero</td>
+      <td>Tonino Carotone</td>
+      <td>Mondo Difficile</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 41</li>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24dd241ed5aadd6576995d2c1530ac7d.png" alt="Cover for Top 100 Greatest Dance Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -710,27 +735,46 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 72</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>65</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e1772bb189ae7d165c9289a91f7aeb3.png" alt="Cover for Mondo Difficile" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70252b8f3493aee3667344135dc7095c.png" alt="Cover for Stilelibero" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
-      <td>Tonino Carotone</td>
-      <td>Mondo Difficile</td>
+      <td>Eros Ramazzotti</td>
+      <td>Stilelibero</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 2</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/aSCdtewa4Cgq-oYmsrsPOX7-V_jsC5XYCMNqpYCYD5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI1/MzEtMTIyMTU1Nzkz/NS5qcGVn.jpeg" alt="Cover for Che Cosa Vedi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Marlene Kuntz</td>
+      <td>Che Cosa Vedi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -753,26 +797,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>53</td>
-      <td>
-          <img src="https://i.discogs.com/aSCdtewa4Cgq-oYmsrsPOX7-V_jsC5XYCMNqpYCYD5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI1/MzEtMTIyMTU1Nzkz/NS5qcGVn.jpeg" alt="Cover for Che Cosa Vedi" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Marlene Kuntz</td>
-      <td>Che Cosa Vedi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2af3d589db5f5015f3b5b63a786c5b01.png" alt="Cover for Canzoni a manovella" style="max-width:120px; height:auto;" />
       </td>
@@ -789,13 +814,59 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 3</li>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 30</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 4</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/aHR1AT9iwIcQkHn1KcedkJd0f6YpfPP5D2JVcJV1ueE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODY3/NDgtMTM1Nzk4NjA2/NC03Mzk3LmpwZWc.jpeg" alt="Cover for Mio Fratello E&#39; Figlio Unico" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Rino Gaetano</td>
+      <td>Mio Fratello E&#39; Figlio Unico</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 6</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/d2bLRzS4l_omD_2nnADDbGoiRVuswgqIPGmt1tQchBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQy/NTktMTMwMTM4NzU5/Ni5qcGVn.jpeg" alt="Cover for Diario Mali" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Ludovico Einaudi</td>
+      <td>Diario Mali</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harp" | relative_url }}">harp</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 14</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 55</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db1adbee39494f60cfc8f10d52febf60.png" alt="Cover for Lo Mejor de Laura Pausini - Volveré Junto a Ti" style="max-width:120px; height:auto;" />
       </td>
@@ -815,58 +886,13 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 18</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 20</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 24</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>
-          <img src="https://i.discogs.com/d2bLRzS4l_omD_2nnADDbGoiRVuswgqIPGmt1tQchBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQy/NTktMTMwMTM4NzU5/Ni5qcGVn.jpeg" alt="Cover for Diario Mali" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Ludovico Einaudi</td>
-      <td>Diario Mali</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harp" | relative_url }}">harp</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 6</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 44</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
-      <td>
-          <img src="https://i.discogs.com/aHR1AT9iwIcQkHn1KcedkJd0f6YpfPP5D2JVcJV1ueE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODY3/NDgtMTM1Nzk4NjA2/NC03Mzk3LmpwZWc.jpeg" alt="Cover for Mio Fratello E&#39; Figlio Unico" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Rino Gaetano</td>
-      <td>Mio Fratello E&#39; Figlio Unico</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 24</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fe49ed06aebb1a10db5178ca17f62b8.png" alt="Cover for E ritorno da te" style="max-width:120px; height:auto;" />
       </td>
@@ -885,7 +911,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>97</td>
       <td>
       </td>
       <td>2002</td>
@@ -902,7 +928,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>30</td>
       <td>
       </td>
       <td>2002-03-28</td>
@@ -919,7 +945,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/610ddde6763e47b7c7216b25cdc4108b.png" alt="Cover for Rosso relativo" style="max-width:120px; height:auto;" />
       </td>
@@ -935,15 +961,15 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 5</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 17</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 37</li>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 68</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 2</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 3</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 8</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54f558afd11cfaa76d64c73dd74f753d.png" alt="Cover for Bagus" style="max-width:120px; height:auto;" />
       </td>
@@ -960,13 +986,13 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 12</li>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 27</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 19</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/beadc5db9ea679a840d427f73123e795.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -983,12 +1009,11 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>2003-02</td>
@@ -1007,14 +1032,14 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 3</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 16</li>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 23</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 5</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 21</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7933da0549354cb5cc0a80128f0b3cef.png" alt="Cover for 111 Centoundici" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1057,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/576fc7422add49939497bcd53a0fa8f7.png" alt="Cover for Lotus" style="max-width:120px; height:auto;" />
       </td>
@@ -1050,7 +1075,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25d00a84d40242a7aa8848c97e034dcf.png" alt="Cover for Escucha" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,13 +1089,14 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 25</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 53</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 7</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 40</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf732607034a47eba0002e3ed7832f4e.png" alt="Cover for Perle" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,7 +1114,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
       </td>
       <td>2004-05-28</td>
@@ -1102,30 +1128,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 2</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>
-      </td>
-      <td>2004-10-15</td>
-      <td>Talco</td>
-      <td>Tutti Assolti</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac45c9314e4a4f249e4ce8ace77ed92f.png" alt="Cover for Pearl Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,7 +1152,25 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>89</td>
+      <td>
+      </td>
+      <td>2004-10-15</td>
+      <td>Talco</td>
+      <td>Tutti Assolti</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12b64a564467beb6520024b43c1c12c2.png" alt="Cover for Resta in ascolto" style="max-width:120px; height:auto;" />
       </td>
@@ -1163,7 +1189,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a24f218ec0a94c52cce62097f8f234d9.png" alt="Cover for Socialismo Tascabile (Prove Tecniche di Trasmissione)" style="max-width:120px; height:auto;" />
       </td>
@@ -1177,12 +1203,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 46</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/395037d21d370a0c8b9d095e7e47477f.png" alt="Cover for The Illogical Consequence" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,7 +1227,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>26</td>
       <td>
       </td>
       <td>2005-04-22</td>
@@ -1220,7 +1246,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>62</td>
       <td>
       </td>
       <td>2005-06-10</td>
@@ -1237,7 +1263,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>67</td>
       <td>
       </td>
       <td>2005-10-14</td>
@@ -1251,12 +1277,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 17</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>12</td>
       <td>
       </td>
       <td>2005-10</td>
@@ -1274,7 +1300,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5641c3f4977def092a424cab553ea163.png" alt="Cover for Live in Paris" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,13 +1314,13 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 29</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 52</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 9</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>69</td>
       <td>
       </td>
       <td>2006-01-20</td>
@@ -1314,7 +1340,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/059be2ac03404394bcc798e7d9aafbf7.png" alt="Cover for In The Hands Of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,12 +1355,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 1</li>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/5E4HDZQffAro58dyoV2JTXh_9ixwFKrN2QUROAkGtds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODk2/MTQtMTI1MDM2MTk0/MC5qcGVn.jpeg" alt="Cover for Grazie" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,7 +1378,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/114f4aa0636a915f51e975b3bde773ba.png" alt="Cover for Combat Circus" style="max-width:120px; height:auto;" />
       </td>
@@ -1371,25 +1397,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>90</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ccb61a0748d45f68b9b905496840172.png" alt="Cover for Diamanti" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-10-23</td>
-      <td>Antonello Venditti</td>
-      <td>Diamanti</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46a93962d8754491c410286ccf49fae2.png" alt="Cover for Non c&#39;è due senza te" style="max-width:120px; height:auto;" />
       </td>
@@ -1407,7 +1415,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>40</td>
       <td>
       </td>
       <td>2007-02-09</td>
@@ -1425,12 +1433,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 5</li>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 8</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed791eea8d1fda53d8eb4ec1a0e6cecb.png" alt="Cover for Vicky Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,7 +1456,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29c035120ee5adb29106b72361fbbffd.png" alt="Cover for Love Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,7 +1474,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>55</td>
       <td>
       </td>
       <td>2007-06-08</td>
@@ -1483,7 +1491,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>88</td>
       <td>
       </td>
       <td>2007-11-02</td>
@@ -1497,31 +1505,13 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 31</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 39</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 20</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-      </td>
-      <td>2007-11-23</td>
-      <td>Zucchero</td>
-      <td>All The Best</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/ztlVg4vAIj303j-qIUTsaEipGZ6BJM3MUXcBVSRM0Hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDE1/OTktMTYxOTk2NjI2/OS05MDI5LmpwZWc.jpeg" alt="Cover for L&#39;Eclissi" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,7 +1529,25 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>46</td>
+      <td>
+      </td>
+      <td>2007-11-23</td>
+      <td>Zucchero</td>
+      <td>All The Best</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6b51873758f8b7c5e72c7e64b05ea27.png" alt="Cover for E2" style="max-width:120px; height:auto;" />
       </td>
@@ -1557,7 +1565,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f97a942099e27628050d36ac454f089.png" alt="Cover for Primavera Anticipada" style="max-width:120px; height:auto;" />
       </td>
@@ -1575,13 +1583,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 2</li>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 77</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
       </td>
       <td>2008</td>
@@ -1599,7 +1606,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/iu58SrCqCR-sVvGtLRKqYn3L866YrUGXzPn9RLV7x7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE5/OTEzLTE2NDI3MDk1/MTEtMTUyNy5qcGVn.jpeg" alt="Cover for Safari" style="max-width:120px; height:auto;" />
       </td>
@@ -1613,12 +1620,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 14</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f316312127ba4527910be201d80a223f.png" alt="Cover for Dancing" style="max-width:120px; height:auto;" />
       </td>
@@ -1639,7 +1646,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89d8b1da767f4de3994c221fb07dc609.png" alt="Cover for Primavera in anticipo" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,12 +1662,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 25</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>63</td>
       <td>
       </td>
       <td>2013-03-19</td>
@@ -1677,7 +1684,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd7dc1dc83f879a1a15b864f463bcbce.png" alt="Cover for Museica" style="max-width:120px; height:auto;" />
       </td>
@@ -1693,12 +1700,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/634d300eaf206fdd34b058df057ce76f.png" alt="Cover for Parole in circolo" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,7 +1725,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/xf0N5QRhFxRpsp5BL7gHrEna38McnwcXYFc4y7kUu2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA0/MTY3LTE1NDAzODYx/NTMtNjgyMi5qcGVn.jpeg" alt="Cover for Sensation" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,7 +1743,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/jaFqP5A-llq1w0VvP55Kd0PCnOKhPkKISCJN2FKs-W0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDEw/NDQtMTQ1NTkxMzcy/NS0yNzMxLmpwZWc.jpeg" alt="Cover for DI20ARE" style="max-width:120px; height:auto;" />
       </td>
@@ -1755,7 +1762,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de50f77b76a03cf9989af16080402e74.png" alt="Cover for Sfera Ebbasta" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,13 +1781,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 7</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 96</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0eeb5b58f3fd5d942d6d74ece65d5550.png" alt="Cover for Orange County California" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,12 +1805,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 13</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e3b67511590bd9003cc1a2283dd821a.png" alt="Cover for 2640" style="max-width:120px; height:auto;" />
       </td>
@@ -1824,7 +1830,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e039da5b12594d2e4b4d381960a4ae0.png" alt="Cover for Kneel Before Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,12 +1849,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 23</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/Fp6UH7LVPxJlxQBRU0ROBCfMl_8lx88BhHpoRqZyIdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/NzQ1LTE1NzAxOTgz/ODgtOTExOC5qcGVn.jpeg" alt="Cover for Buon Sangue" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,7 +1872,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d4b742b312f3dd956d901d74911b299.png" alt="Cover for Che vita meravigliosa" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,7 +1891,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce0cb6215effd0815ef2fda536b20131.png" alt="Cover for Madame" style="max-width:120px; height:auto;" />
       </td>
@@ -1902,12 +1908,12 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 5</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
       </td>
       <td>2021-03-19</td>
@@ -1920,13 +1926,13 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 1</li>
             <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 1</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0f516632dc6ff2ae8f08c8934b83730.png" alt="Cover for MATERIA (PELLE)" style="max-width:120px; height:auto;" />
       </td>
@@ -1944,7 +1950,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26646eb9c9ad213d6e997ac4350b35ac.png" alt="Cover for E poi siamo finiti nel vortice" style="max-width:120px; height:auto;" />
       </td>
@@ -1961,12 +1967,11 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/qjBjDIV69ypFL0D7Bn-87at1eiy_sWyBtNRKLgMnI94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDY1/NDg1LTE3MTc0MjUw/NTYtNTExNS5wbmc.jpeg" alt="Cover for Radio Sakura" style="max-width:120px; height:auto;" />
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-08T13:20:17.632Z
+date: 2025-12-09T05:11:34.522Z
 permalink: tags/punk-pop
 title: punk pop
 ---
 
 ## punk pop
 
-Last updated: <time datetime="2025-12-08T13:20:17.632Z">Mon Dec 08 2025 15:20:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:11:34.522Z">Tue Dec 09 2025 07:11:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 49</li>
+            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -128,8 +128,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 38</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 58</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -209,6 +208,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -413,7 +413,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 81</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -458,7 +458,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 37</li>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -607,6 +607,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -690,7 +691,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 39</li>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -729,7 +730,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 47</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -786,10 +787,10 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/magyar" | relative_url }}">magyar</a> # 21</li>
-            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 58</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 60</li>
-            <li> <a href="{{ "/tags/punk-revival" | relative_url }}">punk revival</a> # 97</li>
+            <li> <a href="{{ "/tags/magyar" | relative_url }}">magyar</a> # 8</li>
+            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 25</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 54</li>
+            <li> <a href="{{ "/tags/punk-revival" | relative_url }}">punk revival</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -922,7 +923,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 77</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -997,7 +998,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 51</li>
+            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1016,7 +1017,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 74</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1143,8 +1144,8 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 85</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 100</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 58</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1237,10 +1238,8 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 46</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 56</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 83</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 95</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1296,9 +1295,8 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 53</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 67</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 98</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 64</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1354,7 +1352,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 67</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1410,7 +1408,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 83</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1466,7 +1464,6 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1650,7 +1647,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 72</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1712,7 +1709,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 46</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1924,7 +1921,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 47</li>
+            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1952,9 +1949,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 9</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 21</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 43</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 12</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 24</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1981,8 +1978,8 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 68</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 75</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 79</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2028,11 +2025,10 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 7</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 13</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 21</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 67</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 73</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 10</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 17</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 33</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2053,7 +2049,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 45</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -2082,9 +2078,9 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 11</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 26</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 44</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 49</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 52</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2134,7 +2130,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 67</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 71</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:08:04.116Z
+date: 2025-12-09T05:40:11.342Z
 permalink: tags/lobit
 title: lobit
 ---
 
 ## lobit
 
-Last updated: <time datetime="2025-12-09T05:08:04.116Z">Tue Dec 09 2025 07:08:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:40:11.342Z">Tue Dec 09 2025 07:40:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1658,7 +1658,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 93</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2213,7 +2213,6 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 5</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 37</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 38</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 77</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-08T13:15:21.282Z
+date: 2025-12-09T05:10:53.707Z
 permalink: tags/progressive-metalcore
 title: progressive metalcore
 ---
 
 ## progressive metalcore
 
-Last updated: <time datetime="2025-12-08T13:15:21.282Z">Mon Dec 08 2025 15:15:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:10:53.707Z">Tue Dec 09 2025 07:10:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,7 +42,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 22</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -60,7 +60,8 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 50</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 13</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -116,7 +117,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 12</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -231,8 +232,8 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 18</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 38</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -291,7 +292,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 29</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -441,7 +442,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 19</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -459,6 +460,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -497,7 +499,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 40</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -517,8 +519,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 14</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 87</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -599,7 +600,6 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -713,7 +713,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 19</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -754,7 +754,6 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -776,8 +775,8 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       <td>
         <ul>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 17</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 66</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 98</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 29</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -841,7 +840,6 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -921,8 +919,9 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 6</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 12</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 15</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -941,7 +940,8 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 51</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 50</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -985,9 +985,9 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 18</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 31</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 38</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 45</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1065,8 +1065,9 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 32</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 33</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 51</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1211,7 +1212,6 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1236,7 +1236,6 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1258,7 +1257,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 9</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1349,7 +1348,6 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1374,8 +1372,8 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 1</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 34</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 6</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1422,8 +1420,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 4</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 99</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1443,8 +1440,8 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 16</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 36</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 2</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1487,7 +1484,6 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1506,7 +1502,8 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 80</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 34</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1549,9 +1546,8 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 4</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 13</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 74</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1573,7 +1569,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 1</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 4</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1598,9 +1594,9 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 20</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 35</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 42</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 49</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1618,6 +1614,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1659,8 +1656,8 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 33</li>
-            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 37</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 45</li>
+            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1740,7 +1737,8 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 79</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 36</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1820,8 +1818,8 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 14</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 28</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 30</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1899,7 +1897,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 24</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1944,8 +1942,8 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 16</li>
-            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 20</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 25</li>
+            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 30</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 98</li>
         </ul>
       </td>
@@ -1986,7 +1984,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 33</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2024,7 +2022,9 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 71</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 70</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 82</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 87</li>
         </ul>
       </td>
     </tr>

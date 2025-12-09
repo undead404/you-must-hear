@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-05T08:32:04.312Z
+date: 2025-12-09T05:20:55.285Z
 permalink: tags/british-invasion
 title: british invasion
 ---
 
 ## british invasion
 
-Last updated: <time datetime="2025-12-05T08:32:04.312Z">Fri Dec 05 2025 10:32:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:20:55.285Z">Tue Dec 09 2025 07:20:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
   </thead>
   <tbody>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>1963-11-22</td>
@@ -43,12 +43,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 36</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/u8kixoIUuMdtDQ_1bowb4rT7vCVRzafmDGsUrEAdEm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzQ3/NDktMTM1NDgyNDE4/NC0xODY2LmpwZWc.jpeg" alt="Cover for I Think Of You" style="max-width:120px; height:auto;" />
       </td>
@@ -64,12 +64,33 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 58</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4db429be20addfdb5789859b5b48be5b.png" alt="Cover for Five Live Yardbirds" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1964</td>
+      <td>The Yardbirds</td>
+      <td>Five Live Yardbirds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/OqFnrIiHAjVcitmq8UBkpX245fiQ2L4Hn9EauInR1yI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjI5/ODEtMTQ3MDMzMDc5/MS00MjE0LnBuZw.jpeg" alt="Cover for ...At Abbey Road" style="max-width:120px; height:auto;" />
       </td>
@@ -84,49 +105,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 89</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-      </td>
-      <td>1964</td>
-      <td>Downliners Sect</td>
-      <td>The Sect</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/741296d5cc5f37d4bdc920150021eec3.png" alt="Cover for What a Mann" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1964</td>
-      <td>Manfred Mann</td>
-      <td>What a Mann</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/fiI4o_45UlqBy1ITsQsefAVb1dqqtptG06sl332b5xU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODIx/MzktMTYwMTI1NzMz/OS0zMzI1LmpwZWc.jpeg" alt="Cover for Sugar And Spice" style="max-width:120px; height:auto;" />
       </td>
@@ -146,17 +130,18 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>77</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4db429be20addfdb5789859b5b48be5b.png" alt="Cover for Five Live Yardbirds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/741296d5cc5f37d4bdc920150021eec3.png" alt="Cover for What a Mann" style="max-width:120px; height:auto;" />
       </td>
       <td>1964</td>
-      <td>The Yardbirds</td>
-      <td>Five Live Yardbirds</td>
+      <td>Manfred Mann</td>
+      <td>What a Mann</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
         </ul>
       </td>
       <td>
@@ -165,7 +150,24 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>84</td>
+      <td>
+      </td>
+      <td>1964</td>
+      <td>Downliners Sect</td>
+      <td>The Sect</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/NUuX3m0-l3eksadzeUDyRxq9ROpOOJYrQAwByRzQxZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTI1/MjctMTQzODYzMDc4/MS00MTgzLmpwZWc.jpeg" alt="Cover for Love Is" style="max-width:120px; height:auto;" />
       </td>
@@ -175,6 +177,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
@@ -182,11 +185,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/8BVZH1oDZw0ERSS__zFP3ULPcNoB-u_galjIOG2Slgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDAx/MTgtMTQ3MTg4MTk5/NC04OTQ4LmpwZWc.jpeg" alt="Cover for The Searchers: The Pye Anthology 1963 - 1967" style="max-width:120px; height:auto;" />
       </td>
@@ -205,7 +209,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/950a7486cb01c993b8b8bba63ed87451.png" alt="Cover for The Pretty Things" style="max-width:120px; height:auto;" />
       </td>
@@ -219,12 +223,13 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 56</li>
+            <li> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a> # 24</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6bffd07f3e24cd0a25e2c0cfaf9420e.png" alt="Cover for The Who Sings My Generation" style="max-width:120px; height:auto;" />
       </td>
@@ -242,7 +247,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5159359a9d7cc48bc767ec12ba9df2c7.png" alt="Cover for Get the Picture?" style="max-width:120px; height:auto;" />
       </td>
@@ -262,7 +267,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/714e16e959874f388fe221376538ec0f.png" alt="Cover for Sell Out" style="max-width:120px; height:auto;" />
       </td>
@@ -281,7 +286,25 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22229d2e3d8d47af9781d112bede5cba.png" alt="Cover for The Best of Peter &amp; Gordon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1966</td>
+      <td>Peter &amp; Gordon</td>
+      <td>The Best of Peter &amp; Gordon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3543d351b716462487954921490d0484.png" alt="Cover for Quick One" style="max-width:120px; height:auto;" />
       </td>
@@ -294,12 +317,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 95</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/307df70d038f4cc9be7e146fddd8e3fb.png" alt="Cover for Big Hits (High Tide and Green Grass)" style="max-width:120px; height:auto;" />
       </td>
@@ -312,11 +335,13 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a> # 12</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3765ca4bb0ad768b37dfd5cff9c0deaa.png" alt="Cover for Animalisms" style="max-width:120px; height:auto;" />
       </td>
@@ -332,11 +357,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d8aa04ca84f4867b2b632606f101145.png" alt="Cover for Yesterday and Today" style="max-width:120px; height:auto;" />
       </td>
@@ -362,18 +388,16 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 20</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 22</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 44</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 45</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 45</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 48</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 72</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 35</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 46</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 47</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 47</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/066e55998f27e7c7eba31964c813bf56.png" alt="Cover for Roger the Engineer" style="max-width:120px; height:auto;" />
       </td>
@@ -387,11 +411,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05844750b0be40d997eb262d2ef6aaed.png" alt="Cover for A Quick One" style="max-width:120px; height:auto;" />
       </td>
@@ -408,7 +433,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/kE1hxfsiAMJiGyt_CkeZr8feA3eJjDJmEi_DP-nw6FQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc4/NTE0LTE1ODE0MTk0/NDMtMjQ1NC5qcGVn.jpeg" alt="Cover for Love songs" style="max-width:120px; height:auto;" />
       </td>
@@ -430,7 +455,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0fae6ce9a5dc626e51909c405474c36.png" alt="Cover for Soul Of Mann" style="max-width:120px; height:auto;" />
       </td>
@@ -451,7 +476,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>11</td>
       <td>
       </td>
       <td>1967-05</td>
@@ -469,7 +494,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
       </td>
       <td>1968</td>
@@ -484,13 +509,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 2</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 71</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>87</td>
       <td>
       </td>
       <td>1968</td>
@@ -508,7 +532,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/4M-jzQGdCsnVzVi59QAdq6yQrgR5Hf7_NWvT_4EcpFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTgw/MjktMTMwOTQ3NDE5/MS5qcGVn.jpeg" alt="Cover for S. F. Sorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -528,7 +552,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/gCCZHCZx4lFkOiaQ1Eg4X8c1r9krjnJ1huV0GeQXGyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjcx/NzgtMTQ1NjQwNzY3/MC00NjI0LmpwZWc.jpeg" alt="Cover for Beatles for Sale - Remastered" style="max-width:120px; height:auto;" />
       </td>
@@ -546,7 +570,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a704e97c1be3ad83fd8dc0aa74eb117.png" alt="Cover for Parachute" style="max-width:120px; height:auto;" />
       </td>
@@ -564,7 +588,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>17</td>
       <td>
       </td>
       <td>1973</td>
@@ -577,12 +601,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 35</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
       </td>
       <td>1973</td>
@@ -595,12 +619,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 36</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/SgL07lOcbSWtyy7pTWxKzhn4O2d2CDcgHNeVu5YvuAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDIy/MjEtMTQzMDA0MzE5/Ny03NjkyLmpwZWc.jpeg" alt="Cover for Past Masters, Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -617,7 +641,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/_kDuLNJ2ulAZHSUrnHioffzmCvLtFXmZkuy39s26tqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTM5/OTYtMTQ0MTMyNTI4/Ni00ODE1LmpwZWc.jpeg" alt="Cover for Golden Legends" style="max-width:120px; height:auto;" />
       </td>
@@ -635,7 +659,27 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c4d27fb71996a68aa128c4a53f7e7fb.png" alt="Cover for Past Masters Volume One" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>The Beatles</td>
+      <td>Past Masters Volume One</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/acVMUDL1Ff2va60NOiBKeXSvWgeYg3b_MTmRES2ZbB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTk5/MzUtMTQzMjc1ODk2/NC03MzA1LmpwZWc.jpeg" alt="Cover for Let It Be...Naked" style="max-width:120px; height:auto;" />
       </td>
@@ -657,27 +701,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>81</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c4d27fb71996a68aa128c4a53f7e7fb.png" alt="Cover for Past Masters Volume One" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1974</td>
-      <td>The Beatles</td>
-      <td>Past Masters Volume One</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/8r6-HGUDQl30qsZiuM0QfGPMX8wdqSL-PQRIfQpn1pE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk4/Mjg1LTE2MDg4ODQ2/NzEtMjUzMC5qcGVn.jpeg" alt="Cover for Past Masters, Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -694,7 +718,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/6f5akd3Q82T8E4Wl4luwPefCmM2tv5y1IESf6ND9qBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDQ0/MzQ1LTE2NTQxOTEy/MzctMTMzNS5qcGVn.jpeg" alt="Cover for All The Hits And More" style="max-width:120px; height:auto;" />
       </td>
@@ -713,7 +737,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bf704dd639548c9b3651602da39b02c.png" alt="Cover for Rock &#39;n&#39; Roll Music" style="max-width:120px; height:auto;" />
       </td>
@@ -732,7 +756,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a592e9edd06141a685d7baa3db9dee99.png" alt="Cover for Help" style="max-width:120px; height:auto;" />
       </td>
@@ -748,30 +772,13 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       <td>
         <ul>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 1</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 11</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 26</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td>1977</td>
-      <td>Various Artists</td>
-      <td>Brimstone &amp; Treacle</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d237a612d0f4336aa86a76b7f779ce5.png" alt="Cover for The Beatles 1967–1970 (The Blue Album)" style="max-width:120px; height:auto;" />
       </td>
@@ -796,7 +803,25 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>94</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Brimstone &amp; Treacle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/j5rjaH4l3wmm0132BhNmtxZuwGh08TBReufbRVOtD8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTI3/MjktMTY0Mzg3OTM3/Ni05MzcwLmpwZWc.jpeg" alt="Cover for Greatest Hits, Vol. 1 [Rhino]" style="max-width:120px; height:auto;" />
       </td>
@@ -813,7 +838,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>21</td>
       <td>
       </td>
       <td>1977-05-04</td>
@@ -830,16 +855,16 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>3</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89c672375c92ce8c77c16b46d65163b9.png" alt="Cover for Live from Isle of Wight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d64d4a3390344c8b99b97c81703b78e.png" alt="Cover for 20 Golden Greats" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
-      <td>The Who</td>
-      <td>Live from Isle of Wight</td>
+      <td>The Hollies</td>
+      <td>20 Golden Greats</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
         </ul>
       </td>
       <td>
@@ -848,7 +873,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/pLnEsHIaK28OAjUX7HEsOBPuNUG2JCIAtSQ7_JWuly4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc5/NjAtMTE5MjU4OTg0/NS5qcGVn.jpeg" alt="Cover for Read My Lips" style="max-width:120px; height:auto;" />
       </td>
@@ -867,16 +892,16 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>74</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d64d4a3390344c8b99b97c81703b78e.png" alt="Cover for 20 Golden Greats" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89c672375c92ce8c77c16b46d65163b9.png" alt="Cover for Live from Isle of Wight" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
-      <td>The Hollies</td>
-      <td>20 Golden Greats</td>
+      <td>The Who</td>
+      <td>Live from Isle of Wight</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
         </ul>
       </td>
       <td>
@@ -885,7 +910,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17a3ff4cddac48c4a3af91be755e0704.png" alt="Cover for Rarities" style="max-width:120px; height:auto;" />
       </td>
@@ -903,7 +928,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Roger The Engineer - Over Under Sideways Down" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +947,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/hNvis4JbiVCHH0QtMJX3HwDawf9jDbQoldBRHz0J-YQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDUw/NTctMTQ4NjM2OTQ2/OS01Mzk1LmpwZWc.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -937,12 +962,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 84</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
       </td>
       <td>1984-11-01</td>
@@ -963,7 +988,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/4Bewm1mkRpl5ucHiOaawHoKJcGg6vxfcON1DyZHBzEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTQw/MDYtMTMyODcyMTc1/Ny5qcGVn.jpeg" alt="Cover for The Best of the Rolling Stones (1962-1965)" style="max-width:120px; height:auto;" />
       </td>
@@ -981,7 +1006,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6967196eeb994666c6ee70a6495a5936.png" alt="Cover for The Best of The Kinks" style="max-width:120px; height:auto;" />
       </td>
@@ -1001,7 +1026,44 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/XR6p9im7v358cEvR-MqM67hugAZU-8KsTZYmnU3fbZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDM4/ODctMTQwNDAyMDA5/OC04NDM0LmpwZWc.jpeg" alt="Cover for House of the Rising Sun" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>The Animals</td>
+      <td>House of the Rising Sun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0517d8538ff44a4abf5a507a5be7186f.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>The Searchers</td>
+      <td>Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
       <td>
       </td>
       <td>1989</td>
@@ -1021,44 +1083,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>32</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0517d8538ff44a4abf5a507a5be7186f.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989</td>
-      <td>The Searchers</td>
-      <td>Greatest Hits</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
-      <td>
-          <img src="https://i.discogs.com/XR6p9im7v358cEvR-MqM67hugAZU-8KsTZYmnU3fbZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDM4/ODctMTQwNDAyMDA5/OC04NDM0LmpwZWc.jpeg" alt="Cover for House of the Rising Sun" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989</td>
-      <td>The Animals</td>
-      <td>House of the Rising Sun</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/511ecbf3d348467781b4ec04bc0586d0.png" alt="Cover for 1st" style="max-width:120px; height:auto;" />
       </td>
@@ -1078,7 +1103,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/20M0QG1ZcLnN3nfB7XvNOzhOKq0jl-aTpTqmwdpaSF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODg3/NzU0LTE1NDM4NzU4/NTYtNTkwMi5qcGVn.jpeg" alt="Cover for December&#39;s Children (And Everybody&#39;s) (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,17 +1112,19 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       <td>December&#39;s Children (And Everybody&#39;s) (Remastered)</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/Qarf2kfp9vtFTdZAbSf0kQqry23j6iGkR-IMR0QrdgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ1/MDYtMTUzNzgwMzQ2/Ny0xNDI5LmpwZWc.jpeg" alt="Cover for The Ultimate Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1118,7 +1145,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f716306c5372dc9728459ea5966f18c.png" alt="Cover for The Complete Animals" style="max-width:120px; height:auto;" />
       </td>
@@ -1135,30 +1162,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1e2f085c13c4a21bde7b0cc0e4a0306.png" alt="Cover for Between The Buttons UK" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992-05-02</td>
-      <td>The Rolling Stones</td>
-      <td>Between The Buttons UK</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
       <td>
           <img src="https://i.discogs.com/uOXUS1U8H3oK4faf9tCIih844EsxGz-gcgphsNK9-so/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTkx/MTItMTQ3NDA1MDc0/Ny0zMDUxLmpwZWc.jpeg" alt="Cover for Aftermath UK" style="max-width:120px; height:auto;" />
       </td>
@@ -1177,7 +1186,26 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1e2f085c13c4a21bde7b0cc0e4a0306.png" alt="Cover for Between The Buttons UK" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-05-02</td>
+      <td>The Rolling Stones</td>
+      <td>Between The Buttons UK</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
       </td>
       <td>1992-06-01</td>
@@ -1193,7 +1221,45 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>90</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>The Swinging Blue Jeans</td>
+      <td>Hippy Hippy Shake - The Definitive Collection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 27</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>1993-09</td>
+      <td>The Kinks</td>
+      <td>The Definitive Collection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06305b2ea6c54a53b2c57397a51a4465.png" alt="Cover for From Nowhere... The Troggs" style="max-width:120px; height:auto;" />
       </td>
@@ -1217,7 +1283,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46690a7aff01470f893324782b46adbf.png" alt="Cover for My Generation - The Very Best of The Who" style="max-width:120px; height:auto;" />
       </td>
@@ -1235,7 +1301,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/219777c149c940afbfddcfda51b7eb85.png" alt="Cover for Live at the BBC" style="max-width:120px; height:auto;" />
       </td>
@@ -1249,12 +1315,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 6</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/682b610afb914812c8097c054d23d7e7.png" alt="Cover for Original Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1272,7 +1338,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7515df994b38064e253c38809f24e44e.png" alt="Cover for Aftermath (UK)" style="max-width:120px; height:auto;" />
       </td>
@@ -1293,7 +1359,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7527141b00f7aa61a53dfa1f3539a5b9.png" alt="Cover for A Quick One (Mono Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,12 +1375,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 32</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>1996-09-10</td>
@@ -1330,12 +1396,11 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/L0LGMOUldKRqDxRuSture_n3FzZiRdT3QwM3NcOzuyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/MDQtMTM2NDgwNzU0/NS04MDU1LmpwZWc.jpeg" alt="Cover for Premium Gold Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,7 +1419,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
       </td>
       <td>1998</td>
@@ -1372,7 +1437,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2a9ba8fa05f7c563bb8f347d5991119.png" alt="Cover for The Village Green Preservation Society" style="max-width:120px; height:auto;" />
       </td>
@@ -1390,7 +1455,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/40S2aTMIN6_-79ZXpLzf0N6JCATg53lPI-rzDKUmIi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDA4/Ny0xMjY3NzQyNTQ3/LmpwZWc.jpeg" alt="Cover for Stupid Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -1411,7 +1476,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/TQU9Ko_C1aRs9TPwTBZrcQ1Y6olkdYqwPeFKXXquOh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg3/NDI4LTE1MDQzMTkx/NzQtNjM4MC5qcGVn.jpeg" alt="Cover for The Mod Scene" style="max-width:120px; height:auto;" />
       </td>
@@ -1429,7 +1494,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/212d24e5b2974b5aba092c7f9754a0d8.png" alt="Cover for The Alternate Abbey Road" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,7 +1514,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/IYk6l81XAjgWkDC8ypWQMb9Yl3h-xBTDykla_yAyUcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjQ0/NDQtMTM5NDA1NTIz/My01OTEyLmpwZWc.jpeg" alt="Cover for Green, Green Grass Of Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1462,32 +1527,31 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 3</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 14</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 70</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 4</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3159363d66564b3ab7f8aa2e07636f16.png" alt="Cover for December&#39;s Children (And Everybody&#39;s) + 14" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/nlMENefiQwue7cYC_Qc2pEZIbLPcm30LbxNtRgczCQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMy/MDg3LTE1MTYyMTc3/MjgtMTc1Mi5qcGVn.jpeg" alt="Cover for The Rolling Stones, Now! (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>The Rolling Stones</td>
-      <td>December&#39;s Children (And Everybody&#39;s) + 14</td>
+      <td>The Rolling Stones, Now! (Remastered)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>2001</td>
@@ -1505,37 +1569,16 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/nlMENefiQwue7cYC_Qc2pEZIbLPcm30LbxNtRgczCQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMy/MDg3LTE1MTYyMTc3/MjgtMTc1Mi5qcGVn.jpeg" alt="Cover for The Rolling Stones, Now! (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3159363d66564b3ab7f8aa2e07636f16.png" alt="Cover for December&#39;s Children (And Everybody&#39;s) + 14" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>The Rolling Stones</td>
-      <td>The Rolling Stones, Now! (Remastered)</td>
+      <td>December&#39;s Children (And Everybody&#39;s) + 14</td>
       <td>
         <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>
-      </td>
-      <td>2002</td>
-      <td>The Beatles</td>
-      <td>Singles Collection</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
         </ul>
       </td>
       <td>
@@ -1544,7 +1587,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>2003</td>
@@ -1558,13 +1601,14 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 28</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 96</li>
+            <li> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a> # 19</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 20</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/lFNJY4GY5h5SGbLwB1jS6EEY0XU9WQwnK4p-_etpBYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTE5/NDktMTQxNjcyMDc4/OC0yNjU0LmpwZWc.jpeg" alt="Cover for Through The Past Darkly (big" style="max-width:120px; height:auto;" />
       </td>
@@ -1574,6 +1618,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
@@ -1582,62 +1627,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/Uh-czjxeoY3nSAEe-qXnd2JqTZsk-u9vyl6vwFYa3-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY4/NjA0LTE2NjYxMzIx/ODAtODU5OC5wbmc.jpeg" alt="Cover for The British Invasion: The History of British Rock, Volume 7" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Various Artists</td>
-      <td>The British Invasion: The History of British Rock, Volume 7</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-          <img src="https://i.discogs.com/Uh-czjxeoY3nSAEe-qXnd2JqTZsk-u9vyl6vwFYa3-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY4/NjA0LTE2NjYxMzIx/ODAtODU5OC5wbmc.jpeg" alt="Cover for The British Invasion: The History of British Rock, Volume 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Various Artists</td>
-      <td>The British Invasion: The History of British Rock, Volume 2</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-          <img src="https://i.discogs.com/Uh-czjxeoY3nSAEe-qXnd2JqTZsk-u9vyl6vwFYa3-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY4/NjA0LTE2NjYxMzIx/ODAtODU5OC5wbmc.jpeg" alt="Cover for The British Invasion: The History of British Rock, Volume 3" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Various Artists</td>
-      <td>The British Invasion: The History of British Rock, Volume 3</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/Uh-czjxeoY3nSAEe-qXnd2JqTZsk-u9vyl6vwFYa3-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY4/NjA0LTE2NjYxMzIx/ODAtODU5OC5wbmc.jpeg" alt="Cover for The British Invasion: The History of British Rock, Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,7 +1649,58 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/Uh-czjxeoY3nSAEe-qXnd2JqTZsk-u9vyl6vwFYa3-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY4/NjA0LTE2NjYxMzIx/ODAtODU5OC5wbmc.jpeg" alt="Cover for The British Invasion: The History of British Rock, Volume 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Various Artists</td>
+      <td>The British Invasion: The History of British Rock, Volume 3</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/Uh-czjxeoY3nSAEe-qXnd2JqTZsk-u9vyl6vwFYa3-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY4/NjA0LTE2NjYxMzIx/ODAtODU5OC5wbmc.jpeg" alt="Cover for The British Invasion: The History of British Rock, Volume 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Various Artists</td>
+      <td>The British Invasion: The History of British Rock, Volume 2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/Uh-czjxeoY3nSAEe-qXnd2JqTZsk-u9vyl6vwFYa3-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY4/NjA0LTE2NjYxMzIx/ODAtODU5OC5wbmc.jpeg" alt="Cover for The British Invasion: The History of British Rock, Volume 7" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Various Artists</td>
+      <td>The British Invasion: The History of British Rock, Volume 7</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d412aabae819c8d3239ceecb1ab4de9.png" alt="Cover for Best of the 60&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1720,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/abe028e3f27e410f876ad45d13c77b7f.png" alt="Cover for Singles 1963-1965" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,7 +1738,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>20</td>
       <td>
       </td>
       <td>2005-05-16</td>
@@ -1710,7 +1756,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af53db2a9a76c562c1b8932665994883.png" alt="Cover for As Far As Yesterday Goes" style="max-width:120px; height:auto;" />
       </td>
@@ -1728,7 +1774,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/RlGu649zjwjxZuTaoLvq8IvVJIdcOHPasCO_B8cz1-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM4/NjEzLTE1NDg3Mjg2/MzQtNDU2NS5qcGVn.jpeg" alt="Cover for Cheap Riches &#x2F; Revolutions" style="max-width:120px; height:auto;" />
       </td>
@@ -1744,12 +1790,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 35</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9eeb1c7d25014e4d8832a029b26869e5.png" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1770,7 +1816,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/268e82ec2b354bb5cb22a89243acf196.png" alt="Cover for The Anthology 1964 - 1971" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,12 +1834,11 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11a01268e39c1c0ecb5fe8bb10b22800.png" alt="Cover for Kinks (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1811,7 +1856,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/Vcj0-QrWe3_uXzWuCnrsEnZuWLRDTd40c4LJZKlb7Jk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTg1/OTE5LTE2NDU1MjA4/MTAtMjE0Ny5qcGVn.jpeg" alt="Cover for The Best of Herman&#39;s Hermits" style="max-width:120px; height:auto;" />
       </td>
@@ -1830,7 +1875,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/Vcj0-QrWe3_uXzWuCnrsEnZuWLRDTd40c4LJZKlb7Jk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTg1/OTE5LTE2NDU1MjA4/MTAtMjE0Ny5qcGVn.jpeg" alt="Cover for The Best of the EMI Years, Volume 1: 1964-1966" style="max-width:120px; height:auto;" />
       </td>
@@ -1847,7 +1892,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>88</td>
       <td>
       </td>
       <td>2017-03-01</td>
@@ -1865,7 +1910,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffb85073938f4638c645daa893c839e2.png" alt="Cover for Mann Made Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,7 +1930,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/rE30Cb-WpyNccA7mXnDQGYfb16xPvQlszDNLpPue4Tk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTIz/MjI3LTE2NDMzNjI4/OTYtNTUyOS5qcGVn.jpeg" alt="Cover for Latest Writs The Best Of… Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1896,6 +1941,7 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
@@ -1906,12 +1952,12 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 60</li>
+            <li> <a href="{{ "/tags/british-blues" | relative_url }}">british blues</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee413cb4ea664a65b8a9bd7447bb6ff8.png" alt="Cover for Who Sings My Generation" style="max-width:120px; height:auto;" />
       </td>
@@ -1921,43 +1967,6 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>
-      </td>
-      <td></td>
-      <td>The Swinging Blue Jeans</td>
-      <td>Hippy Hippy Shake - The Definitive Collection</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22229d2e3d8d47af9781d112bede5cba.png" alt="Cover for The Best of Peter &amp; Gordon" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Peter &amp; Gordon</td>
-      <td>The Best of Peter &amp; Gordon</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
         </ul>
       </td>
       <td>
@@ -2009,8 +2018,8 @@ The British Invasion was a mid-1960s phenomenon when UK rock and pop bands achie
 - [rock]({{ "/tags/rock" | relative_url }})
 - [oldies]({{ "/tags/oldies" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})
+- [british blues]({{ "/tags/british-blues" | relative_url }})
 - [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [garage rock]({{ "/tags/garage-rock" | relative_url }})
 - [blues]({{ "/tags/blues" | relative_url }})
 - [blues rock]({{ "/tags/blues-rock" | relative_url }})
-- [psychedelic rock]({{ "/tags/psychedelic-rock" | relative_url }})

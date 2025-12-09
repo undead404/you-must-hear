@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:08:43.970Z
+date: 2025-12-09T05:50:39.253Z
 permalink: tags/progressive-folk
 title: progressive folk
 ---
 
 ## progressive folk
 
-Last updated: <time datetime="2025-12-09T05:08:43.970Z">Tue Dec 09 2025 07:08:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:50:39.253Z">Tue Dec 09 2025 07:50:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1629,8 +1629,8 @@ Progressive folk blends traditional folk music with experimental structures, com
       <td>
         <ul>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 4</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 32</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 32</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 32</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 34</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 41</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 42</li>

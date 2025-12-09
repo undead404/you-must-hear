@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:07:39.327Z
+date: 2025-12-09T05:40:04.158Z
 permalink: tags/arcade-fire
 title: arcade fire
 ---
 
 ## arcade fire
 
-Last updated: <time datetime="2025-12-09T05:07:39.327Z">Tue Dec 09 2025 07:07:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:40:04.158Z">Tue Dec 09 2025 07:40:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 

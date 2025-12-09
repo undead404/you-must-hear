@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-08T13:15:15.790Z
+date: 2025-12-09T05:10:46.563Z
 permalink: tags/microhouse
 title: microhouse
 ---
 
 ## microhouse
 
-Last updated: <time datetime="2025-12-08T13:15:15.790Z">Mon Dec 08 2025 15:15:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:10:46.563Z">Tue Dec 09 2025 07:10:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -166,7 +166,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 13</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -185,8 +185,9 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 9</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 10</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 13</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -260,6 +261,8 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 69</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -298,7 +301,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 45</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -317,6 +320,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -453,7 +457,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 6</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -493,7 +497,6 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -516,7 +519,6 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -549,7 +551,6 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       <td>
         <ul>
             <li> <a href="{{ "/tags/live-set" | relative_url }}">live set</a> # 21</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -567,8 +568,12 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 22</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 42</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 4</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 4</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 16</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 24</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 39</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -637,7 +642,6 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       <td>
         <ul>
             <li> <a href="{{ "/tags/live-set" | relative_url }}">live set</a> # 24</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -675,7 +679,8 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 83</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 37</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -694,7 +699,8 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 41</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 7</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -739,9 +745,9 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 27</li>
-            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 36</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 43</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 28</li>
+            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 40</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -762,6 +768,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -855,7 +862,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 65</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -933,7 +940,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 42</li>
+            <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -973,7 +980,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 16</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -991,6 +998,9 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 38</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 56</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1017,9 +1027,8 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 5</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 71</li>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 81</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 12</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1038,7 +1047,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 47</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 17</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 98</li>
         </ul>
       </td>
@@ -1058,7 +1067,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 22</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1077,7 +1086,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 83</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1095,8 +1104,9 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 18</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 69</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 7</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 34</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1139,7 +1149,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 27</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1178,6 +1188,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1199,9 +1210,9 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 7</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 11</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 87</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 11</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 14</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1220,9 +1231,10 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 8</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 7</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 12</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 88</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 13</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1260,6 +1272,8 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 58</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1316,8 +1330,8 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 30</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 33</li>
+            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 33</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1343,9 +1357,8 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 20</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 25</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 93</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 21</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1369,10 +1382,10 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 2</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 3</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 7</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 7</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 11</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 4</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 9</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 15</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1396,7 +1409,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 41</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1439,8 +1452,8 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 46</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 64</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 48</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1467,7 +1480,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 60</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1524,7 +1537,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 16</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1546,7 +1559,6 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1604,7 +1616,9 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 53</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 10</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 54</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1625,7 +1639,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 21</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1663,9 +1677,9 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 13</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 23</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 77</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 3</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 10</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1703,7 +1717,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 53</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 77</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1725,7 +1739,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 81</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1746,7 +1760,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 43</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1821,6 +1835,8 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 42</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1840,6 +1856,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 8</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1857,6 +1874,8 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 39</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1899,7 +1918,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 72</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1974,8 +1993,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 80</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 90</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1993,6 +2011,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2016,7 +2035,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 34</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -2060,10 +2079,9 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 17</li>
-            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 20</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 26</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 99</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 18</li>
+            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 22</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -2086,7 +2104,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 50</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -2130,9 +2148,9 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 25</li>
-            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 35</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 41</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 26</li>
+            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 39</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 46</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:08:15.118Z
+date: 2025-12-09T05:40:18.779Z
 permalink: tags/new-york-city
 title: new york city
 ---
 
 ## new york city
 
-Last updated: <time datetime="2025-12-09T05:08:15.118Z">Tue Dec 09 2025 07:08:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:40:18.779Z">Tue Dec 09 2025 07:40:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1711,6 +1711,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 99</li>
         </ul>
       </td>
     </tr>

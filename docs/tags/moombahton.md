@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:09:54.199Z
+date: 2025-12-09T05:50:54.364Z
 permalink: tags/moombahton
 title: moombahton
 ---
 
 ## moombahton
 
-Last updated: <time datetime="2025-12-09T05:09:54.199Z">Tue Dec 09 2025 07:09:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:50:54.364Z">Tue Dec 09 2025 07:50:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -900,7 +900,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 35</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 27</li>
         </ul>
       </td>
     </tr>
