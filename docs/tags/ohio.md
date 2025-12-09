@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:14:07.406Z
+date: 2025-12-09T05:52:20.908Z
 permalink: tags/ohio
 title: ohio
 ---
 
 ## ohio
 
-Last updated: <time datetime="2025-12-09T05:14:07.406Z">Tue Dec 09 2025 07:14:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:52:20.908Z">Tue Dec 09 2025 07:52:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1074,7 +1074,7 @@ Last updated: <time datetime="2025-12-09T05:14:07.406Z">Tue Dec 09 2025 07:14:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/us-power-metal" | relative_url }}">us power metal</a> # 82</li>
+            <li> <a href="{{ "/tags/us-power-metal" | relative_url }}">us power metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1902,12 +1902,12 @@ Last updated: <time datetime="2025-12-09T05:14:07.406Z">Tue Dec 09 2025 07:14:07
         <ul>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 1</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 1</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 3</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 3</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 40</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 80</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 83</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 85</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 97</li>
         </ul>
       </td>
     </tr>

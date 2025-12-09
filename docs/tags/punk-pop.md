@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:11:34.522Z
+date: 2025-12-09T05:51:34.621Z
 permalink: tags/punk-pop
 title: punk pop
 ---
 
 ## punk pop
 
-Last updated: <time datetime="2025-12-09T05:11:34.522Z">Tue Dec 09 2025 07:11:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:51:34.621Z">Tue Dec 09 2025 07:51:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1240,6 +1240,7 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
         <ul>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
             <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 79</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1978,8 +1979,8 @@ Punk pop blends the high-energy rebellion and raw attitude of punk rock with inf
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 79</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 79</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 79</li>
         </ul>
       </td>
     </tr>

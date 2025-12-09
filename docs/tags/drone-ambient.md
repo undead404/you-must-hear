@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:11:26.711Z
+date: 2025-12-09T05:51:29.171Z
 permalink: tags/drone-ambient
 title: drone ambient
 ---
 
 ## drone ambient
 
-Last updated: <time datetime="2025-12-09T05:11:26.711Z">Tue Dec 09 2025 07:11:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:51:29.171Z">Tue Dec 09 2025 07:51:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -2037,6 +2037,7 @@ Drone ambient is a subgenre of ambient music that emphasizes the use of sustaine
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 92</li>
         </ul>
       </td>
     </tr>

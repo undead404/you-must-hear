@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:13:56.366Z
+date: 2025-12-09T05:52:18.751Z
 permalink: tags/math-metal
 title: math metal
 ---
 
 ## math metal
 
-Last updated: <time datetime="2025-12-09T05:13:56.366Z">Tue Dec 09 2025 07:13:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:52:18.751Z">Tue Dec 09 2025 07:52:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 

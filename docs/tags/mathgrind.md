@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:11:58.671Z
+date: 2025-12-09T05:51:46.044Z
 permalink: tags/mathgrind
 title: mathgrind
 ---
 
 ## mathgrind
 
-Last updated: <time datetime="2025-12-09T05:11:58.671Z">Tue Dec 09 2025 07:11:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:51:46.044Z">Tue Dec 09 2025 07:51:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1552,7 +1552,6 @@ Mathgrind, also known as Techgrind, is a subgenre of grindcore that incorporates
       <td>
         <ul>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 91</li>
-            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 92</li>
         </ul>
       </td>
     </tr>

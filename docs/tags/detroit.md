@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:13:00.319Z
+date: 2025-12-09T05:52:08.046Z
 permalink: tags/detroit
 title: detroit
 ---
 
 ## detroit
 
-Last updated: <time datetime="2025-12-09T05:13:00.319Z">Tue Dec 09 2025 07:13:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:52:08.046Z">Tue Dec 09 2025 07:52:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 

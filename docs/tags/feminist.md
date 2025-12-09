@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:11:44.012Z
+date: 2025-12-09T05:51:38.506Z
 permalink: tags/feminist
 title: feminist
 ---
 
 ## feminist
 
-Last updated: <time datetime="2025-12-09T05:11:44.012Z">Tue Dec 09 2025 07:11:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:51:38.506Z">Tue Dec 09 2025 07:51:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -922,9 +922,9 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 6</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 6</li>
             <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 6</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 6</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 8</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 35</li>
         </ul>
@@ -969,9 +969,9 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 1</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 1</li>
             <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 1</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 1</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 2</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 5</li>
         </ul>
@@ -2241,6 +2241,35 @@ Feminist music encompasses works that champion gender equality, challenge patria
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33aa794f654a34d96ee5626837f8a0f2.png" alt="Cover for Bees - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Sisterhood Project</td>
+      <td>Bees - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
       </td>
       <td></td>
       <td>Periods</td>
@@ -2263,35 +2292,6 @@ Feminist music encompasses works that champion gender equality, challenge patria
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33aa794f654a34d96ee5626837f8a0f2.png" alt="Cover for Bees - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Sisterhood Project</td>
-      <td>Bees - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
       <td>
@@ -2335,11 +2335,11 @@ Feminist music encompasses works that champion gender equality, challenge patria
     <tr>
       <td>99</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff9974fe234460581afab6a5a24411b2.png" alt="Cover for Lakeside Town - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23881d8e6d1fe2fde065fc6d0081b889.png" alt="Cover for Boobs Trap - Single" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sisterhood Project</td>
-      <td>Lakeside Town - Single</td>
+      <td>Boobs Trap - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>

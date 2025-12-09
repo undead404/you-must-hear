@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:13:46.529Z
+date: 2025-12-09T05:52:13.658Z
 permalink: tags/ghettotech
 title: ghettotech
 ---
 
 ## ghettotech
 
-Last updated: <time datetime="2025-12-09T05:13:46.529Z">Tue Dec 09 2025 07:13:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:52:13.658Z">Tue Dec 09 2025 07:52:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -818,8 +818,8 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 29</li>
             <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 29</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 29</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 80</li>
         </ul>
       </td>
@@ -1369,11 +1369,13 @@ Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop ch
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-breaks" | relative_url }}">hardcore breaks</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hardcore-breaks" | relative_url }}">hardcore breaks</a> # 57</li>
         </ul>
       </td>
     </tr>

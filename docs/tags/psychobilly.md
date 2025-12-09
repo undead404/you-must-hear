@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:10:39.877Z
+date: 2025-12-09T05:51:16.638Z
 permalink: tags/psychobilly
 title: psychobilly
 ---
 
 ## psychobilly
 
-Last updated: <time datetime="2025-12-09T05:10:39.877Z">Tue Dec 09 2025 07:10:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:51:16.638Z">Tue Dec 09 2025 07:51:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1818,7 +1818,7 @@ Psychobilly is a high-energy fusion of 1950s rockabilly and punk rock that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 81</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 85</li>
         </ul>
       </td>
     </tr>

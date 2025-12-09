@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-09T05:12:33.136Z
+date: 2025-12-09T05:51:52.446Z
 permalink: tags/north-carolina
 title: north carolina
 ---
 
 ## north carolina
 
-Last updated: <time datetime="2025-12-09T05:12:33.136Z">Tue Dec 09 2025 07:12:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-09T05:51:52.446Z">Tue Dec 09 2025 07:51:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -141,7 +141,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 45</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1797,7 +1797,7 @@ North Carolina&#39;s music scene reflects the state&#39;s geographic and cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 65</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 63</li>
         </ul>
       </td>
     </tr>

@@ -9,6 +9,10 @@ title: pantera
 
 Last updated: <time datetime="2025-12-09T12:42:21.923Z">Tue Dec 09 2025 14:42:21 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Pantera represents an aggressive, groove-oriented heavy metal style characterized by crushing guitar riffs, thundering rhythms, and raw, confrontational vocals. This sound emerged from American metal&#39;s evolution in the early 1990s, blending thrash metal&#39;s intensity with a slower, more deliberate attack that emphasizes power and attitude. The tag embodies a rebellious, working-class ethos with music built for maximum impact and headbanging intensity.
+
 ### 100 chronological releases
 
 <table>
@@ -688,8 +692,8 @@ Last updated: <time datetime="2025-12-09T12:42:21.923Z">Tue Dec 09 2025 14:42:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 64</li>
             <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 64</li>
+            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 64</li>
         </ul>
       </td>
     </tr>
